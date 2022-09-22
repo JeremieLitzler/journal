@@ -4,6 +4,14 @@ description: 'Fin Mars 2022, nous avons mis en service notre installation photov
 date: 2021-06-01
 # heroImage: '/images/default.jpg'
 heroAlt: Image par défaut
+head:
+  - [
+      meta,
+      {
+        rel: canonical,
+        href: https://thetooltip.substack.com/p/installation-pv-retour-dexperience,
+      },
+    ]
 meta:
   keywords:
     - Energie
