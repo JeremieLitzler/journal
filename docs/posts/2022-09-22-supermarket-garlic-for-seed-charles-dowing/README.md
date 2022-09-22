@@ -14,6 +14,9 @@ meta:
     - Seeds
 ---
 
+![Full harvest of a wide range of quality of the various heads](./harvest-of-supermarket-garlic.webp)
+
+Credits: from Charles Dowing's vlog.
 Thanks to Charles Dowding for sharing his wisdom and knowledge!
 The following are the notes I took watching the video published on Charles Dowding's channel.
 You can watch it using [this YouTube link](https://www.youtube.com/watch?v=vr3ZxWexS5c).
@@ -34,11 +37,7 @@ But from Charles's comments, it seems a hard discount garlic head may give a str
 Using organic garlic heads may yield better results. I will try a non-organic head from an local farmers shop and an organic head from our local organic supermarket Satoriz.
 :::
 
-This is what you can get from a £1 garlic head:
-
-![Full harvest of a wide range of quality of the various heads](./harvest-of-supermarket-garlic.webp)
-
-Credits: from Charles Dowing's vlog.
+The top image is what you can get from a £1 garlic head.
 
 ## How should not you leave your garlic in soil too long
 
