@@ -52,7 +52,11 @@ export default {
             return x;
         })
         .sort(
-          (a, b) => new Date(a.frontmatter.date) - new Date(b.frontmatter.date),
+          (a, b) =>
+            new Date(a.frontmatter.date) - new Date(b.frontmatter.date)
+              ? -1
+              : 1, //order from newest to oldest
+          //new Date(a.frontmatter.date) - new Date(b.frontmatter.date) ? -1 : 1, //order from oldest to newest
         );
       // console.log("Filtered:", filteredPages);
       return filteredPages;

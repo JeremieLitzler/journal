@@ -763,6 +763,8 @@ By default, you will have the YouTube link to the vlog.
 
 **Link:** [watch on YouTube](https://www.youtube.com/watch?v=vr3ZxWexS5c)
 
+**My notes:** [read them here](../2022-09-22-supermarket-garlic-for-seed-charles-dowing/README.md)
+
 ## Composting in a few easy steps - quick ways to make and use compost in a no dig garden
 
 **Link:** [watch on YouTube](https://www.youtube.com/watch?v=TECfM93K36Y)
@@ -938,6 +940,8 @@ By default, you will have the YouTube link to the vlog.
 ## Is it ready yet? How to judge the readiness of garlic
 
 **Link:** [watch on YouTube](https://www.youtube.com/shorts/o8ZStwTQUVU)
+
+**My notes:** [read them here](../2022-09-22-how-to-judge-the-readiness-of-garlic-charles-dowing/README.md)
 
 ## 40 years of growing and learning, Jekka McVicar and Charles Dowding in Conversation
 
