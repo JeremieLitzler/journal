@@ -1,6 +1,6 @@
 ---
-title: Summary of my notes from the vlogs of Charles Dowing
-description: My notes summurize what I learned from the vlogs of  Charles Dowing
+title: Summary of my notes from the vlogs of Charles Dowding
+description: My notes summurize what I learned from the vlogs of  Charles Dowding
 date: 2022-09-12
 #heroImage: '/images/.jpg'
 #heroAlt:
@@ -763,7 +763,7 @@ By default, you will have the YouTube link to the vlog.
 
 **Link:** [watch on YouTube](https://www.youtube.com/watch?v=vr3ZxWexS5c)
 
-**My notes:** [read them here](../2022-09-22-supermarket-garlic-for-seed-charles-dowing/README.md)
+**My notes:** [read them here](../2022-09-22-supermarket-garlic-for-seed-charles-Dowding/README.md)
 
 ## Composting in a few easy steps - quick ways to make and use compost in a no dig garden
 
@@ -941,7 +941,7 @@ By default, you will have the YouTube link to the vlog.
 
 **Link:** [watch on YouTube](https://www.youtube.com/shorts/o8ZStwTQUVU)
 
-**My notes:** [read them here](../2022-09-22-how-to-judge-the-readiness-of-garlic-charles-dowing/README.md)
+**My notes:** [read them here](../2022-09-22-how-to-judge-the-readiness-of-garlic-charles-Dowding/README.md)
 
 ## 40 years of growing and learning, Jekka McVicar and Charles Dowding in Conversation
 

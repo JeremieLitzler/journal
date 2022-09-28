@@ -3,7 +3,7 @@ isDraft: false
 title: Supermarket Garlic For Seed, by Charles Dowding
 description: The following are the notes I took watching the video published on Charles Dowding's channel
 date: 2022-09-22
-heroImage: '/images/2022-09-22-supermarket-garlic-for-seed-charles-dowing-hero.webp'
+heroImage: '/images/2022-09-22-supermarket-garlic-for-seed-charles-Dowding-hero.webp'
 heroAlt:
 #head:
 #  - [meta, { rel: canonical, href: url }]
@@ -16,9 +16,9 @@ meta:
 
 ![A full harvest of a wide range of quality of the various heads](./harvest-of-supermarket-garlic.webp)
 
-Credits: from Charles Dowing’s vlog.
-Thanks to Charles Dowing for sharing his wisdom and knowledge!
-The following are the notes I took watching the video published on Charles Dowing’s channel.
+Credits: from Charles Dowding’s vlog.
+Thanks to Charles Dowding for sharing his wisdom and knowledge!
+The following are the notes I took watching the video published on Charles Dowding’s channel.
 You can watch it using [this YouTube link](https://www.youtube.com/watch?v=vr3ZxWexS5c).
 
 ## Varieties of garlic
@@ -41,7 +41,7 @@ The top image is what you can get from a £1 garlic head.
 
 ## Do not leave your garlic in the soil too long?
 
-Once [you checked the garlic head is ready](../2022-09-22-how-to-judge-the-readiness-of-garlic-charles-dowing/README.md), you should not leave it too long in the soil.
+Once [you checked the garlic head is ready](../2022-09-22-how-to-judge-the-readiness-of-garlic-charles-Dowding/README.md), you should not leave it too long in the soil.
 
 Why?
 
@@ -50,7 +50,7 @@ Why?
 
 ![Example of a garlic left too long in the soil after being ready (the one of the right) compared to one garlic just right (the one of the left).](./overdue-garlic.webp)
 
-Credits: from Charles Dowing’s vlog.
+Credits: from Charles Dowding’s vlog.
 
 ## Diseases of garlic
 
@@ -58,7 +58,7 @@ Credits: from Charles Dowing’s vlog.
 
 ![Overdue garlic](./garlic-rust.webp)
 
-Credits: from Charles Dowing’s vlog.
+Credits: from Charles Dowding’s vlog.
 
 It is a rampant fungal disease that infects the entire Allium family, including garlic and onions. If left unchecked, the disease can result in smaller-than-usual bulbs and limited growth of a plant.
 Garlic infected by rust is still edible and unless the infection was severe, you should get a decently sized bulb at harvest time. There’s no need to prematurely pick your garlic crop unless the entire plant is brown and dead. (Like “dead dead”, not “ready and ripe” dead.)
