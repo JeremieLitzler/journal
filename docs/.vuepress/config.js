@@ -1,4 +1,4 @@
-const version = '1.0.178';
+const version = '1.0.179';
 const { path } = require('@vuepress/utils');
 const { vuePressThemeJeremieL } = require('./theme');
 const { viteBundler } = require('@vuepress/bundler-vite');
