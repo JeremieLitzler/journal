@@ -12,6 +12,7 @@ meta:
     - Gardening
     - Garlic
     - Seeds
+    - No Dig
 ---
 
 ![A full harvest of a wide range of quality of the various heads](./harvest-of-supermarket-garlic.webp)

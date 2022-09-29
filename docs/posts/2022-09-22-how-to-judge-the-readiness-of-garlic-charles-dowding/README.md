@@ -3,7 +3,7 @@ isDraft: false
 title: Is it ready yet? How to judge the readiness of garlic, by Charles Dowding
 description: The following are the notes I took watching the video published on Charles Dowding’s channel
 date: 2022-09-22
-heroImage: '/images/2022-09-22-how-to-judge-the-readiness-of-garlic-charles-Dowding-hero.jpg'
+heroImage: '/images/2022-09-22-how-to-judge-the-readiness-of-garlic-charles-dowding-hero.jpg'
 heroAlt: Sprouting garlic
 #head:
 #  - [meta, { rel: canonical, href: url }]

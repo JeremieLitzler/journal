@@ -3,7 +3,7 @@ isDraft: false
 title: Grow garlic, an easy crop with no dig, hard or softneck, and tips for harvest, by Charles Dowding
 description: The following are the notes I took watching the video published on Charles Dowding's channel
 date: 2022-09-28
-heroImage: '/images/2022-09-28-grow-garlic-charles-dowing-hero.jpg'
+heroImage: '/images/2022-09-22-supermarket-garlic-for-seed-charles-dowding-hero.webp'
 heroAlt: "Harvest of elephant garlic from Charles Dowding's garden"
 prev:
   text: "See all my notes from Charles Dowding's vlogs"
@@ -17,6 +17,7 @@ meta:
   keywords:
     - Gardening
     - Garlic
+    - No Dig
 ---
 
 Thanks to Charles Dowding for sharing his wisdom and knowledge!
