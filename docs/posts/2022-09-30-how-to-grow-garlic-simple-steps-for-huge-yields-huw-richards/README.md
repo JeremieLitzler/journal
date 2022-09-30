@@ -62,7 +62,7 @@ It starts from mid-October and mid-December.
 
 Any earlier and you may lose your plants over a really cold winter if they have developed too much.
 
-:::note Personal thought
+:::tip Personal thought
 That probably means that planting from mid-September (like [Charles Dowding suggested](../2022-09-28-grow-garlic-charles-dowding/README.md)) may be only possible under a polytunnel or greenhouse.
 :::
 
