@@ -10,7 +10,7 @@ prev:
   link: ../2022-09-12-all-my-notes-on-the-videos-of-Charles-Dowding/README.md
 next:
   text: 'Supermarket Garlic For Seed'
-  link: ../2022-09-22-supermarket-garlic-for-seed-charles-dowing/README.md
+  link: ../2022-09-22-supermarket-garlic-for-seed-charles-dowding/README.md
 #head:
 #  - [meta, { rel: canonical, href: url }]
 meta:
