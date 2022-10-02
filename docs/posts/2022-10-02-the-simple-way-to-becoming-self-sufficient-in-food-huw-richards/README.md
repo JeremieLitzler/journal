@@ -153,9 +153,9 @@ Test different varieties: some may not work while others can be very successful.
 
 Also embrace seasonality: don't try to push against the natural cycle. Tomatoes are a summer crop, while cabbage and squashes are more a winter one.
 
-Why benefits do you get?
+What benefits do you get from eating out of season?
 
 - you will have more fresh produce to eat
 - you will have to be more creative on how to use the crops you get. See [Huw and Sam's blog for recipes](https://farmerandchef.co.uk/blog).
 
-Look at what special about every single season and you will become of more self-sufficient.
+Look at what is special about every single season and you will become of more self-sufficient.
