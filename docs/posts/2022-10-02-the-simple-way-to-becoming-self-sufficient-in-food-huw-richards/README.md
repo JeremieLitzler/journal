@@ -1,5 +1,5 @@
 ---
-isDraft: true
+isDraft: false
 title: The Simple Way to Becoming Self-Sufficient in Food, by Huw Richards
 description: "The following are the notes I took watching the video published on Huw Richards's channel"
 date: 2022-10-02
