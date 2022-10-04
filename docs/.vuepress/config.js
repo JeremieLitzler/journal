@@ -1,4 +1,4 @@
-const version = '1.0.198';
+const version = '1.0.199';
 const { path } = require('@vuepress/utils');
 const { vuePressThemeJeremieL } = require('./theme');
 const { viteBundler } = require('@vuepress/bundler-vite');
@@ -72,7 +72,7 @@ module.exports = {
   }),
   //See https://github.com/vuepress/vuepress-next/blob/main/CHANGELOG.md#200-beta40-2022-04-25
   plugins: [
-    pwaPlugin(),
+    pwaPlugin({}),
     pwaPopupPlugin({
       locales: {
         '/fr/': {

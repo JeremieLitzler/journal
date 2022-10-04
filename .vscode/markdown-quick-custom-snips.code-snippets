@@ -28,5 +28,14 @@
     "prefix": "add notes link en",
     "body": ["**My notes:** [read them here]($1)"],
     "description": "Add a link to notes EN"
+  },
+  "Snippet 'The Tooltip subscription": {
+    "scope": "markdown",
+    "prefix": "add substack newsletter block",
+    "body": [
+      "<!-- markdownlint-disable MD033 -->",
+      "<iframe src=\"https://thetooltip.substack.com/embed\" width=\"480\" height=\"320\" style=\"border:1px solid #EEE; background:white;\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+    ],
+    "description": "Add substack newsletter block"
   }
 }

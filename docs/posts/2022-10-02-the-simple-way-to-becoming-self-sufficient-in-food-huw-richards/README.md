@@ -8,11 +8,11 @@ heroAlt: A vegetable garden
 prev:
   text: "See all my notes from Huw Richards' vlogs"
   link: ../2022-09-12-all-my-notes-on-the-videos-of-Huw-Richards/README.md
-#next:
-#  text: ''
-#  link: ..//README.md
-head:
-  - [meta, { rel: canonical, href: url }]
+next:
+  text: 'Harvesting Garlic and Succession Planting Salads'
+  link: ../2022-10-03-harvesting-garlic-and-succession-planting-salads-huw-richards/README.md
+#head:
+#  - [meta, { rel: canonical, href: url }]
 meta:
   keywords:
     - Gardening
@@ -144,7 +144,7 @@ At the end, it will be very quick to identity how much you need from a given cro
 
 You will need to adjust the values in the "Constants" tab as you go.
 
-After a while, it will be easy to input your purchase if you buy by the season and if you are regular. Contact me if you have questions on how to use the sheet or if you want me to demo it in a video.
+After a while, it will be easy to input your purchase if you buy by the season and if you are regular. [Contact me if you have questions](../../contact-me.md) on how to use the sheet or if you want me to demo it in a video.
 :::
 
 ### Conclusion
@@ -159,3 +159,6 @@ What benefits do you get from eating out of season?
 - you will have to be more creative on how to use the crops you get. See [Huw and Sam's blog for recipes](https://farmerandchef.co.uk/blog).
 
 Look at what is special about every single season and you will become of more self-sufficient.
+
+<!-- markdownlint-disable MD033 -->
+<iframe src="https://thetooltip.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>

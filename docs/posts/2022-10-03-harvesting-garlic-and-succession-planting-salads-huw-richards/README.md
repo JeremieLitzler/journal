@@ -1,0 +1,58 @@
+---
+isDraft: false
+title: Harvesting Garlic and Succession Planting Salads, by Huw Richards
+description: "The following are the notes I took watching the video published on Huw Richards's channel"
+date: 2022-10-03
+heroImage: '/images/2022-10-03-harvesting-garlic-and-succession-planting-salads-huw-richards-hero.jpg'
+heroAlt: Garlic and salads growing together
+prev:
+  text: "See all my notes from Huw Richards' vlogs"
+  link: ../2022-09-12-all-my-notes-on-the-videos-of-Huw-Richards/README.md
+next:
+  text: 'How to Grow Garlic | Simple Steps for HUGE Yields'
+  link: ../2022-09-30-how-to-grow-garlic-simple-steps-for-huge-yields-huw-richards/README.md
+#head:
+#  - [meta, { rel: canonical, href: url }]
+meta:
+  keywords:
+    - Gardening
+    - Garlic
+    - Intercropping
+---
+
+![Garlic and salads growing together](./2022-10-03-harvesting-garlic-and-succession-planting-salads-huw-richards-hero.jpg)
+_Credits: [Hero image by Roots and boots](https://rootsandboots.com/intercropping-lettuce-with-garlic/)_
+
+Thanks to Huw Richards for sharing his wisdom and knowledge!
+The following are the notes I took watching the video published on Huw Richards's channel.
+You can watch it using [this YouTube link](https://www.youtube.com/watch?v=S8ivP0opZTE).
+
+## Tip for sprouted garlic who comes up early in spring
+
+Covering the ground with compost will help nourish the garlic.
+
+## What can follow garlic
+
+Huw sowed mustards, rocket salads and radishes.
+
+## Share excess yields with neighbors and friends
+
+When you grow your own food and you have excess, it is a great idea to share it, make exchanges or even donate.
+
+It is really a value that needs to expand.
+
+## What about intercropping
+
+I find that some crops, like lettuce and strawberries, struggle with pests, named slugs.
+
+I have tried in the past growing shallot around strawberries and I think it worked to keep the slugs away, far better than ash, beer traps or egg shells.
+
+Kathleen Henderson, [from Roots and Boots](https://rootsandboots.com), shared in [an article on the topic](https://rootsandboots.com/intercropping-lettuce-with-garlic/) listing the advantages of intercropping lettuce and garlic in three points:
+
+> 1. increased yield: grow more in less space
+> 2. weed control: vegetable like lettuce help to block out weeds around slower growing plants
+> 3. pest management: intercropping increases biodiversity in the garden, which can help to confuse harmful insects
+
+My favorite benefit is clear the third one.
+
+What is your experience on the topic?
