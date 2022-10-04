@@ -56,3 +56,6 @@ Kathleen Henderson, [from Roots and Boots](https://rootsandboots.com), shared in
 My favorite benefit is clear the third one.
 
 What is your experience on the topic?
+
+<!-- markdownlint-disable MD033 -->
+<iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe>

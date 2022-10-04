@@ -25,3 +25,6 @@ You can watch it using [this YouTube link](https://www.youtube.com/shorts/o8ZStw
 
 - Use your fingers to clear the soil around the garlic head and see if it is well formed.
 - If you can feel the cloves, then it is ready to harvest.
+
+<!-- markdownlint-disable MD033 -->
+<iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe>

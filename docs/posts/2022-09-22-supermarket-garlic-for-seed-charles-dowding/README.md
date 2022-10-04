@@ -75,3 +75,6 @@ They don’t need any special space.
 :::tip Personal note
 Maybe it could help with slugs. In fact, when I grew strawberries a few years back, I planted shallots around a patch of strawberries and we almost had no slugs
 :::
+
+<!-- markdownlint-disable MD033 -->
+<iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe>

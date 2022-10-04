@@ -161,4 +161,4 @@ What benefits do you get from eating out of season?
 Look at what is special about every single season and you will become of more self-sufficient.
 
 <!-- markdownlint-disable MD033 -->
-<iframe src="https://thetooltip.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+<iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe>

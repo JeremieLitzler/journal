@@ -86,3 +86,6 @@ You simply cut off the dried stem.
 
 ![Store garlic by cutting the stem](./augsut-30-ready-to-store.jpg)
 _Credits: image taken from The Dutch Farmer's vlog._
+
+<!-- markdownlint-disable MD033 -->
+<iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe>

@@ -236,4 +236,8 @@ html.dark tr:nth-child(2n) {
 iframe.contact-form {
   height: 50em;
 }
+iframe.newsletter-embed {
+  width: 100%;
+  height: 17.5em;
+}
 </style>
