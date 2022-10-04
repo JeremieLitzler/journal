@@ -233,6 +233,36 @@
     ],
     "description": "Set fronmatter to the new post"
   },
+  "FM Template Le potager d'olivier": {
+    "scope": "markdown",
+    "prefix": "set frontmatter olivier",
+    "body": [
+      "---",
+      "isDraft: true",
+      "title: $1, par Le potager d'Olivier",
+      "description: Cet article résume mes notes du vlog réalisé par Olivier",
+      "date: $3",
+      "heroImage: \"/images/$4.jpg\"",
+      "heroAlt: $5",
+      "#head:",
+      "#  - [",
+      "#      meta,",
+      "#      {",
+      "#        rel: canonical,",
+      "#        href: url,",
+      "#      },",
+      "#    ]",
+      "meta:",
+      "  keywords:",
+      "    - $6",
+      "---",
+      "",
+      "Merci à Olivier pour le partage de son savoir !",
+      "Cet article résume mes notes du vlog.",
+      "Vous pouvez retrouver [la vidéo sur YouTube]($7)."
+    ],
+    "description": "Set fronmatter to the new post"
+  },
   "FM Template Altheaprovence": {
     "scope": "markdown",
     "prefix": "set frontmatter altheap",
