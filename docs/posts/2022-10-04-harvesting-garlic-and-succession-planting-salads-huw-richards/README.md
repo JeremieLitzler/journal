@@ -2,8 +2,8 @@
 isDraft: false
 title: Harvesting Garlic and Succession Planting Salads, by Huw Richards
 description: "The following are the notes I took watching the video published on Huw Richards's channel"
-date: 2022-10-03
-heroImage: '/images/2022-10-03-harvesting-garlic-and-succession-planting-salads-huw-richards-hero.jpg'
+date: 2022-10-04
+heroImage: '/images/2022-10-04-harvesting-garlic-and-succession-planting-salads-huw-richards-hero.jpg'
 heroAlt: Garlic and salads growing together
 prev:
   text: "See all my notes from Huw Richards' vlogs"
@@ -20,7 +20,7 @@ meta:
     - Intercropping
 ---
 
-![Garlic and salads growing together](./2022-10-03-harvesting-garlic-and-succession-planting-salads-huw-richards-hero.jpg)
+![Garlic and salads growing together](./2022-10-04-harvesting-garlic-and-succession-planting-salads-huw-richards-hero.jpg)
 _Credits: [Hero image by Roots and boots](https://rootsandboots.com/intercropping-lettuce-with-garlic/)_
 
 Thanks to Huw Richards for sharing his wisdom and knowledge!
