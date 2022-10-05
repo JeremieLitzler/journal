@@ -9,12 +9,6 @@
 <script setup>
 import ParentLayout from '@vuepress/theme-default/lib/client/layouts/Layout.vue';
 import CustomFooter from './CustomFooter.vue';
-// export default {
-//   components: {
-//     ParentLayout,
-//     CustomFooter,
-//   },
-// };
 </script>
 
 <style lang="css">

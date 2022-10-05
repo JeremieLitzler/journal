@@ -1,13 +1,13 @@
 const version = '1.0.204';
-const { path } = require('@vuepress/utils');
-const { vuePressThemeJeremieL } = require('./theme');
-const { viteBundler } = require('@vuepress/bundler-vite');
+import { path } from '@vuepress/utils';
+import { vuePressThemeJeremieL } from './theme';
+import { viteBundler } from '@vuepress/bundler-vite';
 
-const { pwaPlugin } = require('@vuepress/plugin-pwa');
-const { pwaPopupPlugin } = require('@vuepress/plugin-pwa-popup');
+import { pwaPlugin } from '@vuepress/plugin-pwa';
+import { pwaPopupPlugin } from '@vuepress/plugin-pwa-popup';
 
-const headEn = require(path.resolve(__dirname, 'configs/head/en'));
-const headFr = require(path.resolve(__dirname, 'configs/head/fr'));
+import headEn from './configs/head/en';
+import headFr from './configs/head/fr';
 
 // console.log(headEn);
 // console.log(headFr);
