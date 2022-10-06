@@ -1,7 +1,7 @@
 ---
 isIndexPage: true
-title: My posts
-description: List of my posts written so far
+title: My articles
+description: List of my articles written so far
 ---
 
 <!-- markdownlint-disable -->

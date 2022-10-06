@@ -8,6 +8,16 @@ meta:
     - Contact
 ---
 
+<!-- markdownlint-disable MD033 -->
+<style>
+  iframe.contact-form {
+    height: 50em;
+  }
+iframe.newsletter-embed {
+  width: 100%;
+  height: 17.5em;
+}
+</style>
 <iframe class="contact-form"
   src="https://tally.so/embed/w5BEXQ?alignLeft=1&hideTitle=1&transparentBackground=1"
   width="100%"

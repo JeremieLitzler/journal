@@ -1,9 +1,9 @@
 const titleDefault = 'A journal, by Jeremie Litzler';
 
-module.exports = {
+export const enHeadConfig = {
   title: titleDefault,
   description:
-    'I share my notes, thoughts and experiences that can be useful and important to you',
+    'I share my notes and experiences that can be useful and important to you',
   repo: 'https://github.com/JeremieLitzler/journal',
   //https://v2.vuepress.vuejs.org/reference/config.html#head
   head: [
@@ -13,7 +13,7 @@ module.exports = {
       'meta',
       {
         property: 'og:description',
-        content: 'Notes, thoughts and experiences of Jérémie.',
+        content: 'Notes and experiences of Jérémie.',
       },
     ],
     ['meta', { property: 'og:type', content: 'website' }],

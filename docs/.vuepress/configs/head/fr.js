@@ -1,6 +1,7 @@
 const titleFr = 'Un journal, par Jeremie Litzler';
-const descriptionFr = 'Je partage ici mes notes et experiences qui peuvent être importantes et utiles pour vous.';
-module.exports = {
+const descriptionFr =
+  'Je partage ici mes notes et experiences qui pourraient être importantes et utiles pour vous.';
+export const frHeadConfig = {
   lang: 'fr-FR',
   title: titleFr,
   description: descriptionFr,
