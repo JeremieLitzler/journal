@@ -1,1 +1,2 @@
-module.exports = require("./head");
+export * from './head';
+export * from './navbar';

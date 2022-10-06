@@ -1,2 +1,2 @@
-module.exports = require("./en");
-module.exports = require("./fr");
+export * from './en.js';
+export * from './fr.js';

@@ -1,0 +1,23 @@
+iframe.contact-form {
+  height: 50em;
+}
+iframe.newsletter-embed {
+  width: 100%;
+  height: 17.5em;
+}
+
+.theme-container.has-toc .page {
+    padding-right: 0;
+}
+
+article {
+    margin-bottom: 5em;
+}
+.image-cropped-wrapper {
+  overflow: hidden;
+}
+@media (min-width: 36em) {
+  .image-cropped-wrapper img {
+    width: 100%;
+  }
+}
