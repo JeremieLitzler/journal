@@ -27,5 +27,8 @@ export default hopeTheme({
         navbar: frNavBarConfig,
         sidebar: false
       } 
-    }  
+    },
+    plugins: {
+      blog: true,
+    }
 });
