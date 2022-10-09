@@ -5,10 +5,10 @@ description: Comment plusieurs marques se comparent-elles?
 date: 2021-08-23
 heroImage: '/images/.jpg'
 heroAlt: Les 3 produits évalués dans cet article
-meta:
-  keywords:
-    - Avis de produits
-    - Alimentation
+category:
+  - Avis de produits
+tag:
+  - Alimentation
 ---
 
 Je connais quelqu'un qui aime beaucoup le chocolat.

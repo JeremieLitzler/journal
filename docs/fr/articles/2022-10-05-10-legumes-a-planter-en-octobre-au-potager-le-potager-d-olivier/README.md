@@ -13,10 +13,6 @@ heroAlt: Des semis de divers choux
 #        href: url,
 #      },
 #    ]
-meta:
-  keywords:
-    - Jardin
-    - Mois d'octobre
 category:
   - Jardin
 tag:

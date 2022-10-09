@@ -4,12 +4,11 @@ description: Mes notes représentent ce que j'ai appris à travers les vidéos d
 date: 2022-09-12
 #heroImage: '/images/.jpg'
 #heroAlt:
-meta:
-  keywords:
-    - Permaculture
-    - Jardin
-    - Biodiversité
-    - Agroécologie
+category:
+  - Permaculture
+  - Jardin
+  - Biodiversité
+  - Agroécologie
 ---
 
 Merci à Damien pour le partage de son savoir !

@@ -12,13 +12,12 @@ head:
         href: https://thetooltip.substack.com/p/notes-sur-les-bases-dune-installation,
       },
     ]
-meta:
-  keywords:
-    - Énergie
-    - Énergie solaire
-    - Autoconsommation
-    - Résilience
-    -
+category:
+  - Energie
+tag:
+  - Energie solaire
+  - Autoconsommation
+  - Résilience
 ---
 
 Merci à Brian et Rémi pour leur échange !

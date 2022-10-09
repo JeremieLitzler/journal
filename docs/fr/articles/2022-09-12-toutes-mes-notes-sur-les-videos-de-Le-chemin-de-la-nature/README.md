@@ -5,10 +5,9 @@ description: Mes notes représentent ce que j'ai appris à travers les vidéos d
 date: 2022-09-12
 #heroImage: '/images/.jpg'
 #heroAlt:
-meta:
-  keywords:
-    - Plantes sauvages
-    - Champignons
+category:
+  - Plantes sauvages
+  - Champignons
 ---
 
 Merci à Christophe et toute son équipe pour le partage de son savoir !

@@ -12,12 +12,12 @@ head:
         href: https://thetooltip.substack.com/p/installation-pv-retour-dexperience,
       },
     ]
-meta:
-  keywords:
-    - Energie
-    - Energie solaire
-    - Autoconsommation
-    - Eau chaude sanitaire
+category:
+  - Energie
+tag:
+  - Energie solaire
+  - Autoconsommation
+  - Eau chaude sanitaire
 ---
 
 ## Présentation

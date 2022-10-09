@@ -16,8 +16,7 @@ article {
 .image-cropped-wrapper {
   overflow: hidden;
 }
-@media (min-width: 36em) {
-  .image-cropped-wrapper img {
-    width: 100%;
-  }
+.image-cropped-wrapper img,
+.theme-hope-content img {
+  width: 100%;
 }

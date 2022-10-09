@@ -5,11 +5,10 @@ description: Mes notes du vlog réalisé par Permaculture, agroecologie, etc
 date: 2022-07-20
 heroImage: '/images/2022-07-20-5-sauvages-1.jpg'
 heroAlt:
-meta:
-  keywords:
-    - Permaculture
-    - Plantes sauvages
-    - Nourriture
+tag:
+  - Permaculture
+  - Plantes sauvages
+  - Alimentation
 ---
 
 Merci à Damien pour le partage de son savoir !

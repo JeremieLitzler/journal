@@ -4,10 +4,11 @@ description: Mes notes représentent ce que j'ai appris à travers les vidéos d
 date: 2022-09-09
 #heroImage: '/images/.jpg'
 #heroAlt:
-meta:
-  keywords:
-    - Plantes sauvages
-    - Remèdes naturels
+category:
+  - Santé
+tag:
+  - Plantes sauvages
+  - Remèdes naturels
 ---
 
 Merci à Christophe pour le partage de son savoir !

@@ -5,12 +5,11 @@ description: Mes notes représentent ce que j'ai appris à travers les vidéos d
 date: 2022-09-12
 #heroImage: "/images/.jpg"
 #heroAlt:
-meta:
-  keywords:
-    - Bricolage
-    - Jardin
-    - Autoconstruction
-    - Astuces
+category:
+  - Bricolage
+  - Jardin
+  - Autoconstruction
+  - Astuces
 ---
 
 Merci à Kévin pour le partage de son savoir et de ses expérimentations !

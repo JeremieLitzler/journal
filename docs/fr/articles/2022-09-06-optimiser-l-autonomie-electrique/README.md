@@ -5,9 +5,11 @@ description: Etape 1 - Rendre autonome mon poêle à granulés, les LED et la VM
 date: 2022-09-06
 heroImage: '/images/2022-09-06-optimiser-l-autonomie-electrique.jpg'
 heroAlt:
-meta:
-  keywords:
-    -
+category:
+  - Energie
+tag:
+  - Stockage
+  - Energie solaire
 ---
 
 ![Prise débranchée](./hero.jpg)
