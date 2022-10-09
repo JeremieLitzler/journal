@@ -2,7 +2,7 @@
 isDraft: true
 title: Compost Making, balancing green & brown or nitrogen & carbon
 description: Notes from the vlog, by Charles Dowding
-date: 2022-mm-dd
+date: 2022-01-01
 heroImage: '/images/default.jpg'
 heroAlt:
 meta:

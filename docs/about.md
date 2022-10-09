@@ -5,7 +5,7 @@ description: A brief presentation of Jérémie Litzler and the goal of this webs
 
 ![Jeremie climbing the Kandersteg's viaferrata](/images/profilepic-400w.jpg)
 
-[Read in french](../fr/README.md)
+[Read in french](./fr/a-propos.md)
 
 Everyone has a story. This is mine. So far.
 

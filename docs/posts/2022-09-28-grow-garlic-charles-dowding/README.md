@@ -58,7 +58,7 @@ Planting will happen in October on average, but it can happen from mid-September
 
 The steps to plant are quite easy:
 
-1. Take the best bulbs from the year before, [try to start from one organic bulb in your local supermarket](../2022-09-22-supermarket-garlic-for-seed-charles-dowing/README.md), preferably organic.
+1. Take the best bulbs from the year before, [try to start from one organic bulb in your local supermarket](../2022-09-22-supermarket-garlic-for-seed-charles-dowding/README.md), preferably organic.
 2. Use a wood stick to make a 2-3 cm hole.
 3. Sow each clove the same way they were growing in the bulb.
 4. Cover over and you are done.

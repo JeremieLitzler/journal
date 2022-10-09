@@ -2,8 +2,8 @@
 isDraft: true
 title: Quel chocolat 100% choisir ?
 description: Comment plusieurs marques se comparent-elles?
-date: 2021-mm-dd
-heroImage: "/images/.jpg"
+date: 2021-08-23
+heroImage: '/images/.jpg'
 heroAlt: Les 3 produits évalués dans cet article
 meta:
   keywords:

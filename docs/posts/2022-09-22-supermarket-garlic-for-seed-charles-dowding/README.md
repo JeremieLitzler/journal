@@ -42,7 +42,7 @@ The top image is what you can get from a £1 garlic head.
 
 ## Do not leave your garlic in the soil too long?
 
-Once [you checked the garlic head is ready](../2022-09-22-how-to-judge-the-readiness-of-garlic-charles-Dowding/README.md), you should not leave it too long in the soil.
+Once [you checked the garlic head is ready](../2022-09-22-how-to-judge-the-readiness-of-garlic-charles-dowding/README.md), you should not leave it too long in the soil.
 
 Why?
 

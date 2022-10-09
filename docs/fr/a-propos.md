@@ -5,7 +5,7 @@ description: Une présentation de Jérémie Litzler et du but du site.
 
 ![Jérémie gravissant la viaferrata à Kandersteg, Suisse](/images/profilepic-400w.jpg)
 
-[Lire la version anglaise](../README.md)
+[Lire la version anglaise](../about.md)
 
 Tout a une histoire. Voici la mienne, jusqu'à présent.
 

@@ -1,7 +1,7 @@
 ---
 title: "Les bases d'une installation solaire en autonomie, par L'Archipelle"
 description: "Mes notes du Vlog réalisé par L'Archipelle"
-date: 2021-mm-dd
+date: 2022-05-26
 # heroImage: '/images/default.jpg'
 heroAlt: Image par défaut
 head:
