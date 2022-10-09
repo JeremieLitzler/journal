@@ -2,13 +2,13 @@
   "Crédit image FR": {
     "scope": "markdown",
     "prefix": "crédit image fr",
-    "body": ["Crédits de l'image : [$1]($2)"],
+    "body": ["_Crédits de l'image : [$1]($2)_"],
     "description": "Add credit image"
   },
   "Crédit image EN": {
     "scope": "markdown",
     "prefix": "crédit image en",
-    "body": ["Credits: [$1]($2)"],
+    "body": ["_Credits: [$1]($2)_"],
     "description": "Add credit image"
   },
   "Crédit unsplash": {

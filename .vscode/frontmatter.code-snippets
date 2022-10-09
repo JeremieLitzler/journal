@@ -328,17 +328,5 @@
       "Retrouvez [la liste de mes notes sur les autres vidéos de Christophe](../2022-09-12-toutes-mes-notes-sur-les-videos-de-Le-chemin-de-la-nature) pour apprendre davantage."
     ],
     "description": "Set fronmatter to the new post"
-  },
-  "Personal note EN": {
-    "scope": "markdown",
-    "prefix": "personal note en",
-    "body": [":::tip Personal note", "$1", ":::"],
-    "description": "add personal note en"
-  },
-  "Personal note FR": {
-    "scope": "markdown",
-    "prefix": "personal note fr",
-    "body": [":::tip Note personnelle", "$1", ":::"],
-    "description": "add personal note fr"
   }
 }
