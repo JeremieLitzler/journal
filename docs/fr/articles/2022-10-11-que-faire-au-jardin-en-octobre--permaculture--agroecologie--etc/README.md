@@ -4,7 +4,7 @@ title: Que faire au jardin en Octobre, par Permaculture, agroecologie, etc
 description: Cet article résume mes notes du vlog réalisé par Permaculture, agroecologie, etc
 date: 2022-10-11
 heroImage: '/images/2022-10-11-que-faire-au-jardin-en-octobre--permaculture--agroecologie--etc-hero.jpg'
-heroAlt:
+heroAlt: Une courge verte raillée sur du paillage
 #head:
 #  - [
 #      meta,
@@ -13,9 +13,14 @@ heroAlt:
 #        href: url,
 #      },
 #    ]
-meta:
-  keywords:
-    -
+next:
+  text: 'Comment jardiner avec un sol vivant, par Permaculture, agroecologie, etc'
+  link: ../2022-10-10-comment-jardiner-avec-un-sol-vivant-permaculture--agroecologie--etc/README.md
+
+category:
+  - Jardin
+tag:
+  - Mois d'octobre
 ---
 
 ![Une courge verte raillée sur du paillage](./images/2022-10-11-que-faire-au-jardin-en-octobre--permaculture--agroecologie--etc-hero.jpg)
@@ -24,7 +29,7 @@ _Credits : image extraite du vlog de Damien_
 
 Merci à Damien pour le partage de son savoir !
 Cet article résume mes notes du vlog réalisé par Permaculture, agroécologie, etc.
-Vous pouvez retrouver [la vidéo sur YouTube]().
+Vous pouvez retrouver [la vidéo sur YouTube](https://www.youtube.com/watch?v=GswUGxztnpU).
 
 Retrouvez [la liste de mes notes sur les autres vidéos de Damien](../2022-09-12-toutes-mes-notes-sur-les-videos-de-Permaculture-agroecologie-etc) pour apprendre davantage.
 
@@ -159,4 +164,4 @@ Pour obtenir des champignons, il faut :
 - utiliser beaucoup de matières comme le broyat, bois et autres matières ligneuses
 - ne pas traiter ses cultures
 
-Voir le vlog de Damien pour savoir [comment cultiver en sol vivant](https://www.youtube.com/watch?v=WApK6d1ucz4) (je prendrai des notes sur le sujet très bientôt).
+Voir le vlog de Damien pour savoir [comment cultiver en sol vivant](../2022-10-10-comment-jardiner-avec-un-sol-vivant-permaculture--agroecologie--etc/README.md).
