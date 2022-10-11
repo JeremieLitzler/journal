@@ -1,9 +1,9 @@
-const titleDefault = 'A journal, by Jeremie Litzler';
+const titleDefault = 'A shared journal by Jeremie Litzler';
 
 export const enHeadConfig = {
   title: titleDefault,
   description:
-    'I share my notes and experiences that can be useful and important to you',
+    'I share my notes and experiences that can be useful to one of you',
   repo: 'https://github.com/JeremieLitzler/journal',
   //https://v2.vuepress.vuejs.org/reference/config.html#head
   head: [
