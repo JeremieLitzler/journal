@@ -9,7 +9,8 @@
   "private": true,
   "scripts": {
     "docs:dev": "vuepress-vite dev docs",
-    "docs:build": "vuepress-vite build docs"
+    "docs:build": "vuepress-vite build docs",
+    "publish": "vuepress-vite build docs && git push"
   },
   "devDependencies": {
     "@vuepress/plugin-pwa": "^2.0.0-beta.49",

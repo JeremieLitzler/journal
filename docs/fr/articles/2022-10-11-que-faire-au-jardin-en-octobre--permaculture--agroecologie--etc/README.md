@@ -15,7 +15,7 @@ heroAlt: Une courge verte raillée sur du paillage
 #    ]
 next:
   text: 'Comment jardiner avec un sol vivant, par Permaculture, agroecologie, etc'
-  link: ../2022-10-10-comment-jardiner-avec-un-sol-vivant-permaculture--agroecologie--etc/README.md
+  link: ../2022-10-12-comment-jardiner-avec-un-sol-vivant-permaculture--agroecologie--etc/README.md
 
 category:
   - Jardin
@@ -164,4 +164,4 @@ Pour obtenir des champignons, il faut :
 - utiliser beaucoup de matières comme le broyat, bois et autres matières ligneuses
 - ne pas traiter ses cultures
 
-Voir le vlog de Damien pour savoir [comment cultiver en sol vivant](../2022-10-10-comment-jardiner-avec-un-sol-vivant-permaculture--agroecologie--etc/README.md).
+Voir le vlog de Damien pour savoir [comment cultiver en sol vivant](../2022-10-12-comment-jardiner-avec-un-sol-vivant-permaculture--agroecologie--etc/README.md).
