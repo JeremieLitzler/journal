@@ -13,11 +13,11 @@ next:
   link: ../2022-09-22-supermarket-garlic-for-seed-charles-dowding/README.md
 #head:
 #  - [meta, { rel: canonical, href: url }]
-meta:
-  keywords:
-    - Gardening
-    - Garlic
-    - No Dig
+category:
+  - Gardening
+tag:
+  - Garlic
+  - No Dig
 ---
 
 Thanks to Charles Dowding for sharing his wisdom and knowledge!

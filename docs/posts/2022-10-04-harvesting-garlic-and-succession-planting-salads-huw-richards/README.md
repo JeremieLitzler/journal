@@ -13,11 +13,11 @@ next:
   link: ../2022-09-30-how-to-grow-garlic-simple-steps-for-huge-yields-huw-richards/README.md
 #head:
 #  - [meta, { rel: canonical, href: url }]
-meta:
-  keywords:
-    - Gardening
-    - Garlic
-    - Intercropping
+category:
+  - Gardening
+tag:
+  - Garlic
+  - Intercropping
 ---
 
 ![Garlic and salads growing together](./2022-10-04-harvesting-garlic-and-succession-planting-salads-huw-richards-hero.jpg)

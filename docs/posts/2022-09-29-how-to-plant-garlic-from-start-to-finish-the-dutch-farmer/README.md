@@ -13,11 +13,11 @@ next:
   link: ../2022-09-28-grow-garlic-charles-dowing/README.md
 #head:
 #  - [meta, { rel: canonical, href: url }]
-meta:
-  keywords:
-    - Garlic
-    - Gardening
-    - No Dig
+category:
+  - Gardening
+tag:
+  - Garlic
+  - No Dig
 ---
 
 Thanks to The Dutch Farmer for sharing his wisdom and knowledge!

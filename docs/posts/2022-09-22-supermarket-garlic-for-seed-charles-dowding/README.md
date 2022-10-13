@@ -7,12 +7,12 @@ heroImage: '/images/2022-09-22-supermarket-garlic-for-seed-charles-Dowding-hero.
 heroAlt:
 #head:
 #  - [meta, { rel: canonical, href: url }]
-meta:
-  keywords:
-    - Gardening
-    - Garlic
-    - Seeds
-    - No Dig
+category:
+  - Gardening
+tag:
+  - Garlic
+  - Seeds
+  - No Dig
 ---
 
 ![A full harvest of a wide range of quality of the various heads](./harvest-of-supermarket-garlic.webp)

@@ -9,14 +9,14 @@ prev:
   text: "See all my notes from Huw Richards' vlogs"
   link: ../2022-09-12-all-my-notes-on-the-videos-of-Huw-Richards/README.md
 next:
-  text: ''
+  text: 'The Simple Way to Becoming Self-Sufficient in Food'
   link: ../the-simple-way-to-becoming-self-sufficient-in-food-huw-richards/README.md
-head:
-  - [meta, { rel: canonical, href: url }]
-meta:
-  keywords:
-    - Gardening
-    - Garlic
+#head:
+#  - [meta, { rel: canonical, href: url }]
+category:
+  - Gardening
+tag:
+  - Garlic
 ---
 
 Thanks to Huw Richards for sharing his wisdom and knowledge!

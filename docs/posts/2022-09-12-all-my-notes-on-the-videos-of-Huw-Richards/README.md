@@ -4,11 +4,11 @@ description: My notes summurize what I learned from the vlogs of Huw Richards
 date: 2022-09-12
 #heroImage: '/images/.jpg'
 #heroAlt:
-meta:
-  keywords:
-    - No Dig
-    - Gardening
-    - Permaculture
+category:
+  - Gardening
+  - Permaculture
+tag:
+  - No Dig
 ---
 
 Thanks to Huw for sharing his experience!

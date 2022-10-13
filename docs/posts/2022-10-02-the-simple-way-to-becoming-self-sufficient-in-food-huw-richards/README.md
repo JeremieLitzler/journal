@@ -13,11 +13,10 @@ next:
   link: ../2022-10-03-harvesting-garlic-and-succession-planting-salads-huw-richards/README.md
 #head:
 #  - [meta, { rel: canonical, href: url }]
-meta:
-  keywords:
-    - Gardening
-    - Self-sufficiency
-    - Food
+category:
+  - Gardening
+  - Self-sufficiency
+  - Food
 ---
 
 ![A vegetable garden](./2022-10-02-the-simple-way-to-becoming-self-sufficient-in-food-huw-richards-hero.jpg)

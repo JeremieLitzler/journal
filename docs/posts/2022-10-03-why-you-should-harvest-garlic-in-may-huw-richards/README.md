@@ -18,12 +18,11 @@ next:
 #        rel: canonical,
 #        href: url,
 #      },
-#    ]
-meta:
-  keywords:
-    - Gardening
-    - Garlic
-    - Harvest
+category:
+  - Gardening
+tag:
+  - Garlic
+  - Harvest
 ---
 
 ![Garlic harvest in May](./images/garlic-harvest-in-may.jpg)
