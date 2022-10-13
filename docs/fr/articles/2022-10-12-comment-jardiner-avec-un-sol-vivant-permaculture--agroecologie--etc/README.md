@@ -3,7 +3,7 @@ isDraft: false
 title: Comment jardiner avec un sol vivant, par Permaculture, agroécologie, etc
 description: Cet article résume mes notes du vlog réalisé par Permaculture, agroécologie, etc
 date: 2020-10-12
-heroImage: '/images/2020-10-12-comment-jardiner-avec-un-sol-vivant-permaculture--agroécologie--etc-hero.png'
+heroImage: '/images/2022-10-12-comment-jardiner-avec-un-sol-vivant-permaculture--agroecologie--etc-hero.png'
 heroAlt: Image diagramme décrivant le cycle d'échanges entre les plantes et les mycorhizes
 #head:
 #  - [
@@ -26,7 +26,7 @@ tag:
   - Biodiversité
 ---
 
-![Image diagramme décrivant le cycle d'échanges entre les plantes et les mycorhizes](./images/2020-10-12-comment-jardiner-avec-un-sol-vivant-permaculture--agroecologie--etc-hero.png)
+![Image diagramme décrivant le cycle d'échanges entre les plantes et les mycorhizes](./images/2022-10-12-comment-jardiner-avec-un-sol-vivant-permaculture--agroecologie--etc-hero.png)
 
 _Credits : image extraite de l'article Wikipedia ["Réseau mycorhizien"](https://fr.wikipedia.org/wiki/R%C3%A9seau_mycorhizien)_
 
