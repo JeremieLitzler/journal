@@ -1035,6 +1035,8 @@ By default, you will have the YouTube link to the vlog.
 
 **Link:** [watch on YouTube](https://www.youtube.com/watch?v=4APqcvo-gqE)
 
+**My notes:** [read them here](../2022-10-13-how-much--how-little-compost-do-you-need-to-grow-great-vegetables-charles-dowing/README.md)
+
 ## No dig garden in August, new plantings, fruit and summer pests
 
 **Link:** [watch on YouTube](https://www.youtube.com/watch?v=Nmh0r8JaRDM)

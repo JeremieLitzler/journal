@@ -7,7 +7,7 @@ date: 2022-09-09
 category:
   - Santé
 tag:
-  - Plantes sauvages
+  - Plantes
   - Remèdes naturels
 ---
 

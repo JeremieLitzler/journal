@@ -38,6 +38,18 @@
     ],
     "description": "Add substack newsletter block"
   },
+  "Note generic EN": {
+    "scope": "markdown",
+    "prefix": "generic note",
+    "body": [":::tip $1", "$2", ":::"],
+    "description": "add generic note en"
+  },
+  "Note warning EN": {
+    "scope": "markdown",
+    "prefix": "wwarning note",
+    "body": [":::warning $1", "$2", ":::"],
+    "description": "add warning note en"
+  },
   "Personal note EN": {
     "scope": "markdown",
     "prefix": "personal note en",
