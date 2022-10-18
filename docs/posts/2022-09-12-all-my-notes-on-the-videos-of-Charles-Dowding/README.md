@@ -737,7 +737,7 @@ By default, you will have the YouTube link to the vlog.
 
 **Link:** [watch on YouTube](https://www.youtube.com/watch?v=b7Aa525oW34)
 
-**My notes:** [read them here](../2022-04-20-three-types-of-heap-for-compost.md)
+**My notes:** [read them here](../2022-04-20-three-types-of-heap-for-compost-charles-dowing/README.md)
 
 ## Small Garden August - slugs and blight and replanting, interplanting
 
@@ -1026,6 +1026,8 @@ By default, you will have the YouTube link to the vlog.
 ## Making compost in a dalek, and how to access it
 
 **Link:** [watch on YouTube](https://www.youtube.com/watch?v=2scvQgm6HFw)
+
+**My notes:** [read them here](../2022-10-18-making-compost-in-a-dalek--and-how-to-access-it-charles-dowing/README.md)
 
 ## Store potatoes easily for eating in winter and spring
 

@@ -3,8 +3,8 @@ isDraft: false
 title: July 2022 tour of new no dig, harvests, pest covers, compost, watering, by Charles Dowding
 description: "The following are the notes I took watching the video published on Charles Dowding's channel"
 date: 2022-10-15
-heroImage: '/images/july-tour-of-new-no-dig--harvests--pest-covers--compost--watering-charles-dowing-hero.jpg'
-heroAlt: ???
+heroImage: '/images/2022-10-15-july-tour-of-new-no-dig--harvests--pest-covers--compost--watering-charles-dowing-hero.jpg'
+heroAlt: A pea pod with large seeds in the hands of Charles
 prev:
   text: "See all my notes from Charles Dowding's vlogs"
   link: ../2022-09-12-all-my-notes-on-the-videos-of-Charles-Dowding/README.md
@@ -31,6 +31,13 @@ tag:
 Thanks to Charles Dowding for sharing his wisdom and knowledge!
 The following are the notes I took watching the video published on Charles Dowding's channel.
 You can watch it using [this YouTube link](https://www.youtube.com/watch?v=tzjdcDQ7A8E).
+
+![A pea pod with large seeds in the hands of Charles](./images/2022-10-15-july-tour-of-new-no-dig--harvests--pest-covers--compost--watering-charles-dowing-hero.jpg)
+
+_Credits: image taken from Charles Dowding's vlog_
+
+<!-- markdownlint-disable MD033 -->
+<iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe>
 
 ## Introduction
 
@@ -226,3 +233,6 @@ Charles suggests watching [Joe Lampl's channel](https://www.youtube.com/user/joe
 Picking your tomatoes not fully rip take some stress off the plant, which can focus the other fruits, new fruits and the leaves.
 
 And you don't lose flavor from the tomatoes by harvesting them this way.
+
+<!-- markdownlint-disable MD033 -->
+<iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe>
