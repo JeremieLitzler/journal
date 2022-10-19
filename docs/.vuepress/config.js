@@ -1,4 +1,4 @@
-const version = '1.0.227';
+const version = '1.0.228';
 import { defineUserConfig } from '@vuepress/cli';
 
 import theme from './theme';
