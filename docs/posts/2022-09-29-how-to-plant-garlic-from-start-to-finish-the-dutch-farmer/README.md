@@ -10,7 +10,7 @@ prev:
   link: ../2022-09-12-all-my-notes-on-the-videos-of-The-Dutch-Farmer/README.md
 next:
   text: 'Grow garlic, an easy crop with no dig, hard or softneck, and tips for harvest'
-  link: ../2022-09-28-grow-garlic-charles-dowing/README.md
+  link: ../2022-09-28-grow-garlic-charles-dowding/README.md
 #head:
 #  - [meta, { rel: canonical, href: url }]
 category:

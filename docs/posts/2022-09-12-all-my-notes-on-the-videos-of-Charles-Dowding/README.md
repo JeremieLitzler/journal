@@ -737,7 +737,7 @@ By default, you will have the YouTube link to the vlog.
 
 **Link:** [watch on YouTube](https://www.youtube.com/watch?v=b7Aa525oW34)
 
-**My notes:** [read them here](../2022-04-20-three-types-of-heap-for-compost-charles-dowing/README.md)
+**My notes:** [read them here](../2022-04-20-three-types-of-heap-for-compost-charles-dowding/README.md)
 
 ## Small Garden August - slugs and blight and replanting, interplanting
 
@@ -1027,7 +1027,7 @@ By default, you will have the YouTube link to the vlog.
 
 **Link:** [watch on YouTube](https://www.youtube.com/watch?v=2scvQgm6HFw)
 
-**My notes:** [read them here](../2022-10-18-making-compost-in-a-dalek--and-how-to-access-it-charles-dowing/README.md)
+**My notes:** [read them here](../2022-10-18-making-compost-in-a-dalek--and-how-to-access-it-charles-dowding/README.md)
 
 ## Store potatoes easily for eating in winter and spring
 
@@ -1037,7 +1037,7 @@ By default, you will have the YouTube link to the vlog.
 
 **Link:** [watch on YouTube](https://www.youtube.com/watch?v=4APqcvo-gqE)
 
-**My notes:** [read them here](../2022-10-13-how-much--how-little-compost-do-you-need-to-grow-great-vegetables-charles-dowing/README.md)
+**My notes:** [read them here](../2022-10-13-how-much--how-little-compost-do-you-need-to-grow-great-vegetables-charles-dowding/README.md)
 
 ## No dig garden in August, new plantings, fruit and summer pests
 

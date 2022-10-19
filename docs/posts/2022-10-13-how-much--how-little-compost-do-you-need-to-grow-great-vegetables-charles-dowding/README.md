@@ -3,7 +3,7 @@ isDraft: false
 title: How much, how little compost do you need to grow great vegetables, by Charles Dowding
 description: "The following are the notes I took watching the video published on Charles Dowding's channel"
 date: 2022-10-13
-heroImage: '/images/2022-10-13-how-much--how-little-compost-do-you-need-to-grow-great-vegetables-charles-dowing-hero.jpg'
+heroImage: '/images/2022-10-13-how-much--how-little-compost-do-you-need-to-grow-great-vegetables-charles-dowding-hero.jpg'
 heroAlt: A garden with a lot of vegetables, like cabbages
 prev:
   text: "See all my notes from Charles Dowding's vlogs"
@@ -27,7 +27,7 @@ tag:
   - Composting
 ---
 
-![A garden with a lot of vegetables, like cabbages](./images/2022-10-13-how-much--how-little-compost-do-you-need-to-grow-great-vegetables-charles-dowing-hero.jpg)
+![A garden with a lot of vegetables, like cabbages](./images/2022-10-13-how-much--how-little-compost-do-you-need-to-grow-great-vegetables-charles-dowding-hero.jpg)
 
 _Credits: image taken from Charles Dowding's vlog_
 

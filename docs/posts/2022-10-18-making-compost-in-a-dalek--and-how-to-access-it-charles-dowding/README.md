@@ -3,14 +3,14 @@ isDraft: true
 title: Making compost in a dalek, and how to access it, by Charles Dowding
 description: "The following are the notes I took watching the video published on Charles Dowding's channel"
 date: 2022-10-18
-heroImage: '/images/2022-10-18-making-compost-in-a-dalek--and-how-to-access-it-charles-dowing-hero.jpg'
+heroImage: '/images/2022-10-18-making-compost-in-a-dalek--and-how-to-access-it-charles-dowding-hero.jpg'
 heroAlt: A dalek, from Blackwall manufacturer
 prev:
   text: "See all my notes from Charles Dowding's vlogs"
   link: ../2022-09-12-all-my-notes-on-the-videos-of-Charles-Dowding/README.md
 next:
   text: 'Three Types of Heap, see how they work and the compost they make'
-  link: ../2022-04-20-three-types-of-heap-for-compost-charles-dowing/README.md
+  link: ../2022-04-20-three-types-of-heap-for-compost-charles-dowding/README.md
 #head:
 #  - [
 #      meta,
@@ -31,7 +31,7 @@ Thanks to Charles Dowding for sharing his wisdom and knowledge!
 The following are the notes I took watching the video published on Charles Dowding's channel.
 You can watch it using [this YouTube link](https://www.youtube.com/watch?v=2scvQgm6HFw).
 
-![A dalek, from Blackwall manufacturer](./images/2022-10-18-making-compost-in-a-dalek--and-how-to-access-it-charles-dowing-hero.jpg)
+![A dalek, from Blackwall manufacturer](./images/2022-10-18-making-compost-in-a-dalek--and-how-to-access-it-charles-dowding-hero.jpg)
 
 _Credits: image taken from Charles Dowding's vlog_
 
@@ -40,7 +40,7 @@ _Credits: image taken from Charles Dowding's vlog_
 
 Making compost is a really useful to do.
 
-See this article to read about Charles's [three types of heap, see how they work and the compost they make](../2022-04-20-three-types-of-heap-for-compost-charles-dowing/README.md).
+See this article to read about Charles's [three types of heap, see how they work and the compost they make](../2022-04-20-three-types-of-heap-for-compost-charles-dowding/README.md).
 
 In this vlog, we will review more detail about the plastic model.
 

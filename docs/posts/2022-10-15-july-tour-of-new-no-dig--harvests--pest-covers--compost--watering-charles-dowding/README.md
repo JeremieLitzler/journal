@@ -3,14 +3,14 @@ isDraft: false
 title: July 2022 tour of new no dig, harvests, pest covers, compost, watering, by Charles Dowding
 description: "The following are the notes I took watching the video published on Charles Dowding's channel"
 date: 2022-10-15
-heroImage: '/images/2022-10-15-july-tour-of-new-no-dig--harvests--pest-covers--compost--watering-charles-dowing-hero.jpg'
+heroImage: '/images/2022-10-15-july-tour-of-new-no-dig--harvests--pest-covers--compost--watering-charles-dowding-hero.jpg'
 heroAlt: A pea pod with large seeds in the hands of Charles
 prev:
   text: "See all my notes from Charles Dowding's vlogs"
   link: ../2022-09-12-all-my-notes-on-the-videos-of-Charles-Dowding/README.md
 #next:
 #  text: ''
-#  link: ../2022-04-20-three-types-of-heap-for-compost-charles-dowing/README.md
+#  link: ../2022-04-20-three-types-of-heap-for-compost-charles-dowding/README.md
 #head:
 #  - [
 #      meta,
@@ -32,7 +32,7 @@ Thanks to Charles Dowding for sharing his wisdom and knowledge!
 The following are the notes I took watching the video published on Charles Dowding's channel.
 You can watch it using [this YouTube link](https://www.youtube.com/watch?v=tzjdcDQ7A8E).
 
-![A pea pod with large seeds in the hands of Charles](./images/2022-10-15-july-tour-of-new-no-dig--harvests--pest-covers--compost--watering-charles-dowing-hero.jpg)
+![A pea pod with large seeds in the hands of Charles](./images/2022-10-15-july-tour-of-new-no-dig--harvests--pest-covers--compost--watering-charles-dowding-hero.jpg)
 
 _Credits: image taken from Charles Dowding's vlog_
 
@@ -148,7 +148,7 @@ With no dig, the soil isn't cracking because of the structure of the soil, fille
 
 ## Compost heaps, the pallet three bay system
 
-I have taken notes on this in [this article](../2022-04-20-three-types-of-heap-for-compost-charles-dowing/README.md)
+I have taken notes on this in [this article](../2022-04-20-three-types-of-heap-for-compost-charles-dowding/README.md)
 
 ## Salads in July
 
