@@ -5,7 +5,7 @@
 ## Prerequisites
 
 - [Git bash](https://git-scm.com/downloads)
-- [NodeJS 16.5.0](https://nodejs.org/en/blog/release/v16.5.0/)
+- [NodeJS 16.13.1](https://nodejs.org/en/blog/release/v16.13.1/)
 - [Visual Studio Code](https://code.visualstudio.com/download)
 
 ## Getting started

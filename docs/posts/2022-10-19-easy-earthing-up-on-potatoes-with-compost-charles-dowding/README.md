@@ -8,9 +8,9 @@ heroAlt: A shovel earthing up a plant of potatoes
 prev:
   text: "See all my notes from Charles Dowding's vlogs"
   link: ../2022-09-12-all-my-notes-on-the-videos-of-Charles-Dowding/README.md
-#next:
-#  text: ''
-#  link: ..//README.md
+next:
+  text: 'You can compost all weeds'
+  link: ../2022-10-20-you-can-compost-all-weeds-charles-dowding/README.md
 #head:
 #  - [
 #      meta,
@@ -24,6 +24,7 @@ category:
   - Gardening
 tag:
   - No Dig
+  - Compost
   - Potatoes
 ---
 
