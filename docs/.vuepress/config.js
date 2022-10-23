@@ -1,12 +1,9 @@
-const version = '1.0.235';
-import { defineUserConfig } from '@vuepress/cli';
+const version = '1.0.238';
 
-import theme from './theme';
+import { defineUserConfig } from '@vuepress/cli';
 import { viteBundler } from '@vuepress/bundler-vite';
 
-import { pwaPlugin } from '@vuepress/plugin-pwa';
-import { pwaPopupPlugin } from '@vuepress/plugin-pwa-popup';
-
+import theme from './theme';
 import { enHeadConfig, frHeadConfig } from './configs/head';
 
 export default defineUserConfig({
