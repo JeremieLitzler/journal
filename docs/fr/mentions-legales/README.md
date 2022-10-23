@@ -2,6 +2,7 @@
 title: Mentions légales
 description: Cette page contient les mentions légales du site "Un journal partagé de Jérémie Litzler"
 date: 2022-10-19
+article: false
 ---
 
 <h2>Définitions</h2>

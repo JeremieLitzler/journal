@@ -2,6 +2,7 @@
 title: Terms and Conditions
 description: This is the terms and conditions page
 date: 2022-10-19
+article: false
 ---
 
 <i>Vous êtes français ? <a href="../fr/mentions-legales/" title="Lire les mentions légales du site">Les mentions légales se trouvent ici !</a></i>
