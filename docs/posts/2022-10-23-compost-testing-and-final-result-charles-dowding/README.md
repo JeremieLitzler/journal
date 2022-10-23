@@ -150,7 +150,7 @@ The progress is producing very interesting results:
 
 - Pot 5 and pot 6 are interesting to compare because, _to me_, it looks like 50% worm compost seems to produce a worse result than 30% worm compost
 
-  ![Pot 5 versus pot 6, with a stronger pot 5](./images/day-40-day-40-pot5-vs-pot6.jpg)
+  ![Pot 5 versus pot 6, with a stronger pot 5](./images/day-40-pot5-vs-pot6.jpg)
 
   _Credits: image taken from Charles Dowding's vlog_
 
