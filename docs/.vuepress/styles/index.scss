@@ -1,4 +1,19 @@
-.home .hero img {
+// .home-page {
+//     background: url("/images/wallpaper.webp") center/cover no-repeat;
+// }
+// .home-page header,
+// .home-page .hero-info,
+// .home-page .home.project .hero .description {
+//   color: white
+// }
+.home.project {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.home .hero img,
+.hero-image {
   border-radius: 20em;
 }
 iframe.contact-form {

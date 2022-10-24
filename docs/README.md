@@ -1,8 +1,13 @@
 ---
 home: true
+containerClass: home-page
+#layout: Blog
+heroFullScreen: true
 title: Home
 heroText: Hello,
 heroImage: /images/profilepic-400w.jpg
+tagline: and welcome to my blog. I hope you will find what you are looking for
+
 actions:
   - text: Who am I
     link: /about
