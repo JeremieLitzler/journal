@@ -33,7 +33,8 @@ export default hopeTheme({
     plugins: {
       blog: true,
       pwa: {
-        cacheHTML: true
+        cacheHTML: true,
+        cachePic: true
       }
     }
 });
