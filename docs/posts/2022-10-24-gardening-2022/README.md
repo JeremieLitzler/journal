@@ -156,3 +156,6 @@ I plan
 However, the main job is to bring better soil, maybe even purchase a large amount of compost. It is supposed to cost 115.5 euros, of which the transport will be 75% of the cost for about one ton of 20 mm organic-compatible compost.
 
 To be continued...
+
+<!-- markdownlint-disable MD033 -->
+<iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe>

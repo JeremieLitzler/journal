@@ -255,3 +255,6 @@ _Credits: image taken from Charles Dowding’s vlog_
 Also, when the plant is big enough, having more drainage with wash away the nutrients.
 
 Compost is brilliant to retain nutrients.
+
+<!-- markdownlint-disable MD033 -->
+<iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe>
