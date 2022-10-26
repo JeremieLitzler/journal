@@ -32,6 +32,9 @@ export default hopeTheme({
     footer: 'GPLv3 Licensed | <a href="terms/" title="Read termes and conditions of this website">Terms</a>',
     plugins: {
       blog: true,
+      mdEnhance: {
+        imageTitle: true
+      },
       pwa: {
         cacheHTML: true,
         cachePic: true
