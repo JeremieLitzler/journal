@@ -8,9 +8,9 @@ heroAlt:
 prev:
   text: "See all my notes from Charles Dowding's vlogs"
   link: ../2022-09-12-all-my-notes-on-the-videos-of-Charles-Dowding/README.md
-next:
-  text: ''
-  link: ..//README.md
+#next:
+#  text: ''
+#  link: ..//README.md
 #head:
 #  - [
 #      meta,
@@ -61,7 +61,7 @@ Before you start with the bed, it is a good idea to cover the chosen area with b
 
 It will serve to weaken the weeds.
 
-![Black polythene cover on a field to convert to no dig garden](./images/preparing-the-area-with-black-polythene%20cover.jpg 'Credits: image taken from Charles Dowding’s vlog')
+![Black polythene cover on a field to convert to no dig garden](./images/preparing-the-area-with-black-polythene-cover.jpg 'Credits: image taken from Charles Dowding’s vlog')
 
 Do it a month before the actual bed making.
 
