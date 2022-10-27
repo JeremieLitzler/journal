@@ -4,7 +4,6 @@
     "prefix": "set frontmatter",
     "body": [
       "---",
-      "isDraft: true",
       "title: $1",
       "description: $2",
       "date: $3",
@@ -30,7 +29,6 @@
     "prefix": "set frontmatter perma",
     "body": [
       "---",
-      "isDraft: true",
       "title: $1, par Permaculture, agroecologie, etc",
       "description: Cet article résume mes notes du vlog réalisé par Permaculture, agroecologie, etc",
       "date: $3",
@@ -66,7 +64,6 @@
     "prefix": "set frontmatter archipelle",
     "body": [
       "---",
-      "isDraft: true",
       "title: $1, par l'Archipelle",
       "description: Cet article résume mes notes du vlog réalisé par par l'Archipelle",
       "date: $3",
@@ -102,7 +99,6 @@
     "prefix": "set frontmatter charles d",
     "body": [
       "---",
-      "isDraft: true",
       "title: $1, by Charles Dowding",
       "description: \"The following are the notes I took watching the video published on Charles Dowding's channel\"",
       "date: $3",
@@ -111,9 +107,9 @@
       "prev:",
       "  text: \"See all my notes from Charles Dowding's vlogs\"",
       "  link: ../2022-09-12-all-my-notes-on-the-videos-of-Charles-Dowding/README.md",
-      "next:",
-      "  text: ''",
-      "  link: ..//README.md",
+      "#next:",
+      "#  text: ''",
+      "#  link: ..//README.md",
       "#head:",
       "#  - [",
       "#      meta,",
@@ -142,7 +138,6 @@
     "prefix": "set frontmatter dutch f",
     "body": [
       "---",
-      "isDraft: true",
       "title: $1, by The Dutch Farmer",
       "description: \"The following are the notes I took watching the video published on The Dutch Farmer's channel\"",
       "date: $3",
@@ -151,9 +146,9 @@
       "prev:",
       "  text: \"See all my notes from Charles Dowding's vlogs\"",
       "  link: ../2022-09-12-all-my-notes-on-the-videos-of-The-Dutch-Farmer/README.md",
-      "next:",
-      "  text: ''",
-      "  link: ..//README.md",
+      "#next:",
+      "#  text: ''",
+      "#  link: ..//README.md",
       "#head:",
       "#  - [",
       "#      meta,",
@@ -182,7 +177,6 @@
     "prefix": "set frontmatter huw r",
     "body": [
       "---",
-      "isDraft: true",
       "title: $1, by Huw Richards",
       "description: \"The following are the notes I took watching the video published on Huw Richards's channel\"",
       "date: $3",
@@ -191,9 +185,9 @@
       "prev:",
       "  text: \"See all my notes from Huw Richards' vlogs\"",
       "  link: ../2022-09-12-all-my-notes-on-the-videos-of-Huw-Richards/README.md",
-      "next:",
-      "  text: ''",
-      "  link: ..//README.md",
+      "#next:",
+      "#  text: ''",
+      "#  link: ..//README.md",
       "#head:",
       "#  - [",
       "#      meta,",
@@ -221,7 +215,6 @@
     "prefix": "set frontmatter pinguin",
     "body": [
       "---",
-      "isDraft: true",
       "title: $1, par Comme un pingouin dans le desert",
       "description: Cet article résume mes notes du vlog réalisé par Comme un pingouin dans le desert",
       "date: $3",
@@ -258,7 +251,6 @@
     "prefix": "set frontmatter olivier",
     "body": [
       "---",
-      "isDraft: true",
       "title: $1, par Le potager d'Olivier",
       "description: Cet article résume mes notes du vlog réalisé par Olivier",
       "date: $3",
@@ -290,7 +282,6 @@
     "prefix": "set frontmatter altheap",
     "body": [
       "---",
-      "isDraft: true",
       "title: $1, par Altheaprovence",
       "description: Cet article résume mes notes du vlog réalisé par Altheaprovence",
       "date: $3",
@@ -326,7 +317,6 @@
     "prefix": "set frontmatter chem nature",
     "body": [
       "---",
-      "isDraft: true",
       "title: $1, par Le chemin de la nature",
       "description: Cet article résume mes notes du vlog réalisé par Le chemin de la nature",
       "date: $3",
