@@ -1,13 +1,11 @@
 ---
 title: How to prepare tomato seeds after a harvest
-description: "So I can plant new seedlings next year :smile:"
+description: 'So I can plant new seedlings next year :smile:'
 date: 2021-08-21
-isDraft: true
-meta:
-  keywords:
-    - Gardening
+category:
+  - Gardening
 tag:
-  - Tomatoes
+  - Tomato
   - Seeds
 ---
 

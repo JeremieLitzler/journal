@@ -2,9 +2,12 @@
 title: How to reduce one's exposition to blue light
 description: This will help you a lot if you spend a lot of time in front of a screen
 date: 2021-08-25
-meta:
-  keywords:
-    - Health
+category:
+  - Health
+
+tag:
+  - Blue light
+  - Screens
 ---
 
 [Read the french version](../fr/articles/2021-08-25-reduire-son-exposition-a-la-lumiere-bleue)

@@ -6,7 +6,7 @@ category:
   - Santé
 ---
 
-[Lire la version anglaise](../../../posts/2021-08-25-reduce-blue-light-exposure.md)
+[Lire la version anglaise](../../../posts/2021-08-25-reduce-blue-light-exposure/README.md)
 
 ## Connaissez-vous la _lumière bleue_
 

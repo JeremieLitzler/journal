@@ -4,10 +4,13 @@ description: Learn build mobile-friendly websites in a complete course using an 
 date: 2020-03-16
 heroImage: '/images/webresponsive-bootcamp-by-scrimba.png'
 heroAlt: Screenshot of the course homepage
-meta:
-  keywords:
-    - Web Fundamentals
-    - Course reviews
+category:
+  - Web Fundamentals
+  - Course reviews
+tag:
+  - Responsive Design
+  - CSS
+  - HTML
 ---
 
 ## What

@@ -4,9 +4,13 @@ description: A set of examples of the various elements in a post and how they wi
 date: 2021-01-28
 heroImage: '/images/2021-01-28-styleguide.jpg'
 heroAlt: A Macintosh computer on a desk
-meta:
-  keywords:
-    - Web fundamentals
+category:
+  - Web fundamentals
+
+tag:
+  - Markdown
+  - VuePress
+  - Jamstack
 ---
 
 _Note:_ H1 is included in the frontmatter, property `title`. Check out [the VuePress docs](https://v2.vuepress.vuejs.org/reference/default-theme/frontmatter.html).

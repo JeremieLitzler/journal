@@ -1,11 +1,13 @@
 ---
 title: A BEM Cheatsheet
-description: How does BEM work to structure CSS?
+description: 'How does BEM work to structure CSS?'
 date: 2018-02-21
-meta:
-  keywords:
-    - Web development
-    - Guides
+category:
+  - Web development
+  - Guides
+tag:
+  - BEM
+  - CSS
 ---
 
 ## Sources

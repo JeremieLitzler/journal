@@ -70,7 +70,7 @@ Charles has been doing this for 10 years, with an initial dose of 10 cm.
 
 The compost is eaten all the time, so the levels of the bed are not rising.
 
-![Pathways at the same level as the beds](./imagess/pathways-at-the-same-level-as-the-beds.jpg "Credits: image taken from Charles Dowding's vlog")
+![Pathways at the same level as the beds](./images/pathways-at-the-same-level-as-the-beds.jpg "Credits: image taken from Charles Dowding's vlog")
 
 Compost is not soil.
 

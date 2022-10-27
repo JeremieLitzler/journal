@@ -4,10 +4,11 @@ description: "Let's be productive and use shortcuts!"
 date: 2021-12-28
 ##heroImage: "/images/.jpg"
 ##heroAlt:
-meta:
-  keywords:
-    - Git
-    - CLI
+category:
+  - Web development
+tag:
+  - Git
+  - CLI
 ---
 
 ## What are Git aliases

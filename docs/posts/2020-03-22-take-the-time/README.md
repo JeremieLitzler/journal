@@ -1,13 +1,14 @@
 ---
 title: Balance your time. Balance your time.
-description: Life is made a lot of interesting stuff. Don't let any take over.
+description: Life is made a lot of interesting stuff. Don't let any take over
 date: 2020-03-22
 heroImage: '/images/take-the-time.jpeg'
 heroAlt: Someone walking on a log
-meta:
-  keywords:
-    - Using Energy
-    - Work organisation
+category:
+  - Using Energy
+  - Work organisation
+tag:
+  - Time management
 ---
 
 [Support me by reading the story on Medium](https://jeremie-litzler.medium.com/take-the-time-for-your-spouse-take-the-time-for-your-children-take-the-time-for-you-dbd896e37638)!

@@ -1,17 +1,14 @@
 ---
 title: Be nicer. Period
-description: Yes, life is tough, we are all overwhelmed but it is no excuse.
-heroImage: "/images/be-nicer.jpg"
+description: Yes, life is tough, we are all overwhelmed but it is no excuse
+heroImage: '/images/be-nicer.jpg'
 heroAlt: Little girls hugging
-meta:
-  keywords:
-    - Using Energy
-    - Relationships
+category:
+  - Using Energy
+  - Relationships
 ---
 
 ![Little girls hugging](/images/be-nicer.jpg)
-
-[Support me by reading the story on Medium](https://jeremie-litzler.medium.com/be-nicer-period-18c2d18c30de)!
 
 It is not expensive.
 

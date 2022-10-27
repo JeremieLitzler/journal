@@ -4,10 +4,12 @@ description: Or is it something that is under our noses?
 date: 2020-03-25
 heroImage: '/images/do-we-need-the-coronavirus-hero.jpeg'
 heroAlt: Drawing on a wall of a scooter driver
-meta:
-  keywords:
-    - Health and Diet
-    - Using Energy
+category:
+  - Health and Diet
+  - Using Energy
+tag:
+  - Coronavirus
+  - Pollution
 ---
 
 ## Air and Noice pollution have decreased

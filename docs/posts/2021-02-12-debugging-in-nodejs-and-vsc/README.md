@@ -4,11 +4,13 @@ description: Debugging is at the heart of software development. Enable it today 
 date: 2021-02-12
 heroImage: '/images/2021-02-12-debugging-in-nodejs-and-vsc.jpg'
 heroAlt: A robot connected to a computer on a soccer field.
-meta:
-  keywords:
-    - Web development
-    - Guides
-# tag: NodeJS, Visual Studio Code, Configure IDE
+category:
+  - Web development
+  - Guides
+tag:
+  - NodeJS
+  - Visual Studio Code
+  - Configure IDE
 ---
 
 Debugging is the life of any developper. It allows you to check when your code doesn't behave... because you gave it the wrong instructions.

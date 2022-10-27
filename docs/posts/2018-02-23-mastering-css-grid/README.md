@@ -2,10 +2,12 @@
 title: Mastering CSS Grid
 description: I will share a couple of resources teaching you to use CSS Grid
 date: 2018-02-23
-meta:
-  keywords:
-    - Web Fundamentals
-    - Web development
+category:
+  - Web Fundamentals
+  - Web development
+tag:
+  - CSS Grid
+  - Web layout
 ---
 
 - ["11 Things I Learned Reading the CSS Grid Specification" by Ohans Emmanuel](https://medium.freecodecamp.org/11-things-i-learned-reading-the-css-grid-specification-fb3983aa5e0)

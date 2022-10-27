@@ -4,10 +4,12 @@ description: Learn how JavaScript works today.
 date: 2020-12-20
 heroImage: '/images/es6-by-wesbos.png'
 heroAlt: Screenshot of the course homepage
-meta:
-  keywords:
-    - Web Fundamentals
-    - Course reviews
+category:
+  - Web Fundamentals
+  - Course reviews
+tag:
+  - ES6
+  - JavaScript
 ---
 
 ## What

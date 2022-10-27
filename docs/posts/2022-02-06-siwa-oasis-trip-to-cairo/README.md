@@ -4,9 +4,11 @@ description: 'Day 1: the trip to Cairo'
 date: 2022-02-26
 heroImage: '/images/2022-02-06-siwa-oasis-trip-to-cairo-hero.jpg'
 heroAlt: A person walking near the Sphynx and the Pyramids of Egypt.
-meta:
-  keywords:
-    - Travel
+category:
+  - Travel
+tag:
+  - Egypt
+  - Siwa oasis
 ---
 
 ![A person walking near the Sphynx and the Pyramids of Egypt.](/images/2022-02-06-siwa-oasis-trip-to-cairo-hero.jpg)

@@ -1,11 +1,13 @@
 ---
 title: CSS Variables
-description: Enhance your CSS with variables without LESS or SASS.
+description: Enhance your CSS with variables without LESS or SASS
 date: 2018-02-22
-meta:
-  keywords:
-    - Web Fundamentals
-    - Web development
+category:
+  - Web Fundamentals
+  - Web development
+tag:
+  - CSS
+  - CSS Variables
 ---
 
 ## Sources

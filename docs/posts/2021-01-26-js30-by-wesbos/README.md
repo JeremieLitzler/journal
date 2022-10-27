@@ -4,11 +4,14 @@ description: Test your JavaScript skills for a month. You will learn something!
 date: 2021-01-26
 heroImage: '/images/js30-by-wesbos.png'
 heroAlt: Screenshot of the course homepage
-meta:
-  keywords:
-    - Web Fundamentals
-    - Course reviews
-# tag: Month challenge, Learning JavaScript, Fun projects
+category:
+  - Web Fundamentals
+  - Course reviews
+tag:
+  - 1-Month challenge,
+  - Learning JavaScript,
+  - Fun projects
+  - JavaScript
 ---
 
 ## What
