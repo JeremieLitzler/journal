@@ -33,11 +33,12 @@ export default hopeTheme({
     plugins: {
       blog: true,
       mdEnhance: {
-        imageTitle: true
+        imageTitle: true,
+        lazyLoad: true
       },
       pwa: {
         cacheHTML: true,
-        cachePic: true
+        //cachePic: true
       }
     }
 });
