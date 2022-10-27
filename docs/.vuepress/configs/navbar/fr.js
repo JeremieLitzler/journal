@@ -2,7 +2,7 @@ import { navbar } from 'vuepress-theme-hope';
 
 export const frNavBarConfig = navbar([
   '/fr/',
-  '/fr/a-propos',
+  '/fr/a-propos/',
   {
     text: 'Lire',
     children: [
@@ -20,5 +20,5 @@ export const frNavBarConfig = navbar([
       },
     ],
   },
-  { text: 'Contactez-moi', link: '/fr/contactez-moi' },
+  { text: 'Contactez-moi', link: '/fr/contactez-moi/' },
 ]);
