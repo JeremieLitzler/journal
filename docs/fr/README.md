@@ -2,13 +2,14 @@
 home: true
 title: Accueil
 heroText: 'Bonjour,'
+tagline: "et bienvenue sur mon blog. J'espère que vous y trouverez ce que vous cherchez !"
 heroImage: /images/profilepic-400w.jpg
 actions:
   - text: Qui suis-je ?
-    link: /fr/a-propos
+    link: /fr/a-propos/
     type: secondary
   - text: Lire
-    link: /fr/articles
+    link: /fr/article/
     type: primary
 # features:
 #   - title: Why this site?
