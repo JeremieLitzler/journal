@@ -1,7 +1,7 @@
 ---
 title: Terms and Conditions
 description: This is the terms and conditions page
-date: 2022-10-19
+date: 2021-08-10
 article: false
 ---
 
