@@ -2,7 +2,7 @@
 home: true
 title: Accueil
 heroText: 'Bonjour,'
-tagLine: "et bienvenue sur mon blog. J'espère que vous y trouverez ce que vous cherchez !"
+tagline: "et bienvenue sur mon blog. J'espère que vous y trouverez ce que vous cherchez !"
 heroImage: /images/profilepic-400w.jpg
 actions:
   - text: Qui suis-je ?
