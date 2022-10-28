@@ -15,6 +15,8 @@ article: false
 
 <p>The following terminology applies to these Terms and Conditions, Privacy Statement and Disclaimer Notice and all Agreements: "Client", "You" and "Your" refers to you, the person log on this website and compliant to the Company’s terms and conditions. "The Company", "Ourselves", "We", "Our" and "Us", refers to my Company. "Party", "Parties", or "Us", refers to both the Client and ourselves. All terms refer to the offer, acceptance and consideration of payment necessary to undertake the process of my assistance to the Client in the most appropriate manner for the express purpose of meeting the Client’s needs in respect of provision of the Company’s stated services, in accordance with and subject to, prevailing law of Netherlands. Any use of the above terminology or other words in the singular, plural, capitalization and/or he/she or they, are taken as interchangeable and therefore as referring to same.</p>
 
+<p>The content I publish may contain affiliate links to support my work. I only and always promote products or services that I have bought or tested myself.</p>
+
 <h3><strong>Cookies</strong></h3>
 
 <p>I employ no cookies on this website. You can use <a href="https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=fr" title="Link to the Chrome extension">EditThisCookie</a> for Google Chrome or any similar extension of your favorite browser.

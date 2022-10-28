@@ -177,4 +177,4 @@ See the beds of Charles from an aerial view:
 
 _Credits: image taken from Charles Dowding's vlog_
 
-If you want a big resource on the No Dig method, [checkout Charles's book](https://amzn.to/3ELjByW).
+If you want a big resource on the No Dig method, Checkout Charles’s book (use the link according to your location: [in France](https://amzn.to/3ELjByW), [in the US](https://amzn.to/3SROzJm) or [in the UK](https://amzn.to/3Nlrpd1)) for more details.

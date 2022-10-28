@@ -25,13 +25,12 @@ category:
 tag:
   - No Dig
   - Compost
-article: false
 ---
 
-![Bruxel sprouts growing in woody compost](./images/2022-10-28-charles-dowding-shows-compost-qualities--when-to-spread--and-how-much-charles-dowding-hero.jpg "Credits: image taken from Charles Dowding's vlog")
+![Brussels sprouts growing in woody compost](./images/2022-10-28-charles-dowding-shows-compost-qualities--when-to-spread--and-how-much-charles-dowding-hero.jpg 'Credits: image taken from Charles Dowding’s vlog')
 
 Thanks to Charles Dowding for sharing his wisdom and knowledge!
-The following are the notes I took watching the video published on Charles Dowding's channel.
+The following are the notes I took watching the video published on Charles Dowding’s channel.
 You can watch it using [this YouTube link](https://www.youtube.com/watch?v=s71f18ila1c).
 
 <!-- markdownlint-disable MD033 -->
@@ -41,26 +40,26 @@ We will look into the misunderstandings and questions about compost and spreadin
 
 ## What is the best time to spread compost
 
-This question leads to the misunderstanding that nutrients leach out of compost. They do not.
+This question leads to the misunderstanding that nutrients leach out of compost. They don't.
 
-Compost is not fertilizer.
+Compost isn't fertilizer.
 
-Compost feeds soil life and helps build the mycelia threads benefical for the soil and plants, like you can see below.
+Compost feeds soil life and helps build the mycelia threads beneficial for the soil and plants, like you can see below.
 
-![Threads of mycelia](./images/thread-of-mycelia.jpg "Credits: image taken from Charles Dowding's vlog")
+![Threads of mycelia](./images/thread-of-mycelia.jpg 'Credits: image taken from Charles Dowding’s vlog')
 
-They make available the nutrients which sits there unsoluble in water.
+They make available the nutrients which sits there insoluble in water.
 
 You can spread the compost in autumn to please the soil the most.
 And you can apply the compost around existing crops.
 
 ## How much compost
 
-Charles put every year 2.5 cm, but it is close to 2 cm.
+Charles put every year 2.5 cm, but it's close to 2 cm.
 
-Putting the compost in the winter also is benefical to grow two different crops a year.
+Putting the compost in the winter benefits the growth of two different crops a year.
 
-![Carotts with bruxel sprouts in the same garden bed](./images/succession-crops.jpg "Credits: image taken from Charles Dowding's vlog")
+![Carrots with Brussels sprouts in the same garden bed](./images/succession-crops.jpg 'Credits: image taken from Charles Dowding’s vlog')
 
 It makes the gardener much easier.
 
@@ -68,29 +67,29 @@ It makes the gardener much easier.
 
 Charles has been doing this for 10 years, with an initial dose of 10 cm.
 
-The compost is eaten all the time, so the levels of the bed are not rising.
+The compost is eaten all the time, so the levels of the bed don't rise.
 
-![Pathways at the same level as the beds](./images/pathways-at-the-same-level-as-the-beds.jpg "Credits: image taken from Charles Dowding's vlog")
+![Pathways at the same level as the beds](./images/pathways-at-the-same-level-as-the-beds.jpg 'Credits: image taken from Charles Dowding’s vlog')
 
-Compost is not soil.
+Compost isn't soil.
 
-## In a 16th of acre, how much compost do you need
+## In a 16th of acres, how much compost do you need
 
-![a 250 m² garden](./images/250-m2-garden.jpg "Credits: image taken from Charles Dowding's vlog")
+![a 250 m² garden](./images/250-m2-garden.jpg 'Credits: image taken from Charles Dowding’s vlog')
 
-You will need 4 cubic meters, which is 2.4 tons.
+You will need 4 cubic meters, which equals to 2.4 tons.
 
-Charles actually details that you don't spread compost the whole area.
+Charles details that you don’t spread compost the whole area.
 
-For example, the pathways can be woodchips or tiles.
+For example, the pathways can be covered with woodchips or tiles.
 
-![Garden beds seperated by woodchips pathways](./images/beds-seperated-by-pathways.jpg "Credits: image taken from Charles Dowding's vlog")
+![Garden beds separated by woodchips pathways](./images/beds-seperated-by-pathways.jpg 'Credits: image taken from Charles Dowding’s vlog')
 
-In the end, it is more about two third of the area.
+In the end, it equals to about two third of the area.
 
-## What does well rotted compost mean
+## What does well-rotted compost mean
 
-First, a compost doesn't need to be perfect.
+First, a compost doesn’t need to be perfect.
 
 Wood pieces are for fungal life.
 
@@ -98,14 +97,25 @@ Wood pieces are for fungal life.
 
 You will have:
 
-- homemade, of about 1 year old, depending on how much woody parts you have in it.
-- green waste, that you need to age to yield a good result.
-- manure is food for the soil, but again, try not to use it fresh or use it in a thin layer. It is not technically compost as a fresh product, but becomes one after a year of maturation
+- Homemade, of about 1 year old, depending on how much woody parts you have in it.
+- Green waste, that you need to age to yield a good result.
+- Manure represents food for the soil, but again, try not to use it fresh or use it in a thin layer. It's not technically compost as a fresh product, but becomes one after a year of maturation.
 
-  ![Fresh vs mature horse manure](./images/fresh-vs-mature-horse-manure.jpg "Credits: image taken from Charles Dowding's vlog")
+  ![Fresh versus mature horse manure](./images/fresh-vs-mature-horse-manure.jpg 'Credits: image taken from Charles Dowding’s vlog')
 
-- woodchip, can become compost, but it will require a lot of time so the wood is well decomposed. _Remember_, the woodchip below will look like wood after being washed by rain.
+- Woodchips can become compost, but it will require a lot of time so the wood decomposes well. _Remember_, the woodchip below will look like wood after the rain washes it.
 
-![Woodchip compost](./images/woodchip-compost.jpg "Credits: image taken from Charles Dowding's vlog")
+  ![Woodchip compost](./images/woodchip-compost.jpg 'Credits: image taken from Charles Dowding’s vlog')
 
-_14:41_
+## When is compost ready
+
+Three-month-old compost, still steaming, isn't ready to use.
+
+You will know when the temperature isn't high anymore. It will give you better results when using a mature compost.
+
+Indeed, the living organisms in the soil won’t have to perform the heavy work of breaking down the material in the compost and will focus on bringing the nutrients to the plants.
+
+Checkout Charles’s book (use the link according to your location: [in France](https://amzn.to/3ELjByW), [in the US](https://amzn.to/3SROzJm) or [in the UK](https://amzn.to/3Nlrpd1)) for more details about compost.
+
+<!-- markdownlint-disable MD033 -->
+<iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe>

@@ -61,11 +61,5 @@
     "prefix": "personal note fr",
     "body": [":::tip Note personnelle", "$1", ":::"],
     "description": "add personal note fr"
-  },
-  "Charles's Dowding book": {
-    "scope": "markdown",
-    "prefix": "charles book link",
-    "body": "[Charles's book](https://amzn.to/3ELjByW)",
-    "description": "Adds Charles's book link"
   }
 }
