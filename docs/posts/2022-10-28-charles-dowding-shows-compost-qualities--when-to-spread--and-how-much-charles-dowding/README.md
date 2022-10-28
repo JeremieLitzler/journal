@@ -1,5 +1,4 @@
 ---
-isDraft: true
 title: Charles Dowding shows compost qualities, when to spread, and how much, by Charles Dowding
 description: "The following are the notes I took watching the video published on Charles Dowding's channel"
 date: 2022-10-22
