@@ -1,5 +1,5 @@
 <template>
-  <section class="posts">
+  <!--<section class="posts">
     <article class="post" v-for="article in articles">
       <a v-bind:href="article.path"
         ><h2>{{ article.title }}</h2>
@@ -18,51 +18,51 @@
           v-for="key in article.frontmatter.meta.keywords"
           >{{ key }}</span
         >
-      </div>
-      <!-- <hr /> -->
-    </article>
-  </section>
+      </div>-->
+  <!-- <hr /> -->
+  <!-- </article> -->
+  <!-- </section>-->
 </template>
 <script>
-import pages from '@temp/pages.js';
-import { getIndexStartWith } from '../helpers/MarkdownFilesIndexBuilder.js';
+// import pages from '@temp/pages.js';
+// import { getIndexStartWith } from '../helpers/MarkdownFilesIndexBuilder.js';
 
-export default {
-  props: {
-    startPath: {
-      type: String,
-      required: true,
-    },
-    showDrafts: {
-      type: Boolean,
-    },
-  },
-  computed: {
-    articles() {
-      // console.log("all pages", pages);
-      const filteredPages = getIndexStartWith(this.startPath, pages)
-        .filter((x) => {
-          //console.log(`${x.slug} => isIndexPage=${x.frontmatter.isIndexPage}`);
-          console.log(`${x.slug} => isDraft=${x.frontmatter.isDraft}`);
-          if (
-            (this.showDrafts && !x.frontmatter.isIndexPage) || //show drafts only
-            (!x.frontmatter.isIndexPage &&
-              (!x.frontmatter.isDraft || x.frontmatter.isDraft === undefined)) //or not...
-          )
-            return x;
-        })
-        .sort(
-          (a, b) =>
-            new Date(a.frontmatter.date) - new Date(b.frontmatter.date)
-              ? -1
-              : 1, //order from newest to oldest
-          //new Date(a.frontmatter.date) - new Date(b.frontmatter.date) ? -1 : 1, //order from oldest to newest
-        );
-      // console.log("Filtered:", filteredPages);
-      return filteredPages;
-    },
-  },
-};
+// export default {
+//   props: {
+//     startPath: {
+//       type: String,
+//       required: true,
+//     },
+//     showDrafts: {
+//       type: Boolean,
+//     },
+//   },
+//   computed: {
+//     articles() {
+//       // console.log("all pages", pages);
+//       const filteredPages = getIndexStartWith(this.startPath, pages)
+//         .filter((x) => {
+//           //console.log(`${x.slug} => isIndexPage=${x.frontmatter.isIndexPage}`);
+//           console.log(`${x.slug} => isDraft=${x.frontmatter.isDraft}`);
+//           if (
+//             (this.showDrafts && !x.frontmatter.isIndexPage) || //show drafts only
+//             (!x.frontmatter.isIndexPage &&
+//               (!x.frontmatter.isDraft || x.frontmatter.isDraft === undefined)) //or not...
+//           )
+//             return x;
+//         })
+//         .sort(
+//           (a, b) =>
+//             new Date(a.frontmatter.date) - new Date(b.frontmatter.date)
+//               ? -1
+//               : 1, //order from newest to oldest
+//           //new Date(a.frontmatter.date) - new Date(b.frontmatter.date) ? -1 : 1, //order from oldest to newest
+//         );
+//       // console.log("Filtered:", filteredPages);
+//       return filteredPages;
+//     },
+//   },
+// };
 </script>
 <style>
 .keywords {
