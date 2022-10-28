@@ -1,11 +1,8 @@
 ---
-isDraft: true
 title: Contactez-moi
 description: Je réponds à tous les emails, donnez-moi un peu de temps pour vous répondre au mieux.
-date: 2022-08-19
-meta:
-  keywords:
-    - Contact
+date: 2021-08-10
+article: false
 ---
 
 <!-- markdownlint-disable MD033 -->

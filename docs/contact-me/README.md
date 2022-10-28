@@ -1,11 +1,8 @@
 ---
-isDraft: true
 title: Want to contact me?
 description: I read all my emails and, if you give a moment, I shall promptly reply to you. Talk to you soon!
-date: 2022-08-19
-meta:
-  keywords:
-    - Contact
+date: 2021-08-10
+article: false
 ---
 
 <iframe class="contact-form"

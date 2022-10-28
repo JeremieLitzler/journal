@@ -1,6 +1,8 @@
 ---
 title: Qui suis-je ?
 description: Une présentation de Jérémie Litzler et du but du site.
+date: 2021-08-10
+article: false
 ---
 
 ![Jérémie gravissant la viaferrata à Kandersteg, Suisse](/images/profilepic-400w.jpg)

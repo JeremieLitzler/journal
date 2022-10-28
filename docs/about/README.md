@@ -1,6 +1,8 @@
 ---
 title: Who am I?
 description: A brief presentation of Jérémie Litzler and the goal of this website.
+date: 2021-08-10
+article: false
 ---
 
 ![Jeremie climbing the Kandersteg's viaferrata](/images/profilepic-400w.jpg)
