@@ -1,7 +1,7 @@
 {
-    "name": "A blog, written by Jérémie Litzler",
+    "name": "Journal of Jeremie Litzler",
     "short_name": "Blog of Jeremiel",
-    "description": "A PWA listing notes and experiences of Jérémie Litzler",
+    "description": "Journal of notes and experiences of Jérémie Litzler (available offline after installation)",
     "icons": [{
         "src": "/icons/android-chrome-192x192.png",
         "sizes": "192x192",

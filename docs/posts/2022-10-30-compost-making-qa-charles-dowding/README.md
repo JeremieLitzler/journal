@@ -24,8 +24,6 @@ category:
 tag:
   - No Dig
   - Compost
-
-article: false
 ---
 
 ![A garden with cabbage and other vegetables](./images/2022-10-30-compost-making-qa-charles-dowding-hero.jpg 'Credits: image taken from Charles Dowding’s vlog')

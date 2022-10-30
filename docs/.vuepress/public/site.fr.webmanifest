@@ -1,7 +1,7 @@
 {
-    "name": "Un blog, maintenu par Jérémie Litzler",
-    "short_name": "Blog de Jeremiel",
-    "description": "Une application web progressive contenant les notes et experiences de Jérémie Litzler",
+    "name": "Journal de Jeremie Litzler",
+    "short_name": "Blog J. Litzler",
+    "description": "Journal sur les notes et experiences de Jérémie Litzler (disponible hors ligne après installation)",
     "icons": [{
         "src": "/icons/android-chrome-192x192.png",
         "sizes": "192x192",
