@@ -16,7 +16,7 @@ export const enNavBarConfig = navbar([
       },
       {
         text: 'By tag',
-        link: '/fr/tag/compost',
+        link: '/tag/compost',
       },
     ],
   },
