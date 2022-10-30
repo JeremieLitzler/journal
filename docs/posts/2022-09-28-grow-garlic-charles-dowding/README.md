@@ -7,7 +7,7 @@ heroImage: '/images/2022-09-22-supermarket-garlic-for-seed-charles-dowding-hero.
 heroAlt: "Harvest of elephant garlic from Charles Dowding's garden"
 prev:
   text: "See all my notes from Charles Dowding's vlogs"
-  link: ../2022-09-12-all-my-notes-on-the-videos-of-Charles-Dowding/README.md
+  link: ../2022-09-12-all-my-notes-on-the-videos-of-Charles-Dowding
 next:
   text: 'Supermarket Garlic For Seed'
   link: ../2022-09-22-supermarket-garlic-for-seed-charles-dowding/README.md

@@ -7,7 +7,7 @@ heroImage: '/images/2022-10-13-how-much--how-little-compost-do-you-need-to-grow-
 heroAlt: A garden with a lot of vegetables, like cabbages
 prev:
   text: "See all my notes from Charles Dowding's vlogs"
-  link: ../2022-09-12-all-my-notes-on-the-videos-of-Charles-Dowding/README.md
+  link: ../2022-09-12-all-my-notes-on-the-videos-of-Charles-Dowding
 next:
   text: ''
   link: ../2022-09-22-supermarket-garlic-for-seed-charles-dowding/README.md

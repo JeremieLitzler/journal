@@ -7,7 +7,7 @@ heroImage: '/images/2022-10-27-composting-in-a-few-easy-steps---quick-ways-to-ma
 heroAlt: Homeacres property viewed from above
 prev:
   text: "See all my notes from Charles Dowding's vlogs"
-  link: ../2022-09-12-all-my-notes-on-the-videos-of-Charles-Dowding/README.md
+  link: ../2022-09-12-all-my-notes-on-the-videos-of-Charles-Dowding
 #next:
 #  text: ''
 #  link: ..//README.md

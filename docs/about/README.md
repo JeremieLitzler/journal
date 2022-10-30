@@ -7,7 +7,7 @@ article: false
 
 ![Jeremie climbing the Kandersteg's viaferrata](/images/profilepic-400w.jpg)
 
-[Read in french](./fr/a-propos/README.md)
+[Read in french](../fr/a-propos/README.md)
 
 Everyone has a story. This is mine. So far.
 

@@ -7,7 +7,7 @@ article: false
 
 ![Jérémie gravissant la viaferrata à Kandersteg, Suisse](/images/profilepic-400w.jpg)
 
-[Lire la version anglaise](../about.md)
+[Lire la version anglaise](../../about/README.md)
 
 Tout a une histoire. Voici la mienne, jusqu'à présent.
 

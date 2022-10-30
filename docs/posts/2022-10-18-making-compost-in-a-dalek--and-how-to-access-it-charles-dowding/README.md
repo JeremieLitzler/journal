@@ -7,7 +7,7 @@ heroImage: '/images/2022-10-18-making-compost-in-a-dalek--and-how-to-access-it-c
 heroAlt: A dalek, from Blackwall manufacturer
 prev:
   text: "See all my notes from Charles Dowding's vlogs"
-  link: ../2022-09-12-all-my-notes-on-the-videos-of-Charles-Dowding/README.md
+  link: ../2022-09-12-all-my-notes-on-the-videos-of-Charles-Dowding
 next:
   text: 'Three Types of Heap, see how they work and the compost they make'
   link: ../2022-04-20-three-types-of-heap-for-compost-charles-dowding/README.md

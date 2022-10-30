@@ -7,7 +7,7 @@ heroImage: '/images/2022-10-15-july-tour-of-new-no-dig--harvests--pest-covers--c
 heroAlt: A pea pod with large seeds in the hands of Charles
 prev:
   text: "See all my notes from Charles Dowding's vlogs"
-  link: ../2022-09-12-all-my-notes-on-the-videos-of-Charles-Dowding/README.md
+  link: ../2022-09-12-all-my-notes-on-the-videos-of-Charles-Dowding
 #next:
 #  text: ''
 #  link: ../2022-04-20-three-types-of-heap-for-compost-charles-dowding/README.md

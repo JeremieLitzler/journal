@@ -6,7 +6,7 @@ heroImage: '/images/2022-10-28-charles-dowding-shows-compost-qualities--when-to-
 heroAlt: Bruxel sprouts growing in woody compost
 prev:
   text: "See all my notes from Charles Dowding's vlogs"
-  link: ../2022-09-12-all-my-notes-on-the-videos-of-Charles-Dowding/README.md
+  link: ../2022-09-12-all-my-notes-on-the-videos-of-Charles-Dowding
 #next:
 #  text: ''
 #  link: ..//README.md

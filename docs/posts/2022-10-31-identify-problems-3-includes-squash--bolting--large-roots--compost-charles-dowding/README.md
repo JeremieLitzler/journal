@@ -6,7 +6,7 @@ heroImage: '/images/2022-10-31-identify-problems-3-includes-squash--bolting--lar
 heroAlt: A view from the air of a large squash patch in a garden
 prev:
   text: "See all my notes from Charles Dowding's vlogs"
-  link: ../2022-09-12-all-my-notes-on-the-videos-of-Charles-Dowding/README.md
+  link: ../2022-09-12-all-my-notes-on-the-videos-of-Charles-Dowding
 #next:
 #  text: ''
 #  link: ..//README.md
