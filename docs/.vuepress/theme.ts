@@ -29,7 +29,7 @@ export default hopeTheme({
       } 
     },
     displayFooter: true,
-    footer: 'GPLv3 Licensed | <a href="./terms" title="Read termes and conditions of this website">Terms</a>',
+    footer: 'GPLv3 Licensed | <a href="https://iamjeremie.me/terms" title="Read termes and conditions of this website">Terms</a>',
     plugins: {
       blog: true,
       mdEnhance: {
