@@ -12,11 +12,11 @@ export const enNavBarConfig = navbar([
       },
       {
         text: 'By category',
-        link: '/category/garden',
+        link: '/category/gardening',
       },
       {
         text: 'By tag',
-        link: '/fr/tag/seeds',
+        link: '/fr/tag/compost',
       },
     ],
   },

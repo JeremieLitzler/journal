@@ -12,7 +12,7 @@ export const frNavBarConfig = navbar([
       },
       {
         text: 'Par catégorie',
-        link: '/fr/category/energie',
+        link: '/fr/category/jardin',
       },
       {
         text: 'Par tag',
