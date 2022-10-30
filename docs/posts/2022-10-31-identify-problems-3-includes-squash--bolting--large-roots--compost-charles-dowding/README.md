@@ -23,7 +23,7 @@ category:
   - Gardening
 tag:
   - No Dig
-  -
+article: false
 ---
 
 ![A view from the air of a large squash patch in a garden](./images/2022-10-31-identify-problems-3-includes-squash--bolting--large-roots--compost-charles-dowding-hero.jpg 'Credits: image taken from Charles Dowding’s vlog')
