@@ -1,6 +1,7 @@
 ---
 title: Be nicer. Period
 description: Yes, life is tough, we are all overwhelmed but it is no excuse
+date: 2020-03-09
 heroImage: '/images/be-nicer.jpg'
 heroAlt: Little girls hugging
 category:
