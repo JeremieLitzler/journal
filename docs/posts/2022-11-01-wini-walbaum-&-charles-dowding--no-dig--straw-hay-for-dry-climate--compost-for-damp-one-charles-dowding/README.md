@@ -27,6 +27,7 @@ tag:
   - Dry climate
   - UK
   - Chile
+article: false
 ---
 
 ![A garden in Chile with a lot of sunflowers](./images/2022-11-01-wini-walbaum-charles-dowding--no-dig--straw-hay-for-dry-climate--compost.jpg 'Credits: image taken from Charles Dowding’s vlog')
