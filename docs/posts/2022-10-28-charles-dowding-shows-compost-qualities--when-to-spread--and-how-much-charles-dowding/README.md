@@ -1,6 +1,6 @@
 ---
 title: Charles Dowding shows compost qualities, when to spread, and how much, by Charles Dowding
-description: "The following are the notes I took watching the video published on Charles Dowding's channel"
+description: "I wrote the following notes watching the video published on Charles Dowding's channel"
 date: 2022-10-22
 heroImage: '/images/2022-10-28-charles-dowding-shows-compost-qualities--when-to-spread--and-how-much-charles-dowding-hero.jpg'
 heroAlt: Bruxel sprouts growing in woody compost
@@ -29,7 +29,7 @@ tag:
 ![Brussels sprouts growing in woody compost](./images/2022-10-28-charles-dowding-shows-compost-qualities--when-to-spread--and-how-much-charles-dowding-hero.jpg 'Credits: image taken from Charles Dowding’s vlog')
 
 Thanks to Charles Dowding for sharing his wisdom and knowledge!
-The following are the notes I took watching the video published on Charles Dowding’s channel.
+I wrote the following notes watching the video published on Charles Dowding’s channel.
 You can watch it using [this YouTube link](https://www.youtube.com/watch?v=s71f18ila1c).
 
 <!-- markdownlint-disable MD033 -->

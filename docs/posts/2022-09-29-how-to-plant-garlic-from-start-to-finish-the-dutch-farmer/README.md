@@ -1,7 +1,7 @@
 ---
 isDraft: false
 title: How to Plant Garlic From Start to Finish, by The Dutch Farmer
-description: "The following are the notes I took watching the video published on The Dutch Farmer's channel"
+description: "I wrote the following notes watching the video published on The Dutch Farmer's channel"
 date: 2022-09-29
 heroImage: '/images/2022-09-29-how-to-plant-garlic-from-start-to-finish-the-dutch-farmer-hero.jpg'
 heroAlt: 'A garlic and some cloves, picture by Skitterphoto: https://www.pexels.com/fr-fr/photo/ail-aliments-brouiller-concentrer-630766/'
@@ -21,7 +21,7 @@ tag:
 ---
 
 Thanks to The Dutch Farmer for sharing his wisdom and knowledge!
-The following are the notes I took watching the video published on The Dutch Farmer's channel.
+I wrote the following notes watching the video published on The Dutch Farmer's channel.
 You can watch it using [this YouTube link](https://www.youtube.com/watch?v=BNR8b4_o2LA).
 
 ## Times

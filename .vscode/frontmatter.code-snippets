@@ -100,7 +100,7 @@
     "body": [
       "---",
       "title: $1, by Charles Dowding",
-      "description: \"The following are the notes I took watching the video published on Charles Dowding's channel\"",
+      "description: \"I wrote the following notes watching the video published on Charles Dowding's channel\"",
       "date: $3",
       "heroImage: \"/images/$3-$4-hero.jpg\"",
       "heroAlt: $5",
@@ -129,7 +129,7 @@
       "![$5](./images/$3-$4-hero.jpg 'Credits: image taken from Charles Dowding’s vlog')",
       "",
       "Thanks to Charles Dowding for sharing his wisdom and knowledge!",
-      "The following are the notes I took watching the video published on Charles Dowding's channel.",
+      "I wrote the following notes watching the video published on Charles Dowding's channel.",
       "You can watch it using [this YouTube link]($7)."
     ],
     "description": "Set fronmatter to the new post"
@@ -140,7 +140,7 @@
     "body": [
       "---",
       "title: $1, by The Dutch Farmer",
-      "description: \"The following are the notes I took watching the video published on The Dutch Farmer's channel\"",
+      "description: \"I wrote the following notes watching the video published on The Dutch Farmer's channel\"",
       "date: $3",
       "heroImage: \"/images/$4.jpg\"",
       "heroAlt: $5",
@@ -168,7 +168,7 @@
       "",
       "",
       "Thanks to The Dutch Farmer for sharing his wisdom and knowledge!",
-      "The following are the notes I took watching the video published on The Dutch Farmer's channel.",
+      "I wrote the following notes watching the video published on The Dutch Farmer's channel.",
       "You can watch it using [this YouTube link]($7)."
     ],
     "description": "Set fronmatter to the new post"
@@ -179,7 +179,7 @@
     "body": [
       "---",
       "title: $1, by Huw Richards",
-      "description: \"The following are the notes I took watching the video published on Huw Richards's channel\"",
+      "description: \"I wrote the following notes watching the video published on Huw Richards's channel\"",
       "date: $3",
       "heroImage: \"/images/$4.jpg\"",
       "heroAlt: $5",
@@ -206,7 +206,7 @@
       "---",
       "",
       "Thanks to Huw Richards for sharing his wisdom and knowledge!",
-      "The following are the notes I took watching the video published on Huw Richards's channel.",
+      "I wrote the following notes watching the video published on Huw Richards's channel.",
       "You can watch it using [this YouTube link]($7)."
     ],
     "description": "Set fronmatter to the new post"

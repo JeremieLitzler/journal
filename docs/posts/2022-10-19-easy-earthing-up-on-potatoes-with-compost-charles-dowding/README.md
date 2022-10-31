@@ -1,7 +1,7 @@
 ---
 isDraft: false
 title: Easy earthing up on potatoes with compost, by Charles Dowding
-description: "The following are the notes I took watching the video published on Charles Dowding's channel"
+description: "I wrote the following notes watching the video published on Charles Dowding's channel"
 date: 2022-10-19
 heroImage: '/images/2022-10-19-easy-earthing-up-on-potatoes-with-compost-charles-dowding-hero.webp'
 heroAlt: A shovel earthing up a plant of potatoes
@@ -33,7 +33,7 @@ tag:
 _Credits: [GardenersWorld.com](https://www.gardenersworld.com/how-to/grow-plants/how-to-earth-up-potatoes/)_
 
 Thanks to Charles Dowding for sharing his wisdom and knowledge!
-The following are the notes I took watching the short video published on Charles Dowding's channel.
+I wrote the following notes watching the short video published on Charles Dowding's channel.
 You can watch it using [this YouTube link](https://www.youtube.com/shorts/8OqHLJ5PDmQ).
 
 ## What is "earthing up potatoes"

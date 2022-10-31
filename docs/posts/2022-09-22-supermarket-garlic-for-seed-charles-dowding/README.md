@@ -1,7 +1,7 @@
 ---
 isDraft: false
 title: Supermarket Garlic For Seed, by Charles Dowding
-description: The following are the notes I took watching the video published on Charles Dowding's channel
+description: I wrote the following notes watching the video published on Charles Dowding's channel
 date: 2022-09-22
 heroImage: '/images/2022-09-22-supermarket-garlic-for-seed-charles-Dowding-hero.webp'
 heroAlt:
@@ -19,7 +19,7 @@ tag:
 
 Credits: from Charles Dowding’s vlog.
 Thanks to Charles Dowding for sharing his wisdom and knowledge!
-The following are the notes I took watching the video published on Charles Dowding’s channel.
+I wrote the following notes watching the video published on Charles Dowding’s channel.
 You can watch it using [this YouTube link](https://www.youtube.com/watch?v=vr3ZxWexS5c).
 
 ## Varieties of garlic

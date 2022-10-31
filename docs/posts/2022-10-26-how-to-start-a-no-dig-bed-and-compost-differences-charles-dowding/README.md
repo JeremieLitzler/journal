@@ -1,7 +1,7 @@
 ---
 isDraft: true
 title: How to Start a No Dig Bed and Compost Differences, by Charles Dowding
-description: "The following are the notes I took watching the video published on Charles Dowding's channel"
+description: "I wrote the following notes watching the video published on Charles Dowding's channel"
 date: 2022-10-26
 heroImage: '/images/2022-10-26-how-to-start-a-no-dig-bed-and-compost-differences-charles-dowding-hero.jpg'
 heroAlt:
@@ -31,7 +31,7 @@ tag:
 ![A cabbage being cleaned after harvest](./images/2022-10-26-how-to-start-a-no-dig-bed-and-compost-differences-charles-dowding-hero.jpg.jpg 'Credits: image taken from Charles Dowding’s vlog')
 
 Thanks to Charles Dowding for sharing his wisdom and knowledge!
-The following are the notes I took watching the video published on Charles Dowding’s channel.
+I wrote the following notes watching the video published on Charles Dowding’s channel.
 You can watch it using [this YouTube link](https://www.youtube.com/watch?v=laBXwOdbOlw).
 
 <!-- markdownlint-disable MD033 -->

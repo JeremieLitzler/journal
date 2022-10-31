@@ -1,7 +1,7 @@
 ---
 isDraft: false
 title: How to Grow Garlic | Simple Steps for HUGE Yields, by Huw Richards
-description: "The following are the notes I took watching the video published on Huw Richards's channel"
+description: "I wrote the following notes watching the video published on Huw Richards's channel"
 date: 2022-09-30
 heroImage: '/images/2022-09-30-how-to-grow-garlic-simple-steps-for-huge-yields-huw-richards-hero.jpg'
 heroAlt:
@@ -20,7 +20,7 @@ tag:
 ---
 
 Thanks to Huw Richards for sharing his wisdom and knowledge!
-The following are the notes I took watching the video published on Huw Richards's channel.
+I wrote the following notes watching the video published on Huw Richards's channel.
 You can watch it using [this YouTube link](https://www.youtube.com/watch?v=FmCBTd_qCh0).
 
 ## 3 things to know before growing garlic

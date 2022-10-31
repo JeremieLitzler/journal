@@ -1,6 +1,6 @@
 ---
 title: Compost Testing and Final Result, by Charles Dowding
-description: "The following are the notes I took watching the video published on Charles Dowding's channel"
+description: "I wrote the following notes watching the video published on Charles Dowding's channel"
 date: 2022-10-23
 heroImage: '/images/2022-10-23-compost-testing-and-final-result-charles-dowding-hero.jpg'
 heroAlt: A shovel in a heap of compost
@@ -31,7 +31,7 @@ tag:
 _Credits: image taken from Charles Dowding’s vlog_
 
 Thanks to Charles Dowding for sharing his wisdom and knowledge!
-The following are the notes I took watching the video published on Charles Dowding’s channel.
+I wrote the following notes watching the video published on Charles Dowding’s channel.
 You can watch it using [this YouTube link](https://www.youtube.com/watch?v=jt4azBLuJrc).
 
 <!-- markdownlint-disable MD033 -->

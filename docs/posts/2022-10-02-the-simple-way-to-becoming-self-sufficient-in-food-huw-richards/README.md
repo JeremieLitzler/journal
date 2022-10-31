@@ -1,7 +1,7 @@
 ---
 isDraft: false
 title: The Simple Way to Becoming Self-Sufficient in Food, by Huw Richards
-description: "The following are the notes I took watching the video published on Huw Richards's channel"
+description: "I wrote the following notes watching the video published on Huw Richards's channel"
 date: 2022-10-02
 heroImage: '/images/2022-10-02-the-simple-way-to-becoming-self-sufficient-in-food-huw-richards-hero.jpg'
 heroAlt: A vegetable garden
@@ -26,7 +26,7 @@ category:
 _Credits: Hero picture by <a href="https://unsplash.com/ja/@funnelhead?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jonathan Hanna</a> on <a href="https://unsplash.com/s/photos/vegetable-garden?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>_
 
 Thanks to Huw Richards for sharing his wisdom and knowledge!
-The following are the notes I took watching the video published on Huw Richards's channel.
+I wrote the following notes watching the video published on Huw Richards's channel.
 You can watch it using [this YouTube link](https://www.youtube.com/watch?v=8HmQqsTM8co).
 
 ## Food self-sufficiency: a definition

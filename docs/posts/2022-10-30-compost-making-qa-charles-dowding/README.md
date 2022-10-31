@@ -1,6 +1,6 @@
 ---
 title: Compost Making Q&A, by Charles Dowding
-description: "The following are the notes I took watching the video published on Charles Dowding's channel"
+description: "I wrote the following notes watching the video published on Charles Dowding's channel"
 date: 2022-10-30
 heroImage: '/images/2022-10-30-compost-making-qa-charles-dowding-hero.jpg'
 heroAlt: A garden with cabbage and other vegetables
@@ -29,7 +29,7 @@ tag:
 ![A garden with cabbage and other vegetables](./images/2022-10-30-compost-making-qa-charles-dowding-hero.jpg 'Credits: image taken from Charles Dowding’s vlog')
 
 Thanks to Charles Dowding for sharing his wisdom and knowledge!
-The following are the notes I took watching the video published on Charles Dowding’s channel.
+I wrote the following notes watching the video published on Charles Dowding’s channel.
 You can watch it using [this YouTube link](https://www.youtube.com/watch?v=BIV4lljN6Aw).
 
 <!-- markdownlint-disable MD033 -->

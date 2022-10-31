@@ -1,7 +1,7 @@
 ---
 isDraft: true
 title: Comparing different composts for propagation, by Charles Dowding
-description: 'The following are the notes I took watching the video published on Charles Dowding’s channel'
+description: 'I wrote the following notes watching the video published on Charles Dowding’s channel'
 date: 2022-10-21
 heroImage: '/images/2022-10-21-comparing-different-composts-for-propagation-charles-dowding-hero.jpg'
 heroAlt: Final harvest results
@@ -33,7 +33,7 @@ tag:
 _Credits: image taken from Charles Dowding’s vlog_
 
 Thanks to Charles Dowding for sharing his wisdom and knowledge!
-The following are the notes I took watching the video published on Charles Dowding’s channel.
+I wrote the following notes watching the video published on Charles Dowding’s channel.
 You can watch it using [this YouTube link](https://www.youtube.com/watch?v=XnoZ4jvrY5g).
 
 <!-- markdownlint-disable MD033 -->

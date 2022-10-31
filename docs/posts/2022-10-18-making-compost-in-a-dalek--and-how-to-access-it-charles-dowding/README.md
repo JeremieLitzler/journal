@@ -1,7 +1,7 @@
 ---
 isDraft: true
 title: Making compost in a dalek, and how to access it, by Charles Dowding
-description: "The following are the notes I took watching the video published on Charles Dowding's channel"
+description: "I wrote the following notes watching the video published on Charles Dowding's channel"
 date: 2022-10-18
 heroImage: '/images/2022-10-18-making-compost-in-a-dalek--and-how-to-access-it-charles-dowding-hero.jpg'
 heroAlt: A dalek, from Blackwall manufacturer
@@ -28,7 +28,7 @@ tag:
 ---
 
 Thanks to Charles Dowding for sharing his wisdom and knowledge!
-The following are the notes I took watching the video published on Charles Dowding's channel.
+I wrote the following notes watching the video published on Charles Dowding's channel.
 You can watch it using [this YouTube link](https://www.youtube.com/watch?v=2scvQgm6HFw).
 
 ![A dalek, from Blackwall manufacturer](./images/2022-10-18-making-compost-in-a-dalek--and-how-to-access-it-charles-dowding-hero.jpg)
