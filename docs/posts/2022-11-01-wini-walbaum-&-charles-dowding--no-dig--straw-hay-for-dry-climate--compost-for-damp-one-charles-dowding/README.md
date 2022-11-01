@@ -126,7 +126,7 @@ So she mulches with hay and it worked.
 
 With their roots, trees are draining the water because the root breaks down the soil so it’s then less moist.
 
-::::::tip Personal note
+:::tip Personal note
 As they said and I agree, it would depend on your situation.
 
 My garden contains a lot of clay, so having small oaks, an almond tree and plants like comfrey or borage will loosen the soil, which is good for the vegetable I grow.
