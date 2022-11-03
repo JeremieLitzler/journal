@@ -4,7 +4,11 @@ title: Supermarket Garlic For Seed, by Charles Dowding
 description: I wrote the following notes watching the video published on Charles Dowding's channel
 date: 2022-09-22
 heroImage: '/images/2022-09-22-supermarket-garlic-for-seed-charles-Dowding-hero.webp'
-heroAlt:
+heroAlt: A full harvest of a wide range of quality of the various heads
+prev:
+  text: "See all my notes from Charles Dowding's vlogs"
+  link: ../2022-09-12-all-my-notes-on-the-videos-of-Charles-Dowding
+
 #head:
 #  - [meta, { rel: canonical, href: url }]
 category:
@@ -15,9 +19,8 @@ tag:
   - No Dig
 ---
 
-![A full harvest of a wide range of quality of the various heads](./harvest-of-supermarket-garlic.webp)
+![A full harvest of a wide range of quality of the various heads](./harvest-of-supermarket-garlic.webp 'Credits: from Charles Dowding’s vlog.')
 
-Credits: from Charles Dowding’s vlog.
 Thanks to Charles Dowding for sharing his wisdom and knowledge!
 I wrote the following notes watching the video published on Charles Dowding’s channel.
 You can watch it using [this YouTube link](https://www.youtube.com/watch?v=vr3ZxWexS5c).
@@ -49,17 +52,13 @@ Why?
 1. the outer skin can decay and the garlic turns bad or the garlic may rot
 2. the cloves can start sprouting and you will see a lot of new garlic shoots
 
-![Example of a garlic left too long in the soil after being ready (the one of the right) compared to one garlic just right (the one of the left).](./overdue-garlic.webp)
-
-Credits: from Charles Dowding’s vlog.
+![Example of a garlic left too long in the soil after being ready (the one of the right) compared to one garlic just right (the one of the left).](./overdue-garlic.webp 'Credits: from Charles Dowding’s vlog.')
 
 ## Diseases of garlic
 
 ### Rust
 
-![Overdue garlic](./garlic-rust.webp)
-
-Credits: from Charles Dowding’s vlog.
+![Overdue garlic](./garlic-rust.webp 'Credits: from Charles Dowding’s vlog.')
 
 It is a rampant fungal disease that infects the entire Allium family, including garlic and onions. If left unchecked, the disease can result in smaller-than-usual bulbs and limited growth of a plant.
 Garlic infected by rust is still edible and unless the infection was severe, you should get a decently sized bulb at harvest time. There’s no need to prematurely pick your garlic crop unless the entire plant is brown and dead. (Like “dead dead”, not “ready and ripe” dead.)

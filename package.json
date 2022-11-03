@@ -1,6 +1,6 @@
 {
   "name": "journal",
-  "version": "1.0.292",
+  "version": "1.0.300",
   "description": "Saves Jeremie Litzler's notes, experiences and thought publicly",
   "main": "index.js",
   "repository": "https://github.com/JeremieLitzler/journal",
@@ -10,6 +10,7 @@
   "scripts": {
     "docs:dev": "vuepress-vite dev docs",
     "docs:build": "vuepress-vite build docs",
+    "docs": "vuepress-vite build docs && vuepress-vite dev docs",
     "publish": "vuepress-vite build docs && git push"
   },
   "devDependencies": {

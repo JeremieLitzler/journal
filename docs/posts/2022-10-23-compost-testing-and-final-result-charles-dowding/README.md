@@ -7,9 +7,9 @@ heroAlt: A shovel in a heap of compost
 prev:
   text: "See all my notes from Charles Dowding's vlogs"
   link: ../2022-09-12-all-my-notes-on-the-videos-of-Charles-Dowding
-#next:
-#  text: ''
-#  link: ..//README.md
+next:
+  text: 'Growth differences in three strips of different soil treatment, year five'
+  link: ../2022-11-03-growth-differences-in-three-strips-of-different-soil-treatment--year-five-charles-dowding/README.md
 #head:
 #  - [
 #      meta,

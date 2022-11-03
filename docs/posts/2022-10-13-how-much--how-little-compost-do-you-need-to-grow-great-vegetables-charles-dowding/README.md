@@ -9,7 +9,7 @@ prev:
   text: "See all my notes from Charles Dowding's vlogs"
   link: ../2022-09-12-all-my-notes-on-the-videos-of-Charles-Dowding
 next:
-  text: ''
+  text: 'Supermarket Garlic For Seed, by Charles Dowding'
   link: ../2022-09-22-supermarket-garlic-for-seed-charles-dowding/README.md
 #head:
 #  - [

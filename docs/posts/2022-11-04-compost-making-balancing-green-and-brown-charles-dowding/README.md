@@ -1,7 +1,7 @@
 ---
 title: Compost Making, balancing green & brown or nitrogen & carbon, by Charles Dowding
 description: "I wrote the following notes watching the video published on Charles Dowding's channel"
-date: 2022-01-01
+date: 2022-11-04
 heroImage: '/images/default.jpg'
 heroAlt: ???
 prev:
