@@ -144,7 +144,7 @@ You would ask: why use solid sides to build a heap?
 Charles explains that it helps:
 
 - retain the heat and moisture better
-- slatted sides don’t allow a worthwhile amount of air in. I’m not sure why because Charles’s heaps are kind of slatted. So I asked the question in the vlog directly.
+- slatted sides don’t allow a worthwhile amount of air in. They are lined inside with cardboard, so no air enters, moisture and warmth are retained as explained [in this vlog](https://youtu.be/3gAwfzy0qLw).
 
 ## Store brown
 
