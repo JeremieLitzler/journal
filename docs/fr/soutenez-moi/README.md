@@ -6,30 +6,30 @@ date: 2021-08-10
 article: false
 ---
 
-Quand j'ai commencé ce blog, mon but était le suivant : écrire autant que possible pour construire une base d'informations utiles à mes projets chez moi, pour ma famille afin d'atteindre une meilleure autonomie.
+Quand j’ai commencé ce blog, mon but était le suivant : écrire autant que possible pour construire une base d’informations utiles à mes projets chez moi, pour ma famille afin d’atteindre une meilleure autonomie.
 
-J'ai découvert de nombreux et incroyable auteurs et individus années après années et YouTube met à disposition une quantité importantes de contenus éducatifs.
+J’ai découvert de nombreux et incroyable auteurs et individus année après année et YouTube met à disposition une quantité importante de contenus éducatifs.
 
-De Charles Dowding à Huw Richards au Royaume Uni et de Damien Dekarz et Kévin de la chaîne _Comme un pingouin dans le désert_, nous avons plus de 3000 vidéos éducatives à regarder.
+De Charles Dowding à Huw Richards au Royaume Uni et de Damien Dekarz et Kévin de la chaîne _Comme un pingouin dans le désert_, nous avons plus de 3000 vidéos éducatives à regarder.
 
-Principalement, je vous offre ici ma prise de notes sur ces vidéos, des quelles vous pourrez apprendre comme si vous les aviez regardées, mais en la moitié du temps.
+Principalement, je vous offre ici ma prise de notes sur ces vidéos, desquelles vous pourrez apprendre comme si vous les aviez regardées, mais en la moitié du temps.
 
-Je fournis toujours le lien vers la vidéo afin de vous laisser le choix de la visionner. J'inclus de nombreux extraits graphiques de chaque vidéos pour vous aidez à assimiler, tant en donnant à chaque fois le crédit à l'auteur.
+Je fournis toujours le lien vers la vidéo afin de vous laisser le choix de la visionner. J’inclus de nombreux extraits graphiques de chaque vidéo pour vous aider à assimiler, tant en donnant à chaque fois le crédit à l’auteur.
 
-Maintenant, si vous appréciez ce travail et que vous souhaitez participer, je vous invite à continuer sur cette page pour prendre connaissances des différentes actions.
+Maintenant, si vous appréciez ce travail et que vous souhaitez participer, je vous invite à continuer sur cette page pour prendre connaissance des différentes actions.
 
-## Comment participer à l'effort
+## Comment participer à l’effort
 
-Vous pouvez m'aider davantage en me payant une des sommes ci-dessous dans la monnaie qui vous convient le plus :
+Vous pouvez m’aider davantage en me payant une des sommes ci-dessous dans la monnaie qui vous convient le plus :
 
 - Euros,
 - Dollar américain,
 - Livres sterling
 - ou Franc suisse.
 
-Chaque lien vous amènera sur une page Strip, le fournisseur de solutions de paiements que j'ai choisis. Vous ne pairez pas plus que le montant sélectionné, tant que la monnaie choisie est compatible avec votre moyen de paiement.
+Chaque lien vous amènera sur une page Strip, le fournisseur de solutions de paiements que j’ai choisis. Vous ne paierez pas plus que le montant sélectionné, tant que la monnaie choisie est compatible avec votre moyen de paiement.
 
-Si vous avez besoin d'une autre monnaie, [dite-le moi](../contactez-moi/README.md).
+Si vous avez besoin d’une autre monnaie, [dites-le-moi](../contactez-moi/README.md).
 
 ### Participer annuellement
 
@@ -82,11 +82,11 @@ Si vous avez besoin d'une autre monnaie, [dite-le moi](../contactez-moi/README.m
     </p>
 </article>
 
-## Inscrivez-vous la newsletter
+## Inscrivez-vous la lettre d’information
 
-Si vous ne pouvez pas m'aider financièrement, vous inscrire à ma newsletter m'apportera aussi votre soutien !
+Si vous ne pouvez pas m’aider financièrement, vous inscrire à ma lettre d’information m’apportera aussi votre soutien !
 
-Avec Substack, je publierai mes articles afin que vous sachiez quand il y en a un nouveau disponible.
+Avec Substack, je publierai mes articles afin que vous sachiez quand je publie un nouvel article.
 
 <!-- markdownlint-disable MD033 -->
 <iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe>
