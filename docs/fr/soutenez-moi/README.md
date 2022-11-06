@@ -69,16 +69,16 @@ Si vous avez besoin d’une autre monnaie, [dites-le-moi](../contactez-moi/READM
 
 <article class="participate-options participate-once">
     <p>
-    <a href="https://participate.stripe.com/9AQg0vaGpdt72gE7su" target="_blank" class="nav-link action-button secondary" aria-label="Aider une fois">5 once</a>
+    <a href="https://participate.stripe.com/9AQg0vaGpdt72gE7su" target="_blank" class="nav-link action-button secondary" aria-label="Aider une fois">5 une fois</a>
     </p>
     <p>
-    <a href="https://participate.stripe.com/aEUeWr9Cl3Sx8F2dQT" target="_blank" class="nav-link action-button secondary" aria-label="Aider une fois">10 once</a>
+    <a href="https://participate.stripe.com/aEUeWr9Cl3Sx8F2dQT" target="_blank" class="nav-link action-button secondary" aria-label="Aider une fois">10 une fois</a>
     </p>
     <p>
-    <a href="https://participate.stripe.com/4gw5lRg0J3Sx08w004" target="_blank" class="nav-link action-button primary" aria-label="Aider une fois">20 once</a>
+    <a href="https://participate.stripe.com/4gw5lRg0J3Sx08w004" target="_blank" class="nav-link action-button primary" aria-label="Aider une fois">20 une fois</a>
     </p>
     <p>
-    <a href="https://participate.stripe.com/14k29Fg0J9cR8F24gl" target="_blank" class="nav-link action-button secondary">50 once</a>
+    <a href="https://participate.stripe.com/14k29Fg0J9cR8F24gl" target="_blank" class="nav-link action-button secondary">50 une fois</a>
     </p>
 </article>
 
