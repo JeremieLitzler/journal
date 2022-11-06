@@ -20,5 +20,6 @@ export const frNavBarConfig = navbar([
       },
     ],
   },
-  { text: 'Contactez-moi', link: '/fr/contactez-moi/' },
+  { text: 'Soutenez-moi', link: '/fr/soutenez-moi/' },
+  { text: 'Contact', link: '/fr/contactez-moi/' },
 ]);

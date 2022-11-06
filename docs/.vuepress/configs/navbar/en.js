@@ -20,5 +20,6 @@ export const enNavBarConfig = navbar([
       },
     ],
   },
+  { text: 'Sponsor', link: '/sponsor-me/' },
   { text: 'Contact', link: '/contact-me/' },
 ]);
