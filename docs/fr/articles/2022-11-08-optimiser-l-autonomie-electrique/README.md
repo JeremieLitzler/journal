@@ -1,5 +1,5 @@
 ---
-title: Optimisation de l’autonomie électrique
+title: "Optimisation de l’autonomie électrique pour l'hiver 2022-2023"
 description: Etape 1 - Rendre autonome mon poêle à granulés, les LED et la VMI pour l'hiver 2022-2023
 date: 2022-11-08
 heroImage: '/images/2022-09-06-optimiser-l-autonomie-electrique.jpg'
@@ -12,7 +12,7 @@ tag:
   - Optimisation
 ---
 
-!Un câble débranchée devant une prise murale](./images/hero.jpg)
+![Un câble débranchée devant une prise murale](./images/hero.jpg "Etape 1 - Rendre autonome mon poêle à granulés, les LED et la VMI pour l'hiver 2022-2023")
 
 ## Objectif
 
@@ -71,7 +71,7 @@ Il utilise des [batteries Rolls Royce](https://www.google.com/search?q=batteries
 
 Il ne passe pas en dessous de 70 %.
 
-Sur [[ce site](https://www.elysun-store.fr/batterie-solaire-rolls-serie-4000-t-12-250.html), on voit qu’il y a quasiment le double de cycle en décharge à 50 % vs décharge à 80 %, 3,28 ans vs 5,48 ans d’espérance de vie.
+Sur [ce site](https://www.elysun-store.fr/batterie-solaire-rolls-serie-4000-t-12-250.html), on voit qu’il y a quasiment le double de cycle en décharge à 50 % vs décharge à 80 %, 3,28 ans vs 5,48 ans d’espérance de vie.
 
 Son système est trop onéreux pour moi.
 
@@ -131,7 +131,7 @@ Pour faire tourner juste le poêle à granuler, cela suffit et surtout, il n’e
 
 :::
 
-Avec le système de monitoring (Cerbo GX) sans écran tactile (\*), on dépassait mon budget avec plus de 2500 euros \*\*hors temps de pose que j’aurai dû réaliser moi-même.
+Avec le système de monitoring (Cerbo GX) sans écran tactile (\*), on dépassait mon budget avec plus de 2500 euros **hors temps de pose que j’aurai dû réaliser moi-même.**
 
 (\*) : Un smartphone suffit en Bluetooth pour communiquer avec le Cerbo GX.
 
@@ -151,7 +151,7 @@ J’ai un bon échange par courriel courant septembre.
 
 Il a été très pédagogue en m’expliquant la différence entre l’onduleur Victron MultiPlus et le MultiPlus II.
 
-[Schéma de comparaison de l'onduleur Victron MultiPlus au Victron MultiPlus II](./images/victron-multiplus-vs-multiplus-2.png 'Concernant le MultiPlus, l’avantage du modèle II est qu’il possède 2 sorties. Ainsi, j’aurais pu profiter de la production des panneaux pour les 2 sorties et même celle qui ne sera pas alimentée en cas de coupure.')
+![Schéma de comparaison de l'onduleur Victron MultiPlus au Victron MultiPlus II](./images/victron-multiplus-vs-multiplus-2.png 'Concernant le MultiPlus, l’avantage du modèle II est qu’il possède 2 sorties. Ainsi, j’aurais pu profiter de la production des panneaux pour les 2 sorties et même celle qui ne sera pas alimentée en cas de coupure.')
 
 Si je faisais le choix d’un MultiPlus simple, alors il n’aura qu’une sortie, vous y raccorderez les appareils listés à savoir le poêle et la production des panneaux ne servira que pour ces derniers.
 
