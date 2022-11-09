@@ -151,7 +151,7 @@ J’ai un bon échange par courriel courant septembre.
 
 Il a été très pédagogue en m’expliquant la différence entre l’onduleur Victron MultiPlus et le MultiPlus II.
 
-[Schéma de comparaison de l'onduleur Victron MultiPlus au Victron MultiPlus II](./images/victron-multiplus-vs-multiplus-2.png 'Concernant le MultiPlus, l’avantage du modèle II est qu’il possède 2 sorties. Ainsi, j’aurais pu profiter de la production des panneaux pour les 2 sorties et même celle qui ne sera pas alimentée en cas de coupure.')
+![Schéma de comparaison de l'onduleur Victron MultiPlus au Victron MultiPlus II](./images/victron-multiplus-vs-multiplus-2.png 'Concernant le MultiPlus, l’avantage du modèle II est qu’il possède 2 sorties. Ainsi, j’aurais pu profiter de la production des panneaux pour les 2 sorties et même celle qui ne sera pas alimentée en cas de coupure.')
 
 Si je faisais le choix d’un MultiPlus simple, alors il n’aura qu’une sortie, vous y raccorderez les appareils listés à savoir le poêle et la production des panneaux ne servira que pour ces derniers.
 
