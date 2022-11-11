@@ -50,6 +50,28 @@ git config --global alias.sr "! git reset --soft HEAD^"
 git config --global alias.hrp "!f() { git hr && git pull }; f"
 ```
 
+## What are my aliases
+
+<!-- markdownlint-disable MD040 -->
+
+```
+[alias]
+	conf = ! notepad /c/Users/Jeremiel/.gitconfig
+	ac = ! git add -A && git commit -m
+	acc = ! git add $1 && git commit -m "$2"
+	alias = ! git config --get-regexp ^alias\\. | sed -e s/^alias\\.// -e s/\\ /\\ =\\ /
+	sr = ! git reset --soft HEAD^
+	hr = ! git reset --hard HEAD
+	ceb = ! git checkout -t
+	cb = ! git checkout -b
+	rpm = ! git hr && git checkout main && git pull
+	mm = ! git merge main
+  #For VuePress publishing
+	pub = ! npm run docs:build && git push
+	dev = ! npm run docs:dev
+	build = ! npm run docs:build
+```
+
 ## Articles I read while researching the topic
 
 [https://bitbucket.org/durdn/cfg/src/master/.gitconfig?at=master](https://bitbucket.org/durdn/cfg/src/master/.gitconfig?at=master)
