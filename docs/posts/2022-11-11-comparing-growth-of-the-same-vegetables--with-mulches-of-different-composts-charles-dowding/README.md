@@ -2,7 +2,7 @@
 title: Comparing growth of the same vegetables, with mulches of different composts, by Charles Dowding
 description: "I wrote the following notes watching the video published on Charles Dowding's channel"
 date: 2022-11-11
-heroImage: '/images/2022-11-11-comparing-growth-of-the-same-vegetables--with-mulches-of-different-composts-charles-dowding-hero.jpg'
+heroImage: '/images/2022-11-11-comparing-growth-of-the-same-vegetables--with-mulches-of-different-composts-charles-dowding.jpg'
 heroAlt: A garden filled with vegetables
 prev:
   text: "See all my notes from Charles Dowding's vlogs"
@@ -28,7 +28,7 @@ tag:
 
 How do different compost compared to each other when growing the exact same vegetables.
 
-![A garden filled with vegetables](./images/2022-11-11-comparing-growth-of-the-same-vegetables--with-mulches-of-different-composts-charles-dowding-hero.jpg 'Homeacre garden is looking very healthy and productive. Credits: image taken from Charles Dowding’s vlog')
+![A garden filled with vegetables](./images/2022-11-11-comparing-growth-of-the-same-vegetables--with-mulches-of-different-composts-charles-dowding.jpg 'Homeacre garden is looking very healthy and productive. Credits: image taken from Charles Dowding’s vlog')
 
 Thanks to Charles Dowding for sharing his wisdom and knowledge!
 I wrote the following notes watching the video published on Charles Dowding’s channel.
