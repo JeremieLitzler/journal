@@ -28,6 +28,10 @@ tag:
   - Mildew
 ---
 
+Gardening is full of conflicting advice. So who should you believe.
+You might see a problem in a garden, is it really?
+Let’s dive into it with Charles.
+
 ![A view from the air of a large squash patch in a garden](./images/2022-10-31-identify-problems-3-includes-squash--bolting--large-roots--compost-charles-dowding-hero.jpg 'Credits: image taken from Charles Dowding’s vlog')
 
 Thanks to Charles Dowding for sharing his wisdom and knowledge!
@@ -36,12 +40,6 @@ You can watch it using [this YouTube link](https://www.youtube.com/watch?v=TOhfV
 
 <!-- markdownlint-disable MD033 -->
 <iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe>
-
-Gardening is full of conflicting advice. So who should you believe.
-
-You might see a problem in a garden, is it really?
-
-Let’s dive into it with Charles.
 
 ## Mildew
 

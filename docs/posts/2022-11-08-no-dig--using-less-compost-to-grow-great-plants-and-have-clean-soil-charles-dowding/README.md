@@ -26,6 +26,8 @@ tag:
   - Compost
 ---
 
+Starting "No Dig" doesn’t necessarily mean requiring loads of compost.
+
 ![A bed of flowers at the bottom of a tree orchard](./images/2022-11-08-no-dig--using-less-compost-to-grow-great-plants-and-have-clean-soil-charles-dowding-hero.jpg 'Credits: image taken from Charles Dowding’s vlog')
 
 Thanks to Charles Dowding for sharing his wisdom and knowledge!
@@ -34,8 +36,6 @@ You can watch it using [this YouTube link](https://www.youtube.com/watch?v=IC6OB
 
 <!-- markdownlint-disable MD033 -->
 <iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe>
-
-Starting "No Dig" doesn’t necessarily mean requiring loads of compost.
 
 Compost is a great entry point to grow a lot of vegetables in a small area. Also, compost provides the nutrition to the plants to provide a good harvest.
 

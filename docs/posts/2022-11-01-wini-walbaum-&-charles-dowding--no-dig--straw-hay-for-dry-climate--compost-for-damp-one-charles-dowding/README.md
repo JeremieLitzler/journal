@@ -29,6 +29,9 @@ tag:
   - Chile
 ---
 
+Charles was contacted by some Chilean gardeners practicing no dig gardening.
+Here, they exchange on their challenges, their success and how growing vegetables in different atmospheres really look like.
+
 ![A garden in Chile with a lot of sunflowers](./images/2022-11-01-wini-walbaum-charles-dowding--no-dig--straw-hay-for-dry-climate--compost.jpg 'Credits: image taken from Charles Dowding’s vlog')
 
 Thanks to Charles Dowding for sharing his wisdom and knowledge!
@@ -37,10 +40,6 @@ You can watch it using [this YouTube link](https://www.youtube.com/watch?v=zTXrx
 
 <!-- markdownlint-disable MD033 -->
 <iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe>
-
-Charles was contacted by some Chilean gardeners practicing no dig gardening.
-
-Here, they exchange on their challenges, their success and how growing vegetables in different atmospheres really look like.
 
 ## Presentation
 

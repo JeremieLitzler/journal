@@ -26,6 +26,8 @@ tag:
   - Compost
 ---
 
+Growing great vegetables, it's not only vital for no dig, it's just vital for growing wonderful healthy plants, giving lots of growth and a high efficiency of output per time invested
+
 ![View of the main heaps of Homeacre](./images/2022-11-06-making-compost-charles-explains-his-7-heaps-2019-charles-dowding-hero.jpg 'Credits: image taken from Charles Dowding’s vlog')
 
 Thanks to Charles Dowding for sharing his wisdom and knowledge!
@@ -35,9 +37,7 @@ You can watch it using [this YouTube link](https://www.youtube.com/watch?v=TeBUX
 <!-- markdownlint-disable MD033 -->
 <iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe>
 
-Growing great vegetables, it's not only vital for no dig, it's just vital for growing wonderful healthy plants, giving lots of growth and a high efficiency of output per time invested
-
-So it's worth spending time making some decent compost because it has a multiplier effect all the way along down the line.
+It's worth spending time making some decent compost because it has a multiplier effect all the way along down the line.
 
 ## Heap location
 

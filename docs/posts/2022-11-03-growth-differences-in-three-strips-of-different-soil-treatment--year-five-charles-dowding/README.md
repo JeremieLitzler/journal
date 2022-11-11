@@ -26,6 +26,8 @@ tag:
   - Compost
 ---
 
+I took notes about the trial at a later stage in [an earlier article](../2022-10-23-compost-testing-and-final-result-charles-dowding/README.md) about the same three-strip trial, which started in 2014.
+
 ![Aerial view of Homeacre garden with the title of the vlog](./images/2022-11-03-aerial-view-of-homeacre-garden-with-the-title-of-the-vlog-hero.jpg 'Credits: image taken from Charles Dowding’s vlog')
 
 Thanks to Charles Dowding for sharing his wisdom and knowledge!
@@ -34,8 +36,6 @@ You can watch it using [this YouTube link](https://www.youtube.com/watch?v=u0V-5
 
 <!-- markdownlint-disable MD033 -->
 <iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe>
-
-I took notes about the trial at a later stage in [an earlier article](../2022-10-23-compost-testing-and-final-result-charles-dowding/README.md) about the same three-strip trial, which started in 2014.
 
 They shot the vlog on the 8th of September 2019. So this is the 6th year of doing this comparison.
 

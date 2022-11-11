@@ -28,6 +28,8 @@ tag:
   - Weedkillers
 ---
 
+Charles talks about aminopyralid weedkiller in his compost because residues were present in the hay and horse manure used to make the compost.
+
 ![Homeacre garden in July 2019](./images/2022-11-09-pyralid-weedkillers-in-compost-amino-and-clopyralid-effects-and-healing-charles-dowding.jpg 'A view of Homeacre garden in July 2019. Credits: image taken from Charles Dowding’s vlog')
 
 Thanks to Charles Dowding for sharing his wisdom and knowledge!
@@ -36,8 +38,6 @@ You can watch it using [this YouTube link](https://www.youtube.com/watch?v=2D1id
 
 <!-- markdownlint-disable MD033 -->
 <iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe>
-
-Charles talks about aminopyralid weedkiller in his compost because residues were present in the hay and horse manure used to make the compost.
 
 ## What doesn’t aminopyralid weedkiller affect
 

@@ -26,6 +26,8 @@ tag:
   - Compost
 ---
 
+In this vlog, Charles explains how to start No Dig.
+
 ![A basket of vegetables](./images/2022-11-07-start-out-no-dig--a-method-with-cardboard-and-compost-charles-dowding-hero.jpg 'Credits: image taken from Charles Dowding’s vlog')
 
 Thanks to Charles Dowding for sharing his wisdom and knowledge!
@@ -34,8 +36,6 @@ You can watch it using [this YouTube link](https://www.youtube.com/watch?v=0LH6-
 
 <!-- markdownlint-disable MD033 -->
 <iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe>
-
-In this vlog, Charles explains how to start No Dig.
 
 ## Definition of mulch
 

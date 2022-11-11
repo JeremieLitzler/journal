@@ -26,6 +26,8 @@ tag:
   - Compost
 ---
 
+Building a heap of composite is an art.
+
 ![Aerial view of Charles garden as he walks to the compost heap](/images/2022-11-04-aerial-view-of-charles-garden-as-he-walks-to-the-compost-heap.jpg 'Credits: image taken from Charles Dowding’s vlog')
 
 Thanks to Charles Dowding for sharing his wisdom and knowledge!
@@ -34,8 +36,6 @@ You can watch it using [this YouTube link](https://www.youtube.com/watch?v=ZtMsE
 
 <!-- markdownlint-disable MD033 -->
 <iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe>
-
-Building a heap of composite is an art.
 
 It’s difficult to look at it too scientifically about it and the quantity of the materials one is adding vary all the time.
 

@@ -6,32 +6,34 @@ date: 2021-08-10
 article: false
 ---
 
-When I start this blog, I had a goal in mind: write as much as I can to be able to build a resource base for my projects at home, for my family, towards more autonomy.
+When I started this blog, I had a goal in mind: take notes as much as I can to be able to build a knowledge base for my family’s projects towards more autonomy in many areas of life.
 
 I discovered many awesome authors and individuals throughout the years and YouTube provides a lot of opportunities to learn.
 
-From Charles Dowding to Huw Richards in the UK to Damien Dekarz and Kévin from _Comme un pingouin dans le désert_, it is over 3000 vlogs worth watching and learning from.
+From Charles Dowding to Huw Richards in the UK to Damien Dekarz and Kévin from the channel _Comme un pingouin dans le désert_, we can watch and learn from more 3000 vlogs.
 
-Primarily, I offer here a summary of those vlogs in written form, where you will learn as much as if you watched the whole vlog and spending half the time.
+Primarily, I offer here a summary of those vlogs in a written form. You will learn as much as if you had watched the whole vlog but spending half the time.
 
-I always provide the link to the vlog so you are free to watch it and I include a lot of graphic assetsS of the vlog to provide context, always to the credit of the original author.
+I always provide the link to the vlog so you’re free to watch it and I include a lot of graphic assets of the vlog to provide context, always to the credit of the original author.
 
-Now, if you like what I do and think it is worth your support, you can take one of the following actions.
+Now, if you like what I do and think it’s worth your support, you can take one of the following actions.
 
 ## How to help me in this effort
 
-You can help me further by sending me any amount available below in the currency that suits you the best:
+jo
 
-- Euros,
-- US dollar,
-- British pounds
-- Or Swiss francs.
+- in Euros,
+- in US dollars,
+- in British pounds
+- in Swiss francs.
 
-Each link will take you to Stripe page, the payment provider I have chosen. You will pay no more the amount selected, providing that you pick a currency that is compatible with your payment method.
+Each link will take you to Stripe page, the payment provider I have chosen. You will pay no more the amount selected, providing that you pick a currency that is compatible with your payment method. Otherwise, I invite you to check with your bank about the additional fees you may pay.
 
-If you need any other currency, [just let me know](../contact-me/README.md).
+Or, if you need any other currency, [just let me know](../contact-me/README.md). It will take me a few minutes to a currency that Stripe supports.
 
 ### Participate annually
+
+<!-- markdownlint-disable MD033 -->
 
 <article class="participate-options participate-yearly">
     <p>
@@ -84,9 +86,9 @@ If you need any other currency, [just let me know](../contact-me/README.md).
 
 ## Sign up to the newsletter
 
-If you can't give me a monetary thank, signing up to my newsletter will be helpful too!
+If you can’t give me a monetary thank, signing up to my newsletter will be helpful too!
 
-Through Substack, I publish my articles so you know when a new one is available.
+Through Substack, I publish my articles, so you know when a new one is available.
 
 <!-- markdownlint-disable MD033 -->
 <iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe>
