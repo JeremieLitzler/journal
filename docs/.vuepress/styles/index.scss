@@ -29,6 +29,10 @@ iframe.newsletter-embed {
     border-radius: 8px;
 }
 
+iframe.newsletter-embed html {
+  background-color: var(--color_theme_accent);
+}
+
 .theme-container.has-toc .page {
     padding-right: 0;
 }
