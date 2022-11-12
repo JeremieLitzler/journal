@@ -10,14 +10,15 @@ prev:
   link: ../2022-09-12-all-my-notes-on-the-videos-of-The-Dutch-Farmer/README.md
 next:
   text: 'Grow garlic, an easy crop with no dig, hard or softneck, and tips for harvest'
-  link: ../2022-09-28-grow-garlic-charles-dowding/README.md
+  link: ../2022-09-28-grow-garlic-an-easy-crop-with-no-dig-hard-or-softneck-and-tips-for-harvest-charles-dowding/README.md
 #head:
 #  - [meta, { rel: canonical, href: url }]
 category:
   - Gardening
 tag:
-  - Garlic
+  - Charles Dowding
   - No Dig
+  - Garlic
 ---
 
 Thanks to The Dutch Farmer for sharing his wisdom and knowledge!
@@ -62,7 +63,7 @@ _Credits: image taken from The Dutch Farmer's vlog._
 
 Around the beginning of the summer (end of June in the northern atmosphere), the garlic should be ready to harvest.
 
-See [how to judge the readiness of garlic](../2022-09-22-how-to-judge-the-readiness-of-garlic-charles-dowding/README.md).
+See [how to judge the readiness of garlic](../2022-09-22-is-it-ready-yet-how-to-judge-the-readiness-of-garlic-charles-dowding).
 
 ![Harvesting garlic](./june-27-harvest.jpg)
 

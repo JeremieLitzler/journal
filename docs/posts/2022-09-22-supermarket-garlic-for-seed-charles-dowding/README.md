@@ -7,16 +7,17 @@ heroImage: '/images/2022-09-22-supermarket-garlic-for-seed-charles-Dowding-hero.
 heroAlt: A full harvest of a wide range of quality of the various heads
 prev:
   text: "See all my notes from Charles Dowding's vlogs"
-  link: ../2022-09-12-all-my-notes-on-the-videos-of-Charles-Dowding
+  link: ../../tag/charles-dowding/
 
 #head:
 #  - [meta, { rel: canonical, href: url }]
 category:
   - Gardening
 tag:
+  - Charles Dowding
+  - No Dig
   - Garlic
   - Seeds
-  - No Dig
 ---
 
 ![A full harvest of a wide range of quality of the various heads](./harvest-of-supermarket-garlic.webp 'Credits: from Charles Dowding’s vlog.')
@@ -45,7 +46,7 @@ The top image is what you can get from a £1 garlic head.
 
 ## Do not leave your garlic in the soil too long?
 
-Once [you checked the garlic head is ready](../2022-09-22-how-to-judge-the-readiness-of-garlic-charles-dowding/README.md), you should not leave it too long in the soil.
+Once [you checked the garlic head is ready](../2022-09-22-is-it-ready-yet-how-to-judge-the-readiness-of-garlic-charles-dowding/README.md), you should not leave it too long in the soil.
 
 Why?
 

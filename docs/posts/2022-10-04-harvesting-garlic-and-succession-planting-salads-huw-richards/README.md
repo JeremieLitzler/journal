@@ -7,7 +7,7 @@ heroImage: '/images/2022-10-04-harvesting-garlic-and-succession-planting-salads-
 heroAlt: Garlic and salads growing together
 prev:
   text: "See all my notes from Huw Richards' vlogs"
-  link: ../2022-09-12-all-my-notes-on-the-videos-of-Huw-Richards/README.md
+  link: ../../tag/huw-richards/
 next:
   text: 'How to Grow Garlic | Simple Steps for HUGE Yields'
   link: ../2022-09-30-how-to-grow-garlic-simple-steps-for-huge-yields-huw-richards/README.md
@@ -16,6 +16,7 @@ next:
 category:
   - Gardening
 tag:
+  - Huw Richards
   - Garlic
   - Intercropping
 ---

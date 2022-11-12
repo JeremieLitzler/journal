@@ -6,7 +6,7 @@ heroImage: '/images/2022-11-10-discover-the-problems-when-you-plant-in-fresh-man
 heroAlt: Potato plants in hay
 prev:
   text: "See all my notes from Charles Dowding's vlogs"
-  link: ../2022-09-12-all-my-notes-on-the-videos-of-Charles-Dowding
+  link: ../../tag/charles-dowding/
 #next:
 #  text: ''
 #  link: ..//README.md
@@ -22,6 +22,7 @@ category:
   - Permaculture
   - Gardening
 tag:
+  - Charles Dowding
   - No Dig
   - Compost
   - Manure

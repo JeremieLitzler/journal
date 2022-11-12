@@ -7,7 +7,7 @@ heroImage: '/images/2022-10-21-comparing-different-composts-for-propagation-char
 heroAlt: Final harvest results
 prev:
   text: 'See all my notes from Charles Dowding’s vlogs'
-  link: ../2022-09-12-all-my-notes-on-the-videos-of-Charles-Dowding
+  link: ../../tag/charles-dowding/
 #next:
 #  text: ''
 #  link: ..//README.md
@@ -23,6 +23,7 @@ category:
   - Permaculture
   - Gardening
 tag:
+  - Charles Dowding
   - No Dig
   - Compost
   - Propagation

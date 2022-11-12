@@ -7,7 +7,7 @@ heroImage: '/images/2022-09-30-how-to-grow-garlic-simple-steps-for-huge-yields-h
 heroAlt:
 prev:
   text: "See all my notes from Huw Richards' vlogs"
-  link: ../2022-09-12-all-my-notes-on-the-videos-of-Huw-Richards/README.md
+  link: ../../tag/huw-richards/
 next:
   text: 'The Simple Way to Becoming Self-Sufficient in Food'
   link: ../the-simple-way-to-becoming-self-sufficient-in-food-huw-richards/README.md
@@ -16,6 +16,8 @@ next:
 category:
   - Gardening
 tag:
+  - Charles Dowding
+  - No Dig
   - Garlic
 ---
 
@@ -63,7 +65,7 @@ It starts from mid-October and mid-December.
 Any earlier and you may lose your plants over a really cold winter if they have developed too much.
 
 :::tip Personal thought
-That probably means that planting from mid-September (like [Charles Dowding suggested](../2022-09-28-grow-garlic-charles-dowding/README.md)) may be only possible under a polytunnel or greenhouse.
+That probably means that planting from mid-September (like [Charles Dowding suggested](../2022-09-28-grow-garlic-an-easy-crop-with-no-dig-hard-or-softneck-and-tips-for-harvest-charles-dowding)) may be only possible under a polytunnel or greenhouse.
 :::
 
 Any later, you risk your bulbs to be underdeveloped.

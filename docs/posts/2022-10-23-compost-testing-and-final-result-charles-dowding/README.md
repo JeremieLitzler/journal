@@ -6,7 +6,7 @@ heroImage: '/images/2022-10-23-compost-testing-and-final-result-charles-dowding-
 heroAlt: A shovel in a heap of compost
 prev:
   text: "See all my notes from Charles Dowding's vlogs"
-  link: ../2022-09-12-all-my-notes-on-the-videos-of-Charles-Dowding
+  link: ../../tag/charles-dowding/
 next:
   text: 'Growth differences in three strips of different soil treatment, year five'
   link: ../2022-11-03-growth-differences-in-three-strips-of-different-soil-treatment--year-five-charles-dowding/README.md
@@ -22,6 +22,7 @@ category:
   - Permaculture
   - Gardening
 tag:
+  - Charles Dowding
   - No Dig
   - Compost
 ---

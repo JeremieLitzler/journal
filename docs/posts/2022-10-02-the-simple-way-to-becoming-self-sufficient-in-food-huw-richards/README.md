@@ -7,7 +7,7 @@ heroImage: '/images/2022-10-02-the-simple-way-to-becoming-self-sufficient-in-foo
 heroAlt: A vegetable garden
 prev:
   text: "See all my notes from Huw Richards' vlogs"
-  link: ../2022-09-12-all-my-notes-on-the-videos-of-Huw-Richards/README.md
+  link: ../../tag/huw-richards/
 next:
   text: 'Harvesting Garlic and Succession Planting Salads'
   link: ../2022-10-03-harvesting-garlic-and-succession-planting-salads-huw-richards/README.md
@@ -17,6 +17,8 @@ category:
   - Gardening
   - Self-sufficiency
   - Food
+tag:
+  - Huw Richards
 ---
 
 ![A vegetable garden](./2022-10-02-the-simple-way-to-becoming-self-sufficient-in-food-huw-richards-hero.jpg)

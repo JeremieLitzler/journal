@@ -7,7 +7,7 @@ heroImage: '/images/2022-10-19-easy-earthing-up-on-potatoes-with-compost-charles
 heroAlt: A shovel earthing up a plant of potatoes
 prev:
   text: "See all my notes from Charles Dowding's vlogs"
-  link: ../2022-09-12-all-my-notes-on-the-videos-of-Charles-Dowding
+  link: ../../tag/charles-dowding/
 next:
   text: 'You can compost all weeds'
   link: ../2022-10-20-you-can-compost-all-weeds-charles-dowding/README.md
@@ -23,6 +23,7 @@ category:
   - Permaculture
   - Gardening
 tag:
+  - Charles Dowding
   - No Dig
   - Compost
   - Potatoes
