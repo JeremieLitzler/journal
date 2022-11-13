@@ -26,7 +26,6 @@ tag:
   - No Dig
   - Compost
   - Intersowing
-article: false
 ---
 
 Charles is showing us how his Homeacres is doing in early summer 2018.
