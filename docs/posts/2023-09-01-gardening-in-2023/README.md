@@ -26,12 +26,19 @@ I made 2 heaps:
 - one for the compost toilets
 - one for the kitchen and garden wastes
 
+## Autumn leaf harvest
+
+### October 30th and 31st, 2022
+
+- I picked up 4 trailers full of plane tree (_Platanus Platanos_)
+- The girls liked emptying the trailer, they loved rolling into the stack of leaves afterwards ;)
+
 ## Garlic
 
 ### October 31st, 2022
 
 - I planted about 130 garlic seeds (equivalent to 821 grams) in various areas of the garden in order to evaluate what the garlic likes most.
-- The garlic seeds was purchased from our main organic food store, because it was cheap and available. 
+- The garlic seeds was purchased from our main organic food store, because it was cheap and available.
 
 ## Strawberries
 
@@ -43,7 +50,7 @@ I made 2 heaps:
 
 ### November 13th, 2022
 
-- We planted them  along the fancing where the Kury squash grew this year. 
+- We planted them along the fancing where the Kury squash grew this year.
 - My goal is to use the fence to hold the broad beans in the spring.
 
 ## Nettles
@@ -55,4 +62,4 @@ I made 2 heaps:
 ### November 13th, 2022
 
 - I had to clean up the nettles as they were very numerous.
-- I tooks some of the roots out and put it on the compost heap. 
+- I tooks some of the roots out and put it on the compost heap.
