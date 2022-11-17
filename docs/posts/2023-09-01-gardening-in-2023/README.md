@@ -4,7 +4,6 @@ description: 'What happened in the garden since the autumn 2022? ...'
 date: 2023-09-01
 heroImage: '/images/default.jpg'
 heroAlt:
-article: false
 #head:
 #  - [
 #      meta,
