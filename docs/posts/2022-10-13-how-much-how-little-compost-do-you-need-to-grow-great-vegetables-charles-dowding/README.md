@@ -1,5 +1,4 @@
 ---
-isDraft: false
 title: How much, how little compost do you need to grow great vegetables, by Charles Dowding
 description: "I wrote the following notes watching the video published on Charles Dowding's channel"
 date: 2022-10-13
@@ -11,14 +10,14 @@ prev:
 next:
   text: 'Supermarket Garlic For Seed, by Charles Dowding'
   link: ../2022-09-22-supermarket-garlic-for-seed-charles-dowding/README.md
-#head:
-#  - [
-#      meta,
-#      {
-#        rel: canonical,
-#        href: url,
-#      },
-#    ]
+head:
+  - [
+      meta,
+      {
+        rel: canonical,
+        href: https://thetooltip.substack.com/p/how-much-how-little-compost-do-you,
+      },
+    ]
 category:
   - Permaculture
   - Gardening
@@ -28,9 +27,9 @@ tag:
   - Composting
 ---
 
-![A garden with a lot of vegetables, like cabbages](./images/2022-10-13-how-much--how-little-compost-do-you-need-to-grow-great-vegetables-charles-dowding-hero.jpg)
+Charles Dowding explains all about the quantity of compost you need on your beds.
 
-_Credits: image taken from Charles Dowding's vlog_
+![A garden with a lot of vegetables, like cabbages](./images/2022-10-13-how-much--how-little-compost-do-you-need-to-grow-great-vegetables-charles-dowding-hero.jpg "Credits: image taken from Charles Dowding's vlog")
 
 Thanks to Charles Dowding for sharing his wisdom and knowledge!
 I wrote the following notes watching the video published on Charles Dowding's channel.
@@ -40,9 +39,7 @@ You can watch it using [this YouTube link](https://www.youtube.com/watch?v=4APqc
 
 With no dig, you need less compost (this is from 10 years of experience).
 
-![The Three Strip Trial Area](./images/three-strip-trial-area.jpg)
-
-_Credits: image taken from Charles Dowding's vlog_
+![The Three Strip Trial Area](./images/three-strip-trial-area.jpg "Credits: image taken from Charles Dowding's vlog")
 
 But the sure thing is that you will need descent compost. And if you use a good compost, you will need very little, especially with No Dig.
 
@@ -52,17 +49,13 @@ When we talk about compost, we talk about organic material, not fertilizers and 
 
 Compost is anything decomposed. It does not need to be perfect, e.g., it can have some piece of wood.
 
-![A close-up of some nice looking compost](./images/close-up-compost.jpg)
-
-_Credits: image taken from Charles Dowding's vlog_
+![A close-up of some nice looking compost](./images/close-up-compost.jpg "Credits: image taken from Charles Dowding's vlog")
 
 At first, you may need to buy some compost. But after a while, if you look after your soil, you won't need as much and you can find materials to make your own from local waste.
 
 Charles explains his 3-strip trial:
 
-![Three strips trial detailed](./images/three-strip-trial-area-detailed.jpg)
-
-_Credits: image taken from Charles Dowding's vlog_
+![Three strips trial detailed](./images/three-strip-trial-area-detailed.jpg "Credits: image taken from Charles Dowding's vlog")
 
 - Strip 1
 
@@ -79,9 +72,7 @@ On all strips were planted the same crops.
 
 After the 2013 harvest, the yields were as follows:
 
-![Yields of 2013:  Strip 1 yielded 41.2 kg of produce, Strip 2 yielded 40.6 kg of produce and Strip 3 yielded 61.5 kg of produce.](./images/yields-from-each-strip.jpg)
-
-_Credits: image taken from Charles Dowding's vlog_
+![Yields of 2013:  Strip 1 yielded 41.2 kg of produce, Strip 2 yielded 40.6 kg of produce and Strip 3 yielded 61.5 kg of produce.](./images/yields-from-each-strip.jpg "Credits: image taken from Charles Dowding's vlog")
 
 - Strip 1 yielded 41.2 kg of produce,
 - Strip 2 yielded 40.6 kg of produce
@@ -91,9 +82,7 @@ This is 50 % more yields: the strip 3 method is definitely interesting.
 
 And the same amount of work is performed. Watering is needed a bit less, thanks to compost.
 
-![A basket of vegetables](./images/a-basket-of-vegetables.jpg)
-
-_Credits: image taken from Charles Dowding's vlog_
+![A basket of vegetables](./images/a-basket-of-vegetables.jpg "Credits: image taken from Charles Dowding's vlog")
 
 ## Modification of trial and results in 2014
 
@@ -130,18 +119,14 @@ More on the strip trial in [this vlog](https://www.youtube.com/watch?v=XA4VdUaJR
 
 ## Another trial running since 2012 to compare dig and no dig
 
-![The two beds side by side just after being prepared](./images/beds-of-another-trial.jpg)
-
-_Credits: image taken from Charles Dowding's vlog_
+![The two beds side by side just after being prepared](./images/beds-of-another-trial.jpg "Credits: image taken from Charles Dowding's vlog")
 
 The big differences between each bed are:
 
 - That the no dig bed requires a lot of less work not digging since you just need to cover the soil.
 - The dig bed is more difficult to water (water flows more).
 
-  ![Watering is not as easy between dig and no dig](./images/watering-difference-between-di-and-no-dig.jpg)
-
-  _Credits: image taken from Charles Dowding's vlog_
+  ![Watering is not as easy between dig and no dig](./images/watering-difference-between-di-and-no-dig.jpg "Credits: image taken from Charles Dowding's vlog")
 
 - The dig bed has a lot more leaves.
 
@@ -160,9 +145,7 @@ Here is more information about [dig vs no dig methods](https://www.youtube.com/w
 
 In such a bed, we can plant more than one set of crops.
 
-![The beds in June](./images/beds-beginning-of-june.jpg)
-
-_Credits: image taken from Charles Dowding's vlog_
+![The beds in June](./images/beds-beginning-of-june.jpg "Credits: image taken from Charles Dowding's vlog")
 
 The most difference between dig and no dig happens in the late spring harvest.
 
@@ -174,8 +157,6 @@ Using compost and no dig yield the best result!
 
 See the beds of Charles from an aerial view:
 
-![The garden of Charles Dowding seen from an aerial view](./images/beds-seen-from-above.jpg)
-
-_Credits: image taken from Charles Dowding's vlog_
+![The garden of Charles Dowding seen from an aerial view](./images/beds-seen-from-above.jpg "Credits: image taken from Charles Dowding's vlog")
 
 If you want a big resource on the No Dig method, Checkout Charles’s book (use the link according to your location: [in France](https://amzn.to/3ELjByW), [in the US](https://amzn.to/3SROzJm) or [in the UK](https://amzn.to/3Nlrpd1)) for more details.
