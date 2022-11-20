@@ -39,6 +39,10 @@ I made 2 heaps:
 - I planted about 130 garlic seeds (equivalent to 821 grams) in various areas of the garden in order to evaluate what the garlic likes most.
 - The garlic seeds was purchased from our main organic food store, because it was cheap and available.
 
+### November 20th, 2022
+
+- I see garlic coming out! Too early, isn't it?
+
 ## Strawberries
 
 ### November 6th, 2022
