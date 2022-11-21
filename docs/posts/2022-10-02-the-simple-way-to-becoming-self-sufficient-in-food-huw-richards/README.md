@@ -15,10 +15,10 @@ next:
 #  - [meta, { rel: canonical, href: url }]
 category:
   - Gardening
-  - Self-sufficiency
   - Food
 tag:
   - Huw Richards
+  - Self-sufficiency
 ---
 
 ![A vegetable garden](./2022-10-02-the-simple-way-to-becoming-self-sufficient-in-food-huw-richards-hero.jpg)
