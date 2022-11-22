@@ -37,3 +37,17 @@ You can watch it using [this YouTube link](https://www.youtube.com/watch?v=HzonE
 
 <!-- markdownlint-disable MD033 -->
 <iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe>
+
+## Trick 1:
+
+## Trick 2:
+
+## Trick 3:
+
+## Trick 4:
+
+## Trick 5:
+
+## Trick 6:
+
+## Trick 7:
