@@ -167,3 +167,6 @@ The following myths are more annoying than anything else:
   - The diseases, like blight, can’t survive without a living host
 - Heat is a must
   - No, like I wrote above, it’s a bonus. You can make a great compost with no heat.
+
+<!-- markdownlint-disable MD033 -->
+<iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe>

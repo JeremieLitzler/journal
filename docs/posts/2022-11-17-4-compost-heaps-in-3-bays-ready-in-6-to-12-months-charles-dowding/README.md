@@ -191,3 +191,6 @@ Later, when the material has degraded enough, use the _squeeze technique_ descri
 Making compost is like taking care of a pet. Take care of it.
 
 And your vegetable beds will enjoy the great nourishment from it!
+
+<!-- markdownlint-disable MD033 -->
+<iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe>

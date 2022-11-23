@@ -239,3 +239,6 @@ My goal for the 2022–2023 year is:
 
 See the progress is [this journaling article](../2023-09-01-gardening-in-2023/README.md).
 :::
+
+<!-- markdownlint-disable MD033 -->
+<iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe>

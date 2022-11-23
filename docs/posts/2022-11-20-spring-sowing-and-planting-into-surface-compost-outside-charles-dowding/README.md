@@ -72,3 +72,6 @@ When you plant the seedlings, set them deep so they’re sturdier.
 ## Covering a bed with fleece
 
 When it’s still early spring, you may need to install a fleece (a white cover to protect the plants from the cold).
+
+<!-- markdownlint-disable MD033 -->
+<iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe>
