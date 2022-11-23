@@ -24,7 +24,6 @@ category:
 tag:
   - Huw Richards
   - Compost
-article: false
 ---
 
 Having enough compost can challenge any gardener. Let’s what Huw what it suggests to do.
