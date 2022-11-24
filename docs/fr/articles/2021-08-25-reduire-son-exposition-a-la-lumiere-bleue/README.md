@@ -10,35 +10,35 @@ category:
 
 ## Connaissez-vous la _lumière bleue_
 
-De nos jours, elle est partout : nous ordinateurs personnels, notre smartphones, nos tablettes.
+De nos jours, elle est partout : nos ordinateurs personnels, nos smartphones, nos tablettes.
 
 Elle est mauvaise pour la santé, car elle impacte votre vision aux premiers abords puis votre capacité de concentration et plus encore.
 
 Vous pouvez [lire cet article](https://www.aoqnet.qc.ca/votre-vision-et-vos-yeux/protection-des-yeux/lumiere-bleue/) pour en savoir plus.
 
-## Ajuster sur Windows 10
+## Ajuster sur Windows 10
 
-C'est simple, il faut juste activer _l'Eclarage Nocturne_.
+C’est simple, il faut juste activer _l’Eclarage Nocturne_.
 
-Une fois activer, on règle l'intensité : personnellement, je met la valeur 50.
+Une fois activer, on règle l’intensité : personnellement, je mets la valeur 50.
 
-Regarder la différence :
+Regarder la différence :
 
-![Image sans l'éclairage nocture](/images/reduce-blue-light-windows-10-without-nighttime.jpg)
+![Image sans l’éclairage nocturne](/images/reduce-blue-light-windows-10-without-nighttime.jpg)
 
-![Image avec l'éclairage nocture](/images/reduce-blue-light-windows-10-with-nighttime.jpg)
+![Image avec l’éclairage nocturne](/images/reduce-blue-light-windows-10-with-nighttime.jpg)
 
 ## Ajuster sur Android
 
-Sur Android, du moins la version 10, nous avons ce qu'on appelle _Eye Comfort_ en anglais.
+Sur Android, du moins la version 10, nous avons ce qu’on appelle _Eye Comfort_ en anglais.
 
-Cela fonctionne de la même façon :
+Cela fonctionne de la même façon :
 
-- on active l'option
-- on la règle : personnellement, je met au maximum !
+- on active l’option
+- on la règle : personnellement, je mets au maximum !
 
 ![Paramètre sur Android](/images/reduce-blue-light-android.jpg)
 
 :::tip
-Vous aurez aussi remarqué que j'utilise le _mode Sombre_. Cela aide aussi, mais tout le monde n'est pas fan. Chacun ses préférences.
+Vous aurez aussi remarqué que j’utilise le _mode Sombre_. Cela aide aussi, mais tout le monde n’est pas fan. Chacun ses préférences.
 :::
