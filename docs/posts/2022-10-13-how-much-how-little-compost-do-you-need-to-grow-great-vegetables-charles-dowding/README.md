@@ -160,3 +160,10 @@ See the beds of Charles from an aerial view:
 ![The garden of Charles Dowding seen from an aerial view](./images/beds-seen-from-above.jpg "Credits: image taken from Charles Dowding's vlog")
 
 If you want a big resource on the No Dig method, Checkout Charles’s book (use the link according to your location: [in France](https://amzn.to/3ELjByW), [in the US](https://amzn.to/3SROzJm) or [in the UK](https://amzn.to/3Nlrpd1)) for more details.
+
+Any comments? [Leave them on Substack!](https://thetooltip.substack.com/p/how-much-how-little-compost-do-you)
+
+And to support my work, consider signing up to my newsletter.
+
+<!-- markdownlint-disable MD033 -->
+<iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe>
