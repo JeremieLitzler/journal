@@ -2,7 +2,7 @@
 title: Comment réaliser ses propres bougies à la maison
 description: La méthode est simple et fascinante pour les enfants. Elle leur apprend ce que les abeilles nous donnent et comment recycler nos déchets (rouleaux de papier WC à jeter)
 date: 2022-11-26
-heroImage: '/images/.jpg'
+heroImage: '/images/2022-11-26-alyssia-regarde-la-bougie-se-consummer.jpg'
 heroAlt: Une bougie en cire d'abeilles
 #head:
 #  - [
@@ -61,7 +61,9 @@ Je n'ai pas refusé !
 
 C'est très simple : de la cire d'abeille à peu près pure. Une cire foncée fera l'affaire.
 
-![un lingot de cire](./images/.jpg 'Chaque lingot pèse x kg.')
+![Un lingot de cire](./images/cire-d-abeille-en-bloc-800g.webp 'Chaque lingot pèse x kg.')
+
+_Crédits de l'image : [www.latiendadelapicultor.com](https://www.latiendadelapicultor.com/fr/cire/cire-d-abeille-en-bloc-800g.html)_
 
 ### Matériel
 
