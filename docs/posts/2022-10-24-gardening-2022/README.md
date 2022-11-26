@@ -30,9 +30,7 @@ The harvest was better than 2020 (when we had picked 12.274 kg). This year, we r
 
 And the pumpkins were very tasty so far. You can guess we won't have much left before the winter.
 
-:::error add image
-_add pics_
-:::
+![Six kuri squash](./images/last-kuri-squash-harvested-in-october.jpg 'Those were the last squash harvested on October 23rd.')
 
 ## Potatoes
 
@@ -54,13 +52,15 @@ This year, the spring was mild and no frost hit the flowers of our kiwai.
 
 The vine produced 220 g of fruits
 
-:::error add image
-`![The harvest of kiwai of 2022](./images/kiwai-harvest-2022.jpg)`
-:::
+![The harvest of kiwai of 2022](./images/kiwai-harvest-2022.jpg 'It seems little but what a joy to produce something out of your own garden.')
 
 I hope next year will bring more. The vine has grown a little more.
 
 We are planning to buy another one to plant in the next available area for gardening.
+
+Kiwai are high in Vitamin C, even more than the regular kiwi fruit. I didn't find a technical source though, only a few web pages stating that fact.
+
+![A kiwai fruit cut in half](./images/inside-a-kiwai.jpg 'You can eat the whole fruit, skin included. Miam!')
 
 ## Raspberries
 
