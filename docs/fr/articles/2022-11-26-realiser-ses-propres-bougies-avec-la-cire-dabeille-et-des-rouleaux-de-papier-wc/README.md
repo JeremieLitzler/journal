@@ -148,7 +148,7 @@ Il faut couler la cire en trois étapes avec les moules en rouleaux de papier WC
 
 ![Une bougie allumée dans le noir](./images/une-bougie-allumee-dans-le-noir.jpg 'La lumière jaune est chaleureuse.')
 
-![Alyssia observe la bougie se consummer](./images/alyssia-regarde-la-bougie-se-consummer-2.jpg 'La bougie nous éclaire bien pour un premier essai !')
+![Alyssia observe la bougie se consummer](./images/2022-11-26-alyssia-regarde-la-bougie-se-consummer.jpg 'La bougie nous éclaire bien pour un premier essai !')
 
 ## Un premier retour d'expérience
 
