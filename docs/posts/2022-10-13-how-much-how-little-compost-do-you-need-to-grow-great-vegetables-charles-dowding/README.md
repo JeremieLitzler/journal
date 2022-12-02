@@ -166,4 +166,4 @@ Any comments? [Leave them on Substack!](https://thetooltip.substack.com/p/how-mu
 And to support my work, consider signing up to my newsletter.
 
 <!-- markdownlint-disable MD033 -->
-<iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe>
+<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>

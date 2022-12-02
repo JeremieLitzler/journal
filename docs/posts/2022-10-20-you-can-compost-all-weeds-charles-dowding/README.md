@@ -58,4 +58,4 @@ To keep the warmth in a pallet heap, put cardboard around the inside of the heap
 <i>Credits: Hero image by <a href="https://unsplash.com/@conscious_design?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Conscious Design</a> on <a href="https://unsplash.com/s/photos/compost-heap?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></i>
 
 <!-- markdownlint-disable MD033 -->
-<iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe>
+<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>

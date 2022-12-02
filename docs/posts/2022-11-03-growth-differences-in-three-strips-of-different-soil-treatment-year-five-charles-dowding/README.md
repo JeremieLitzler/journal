@@ -36,7 +36,7 @@ I wrote the following notes watching the video published on Charles Dowding’s 
 You can watch it using [this YouTube link](https://www.youtube.com/watch?v=u0V-5qXQz9U).
 
 <!-- markdownlint-disable MD033 -->
-<iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe>
+<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
 
 They shot the vlog on the 8th of September 2019. So this is the 6th year of doing this comparison.
 
@@ -111,4 +111,4 @@ And he observed that strip Three produced more waste over time.
 In the end, the strip Two is the best strip.
 
 <!-- markdownlint-disable MD033 -->
-<iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe>
+<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>

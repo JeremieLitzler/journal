@@ -26,7 +26,7 @@ Avec un hiver incertain qui s’approche, j’ai décidé de me lancer de la ré
 ![Alyssia observe une bougie se consommer](./images/alyssia-regarde-la-bougie-se-consummer.jpg 'Les bougies apportent une lumière puissante et naturelle qui fascine.')
 
 <!-- markdownlint-disable MD033 -->
-<iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe>
+<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
 
 ## Pourquoi réaliser des bougies maintenant
 
@@ -168,4 +168,4 @@ Au niveau de la coulée de la cire, l’étape 3 n’a pas donné un super rés
 Enfin, pour la prochaine fois, je sais que j’aurai à couper l’équivalent de quatre fois le poids d’une bougie, soit 95 g par bougie en moyenne.
 
 <!-- markdownlint-disable MD033 -->
-<iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe>
+<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>

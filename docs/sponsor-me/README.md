@@ -91,4 +91,4 @@ If you can’t give me a monetary thank, signing up to my newsletter will be hel
 Through Substack, I publish my articles, so you know when a new one is available.
 
 <!-- markdownlint-disable MD033 -->
-<iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe>
+<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>

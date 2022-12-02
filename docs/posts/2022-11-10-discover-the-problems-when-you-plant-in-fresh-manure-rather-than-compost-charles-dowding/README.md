@@ -37,7 +37,7 @@ I wrote the following notes watching the video published on Charles Dowding’s 
 You can watch it using [this YouTube link](https://www.youtube.com/watch?v=veHKCN73tUc).
 
 <!-- markdownlint-disable MD033 -->
-<iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe>
+<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
 
 A guy contacted him about using fresh manure as a great way to grow potatoes.
 

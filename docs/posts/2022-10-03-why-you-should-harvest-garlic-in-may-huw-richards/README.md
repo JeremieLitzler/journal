@@ -81,4 +81,4 @@ What about sowing the cloves closer, like every 5 cm instead of every 10 cm, so 
 Then in the same space, you will get both green and mature garlic.
 
 <!-- markdownlint-disable MD033 -->
-<iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe>
+<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>

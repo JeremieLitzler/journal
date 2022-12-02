@@ -35,7 +35,7 @@ I wrote the following notes watching the video published on Charles Dowding’s 
 You can watch it using [this YouTube link](https://www.youtube.com/watch?v=TECfM93K36Y).
 
 <!-- markdownlint-disable MD033 -->
-<iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe>
+<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
 
 You need to try things out when it comes to composts.
 
@@ -107,4 +107,4 @@ Charles suggests to do the following to hold the structure in the heap:
 Within _about 6 to 10 months_, the compost will be ready. You decide by the look of your compost. You need to try and experience and in the end, you will find the good fit.
 
 <!-- markdownlint-disable MD033 -->
-<iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe>
+<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>

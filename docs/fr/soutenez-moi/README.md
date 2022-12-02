@@ -92,4 +92,4 @@ Si vous ne pouvez pas m’aider financièrement, vous inscrire à ma lettre d’
 Avec Substack, je publierai mes articles afin que vous sachiez quand je publie un nouvel article.
 
 <!-- markdownlint-disable MD033 -->
-<iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe>
+<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>

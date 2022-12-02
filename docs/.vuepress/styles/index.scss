@@ -1,3 +1,24 @@
+h1 {
+  font-size: 2rem;
+}
+
+h2 {
+  font-size: 1.6rem;
+}
+
+h3 {
+  font-size: 1.3rem;
+}
+
+p {
+  font-size: 1rem;
+}
+
+@media (max-width: 50em) {
+  figure {
+    margin: 0;
+  }  
+}
 // .home-page {
 //     background: url("/images/wallpaper.webp") center/cover no-repeat;
 // }
@@ -16,14 +37,26 @@
 .hero-image {
   border-radius: 20em;
 }
+
 iframe.contact-form {
   height: 50em;
 }
+.newsletter-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
 iframe.newsletter-embed {
-    border-radius: 8px;
     width: 100%;
-    height: 17em;
+    height: 16em;
     border-radius: 8px;
+}
+
+
+@media (min-width: 50em) {
+  iframe.newsletter-embed {
+    width: 90%;
+  }
 }
 
 iframe.newsletter-embed html {

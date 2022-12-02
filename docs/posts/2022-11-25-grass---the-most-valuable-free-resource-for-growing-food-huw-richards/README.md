@@ -35,7 +35,7 @@ I wrote the following notes watching the video published on Huw Richards’s cha
 You can watch it using [this YouTube link](https://www.youtube.com/watch?v=FcmR8KbJzH8).
 
 <!-- markdownlint-disable MD033 -->
-<iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe>
+<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
 
 :::warning Sourcing grass
 You must source your grass from places not sprayed with fertilizers or pesticides.
@@ -132,4 +132,4 @@ Two weeks after, you can use the JADAM liquid in a 1:30 ratio. As it ages, it ge
 The interesting thing is that you can top up with water the container for years while you keep the solids in. Adding additional organic matter of the same plant (in this case grass clippings) is also an option as the original matter has decomposed.
 
 <!-- markdownlint-disable MD033 -->
-<iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe>
+<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>

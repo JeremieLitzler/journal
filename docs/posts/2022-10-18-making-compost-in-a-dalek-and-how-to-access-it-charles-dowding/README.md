@@ -37,7 +37,7 @@ You can watch it using [this YouTube link](https://www.youtube.com/watch?v=2scvQ
 _Credits: image taken from Charles Dowding's vlog_
 
 <!-- markdownlint-disable MD033 -->
-<iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe>
+<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
 
 Making compost is a really useful to do.
 
@@ -88,4 +88,4 @@ I am reviewing [all the vlogs not only from Charles](../../tag/charles-dowding/)
 Also, [Charles provides a book](https://amzn.to/3ELjByW) about his No Dig method, containing much information about composting.
 
 <!-- markdownlint-disable MD033 -->
-<iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe>
+<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>

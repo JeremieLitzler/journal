@@ -38,7 +38,7 @@ I wrote the following notes watching the video published on Charles Dowding’s 
 You can watch it using [this YouTube link](https://www.youtube.com/watch?v=XnoZ4jvrY5g).
 
 <!-- markdownlint-disable MD033 -->
-<iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe>
+<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
 
 ## The five composts of the trial
 
@@ -311,4 +311,4 @@ According to Charles’s experience, it doesn’t make a big difference, apart f
 price...
 
 <!-- markdownlint-disable MD033 -->
-<iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe>
+<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>

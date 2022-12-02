@@ -36,7 +36,7 @@ I wrote the following notes watching the video published on Charles Dowding’s 
 You can watch it using [this YouTube link](https://www.youtube.com/watch?v=VhHshAf2lpM).
 
 <!-- markdownlint-disable MD033 -->
-<iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe>
+<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
 
 ## Size the heap
 
@@ -173,4 +173,4 @@ Go read the notes I took from the trials Charles did that showed how worm compos
 - [Comparing different composts for propagation](../2022-10-21-comparing-different-composts-for-propagation-charles-dowding/README.md)
 
 <!-- markdownlint-disable MD033 -->
-<iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe>
+<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
