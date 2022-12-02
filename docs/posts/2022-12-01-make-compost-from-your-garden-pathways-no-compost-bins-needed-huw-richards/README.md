@@ -35,9 +35,7 @@ I wrote the following notes watching the video published on Huw Richards’s cha
 You can watch it using [this YouTube link](https://www.youtube.com/watch?v=7vAwurGpl-M).
 
 <!-- markdownlint-disable MD033 -->
-<p class="newsletter-wrapper">
 <p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
-</p>
 
 ## The source of the idea
 
