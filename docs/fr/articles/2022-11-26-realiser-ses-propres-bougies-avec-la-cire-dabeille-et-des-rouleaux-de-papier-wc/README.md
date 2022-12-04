@@ -101,7 +101,7 @@ J’ai pris le coup de main au fur et à mesure.
 
 On coupe bien les tranches de cire en petits morceaux pour faire rentrer le plus possible de la _marmite_.
 
-: ::tip Quelle quantité de cire faut-il préparer
+:::tip Quelle quantité de cire faut-il préparer
 Je n’ai pas pesé la cire coupée, donc impossible de vous dire combien j’en ai mis…
 
 Par contre, j’ai coupé au fur et à mesure que la cire fondait dans la _marmite_ et je l’ai bien remplie jusqu’en haut.
@@ -111,7 +111,7 @@ Cela a permis de réaliser les 4 bougies sans trop de surplus.
 
 ### Fondre la cire
 
-: ::danger Surtout pas de gaz
+:::danger Surtout pas de gaz
 La cire brûle très très bien ! Ne la faites pas fondre sur une cuisinière à gaz !!!
 :::
 
@@ -128,7 +128,7 @@ J’ai pris 4 beaux rouleaux de papier WC, pas trop accidentés que j’ai pos�
 
 ### Couler la cire
 
-: ::warning Avant de couler la cire…
+:::warning Avant de couler la cire…
 Il faut que la mèche soit _clipsée_ au centreur de mèche avant de couler la cire…
 
 Il faut aussi que la mèche soit tendue, car une fois la cire fondue dans le moule, tirer la mèche la séparera de la partie métallique…
