@@ -65,7 +65,7 @@ C’est très simple : de la cire d’abeille à peu près pure. Une cire fonc�
 
 ### Matériel
 
-J’ai commandé [ce kit sur Amazon](https://amzn.to/3Uem1dz) pour _aller vite_. C
+J’ai commandé [ce kit sur Amazon](https://amzn.to/3Uem1dz) pour _aller vite_.
 
 Il contient :
 
