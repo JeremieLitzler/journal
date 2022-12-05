@@ -28,7 +28,7 @@ tag:
 
 A gardener can’t have too much compost and in fact you may not be able to create enough. Huw will give tips to how to improve that.
 
-![Some old sheep wool](./images/2022-12-02-sheep-wool-as-a-compostable-material.jpg 'I have two sheep at home and I use their wool for the garden! Credits: image taken from Huw Richards’s vlog')
+![Some old sheep wool](./images/2022-12-02-sheep-wool-as-a-compostable-material.jpg 'I have two sheep at home and I use their wool for the garden. Credits: image taken from Huw Richards’s vlog')
 
 Thanks to Huw Richards for sharing his wisdom and knowledge!
 I wrote the following notes watching the vlog published on Huw Richards’s channel.
