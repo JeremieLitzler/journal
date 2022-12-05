@@ -34,7 +34,7 @@ export default hopeTheme({
       blog: true,
       mdEnhance: {
         imageTitle: true,
-        imageLazyload: true
+        // imageLazyload: true
       },
       /*pwa: {
         cacheHTML: true,
