@@ -34,11 +34,11 @@ export default hopeTheme({
       blog: true,
       mdEnhance: {
         imageTitle: true,
-        // imageLazyload: true
+        imageLazyload: true
       },
-      /*pwa: {
+      pwa: {
         cacheHTML: true,
         //cachePic: true
-      }*/
+      }
     }
 });
