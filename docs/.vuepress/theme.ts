@@ -36,9 +36,9 @@ export default hopeTheme({
         imageTitle: true,
         imageLazyload: true
       },
-      pwa: {
+      /*pwa: {
         cacheHTML: true,
         //cachePic: true
-      }
+      }*/
     }
 });
