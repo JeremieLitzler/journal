@@ -10,14 +10,14 @@ prev:
 #next:
 #  text: ''
 #  link: ..//README.md
-#head:
-#  - [
-#      meta,
-#      {
-#        rel: canonical,
-#        href: url,
-#      },
-#    ]
+head:
+  - [
+      meta,
+      {
+        rel: canonical,
+        href: https://thetooltip.substack.com/p/these-8-free-ingredients-will-bulk,
+      },
+    ]
 category:
   - Permaculture
   - Gardening
