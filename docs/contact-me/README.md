@@ -13,3 +13,7 @@ article: false
   marginwidth="0"
   title="A question? Contact me!">
 </iframe>
+
+## Or booking a 30 minutes call
+
+Use [this link](https://calendly.com/iamjeremie/30min) to check my availability.

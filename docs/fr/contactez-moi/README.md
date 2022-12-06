@@ -23,3 +23,7 @@ iframe.newsletter-embed {
   marginwidth="0"
   title="Une question ? Contactez-moi.">
 </iframe>
+
+## Ou prenez rendez-vous pour se parler directement
+
+En utilisant [ce lien](https://calendly.com/iamjeremie/30min), vous trouverez mes disponibilités.
