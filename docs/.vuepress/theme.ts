@@ -33,7 +33,7 @@ export default hopeTheme({
     plugins: {
       blog: true,
       mdEnhance: {
-        imageTitle: true,
+        // imageTitle: true,
         imageLazyload: true
       },
       pwa: {
