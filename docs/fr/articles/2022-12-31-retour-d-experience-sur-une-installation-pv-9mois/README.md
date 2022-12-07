@@ -32,6 +32,8 @@ Elle est composée de :
 - un routeur solaire de Robin Emley (repris par un couple français)
 - et quelques éléments électriques indispensables pour une installation photovoltaïque
 
+Le tout a couté 2057 euros, tout compris.
+
 ## Bilan de consommation totale cumulée du printemps, été et automne
 
 ### Consommation : les chiffres
