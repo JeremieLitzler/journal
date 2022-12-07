@@ -20,6 +20,7 @@ next:
 category:
   - Jardin
 tag:
+  - Damien Dekarz
   - Mois d'octobre
 ---
 

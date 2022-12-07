@@ -17,6 +17,7 @@ category:
   - Jardin
 tag:
   - Mois d'octobre
+  - Potager d'Olivier
 ---
 
 Merci à Olivier pour le partage de son savoir !

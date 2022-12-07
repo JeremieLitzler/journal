@@ -6,6 +6,7 @@ date: 2022-07-20
 heroImage: '/images/2022-07-20-5-sauvages-1.jpg'
 heroAlt:
 tag:
+  - Damien Dekarz
   - Permaculture
   - Plantes sauvages
   - Alimentation

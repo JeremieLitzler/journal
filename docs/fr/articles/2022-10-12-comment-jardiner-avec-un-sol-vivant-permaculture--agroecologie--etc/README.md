@@ -20,6 +20,7 @@ category:
   - Jardin
   - Vie du sol
 tag:
+  - Damien Dekarz
   - Plantes
   - Mycorhizes
   - Champignons
