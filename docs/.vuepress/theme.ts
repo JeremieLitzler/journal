@@ -35,10 +35,12 @@ export default hopeTheme({
       mdEnhance: {
         //use the figure, figureCaption to wrap an image
         figure: true,
+        //load image lazily with native method
         imageLazyload: true
       },
       pwa: {
         cacheHTML: true,
+        //cahcing pictures is quite heavy...
         //cachePic: true
       }
     }
