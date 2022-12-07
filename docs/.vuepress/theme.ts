@@ -33,7 +33,8 @@ export default hopeTheme({
     plugins: {
       blog: true,
       mdEnhance: {
-        // imageTitle: true,
+        //use the figure, figureCaption to wrap an image
+        figure: true,
         imageLazyload: true
       },
       pwa: {
