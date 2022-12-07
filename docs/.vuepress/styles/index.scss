@@ -1,5 +1,7 @@
-h1 {
-  font-size: 2rem;
+/* TYPOGRAPHY */
+h1,
+.page-title h1 {
+  font-size: 1.8rem;
 }
 
 h2 {
@@ -7,20 +9,41 @@ h2 {
 }
 
 h3 {
-  font-size: 1.3rem;
+  font-size: 1.2rem;
 }
 
 p {
   font-size: 1rem;
 }
 
+@media (min-width: 50em) {
+ h1,
+ .page-title h1 {
+    font-size: 2rem;
+  }
+
+  h2 {
+    font-size: 1.8rem;
+  }
+
+  h3 {
+    font-size: 1.4rem;
+  }
+
+  p {
+    font-size: 1rem;
+  } 
+}
+
 img {
   border-radius: 8px;
 }
+
+/* LAYOUT */
 @media (max-width: 50em) {
-  figure {
-    margin: 0;
-  }  
+  // figure {
+  //   margin: 0;
+  // }  
 }
 // .home-page {
 //     background: url("/images/wallpaper.webp") center/cover no-repeat;
@@ -57,9 +80,9 @@ iframe.newsletter-embed {
 
 
 @media (min-width: 50em) {
-  iframe.newsletter-embed {
-    width: 90%;
-  }
+  // iframe.newsletter-embed {
+  //   width: 90%;
+  // }
 }
 
 iframe.newsletter-embed html {
