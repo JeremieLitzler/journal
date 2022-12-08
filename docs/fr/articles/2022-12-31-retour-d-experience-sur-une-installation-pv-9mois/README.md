@@ -195,7 +195,9 @@ A ce moment-là, 1.5 h de chauffe était largement suffisant pour les 5 jours o�
 
 En novembre, on a laissé le réseau preque tous les jours dû à la très mauvaise météo... J'ai augmenté à 2.5 h de chauffe la première semaine de décembre. J'ai diminué à 2h une semaine après car cela suffisait pour les douches chaudes de mesdames ;)
 
-Autre point important : j'ai mis le thermostat à 5 sur 5 au lieu de 2 sur 5 en été et 3 sur 5 en hiver quand on alimentait sur le réseau uniquement.
+**Le gros avantage** : en novembre, on a réussi presque -50 % de consommation réseau par réseau aux trois dernières années, et ce malgré l'absence du soleil une grosse partie du mois.
+
+**Autre point important :** j'ai mis le thermostat à 5 sur 5 au lieu de 2 sur 5 en été et 3 sur 5 en hiver quand on alimentait sur le réseau uniquement.
 
 Oui, l'eau était bien chaude, mais cela a permit d'avoir 2 à 3 jours de mauvais temps en septembre avec peu ou pas de soleil et ne pas utiliser le réseau pour chauffer l'ESC.
 
