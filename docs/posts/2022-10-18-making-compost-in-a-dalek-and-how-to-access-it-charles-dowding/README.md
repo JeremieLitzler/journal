@@ -83,7 +83,7 @@ The [heap](https://www.google.com/search?q=heap+meaning) by volume should be:
 I am reviewing [all the vlogs not only from Charles](../../tag/charles-dowding/) but also other YouTubers like:
 
 - [Huw Richards](../../tag/huw-richards/)
-- or [Damien Dekarz (in French)](../../fr/articles/2022-09-12-toutes-mes-notes-sur-les-videos-de-Permaculture-agroecologie-etc/README.md) and other French sources.
+- or [Damien Dekarz (in French)](../../fr/tag/damien-dekarz/) and other French sources.
 
 Also, [Charles provides a book](https://amzn.to/3ELjByW) about his No Dig method, containing much information about composting.
 

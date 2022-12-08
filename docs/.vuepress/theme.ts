@@ -36,7 +36,9 @@ export default hopeTheme({
         //use the figure, figureCaption to wrap an image
         figure: true,
         //load image lazily with native method
-        imageLazyload: true
+        imageLazyload: true,
+        //https://vuepress-theme-hope.github.io/v2/guide/markdown/tabs.html
+        tabs: true
       },
       pwa: {
         cacheHTML: true,
