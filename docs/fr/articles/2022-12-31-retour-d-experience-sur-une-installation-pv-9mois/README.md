@@ -233,19 +233,81 @@ Ce que nous avons fait est de lancer 2 cycles de rinçage (2 fois 11 min) pour a
 
 Sur un cycle plus long, le mode _eco_ de 2h45, la consommation était clairement diminuée.
 
-![Graphique de relevé Linky en septembre 2022](./images/exemple-de-cycle-1-avec-eau-tres-chaude-septembre-2022.jpg 'Le pic de 15h correspond au cycle 1 du lave-vaisselle.')
+![Graphique de relevé Linky en septembre 2022](./images/exemple-de-cycle-1-avec-eau-tres-chaude-septembre-2022.jpg 'Le pic de 15h correspond au cycle 1 du lave-vaisselle. Normalement, le cycle 1 consomme un peu moins de 1kWh.')
 
 ### Avec le lave-linge
 
+Contrairement au lave-vaisselle, je n'ai pas branché le lave-linge sur l'eau chaude, car il faut installer un mitigeur et l'arrivée d'eau chaude est trop loin ni réalisée pour que ça valle le coup.
+
+Par contre, nous avons profité du soleil et des jours ensoleillés pour laver le linge et consommer moins sur un cycle.
+
+![Graphique de relevé Linky du 11 août 2022](./images/exemple-de-cycle-cotton-eco-40-en-aout-2022.jpg 'Le pic de 12h et la consommation continuant jusqu'à 15h correspond au cycle "Cotton éco" à 40° C')
+
+:::danger A faire avant décembre
+Je n'ai pas une date précédant l'activation de la production solaire.
+:::
+
 ### Avec la plaque à induction portable
 
+De la même façon, nous avons utilisé, aussi bien que peu, une plaque à induction portable de 2100 W de puissance pour faire cuire doucement certains plats.
+
+En général, je n'ai jamais dépassé 3.5 sur une échelle de 10.
+
+La puissance de 3.5 correspond à 500 W.
+
+Nous avons remarqué que même 2.5, soit 340 W, les aliments cuissaient.
+
+Certes, cela prennait plus de temps que le feu à gaz dans la cuisine, mais en 2h, les légumes vapeurs étaient cuits par l'énergie solaire récupérée.
+
+![Graphique de relevé Linky du 5 septembre 2022](./images/exemple-de-cuisson-induction.jpg 'De 15h à 18h, nous avons fait cuire un plat à puissance 2.5, soit 340 W. Le pic de 15h montre sûrement un nuage dans le ciel à ce moment.')
+
 ### Avec le mini radiateur électrique
+
+Nous ne l'avons pas beaucoup utiliser, mais je pense qu'il fut utile pendant notre absence début octobre (12 jours).
+
+L'idée :
+
+- laisser la sortie 1 du routeur solaire sur le chauffe-eau (comme ça, l'eau est bien chaude en rentrant)
+- brancher le radiateur sur le réglage 1000 W (pour optimiser la ventilation) sur la sortie 2 du routeur solaire.
+
+:::note Pour rappel
+Le routeur n'alimente les 2 sorties en même temps.
+
+Si la sortie 1 ne consomme pas, la sortie 2 est alimenté par le surplus solaire.
+
+Ce qui se révèle très pratique dans le scénario ci-dessus !
+:::
 
 ## Point sur le rejet de production
 
 Globalement, on s'en sort très bien avec un taux d'autoconsommation de plus de 90% sur neuf mois.
 
 Cet été, on a rejeté bien plus qu'au printemps
+
+## Et l'optimisation de la consommation du réseau
+
+Je me suis rendu que l'on possède beaucoup d'appareils électroménagers qui consomment beaucoup :
+
+- un four de 3000 W
+- un bouilloire de 2200 W
+- etc...
+
+Et je me suis posé la question : pourquoi des grosses puissances ?
+
+Pour aller plus vite pour cuire un plat ou bouillir de l'eau.
+
+En réalité combien cela prend-il de faire chauffer 300 ml d'eau à 2400 W au lieu de 1000 W, par exemple ?
+
+D'après [Elisabeth Petit et son calculateur](https://editions-petiteelisabeth.fr/calculs_transfert_chaleur_6.php), il faut :
+
+- 41.8 secondes pour chauffer 300 ml d'eau à 2400 W de puissance.
+- 100.3 secondes pour chauffer 300 ml d'eau à 1000 W de puissance.
+
+Soit 1 min de plus.
+
+Lorsque votre installation photovoltaïque délivrer maximum 1200 W instantannés, n'est-il pas mieux de chauffer à 1000 W plutôt que 2400 W ?
+
+Je vous laisse juger pour vous-même.
 
 ## Quelle est la suite
 
