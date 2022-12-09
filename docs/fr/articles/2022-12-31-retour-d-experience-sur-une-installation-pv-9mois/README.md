@@ -62,23 +62,22 @@ Et si l'on compare la consommation en 2019, 2020 et 2021 à celle de 2022, on vo
 
 ![Tableau comparant les années 2019 à 2022 en consommation mensuelle en kWh](./images/consommation-comparee-2019-2020-2021-2022.jpg "Le résultat est clair, n'est-ce pas ?")
 
-:::tip Remarque sur janvier et février 2022
+:::tip Remarques sur janvier, février et mars 2022
 En janvier 2022, on a eu notre plus grosse consommation sur les 4 années comparées.
 
-En février 2022, nous étions à Siwa.
+En février et début mars 2022, nous étions à Siwa.
 
-Il faudra attendre encore 2 mois pour voir comment l'installation aide à diminuer la consommation.
+Il faudra attendre encore 3 mois pour voir comment l'installation aide à diminuer la consommation sur ces mois d'hiver.
 :::
 
 ### Conclusion
 
 - L'installation solaire a vraiment aidé à diminuer la consommation.
 - J'avais un objectif à passer sous les 2000 kWh consommés annuels. Objectif : atteint avec 9 mois !
--
 
 ## Consommation pour l'ECS
 
-:::note ECS
+:::note Définition de _ECS_
 Il s'agit de l'Eau Chaude Sanitaire, dans notre cas, chauffée par un cumulus de 200 litres.
 :::
 
@@ -103,14 +102,14 @@ Il s'agit de l'Eau Chaude Sanitaire, dans notre cas, chauffée par un cumulus de
 ### La conclusion
 
 - La consommation depuis de le réseau Enedis a disparu de Mai à Septembre, même avec le mauvais temps d'Août et Septembre.
-- En effet, j'ai remarqué que si le routeur solaire fournissait au moins 2kWh au cumulus chaque jour, on n'avait pas besoin de faire l'appoint
-- A partir d'octobre et surtout en novembre et décembre, le temps fut si gris qu'on a produit en moyenne seulement 2.08 kWh...
+- En effet, j'ai remarqué que si le routeur solaire fournissait au moins 2kWh au cumulus chaque jour, on n'avait pas besoin de faire l'appoint avec le réseau.
+- A partir d'octobre et surtout en novembre et décembre, la météo fut si grise qu'on a produit en moyenne 2.08 kWh par jour ... :(
 
 ## Ajustements extérieurs de l'installation
 
 ### Orientation des champs
 
-J'ai changé 3 fois l'inclinaison des champs :
+J'ai changé 3 fois l'inclinaison des champs sur les 9 mois :
 
 - fin juin :
   - j'ai mis le champ Sud à 30 °
@@ -118,11 +117,13 @@ J'ai changé 3 fois l'inclinaison des champs :
 - fin août, j'ai remonté le champ Sud à 45 °
 - fin novembre, j'ai remonté tous les champs à au moins 60 °
 
+![Vue des champs Sud et Sud-Est](./images/2022-12-08-vue-des-champs-sud-et-sud-est.jpg 'Les champs Sud et Sud-Est en position Printemps-Automne')
+
 ### Nettoyage des panneaux
 
 J'ai réalisé un nettoyage mensuel.
 
-Ayant pas mal de chats autour de la propriété, j'ai vu que certains sont venus marchés sur les panneaux, mais heureusement, les moutons s'en sont abstenus.
+Avec pas mal de chats autour de la propriété, j'ai vu que certains sont venus marchés sur les panneaux, mais heureusement, les moutons s'en sont abstenus.
 
 ## Ajustements intérieurs de l'installation
 
@@ -145,8 +146,8 @@ Fin août 2022, j'ai enfin trouvé la configuration la plus pratique pour gérer
 Ce qui a changé :
 
 - je n'utilise plus le contacteur avec le signal HC/HP d'EDF. Il n'est utile et j'explique pourquoi dans les lignes suivantes.
-- - j'ai conservé les disjoncteur 15A-1 et 15A-2 pour avoir un contrôle indépendant sur les sorties du routeur solaire.
-- j'ai supprimé les compteurs mécaniques pour compter l'énergie utilisée sur les prises connectées aux sorties du routeur solaire
+- j'ai conservé les disjoncteur 15A-1 et 15A-2 pour avoir un contrôle indépendant sur les sorties du routeur solaire.
+- j'ai supprimé les compteurs mécaniques pour compter l'énergie utilisée sur les prises connectées aux sorties du routeur solaire. Voir [plus bas pourquoi](#branchement-du-cumulus).
 
 - j'ai installé un programmateur horaire à pins pour contrôler quand et combien de temps le cumulus est alimenté par le réseau.
 
@@ -161,45 +162,54 @@ Au départ, j'ai branché le cumulus de la mauvaise façon. Je ne pouvais pas la
 
 Sinon, ça sautait.
 
+Cela m'obligeait à tout éteindre au niveau du tableau général, me rendre dans le garage, activer ou désactiver l'alimentation réseau et remettre l'alimentation sur le tableau général... Pas pratique.
+
 Après plus de réflexion, j'ai réussi à brancher les deux avec le contrôle au niveau du tableau du routeur.
 
 Sur la sortie routeur, j'ai enlevé les compteurs d'énergie mécaniques, car le comptage était faux. Je pense que cela est causé par le routeur et la façon dont il laisse passer le courant par impulsion.
 
+Robin Emley m'a dit que cela dépend de [la calibration de la pince ampèremétrique](https://mk2pvrouter.co.uk/improved-calibration.html). Pour le moment, cela ne me dérange pas.
+
 Ayant le compteur d'énergie numérique sur le tableau de la sortie solaire, cela m'importait peu de ne pas avoir l'information précise de la consommation qui était passée par le routeur.
 
-Le routeur indique le comptage journalier et celui-ci est réinitialisé chaque jour. Je me satisfais de cela.
+De plus, le routeur indique le comptage journalier et celui-ci est réinitialisé chaque jour. Je me satisfais de cela.
 
 Dans le garage, sur le support en OSB isolant le cumulus, j'ai installé le disjoncteur 15A-4.
 
-J'ai utilisé un câble triphasé :
+J'ai utilisé un câble triphasé du tableau du routeur solaire au cumulus :
 
-- une phase pour l'alimentation réseau
-- une phase pour l'alimentation du routeur
+- une phase et ligne pour l'alimentation réseau
+- une phase et ligne pour l'alimentation du routeur
 
-Le câble de terre remonte du cumulus au tableau en sortie du routeur solaire.
+Le câble de terre remonte du cumulus au tableau du routeur solaire.
 
 L'entrée du disjoncteur reçoit :
 
 - l'alimentation du réseau via le programmateur horaire
 - l'alimentation du routeur solaire
 
-La sortie est branchée comme avant.
+La sortie est branchée comme avant au cumulus.
 
 ## Optimisation de la production
 
 ### Avec le cumulus
 
-En octobre, j'ai dû activer le chauffage de l'ECS par le réseau.
+En octobre, j'ai dû activer l'alimentation du cumulus par le réseau.
 
 A ce moment-là, 1.5 h de chauffe était largement suffisant pour les 5 jours où cela fut nécessaire.
 
 En novembre, on a laissé le réseau preque tous les jours dû à la très mauvaise météo... J'ai augmenté à 2.5 h de chauffe la première semaine de décembre. J'ai diminué à 2h une semaine après car cela suffisait pour les douches chaudes de mesdames ;)
 
-==Le gros avantage== : en novembre, on a réussi presque -50 % de consommation réseau par réseau aux trois dernières années, et ce malgré l'absence du soleil une grosse partie du mois.
+==Le gros avantage== :
+
+- en novembre, on a réussi presque -50 % de consommation réseau par rapport aux trois dernières années, et ce malgré l'absence du soleil une bonne partie du mois. Avant, le cumulus tournait 4h par nuit d'hiver...
+- aussi, lorsqu'on lançait le lave-vaisselle en fin de nuit (le cumulus étant en route de 22h30 à 2h00 avec le signal HP/HC), le cumulus se remettait en route...
+
+![Graphique de relevé Linky en février 2022](./images/exemple-de-cycle-1-en-fevrier-2022.jpg 'Le pic de 4h30 correspond au cycle 1 du lave-vaisselle et le cumulus se remettant en route')
 
 ==Autre point important :== j'ai mis le thermostat à 5 sur 5 au lieu de 2 sur 5 en été et 3 sur 5 en hiver quand on alimentait sur le réseau uniquement.
 
-Oui, l'eau était bien chaude, mais cela a permit d'avoir 2 à 3 jours de mauvais temps en septembre avec peu ou pas de soleil et ne pas utiliser le réseau pour chauffer l'ESC.
+Oui, l'eau était bien chaude, mais cela a permit d'avoir 2 à 3 jours de mauvais temps en septembre avec peu ou pas de soleil et ne pas utiliser le réseau pour chauffer l'ESC. Je l'ai remarqué principalement en août et septembre.
 
 Est-ce que cela va faire vieillir la résistance ? Si vous avez la réponse, [partagez-la moi](../../contactez-moi/README.md) :).
 
@@ -211,9 +221,19 @@ Cela nous a permit de sècher les abricots, poires, verveine citronnée et les o
 
 Je l'ai branché sur la sortie 2 lorsqu'on avait besoin que l'ECS soit chauffée, ce qui me conforte dans le choix de prendre un routeur avec 2 sorties.
 
+L'inconvénient fut que cela chauffait l'air de la maison... Et cet été, ce n'était pas l'idéal !
+
 ### Avec le lave-vaisselle
 
-Durant l'été
+Durant l'été, l'eau fut très chaude.
+
+Mon lave-vaisselle est branché sur l'eau depuis le début.
+
+Ce que nous avons fait est de lancer 2 cycles de rinçage (2 fois 11 min) pour amener l'eau et la vaisselle était alors presque _propre_. Si l'on avait besoin de faire tourner le lave-vaisselle, on le lançait ensuite en programme _demi-charge_ durant 30 min et comme l'eau chaud était déjà là, la consommation du réseau apparaissait nul.
+
+Sur un cycle plus long, le mode _eco_ de 2h45, la consommation était clairement diminuée.
+
+![Graphique de relevé Linky en septembre 2022](./images/exemple-de-cycle-1-avec-eau-tres-chaude-septembre-2022.jpg 'Le pic de 15h correspond au cycle 1 du lave-vaisselle.')
 
 ### Avec le lave-linge
 
@@ -226,3 +246,8 @@ Durant l'été
 Globalement, on s'en sort très bien avec un taux d'autoconsommation de plus de 90% sur neuf mois.
 
 Cet été, on a rejeté bien plus qu'au printemps
+
+## Quelle est la suite
+
+- Trouver un moyen d'utiliser le déhydrateur sans chauffer la maison l'été.
+  - Je pense à une rallonge qui courait de la sortie 2 du routeur à la véranda et pour y arriver, il y a de la distance à parcourir. Après cela permettrait d'avoir une alimentation issue du routeur solaire à un endroit utile.
