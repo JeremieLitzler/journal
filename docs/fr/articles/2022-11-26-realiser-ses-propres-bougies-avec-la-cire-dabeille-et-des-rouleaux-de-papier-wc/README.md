@@ -19,7 +19,7 @@ tag:
   - Fait maison
 ---
 
-![Un lingot de cire](/images/2022-11-26-3-bougies-finies.jpg)
+![Trois bougies réalisées à la maison](/images/2022-11-26-3-bougies-finies.jpg)
 
 Avec un hiver incertain qui s’approche, j’ai décidé de me lancer de la réalisation de bougies à base de cire naturelle d’abeille qu’un collègue apiculteur m’a offerte !
 
@@ -159,7 +159,7 @@ Au bout de deux heures et demie, la bougie a perdu 15 g de son poids. Pour une 
 
 ## Un premier retour d’expérience
 
-![3 bougies de cire d’abeille](./images/3-bougies-finies.jpg 'On voit bien le chapeau de la troisième coulée.')
+![3 bougies de cire d’abeille](./images/2022-11-26-3-bougies-finies.jpg 'On voit bien le chapeau de la troisième coulée.')
 
 Après coup, il me manque 2 centreurs en inox supplémentaire pour faire 4 bougies à la fois sans attendre que les premières refroidissent.
 
