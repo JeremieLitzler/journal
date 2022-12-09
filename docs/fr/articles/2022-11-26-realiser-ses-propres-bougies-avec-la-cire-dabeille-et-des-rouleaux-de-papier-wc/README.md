@@ -21,12 +21,18 @@ tag:
   - Fait maison
 ---
 
+![Un lingot de cire](/images/2022-11-26-3-bougies-finies.jpg)
+
 Avec un hiver incertain qui s’approche, j’ai décidé de me lancer de la réalisation de bougies à base de cire naturelle d’abeille qu’un collègue apiculteur m’a offerte !
 
-![Alyssia observe une bougie se consommer](./images/alyssia-regarde-la-bougie-se-consummer.jpg 'Les bougies apportent une lumière puissante et naturelle qui fascine.')
+La méthode est simple et fascinante pour les enfants. Elle leur apprend ce que les abeilles nous donnent et comment recycler nos déchets (rouleaux de papier WC à jeter)
+
+<!-- more -->
 
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
+
+![Alyssia observe une bougie se consommer](./images/2022-11-26-alyssia-regarde-la-bougie-se-consummer.jpg 'Les bougies apportent une lumière puissante et naturelle qui fascine.')
 
 ## Pourquoi réaliser des bougies maintenant
 

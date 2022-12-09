@@ -31,14 +31,39 @@ export default hopeTheme({
     displayFooter: true,
     footer: 'GPLv3 Licensed | <a href="https://iamjeremie.me/terms" title="Read termes and conditions of this website">Terms</a>',
     plugins: {
-      blog: true,
+      blog: {
+        autoExcerpt: true,
+      },
       mdEnhance: {
+        linkCheck: 'always',
+        //See https://vuepress-theme-hope.github.io/v2/guide/markdown/align.html
+        align: true,
+        //See https://vuepress-theme-hope.github.io/v2/guide/markdown/attrs.html
+        attrs: true,
+        //See https://vuepress-theme-hope.github.io/v2/guide/markdown/chart.html
+        chart: true,
+        //See https://vuepress-theme-hope.github.io/v2/guide/markdown/container.html
+        container: true,
+        //See https://vuepress-theme-hope.github.io/v2/guide/markdown/footnote.html
+        footnote: true,
         //use the figure, figureCaption to wrap an image
         figure: true,
         //load image lazily with native method
         imageLazyload: true,
-        //https://vuepress-theme-hope.github.io/v2/guide/markdown/tabs.html
-        tabs: true
+        //Syntax: ==this text is marked==
+        //See https://vuepress-theme-hope.github.io/v2/guide/markdown/mark.html
+        mark: true,
+        //Supports RevealJS
+        //See https://vuepress-theme-hope.github.io/v2/guide/markdown/presentation.html
+        presentation: true,
+        //See https://vuepress-theme-hope.github.io/v2/guide/markdown/stylize.html
+        //I'm not sure I need it for now
+        //stylize: []
+        //See https://vuepress-theme-hope.github.io/v2/guide/markdown/tabs.html
+        tabs: true,
+        //See https://vuepress-theme-hope.github.io/v2/guide/markdown/tasklist.html#config
+        //For checklists
+        tasklist: true,
       },
       pwa: {
         cacheHTML: true,
