@@ -2,16 +2,14 @@
 title: Comment réaliser ses propres bougies à la maison
 description: La méthode est simple et fascinante pour les enfants. Elle leur apprend ce que les abeilles nous donnent et comment recycler nos déchets (rouleaux de papier WC à jeter)
 date: 2022-11-26
-heroImage: '/images/2022-11-26-alyssia-regarde-la-bougie-se-consummer.jpg'
-heroAlt: Une bougie en cire d'abeilles
-#head:
-#  - [
-#      meta,
-#      {
-#        rel: canonical,
-#        href: url,
-#      },
-#    ]
+head:
+  - [
+      meta,
+      {
+        rel: canonical,
+        href: https://thetooltip.substack.com/p/comment-realiser-ses-propres-bougies,
+      },
+    ]
 category:
   - Astuces
 tag:

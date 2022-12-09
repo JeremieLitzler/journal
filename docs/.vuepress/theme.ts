@@ -31,9 +31,7 @@ export default hopeTheme({
     displayFooter: true,
     footer: 'GPLv3 Licensed | <a href="https://iamjeremie.me/terms" title="Read termes and conditions of this website">Terms</a>',
     plugins: {
-      blog: {
-        autoExcerpt: true,
-      },
+      blog: true,
       mdEnhance: {
         linkCheck: 'always',
         //See https://vuepress-theme-hope.github.io/v2/guide/markdown/align.html
