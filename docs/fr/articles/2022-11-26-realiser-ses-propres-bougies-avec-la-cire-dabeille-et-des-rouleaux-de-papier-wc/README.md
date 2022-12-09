@@ -2,16 +2,14 @@
 title: Comment réaliser ses propres bougies à la maison
 description: La méthode est simple et fascinante pour les enfants. Elle leur apprend ce que les abeilles nous donnent et comment recycler nos déchets (rouleaux de papier WC à jeter)
 date: 2022-11-26
-heroImage: '/images/2022-11-26-alyssia-regarde-la-bougie-se-consummer.jpg'
-heroAlt: Une bougie en cire d'abeilles
-#head:
-#  - [
-#      meta,
-#      {
-#        rel: canonical,
-#        href: url,
-#      },
-#    ]
+head:
+  - [
+      meta,
+      {
+        rel: canonical,
+        href: https://thetooltip.substack.com/p/comment-realiser-ses-propres-bougies,
+      },
+    ]
 category:
   - Astuces
 tag:
@@ -21,12 +19,18 @@ tag:
   - Fait maison
 ---
 
+![Trois bougies réalisées à la maison](/images/2022-11-26-3-bougies-finies.jpg)
+
 Avec un hiver incertain qui s’approche, j’ai décidé de me lancer de la réalisation de bougies à base de cire naturelle d’abeille qu’un collègue apiculteur m’a offerte !
 
-![Alyssia observe une bougie se consommer](./images/alyssia-regarde-la-bougie-se-consummer.jpg 'Les bougies apportent une lumière puissante et naturelle qui fascine.')
+La méthode est simple et fascinante pour les enfants. Elle leur apprend ce que les abeilles nous donnent et comment recycler nos déchets (rouleaux de papier WC à jeter)
+
+<!-- more -->
 
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
+
+![Alyssia observe une bougie se consommer](./images/2022-11-26-alyssia-regarde-la-bougie-se-consummer.jpg 'Les bougies apportent une lumière puissante et naturelle qui fascine.')
 
 ## Pourquoi réaliser des bougies maintenant
 
@@ -155,7 +159,7 @@ Au bout de deux heures et demie, la bougie a perdu 15 g de son poids. Pour une 
 
 ## Un premier retour d’expérience
 
-![3 bougies de cire d’abeille](./images/3-bougies-finies.jpg 'On voit bien le chapeau de la troisième coulée.')
+![3 bougies de cire d’abeille](./images/2022-11-26-3-bougies-finies.jpg 'On voit bien le chapeau de la troisième coulée.')
 
 Après coup, il me manque 2 centreurs en inox supplémentaire pour faire 4 bougies à la fois sans attendre que les premières refroidissent.
 

@@ -101,6 +101,19 @@ iframe.newsletter-embed html {
   width: 100%;
 }
 
+
+.article-wrapper figcaption {
+  display:  none;
+}
+
+.article-wrapper figure {
+  margin: 0;
+}
+
+.article-wrapper img {
+  width: 100%;
+}
+
 .participate .action-button {
   display: inline-block;
   overflow: hidden;
