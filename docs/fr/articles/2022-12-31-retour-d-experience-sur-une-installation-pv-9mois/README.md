@@ -218,17 +218,32 @@ Est-ce que cela va faire vieillir la résistance ? Si vous avez la réponse, [pa
 
 Je l'ai beaucoup utilisé en juin, juillet et un peu en août et septembre.
 
-Cela nous a permit de sècher les abricots, poires, verveine citronnée et les orties.
+Cela nous a permit de sècher les abricots, les poires, la verveine citronnée et les orties.
 
 Je l'ai branché sur la sortie 2 lorsqu'on avait besoin que l'ECS soit chauffée, ce qui me conforte dans le choix de prendre un routeur avec 2 sorties.
 
 ### Avec le lave-vaisselle
 
-Durant l'été
+Durant l'été, nous avons principalement lavé la vaisselle à la main, car avec la grande disponibilité de l'eau chaud, c'était plus économique.
+
+Toutefois, lorsque le temps manquait, on lançait deux fois le cycle 5 (rinçage de 11 min). Au second cycle, l'eau était bien chaude. Par moment, la vaisselle était alors propre. Sinon, nous lancions un cycle 4 (demi-charge) qui consommait parce que rien au regard de la température de l'eau.
 
 ### Avec le lave-linge
 
+Historiquement, nous lavions notre linge au cycle _Synthétique à 40°_. Toutefois, après avoir essayer le cycle _Cotton eco à 40°_, il est apparu que la consommation était réduite.
+
+Nous avons donc utilisé le cycle _Cotton eco à 40°_ plus long (3h au lieu de 1h35).
+
+Entre la nuit et le journée, voici la différence :
+
+![Graphique de consommation horaire enregistré par le Linky le 15 mai 2022](./images/cycle-cotton-eco-nuit-journee.jpg 'Avec le soleil, on réduit de plus de moitié la consommation du réseau.')
+
+- Le cycle de 0h30 à 4h est bien plus important que celui de 13h30 à 17h.
+- Le pic à 6h correspond à l'utilisation de notre pompe à eau.
+
 ### Avec la plaque à induction portable
+
+Nous l'avons utilisé lors que l'ECS était bien chaude.
 
 ### Avec le mini radiateur électrique
 
