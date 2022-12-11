@@ -23,7 +23,7 @@ article: false
 
 ## Quelques rappels
 
-En mars, j'ai mis en service l'installation photovoltaïque sur ma propriété.
+En mars, nous avons mis en service l'installation photovoltaïque sur ma propriété.
 
 Elle est composée de :
 
@@ -32,7 +32,12 @@ Elle est composée de :
 - un routeur solaire de Robin Emley (repris par un couple français)
 - et quelques éléments électriques indispensables pour une installation photovoltaïque
 
-Le tout a couté 2057 euros, tout compris.
+Le tout a couté 2057 euros pour :
+
+- la prestation d'Ervann de Solairethic
+- les matériaux fournis par Ervann
+- le routeur solaire envoyé du Royaume-Uni par Robin Emley et monté par Anthony, le Profes'solaire.
+- les quelques éléments pour organiser l'alimentation en sortie du routeur et pour le contrôle du cumulus.
 
 ## Bilan de consommation totale cumulée du printemps, été et automne
 
@@ -132,15 +137,15 @@ Ayant pas mal de chats autour de la propriété, j'ai vu que certains sont venus
 
 Au départ, j'ai branché le cumulus de la mauvaise façon. Je ne pouvais pas laisser le disjoncteur historique dans le garage et le disjoncteur de la sortie 1 du routeur actifs tous les deux.
 
-Sinon, ça sautait.
+Sinon, ça sautait, car le branchement n'était pas en parallèle.
 
-Après plus de réflexion, j'ai réussi à brancher les deux avec le contrôle au niveau du tableau du routeur.
+Après plus de réflexion, j'ai réussi à brancher les deux avec un contrôle au niveau du tableau du routeur.
 
 Sur la sortie routeur, j'ai enlevé les compteurs d'énergie mécaniques, car le comptage était faux. Je pense que cela est causé par le routeur et la façon dont il laisse passer le courant par impulsion.
 
-Ayant le compteur d'énergie numérique sur le tableau de la sortie solaire, cela m'importait peu de ne pas avoir l'information précise de la consommation sur le routeur.
+Avec le compteur d'énergie numérique sur le tableau de la sortie solaire, cela m'importait peu de ne pas avoir l'information précise de la consommation sur le routeur.
 
-Le routeur indique le comptage journalier et celui-ci est réinitialisé chaque jour. Je me satisfais de ce que je peux noter chaque jour.
+Le routeur indique le comptage journalier et celui-ci est réinitialisé chaque jour. Je me satisfais de ce que je peux noter chaque jour, même si en notre absence, on ne peut pas connaitre la quantité de surplus redirigée par le routeur.
 
 Par contre, j'ai mis :
 
@@ -148,7 +153,7 @@ Par contre, j'ai mis :
   - pour contrôler le temps d'utilisation du réseau la nuit.
 - un compteur d'énergie mécanique
   - pour compter le nombre de kWh consommés du réseau
-- un disjoncteur derrière le programmateur.
+- un disjoncteur derrière le compteur.
   - pour contrôler la possibilité de complétement désactiver l'utilisation du réseau pour chauffer l'eau.
 
 ## Optimisation de la production
