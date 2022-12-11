@@ -1,10 +1,8 @@
 ---
 isDraft: false
 title: 5 sauvages N°1, par Permaculture, agroecologie, etc
-description: Mes notes du vlog réalisé par Permaculture, agroecologie, etc
+description: Autour de chez vous, ces plantes se trouvent sûrement et il serait dommage de ne pas en profiter.
 date: 2022-07-20
-heroImage: '/images/2022-07-20-5-sauvages-1.jpg'
-heroAlt:
 tag:
   - Damien Dekarz
   - Permaculture
@@ -12,10 +10,13 @@ tag:
   - Alimentation
 ---
 
-Merci à Damien pour le partage de son savoir !
-
 ![Une prairie](/images/2022-07-20-5-sauvages-1.jpg)
 
+Autour de chez vous, ces plantes se trouvent sûrement et il serait dommage de ne pas en profiter.
+
+Merci à Damien pour le partage de son savoir !
+
+<!-- more -->
 <!-- markdownlint-disable MD033 -->
 
 <a href="https://unsplash.com/@chris23?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Crédits de l'image à Chris</a> sur <a href="https://unsplash.com/s/photos/wild-flowers?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>

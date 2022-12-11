@@ -87,7 +87,7 @@ Il faudra attendre encore 2 mois pour voir comment l'installation aide à diminu
 Il s'agit de l'Eau Chaude Sanitaire, dans notre cas, chauffée par un cumulus de 200 litres.
 :::
 
-### Les données
+### Les données de consommation pour l'ESC
 
 | Mois  | 2020   | 2021   | 2022   |
 | ----- | ------ | ------ | ------ |
@@ -133,6 +133,33 @@ Ayant pas mal de chats autour de la propriété, j'ai vu que certains sont venus
 
 ### Réorganisation du tableau _Routeur solaire_
 
+::: tabs#schema
+
+@tab Au printemps
+
+Au mois de mai, je n'avais pas une solution optimale pour passer de l'alimentation solaire à l'alimentation réseau...
+
+![Schéma électrique du 23 mai 2022](./images/installation.electrique-photovoltaique-version-2022-05-23.jpg)
+
+@tab A la fin de l'été
+
+Fin août 2022, j'ai enfin trouvé la configuration la plus pratique pour gérer les deux sources d'alimentation du cumulus.
+
+![Schéma électrique à la fin de l'été 2022](./images/installation.electrique-photovoltaique-version-2022-08-31.jpg)
+
+Ce qui a changé :
+
+- je n'utilise plus le contacteur avec le signal HC/HP d'EDF. Il n'est utile et j'explique pourquoi dans les lignes suivantes.
+- - j'ai conservé les disjoncteur 15A-1 et 15A-2 pour avoir un contrôle indépendant sur les sorties du routeur solaire.
+- j'ai supprimé les compteurs mécaniques pour compter l'énergie utilisée sur les prises connectées aux sorties du routeur solaire
+
+- j'ai installé un programmateur horaire à pins pour contrôler quand et combien de temps le cumulus est alimenté par le réseau.
+
+  - Le disjoncteur 15A-3 permet de couper l'alimentation réseau du cumulus quand cela est nécessaire.
+  - Le compteur d'énergie mécanique me permet de continuer [le suivi de la consommation du cumulus sur le réseau](#les-données-de-consommation-pour-lesc).
+
+:::
+
 ### Branchement du cumulus
 
 Au départ, j'ai branché le cumulus de la mauvaise façon. Je ne pouvais pas laisser le disjoncteur historique dans le garage et le disjoncteur de la sortie 1 du routeur actifs tous les deux.
@@ -147,7 +174,7 @@ Avec le compteur d'énergie numérique sur le tableau de la sortie solaire, cela
 
 Le routeur indique le comptage journalier et celui-ci est réinitialisé chaque jour. Je me satisfais de ce que je peux noter chaque jour, même si en notre absence, on ne peut pas connaitre la quantité de surplus redirigée par le routeur.
 
-Par contre, j'ai mis :
+Au lien d'aller directement du tableau général au cumulus, j'ai installé :
 
 - un programmateur horaire à pins
   - pour contrôler le temps d'utilisation du réseau la nuit.
@@ -155,6 +182,21 @@ Par contre, j'ai mis :
   - pour compter le nombre de kWh consommés du réseau
 - un disjoncteur derrière le compteur.
   - pour contrôler la possibilité de complétement désactiver l'utilisation du réseau pour chauffer l'eau.
+    Dans le garage, sur le support en OSB isolant le cumulus, j'ai installé le disjoncteur 15A-4.
+
+J'ai utilisé un câble triphasé :
+
+- une phase pour l'alimentation réseau
+- une phase pour l'alimentation du routeur
+
+Le câble de terre remonte du cumulus au tableau en sortie du routeur solaire.
+
+L'entrée du disjoncteur reçoit :
+
+- l'alimentation du réseau via le programmateur horaire
+- l'alimentation du routeur solaire
+
+La sortie est branchée comme avant.
 
 ## Optimisation de la production
 
@@ -162,15 +204,33 @@ Par contre, j'ai mis :
 
 En octobre, j'ai dû activer le chauffage de l'ECS par le réseau. A ce moment-là, 1.5 h de chauffe était largement suffisant pour les 5 jours où cela fut nécessaire.
 
-En novembre, on a laissé le réseau preque tous les jours dû à la très mauvaise météo...
+En novembre, on a laissé le réseau preque tous les jours dû à la très mauvaise météo... J'ai augmenté à 2.5 h de chauffe la première semaine de décembre. J'ai diminué à 2h une semaine après car cela suffisait pour les douches chaudes de mesdames ;)
+
+==Le gros avantage== : en novembre, on a réussi presque -50 % de consommation réseau par réseau aux trois dernières années, et ce malgré l'absence du soleil une grosse partie du mois.
+
+==Autre point important :== j'ai mis le thermostat à 5 sur 5 au lieu de 2 sur 5 en été et 3 sur 5 en hiver quand on alimentait sur le réseau uniquement.
+
+Oui, l'eau était bien chaude, mais cela a permit d'avoir 2 à 3 jours de mauvais temps en septembre avec peu ou pas de soleil et ne pas utiliser le réseau pour chauffer l'ESC.
+
+Est-ce que cela va faire vieillir la résistance ? Si vous avez la réponse, [partagez-la moi](../../contactez-moi/README.md) :).
 
 ### Avec le déhydrateur
 
+Je l'ai beaucoup utilisé en juin, juillet et un peu en août et septembre.
+
+Cela nous a permit de sècher les abricots, poires, verveine citronnée et les orties.
+
+Je l'ai branché sur la sortie 2 lorsqu'on avait besoin que l'ECS soit chauffée, ce qui me conforte dans le choix de prendre un routeur avec 2 sorties.
+
 ### Avec le lave-vaisselle
+
+Durant l'été
 
 ### Avec le lave-linge
 
 ### Avec la plaque à induction portable
+
+### Avec le mini radiateur électrique
 
 ## Point sur le rejet de production
 
