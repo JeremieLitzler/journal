@@ -212,20 +212,20 @@ En octobre, j'ai dû activer l'alimentation du cumulus par le réseau.
 
 A ce moment-là, 1.5 h de chauffe était largement suffisant pour les 5 jours où cela fut nécessaire.
 
-En novembre, on a laissé le réseau preque tous les jours dû à la très mauvaise météo... J'ai augmenté à 2.5 h de chauffe la première semaine de décembre. J'ai diminué à 2h une semaine après car cela suffisait pour les douches chaudes de mesdames ;)
+En novembre, on a laissé le réseau preque tous les jours dû à la très mauvaise météo... J'ai augmenté à 2.5 h de chauffe la première semaine de décembre. J'ai diminué à 2h une semaine après car cela suffisait pour les douches chaudes de mesdames 🚿
 
 ==Le gros avantage== :
 
 - en novembre, on a réussi presque -50 % de consommation réseau par rapport aux trois dernières années, et ce malgré l'absence du soleil une bonne partie du mois. Avant, le cumulus tournait 4h par nuit d'hiver...
 - aussi, lorsqu'on lançait le lave-vaisselle en fin de nuit (le cumulus étant en route de 22h30 à 2h00 avec le signal HP/HC), le cumulus se remettait en route...
 
-![Graphique de relevé Linky en février 2022](./images/exemple-de-cycle-1-en-fevrier-2022.jpg 'Le pic de 4h30 correspond au cycle 1 du lave-vaisselle et le cumulus se remettant en route')
+![Graphique de relevé Linky en février 2022](./images/exemple-de-cycle-1-en-fevrier-2022.jpg 'Le pic de 4h30 correspond au cycle 1 du lave-vaisselle où le cumulus se remettant en route pour chauffer l'eau que le lave-vaisselle a utilisé.')
 
 ==Autre point important :== j'ai mis le thermostat à 5 sur 5 au lieu de 2 sur 5 en été et 3 sur 5 en hiver quand on alimentait sur le réseau uniquement.
 
-Oui, l'eau était bien chaude, mais cela a permit d'avoir 2 à 3 jours de mauvais temps en septembre avec peu ou pas de soleil et ne pas utiliser le réseau pour chauffer l'ESC. Je l'ai remarqué principalement en août et septembre.
+Oui, l'eau était bien chaude le printemps, l'été et l'automne, mais cela a permit d'avoir 2 à 3 jours de mauvais temps en septembre avec peu ou pas de soleil et ne pas utiliser le réseau pour chauffer l'ESC. Je l'ai remarqué principalement en août et septembre.
 
-Est-ce que cela va faire vieillir la résistance ? Si vous avez la réponse, [partagez-la moi](../../contactez-moi/README.md) :).
+Est-ce que cela va faire vieillir la résistance ? Si vous avez la réponse, [partagez-la moi](../../contactez-moi/README.md) :)
 
 ### Avec le déhydrateur
 
@@ -307,9 +307,52 @@ Ce qui se révèle très pratique dans le scénario ci-dessus !
 
 Globalement, on s'en sort très bien avec un taux d'autoconsommation de plus de 90% sur neuf mois.
 
-Cet été, on a rejeté bien plus qu'au printemps
+Cet été, on a rejeté bien plus qu'au printemps.
+
+::: echarts Dons de kWh au réseau par mois
+
+```json
+{
+  "xAxis": {
+    "type": "category",
+    "data": [
+      "Jan",
+      "Fév",
+      "Mars",
+      "Avr",
+      "Mai",
+      "Jun",
+      "Jul",
+      "Aou",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Déc"
+    ]
+  },
+  "yAxis": {
+    "type": "value"
+  },
+  "series": [
+    {
+      "data": [0, 0, 10, 13, 24, 21, 21, 38, 3, 1, 1, 0],
+      "type": "bar"
+    }
+  ]
+}
+```
+
+:::
+
+Les mois où notre présence était la plus faible ont été les mois où nous avons rejeté le plus.
+
+Pour l'instant, la seule idée que j'ai pour réduire ce qu'on donne au réseau est de branché la sortie du routeur sur le chauffe-eau du voison.
+
+Toutefois, l'achat du câble de 25 m et le disjoncteur en valent-ils vraiment le coût ?
 
 ## Et l'optimisation de la puissance maximum
+
+### La puissance des appareils
 
 Je me suis rendu que l'on possède beaucoup d'appareils électroménagers qui consomment beaucoup :
 
@@ -330,11 +373,30 @@ D'après [Elisabeth Petit et son calculateur](https://editions-petiteelisabeth.f
 
 Soit 1 min de plus.
 
-Lorsque votre installation photovoltaïque délivrer maximum 1200 W instantannés, n'est-il pas mieux de chauffer à 1000 W plutôt que 2400 W ?
+A-t-on vraiment besoin de gagner une minute pour chauffer notre eau le matin pour boire un café ou une tisane ?
+
+Et lorsque votre installation photovoltaïque délivre maximum 1200 W instantannés, n'est-il pas mieux de chauffer à 1000 W plutôt que 2400 W ?
 
 Je vous laisse juger pour vous-même.
+
+### La puissance maximum souscrite auprès du fournisseur d'électricité
+
+Depuis la mise en route de l'installation photovoltaïque, j'ai noté que la puissance maximum demandé au réseau à très peu dépassé les 3kWh.
+
+La seul raison qu'on dépasse les 3kWh instantannés est le fait de mettre le cumulus et le lave-vaisselle ou le lave-linge et le lave-vaisselle en route en même temps.
+
+Autant dire que cela est possible de décaler l'un ou l'autre.
 
 ## Quelle est la suite
 
 - Trouver un moyen d'utiliser le déhydrateur sans chauffer la maison l'été.
+
   - Je pense à une rallonge qui courait de la sortie 2 du routeur à la véranda et pour y arriver, il y a de la distance à parcourir. Après cela permettrait d'avoir une alimentation issue du routeur solaire à un endroit utile.
+
+- Réduire la résistant du chauffe-eau en fonction de ce que l'hiver nous apprendra, c'est-à-dire quelle est la durée optimale de chauffe de l'ECS tout en gardant l'option de faire tourner une lessive ou le lave-vaisselle la même nuit.
+
+J'ai aussi penser à augmenter de 480 Wc la puissance de l'installation, car sur 120 m en 6 mm², je peux ajouter environ cette puissance sans dépasser la limite où le câble surchaufferait.
+
+Toutefois, les finances sont limitées pour le moment. Certes, grâce à Solair'ethic, j'ai pour le moment une source de panneaux peu chers (50 euros pour un panneau recyclé de 240 Wc), mais il faut débourser plus de 200 euros pour un micro-onduleur.
+
+Je ne suis pas sûr que l'investissement nous permettent de gagner beaucoup.

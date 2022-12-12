@@ -42,7 +42,10 @@ export default hopeTheme({
         chart: true,
         //See https://vuepress-theme-hope.github.io/v2/guide/markdown/container.html
         container: true,
+        //See https://vuepress-theme-hope.github.io/v2/guide/markdown/echarts.html
+        echarts: true,
         //See https://vuepress-theme-hope.github.io/v2/guide/markdown/footnote.html
+        //See also https://echarts.apache.org/en/index.html
         footnote: true,
         //use the figure, figureCaption to wrap an image
         figure: true,
