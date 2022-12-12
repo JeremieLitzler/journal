@@ -61,5 +61,11 @@
     "prefix": "personal note fr",
     "body": [":::tip Note personnelle", "$1", ":::"],
     "description": "add personal note fr"
+  },
+  "Exerpt marker": {
+    "scope": "markdown",
+    "prefix": "excerpt marker",
+    "body": ["<!-- more -->"],
+    "description": "add excerpt end marker"
   }
 }

@@ -4,6 +4,14 @@ description: 'Day 1: the trip to Cairo'
 date: 2022-02-26
 heroImage: '/images/2022-02-06-siwa-oasis-trip-to-cairo-hero.jpg'
 heroAlt: A person walking near the Sphynx and the Pyramids of Egypt.
+head:
+  - [
+      meta,
+      {
+        rel: canonical,
+        href: https://iamjeremie.substack.com/p/siwa-an-oasis-in-the-heart-of-the,
+      },
+    ]
 category:
   - Travel
 tag:
@@ -13,7 +21,9 @@ tag:
 
 ![A person walking near the Sphynx and the Pyramids of Egypt.](/images/2022-02-06-siwa-oasis-trip-to-cairo-hero.jpg)
 
-_Credit: Photo by [Spencer Davis](https://unsplash.com/@spencerdavis?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/cairo-egypt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
+Day 1: the trip to Cairo in details
+
+<!-- more -->
 
 ## 7:30 AM
 
@@ -71,3 +81,5 @@ Soon, we were in the minibus and off we went on one of the most craziest ride in
 We were told this is the way in Egypt!
 
 Less than 1 hour later, we arrived, safe and sound Zayed city, the town where our host and his family live.
+
+_Credit: Hero photo by [Spencer Davis](https://unsplash.com/@spencerdavis?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/cairo-egypt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
