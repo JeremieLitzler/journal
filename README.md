@@ -39,11 +39,10 @@ See [this link](https://github.com/vuepress/vuepress-next/blob/main/CHANGELOG.md
 3. run `npm run docs:build`
 4. run `npm run docs:dev` to see if the site loads and renders well :)
 
-## VuePress plugins upgrade
+## VuePress theme upgrade
 
 Run:
 
 ```sh
-yarn upgrade @vuepress/plugin-pwa@next
-yarn upgrade @vuepress/plugin-pwa-popup@next
+yarn upgrade vuepress-theme-hope@2.0.0-beta.XX
 ```
