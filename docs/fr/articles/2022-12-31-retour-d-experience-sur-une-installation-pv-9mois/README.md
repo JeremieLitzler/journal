@@ -23,7 +23,7 @@ article: false
 
 ## Quelques rappels
 
-En mars, j'ai mis en service l'installation photovoltaïque sur ma propriété.
+En mars, nous avons mis en service l'installation photovoltaïque sur ma propriété.
 
 Elle est composée de :
 
@@ -32,7 +32,12 @@ Elle est composée de :
 - un routeur solaire de Robin Emley (repris par un couple français)
 - et quelques éléments électriques indispensables pour une installation photovoltaïque
 
-Le tout a couté 2057 euros, tout compris.
+Le tout a couté 2057 euros pour :
+
+- la prestation d'Ervann de Solairethic
+- les matériaux fournis par Ervann
+- le routeur solaire envoyé du Royaume-Uni par Robin Emley et monté par Anthony, le Profes'solaire.
+- les quelques éléments pour organiser l'alimentation en sortie du routeur et pour le contrôle du cumulus.
 
 ## Bilan de consommation totale cumulée du printemps, été et automne
 
@@ -160,7 +165,7 @@ Ce qui a changé :
 
 Au départ, j'ai branché le cumulus de la mauvaise façon. Je ne pouvais pas laisser le disjoncteur historique dans le garage et le disjoncteur de la sortie 1 du routeur actifs tous les deux.
 
-Sinon, ça sautait.
+Sinon, ça sautait, car le branchement n'était pas en parallèle.
 
 Cela m'obligeait à tout éteindre au niveau du tableau général, me rendre dans le garage, activer ou désactiver l'alimentation réseau et remettre l'alimentation sur le tableau général... Pas pratique.
 
@@ -170,9 +175,18 @@ Sur la sortie routeur, j'ai enlevé les compteurs d'énergie mécaniques, car le
 
 Robin Emley m'a dit que cela dépend de [la calibration de la pince ampèremétrique](https://mk2pvrouter.co.uk/improved-calibration.html). Pour le moment, cela ne me dérange pas.
 
-Ayant le compteur d'énergie numérique sur le tableau de la sortie solaire, cela m'importait peu de ne pas avoir l'information précise de la consommation qui était passée par le routeur.
+Avec le compteur d'énergie numérique sur le tableau de la sortie solaire, cela m'importait peu de ne pas avoir l'information précise de la consommation sur le routeur.
 
-De plus, le routeur indique le comptage journalier et celui-ci est réinitialisé chaque jour. Je me satisfais de cela.
+Le routeur indique le comptage journalier et celui-ci est réinitialisé chaque jour. Je me satisfais de ce que je peux noter chaque jour, même si en notre absence, on ne peut pas connaitre la quantité de surplus redirigée par le routeur.
+
+Au lien d'aller directement du tableau général au cumulus, j'ai installé :
+
+- un programmateur horaire à pins
+  - pour contrôler le temps d'utilisation du réseau la nuit.
+- un compteur d'énergie mécanique
+  - pour compter le nombre de kWh consommés du réseau
+- un disjoncteur derrière le compteur.
+  - pour contrôler la possibilité de complétement désactiver l'utilisation du réseau pour chauffer l'eau.
 
 Dans le garage, sur le support en OSB isolant le cumulus, j'ai installé le disjoncteur 15A-4.
 
@@ -217,7 +231,7 @@ Est-ce que cela va faire vieillir la résistance ? Si vous avez la réponse, [pa
 
 Je l'ai beaucoup utilisé en juin, juillet et un peu en août et septembre.
 
-Cela nous a permit de sècher les abricots, poires, verveine citronnée et les orties.
+Cela nous a permit de sècher les abricots, les poires, la verveine citronnée et les orties.
 
 Je l'ai branché sur la sortie 2 lorsqu'on avait besoin que l'ECS soit chauffée, ce qui me conforte dans le choix de prendre un routeur avec 2 sorties.
 
@@ -227,9 +241,9 @@ L'inconvénient fut que cela chauffait l'air de la maison... Et cet été, ce n'
 
 Durant l'été, l'eau fut très chaude.
 
-Mon lave-vaisselle est branché sur l'eau depuis le début.
+Le lave-vaisselle est branché sur l'eau depuis son installation.
 
-Ce que nous avons fait est de lancer 2 cycles de rinçage (2 fois 11 min) pour amener l'eau et la vaisselle était alors presque _propre_. Si l'on avait besoin de faire tourner le lave-vaisselle, on le lançait ensuite en programme _demi-charge_ durant 30 min et comme l'eau chaud était déjà là, la consommation du réseau apparaissait nul.
+Ce que nous avons fait l'été passé fut de lancer 2 cycles 5 ( rinçage de 11 min) pour amener l'eau et la vaisselle était alors presque _propre_. Si l'on avait besoin de faire tourner le lave-vaisselle, on le lançait ensuite en programme cycle 4 (ou _demi-charge_) durant 30 min et comme l'eau chaud était déjà là, la consommation du réseau apparaissait nul.
 
 Sur un cycle plus long, le mode _eco_ de 2h45, la consommation était clairement diminuée.
 
@@ -246,6 +260,17 @@ Par contre, nous avons profité du soleil et des jours ensoleillés pour laver l
 :::danger A faire avant décembre
 Je n'ai pas une date précédant l'activation de la production solaire.
 :::
+
+Historiquement, nous lavions notre linge au cycle _Synthétique à 40°_. Toutefois, après avoir essayer le cycle _Cotton eco à 40°_, il est apparu que la consommation était réduite.
+
+Nous avons donc utilisé le cycle _Cotton eco à 40°_ plus long (3h au lieu de 1h35).
+
+Entre la nuit et le journée, voici la différence :
+
+![Graphique de consommation horaire enregistré par le Linky le 15 mai 2022](./images/cycle-cotton-eco-nuit-journee.jpg 'Avec le soleil, on réduit de plus de moitié la consommation du réseau.')
+
+- Le cycle de 0h30 à 4h est bien plus important que celui de 13h30 à 17h.
+- Le pic à 6h correspond à l'utilisation de notre pompe à eau.
 
 ### Avec la plaque à induction portable
 
@@ -284,7 +309,7 @@ Globalement, on s'en sort très bien avec un taux d'autoconsommation de plus de 
 
 Cet été, on a rejeté bien plus qu'au printemps
 
-## Et l'optimisation de la consommation du réseau
+## Et l'optimisation de la puissance maximum
 
 Je me suis rendu que l'on possède beaucoup d'appareils électroménagers qui consomment beaucoup :
 
