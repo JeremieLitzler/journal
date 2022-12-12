@@ -2,8 +2,6 @@
 title: "Installation PV - quel retour d'expérience après 9 mois ?"
 description: 'Fin Mars 2022, nous avons mis en service notre installation photovoltaïque. Regardons les données et les conclusions à la fin Décembre 2022'
 date: 2022-12-31
-# heroImage: '/images/2022-12-08-vue-des-champs-sud-et-sud-est.jpg'
-heroAlt: Vue des champs de panneaux Sud et Sud-Est
 #head:
 #  - [
 #      meta,
@@ -20,6 +18,10 @@ tag:
   - Eau chaude sanitaire
 article: false
 ---
+
+![Vue des champs Sud et Sud-Ouest](./images/vue-des-champs-sud-et-sud-ouest.jpg 'Les champs Sud et Sud-Ouest en position Printemps-Automne')
+
+En cet hiver 2022-2023, il devait de plus en plus intéressant de produire sa propre électricité. Mais quand est-il vraiment. Dans ce article, je présente ce que j'ai appris en 9 mois avec mon installation.
 
 ## Quelques rappels
 
