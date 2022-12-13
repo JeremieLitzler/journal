@@ -5,7 +5,7 @@
 ## Prerequisites
 
 - [Git bash](https://git-scm.com/downloads)
-- [NodeJS 16.13.1](https://nodejs.org/en/blog/release/v16.13.1/)
+- [NodeJS 18.0.0](https://nodejs.org/en/blog/release/v16.13.1/)
 - [Visual Studio Code](https://code.visualstudio.com/download)
 
 ## Getting started
@@ -13,9 +13,8 @@
 Using yarn makes the installation **much quicker**.
 
 ```sh
-npm i -G yarn
-yarn add -g vuepress@next
-yarn install
+npm i -G yarn #(or use the .msi => https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable)
+yarn
 ```
 
 Then, launch the project:
