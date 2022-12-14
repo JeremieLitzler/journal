@@ -117,8 +117,8 @@ Aussi, l'utilisation en journée de la plaque à induction au lieu de la cuisini
 
 ## Consommation pour l'ECS
 
-:::note Définition de _ECS_
-Il s'agit de l'Eau Chaude Sanitaire, dans notre cas, chauffée par un cumulus de 200 litres.
+:::note Définition de "ECS"
+Il s'agit de l'Eau Chaude Sanitaire, dans notre cas, chauffée par une résistance de 2400 W dans un cumulus de 200 litres.
 :::
 
 | Mois  | 2020   | 2021   | 2022   |
@@ -220,7 +220,7 @@ Vu la performance des deux derniers mois, je ne suis pas sûr qu'il y ait un gai
 | 12    | 0,19 € [^first] | TBC               |
 | Total |                 | TBC               |
 
-[^first]: nous sommes passés à EDF au lieu d'Engie... J'aurai dû faire le changement il y a bien longtemps. Mais la hausse de 25% sur le renouvellement du contrat annuel 2022-2023 d'Engie m'a permis de comprendre qu'EDF est bien moins cher.
+[^first]: En décembre 2022, nous sommes passés à EDF au lieu d'Engie... J'aurai dû faire le changement il y a bien longtemps. Mais la hausse de 25% sur le renouvellement du contrat annuel 2022-2023 d'Engie m'a permis de comprendre qu'EDF est bien moins cher.
 
 ## Retour sur investissement
 
@@ -254,6 +254,46 @@ Le résultat m'a donné ceci :
 | 11            | 92,21                           | 60°   |
 | 12            | 69,44                           | 60°   |
 | Total général | 2003,04                         | -     |
+
+Ce qui donne cette courbe :
+
+::: echarts La production théorique sur l'année
+
+```json
+{
+  "xAxis": {
+    "type": "category",
+    "data": [
+      "Jan",
+      "Fév",
+      "Mar",
+      "Avr",
+      "Mai",
+      "Jun",
+      "Jul",
+      "Aou",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec"
+    ]
+  },
+  "yAxis": {
+    "type": "value"
+  },
+  "series": [
+    {
+      "data": [
+        83.37, 121.58, 180.82, 189.12, 220.47, 234.06, 242.6, 227.92, 193.91,
+        147.54, 92.21, 69.44
+      ],
+      "type": "line"
+    }
+  ]
+}
+```
+
+:::
 
 Je peux déjà vous annoncer que je suis constamment 15 à 20 % en dessous de la théorie
 
