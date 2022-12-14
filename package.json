@@ -14,9 +14,9 @@
     "publish": "vuepress-vite build docs && git push"
   },
   "devDependencies": {
-    "vuepress-vite": "2.0.0-beta.58"
+    "vuepress-vite": "2.0.0-beta.59"
   },
   "dependencies": {
-    "vuepress-theme-hope": "2.0.0-beta.141"
+    "vuepress-theme-hope": "2.0.0-beta.143"
   }
 }
