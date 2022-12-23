@@ -2,14 +2,14 @@
 title: "Installation PV - quel retour d'expérience après 9 mois ? (partie 1)"
 description: "Fin Mars 2022, nous avons mis en service notre installation photovoltaïque. Regardons comment j'ai modifié l'installation et ajusté les appareils et les usages dans mon foyer."
 date: 2022-12-15
-#head:
-#  - [
-#      meta,
-#      {
-#        rel: canonical,
-#        href: https://thetooltip.substack.com/p/installation-pv-retour-dexperience,
-#      },
-#    ]
+head:
+  - [
+      meta,
+      {
+        rel: canonical,
+        href: https://iamjeremie.substack.com/p/rex-installation-pv-9mois-partie1,
+      },
+    ]
 category:
   - Energie
 tag:
