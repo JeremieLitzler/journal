@@ -48,7 +48,7 @@ Avec pas mal de chats autour de la propriété, j’ai vu que certains sont venu
 
 ### Réorganisation du tableau _Routeur solaire_
 
-: : : tabs#schema
+::: tabs#schema
 
 @tab Au printemps
 
