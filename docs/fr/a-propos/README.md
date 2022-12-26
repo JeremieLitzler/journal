@@ -5,9 +5,11 @@ date: 2021-08-10
 article: false
 ---
 
-![Jérémie gravissant la viaferrata à Kandersteg, Suisse](/images/profilepic-400w.jpg)
+![Jérémie gravissant la viaferrata à Kandersteg, Suisse](/images/profilepic-400w.jpg) {.author-image}
 
+::: center
 [Lire la version anglaise](../../about/README.md)
+:::
 
 Tout a une histoire. Voici la mienne, jusqu'à présent.
 
@@ -52,27 +54,17 @@ Avec mon adorable épouse et nos vraies jumelles, nous vivons dans la magnifique
 
 ![De gauche à droite : Alyssia, Aurélie, Jérémie, Léyla](/images/family.jpg)
 
-Légende : _De gauche à droite : Alyssia, Aurélie, Jérémie, Léyla_
-
 Nous sommes propriétaires de 2 agnelles (pour tondre l'herbe).
 
-![Les jumelles nourrissent les agnelles](/images/sheep.jpg).
-
-Légende : _Les jumelles nourrissent les agnelles_
+![Les jumelles nourrissent les agnelles](/images/sheep.jpg)
 
 Et trois chats Maincoon :
 
 ![La mère dort confortablement](/images/owma.jpg)
 
-Figure: _La mère dort confortablement_
-
 ![Moustache vous regarde](/images/moustache.jpg)
 
-Figure: _Moustache vous regarde_
-
 ![Luna fait la grimace](/images/luna.jpg)
-
-Figure: _Luna fait la grimace_
 
 Enfin, je me déplace à vélo journalièrement pour aller au travail, avec bientôt 100.000 km parcourus depuis Septembre 2007..
 

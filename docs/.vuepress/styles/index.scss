@@ -64,6 +64,14 @@ img {
   border-radius: 20em;
 }
 
+.theme-hope-content .author-image { 
+  display: flex;
+  justify-content: center;
+}
+.theme-hope-content .author-image img {
+  width: 10vw;
+}
+
 iframe.contact-form {
   height: 50em;
 }

@@ -41,9 +41,25 @@ I made 2 heaps:
 
 ### December 11th, 2022
 
-- I picked up 2 trailers full of some small leaves tree (???) in Saint-Jean-De-Muzols.
+- I picked up 2 trailers full of some small leaves (???) in Saint-Jean-De-Muzols.
 - I finished filling up the kitchen compost with borage as all the plants had been _cooked_ by the -5° C that weekend.
   - I need to build up another compost bin!
+
+### December 18th, 2022
+
+- We picked with the twins some nice small leaves that we have found on the usual hiking route.
+  - It filled about a trailer full of leaves
+- We topped it up with the leaves of Saint-Jean-De-Muzols's park.
+
+### December 25th, 2022
+
+- We set out to gather leaves in Saint-Jean-De-Muzols's park, but we had a surprise.
+  - The city hired gardeners to shred branches and they left a huge pile of fragmented wood!
+  - We manage to get 2 trailers full of it.
+  - It is just what I needed to cover the garden alleys.
+  - Hopefully, I can get another trailer before it is gone.
+  - I need about 3 trailers to cover all the alleys with a 5 cm layer of wood chips.
+  - In this case, it will break down much faster!
 
 ## Garlic
 
@@ -60,6 +76,12 @@ I made 2 heaps:
 
 - The garlic that has come out is resisting the frost. Will it last?
   - I still need to plant planting some more (where the tomatoes usually go)
+
+### December 25th, 2022
+
+- The garlic keeps coming out.
+- What was already out 2 weeks ago is still there and has survived the frost.
+-
 
 ## Strawberries
 
@@ -78,6 +100,15 @@ I made 2 heaps:
 
 - The top of the bean are out... Is it a problem with frost? I'm going to wait and see.
   - Meanwhile, I will plant more in the bed where we planted the climbing beans 2 years ago.
+
+### December 25th, 2022
+
+- The temperatures are much nicer (around 10 °C or more during the day and not lower than 5 °C during the night)
+- So the beans have really come out
+
+:::warning Add picture
+![Broad bean in december](https://via.placeholder.com/350x150)
+:::
 
 ## Nettles
 

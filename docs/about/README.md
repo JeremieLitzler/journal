@@ -7,7 +7,9 @@ article: false
 
 ![Jeremie climbing the Kandersteg's viaferrata](/images/profilepic-400w.jpg) {.author-image}
 
+::: center
 [Read in french](../fr/a-propos/README.md)
+:::
 
 Everyone has a story. This is mine. So far.
 
@@ -52,27 +54,17 @@ With my lovely wife and real twin girls, we live in the beautiful Rhone valley i
 
 ![From left to right: Alyssia, Aurélie, Jérémie, Léyla](/images/family.jpg)
 
-Figure: _From left to right: Alyssia, Aurélie, Jérémie, Léyla_
+We own 2 sheep (to mow the grass):
 
-We own 2 sheep (to mow the grass)
-
-![The twin girls feed the twin sheep](/images/sheep.jpg).
-
-Figure: _The twin girls feed the twin sheep_
+![The twin girls feed the twin sheep](/images/sheep.jpg)
 
 And three cats:
 
 ![The mother comfortably sleeping](/images/owma.jpg)
 
-Figure: _The mother comfortably sleeping_
-
 ![Moustache looks at you](/images/moustache.jpg)
 
-Figure: _Moustache looks at you_
-
 ![Luna grins](/images/luna.jpg)
-
-Figure: _Luna grins_
 
 Finally, I am bicycling to work daily, with almost 100.000 km travelled since september 2007.
 
