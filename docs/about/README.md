@@ -5,7 +5,7 @@ date: 2021-08-10
 article: false
 ---
 
-![Jeremie climbing the Kandersteg's viaferrata](/images/profilepic-400w.jpg)
+![Jeremie climbing the Kandersteg's viaferrata](/images/profilepic-400w.jpg) {.author-image}
 
 [Read in french](../fr/a-propos/README.md)
 
