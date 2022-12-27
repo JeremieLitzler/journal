@@ -25,7 +25,7 @@ tag:
   - Leaf mold
 ---
 
-![a wheelbarrow full of 5 years leaf mold](/images/2022-12-26-a-wheelbarrow-full-of-5-years-leaf-mold.jpg "Credits: image taken from Huw Richards's vlog")
+![A wheelbarrow full of 5 years leaf mold](/images/2022-12-26-a-wheelbarrow-full-of-5-years-leaf-mold.jpg "Credits: image taken from Huw Richards's vlog")
 
 Leaf mold is a brown gold that is easy to make, given you wait that it decomposes over a year or two.
 
