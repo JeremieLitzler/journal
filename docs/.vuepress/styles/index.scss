@@ -39,6 +39,9 @@ img {
   border-radius: 8px;
 }
 
+.home.project .hero .description {
+  color: var(--theme-color-dark);
+}
 /* LAYOUT */
 @media (max-width: 50em) {
   // figure {

@@ -1,7 +1,7 @@
 ---
 home: true
 title: Accueil
-description: 'Ce journal rassemble les notes et les expériences de Jérémie Litzler (disponible hors connexion après installation) sur un large éventail de sujets pour un mode de vie respectueux de l'environnement'
+description: "Ce journal rassemble les notes et les expériences de Jérémie Litzler (disponible hors connexion après  installation) sur un large éventail de sujets pour un mode de vie respectueux de l'environnement"
 heroText: 'Bonjour,'
 tagline: "et bienvenue sur mon blog. J'espère que vous y trouverez ce que vous cherchez !"
 heroImage: /images/profilepic-400w.jpg
