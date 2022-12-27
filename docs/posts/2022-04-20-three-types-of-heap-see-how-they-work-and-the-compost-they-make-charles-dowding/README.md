@@ -24,7 +24,7 @@ category:
 tag:
   - Charles Dowding
   - No Dig
-  - Composting
+  - Compost
 ---
 
 ![Cover of the vlog from Youtube and Charles Dowding](/images/2022-04-20-three-types-of-heap-for-compost.webp)

@@ -24,7 +24,7 @@ category:
 tag:
   - Charles Dowding
   - No Dig
-  - Composting
+  - Compost
 ---
 
 Charles Dowding explains all about the quantity of compost you need on your beds.

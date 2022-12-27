@@ -25,16 +25,14 @@ category:
 tag:
   - Charles Dowding
   - No Dig
-  - Composting
+  - Compost
 ---
 
 Thanks to Charles Dowding for sharing his wisdom and knowledge!
 I wrote the following notes watching the video published on Charles Dowding's channel.
 You can watch it using [this YouTube link](https://www.youtube.com/watch?v=2scvQgm6HFw).
 
-![A dalek, from Blackwall manufacturer](./images/2022-10-18-making-compost-in-a-dalek--and-how-to-access-it-charles-dowding-hero.jpg)
-
-_Credits: image taken from Charles Dowding's vlog_
+![A dalek, from Blackwall manufacturer](./images/2022-10-18-making-compost-in-a-dalek--and-how-to-access-it-charles-dowding-hero.jpg "Credits: image taken from Charles Dowding's vlog")
 
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
@@ -58,18 +56,14 @@ The one showcased in the vlog has a bottom opening, but it is not always very pr
 
 The bin shouldn't have a bottom, so simply pull up the bin to see the composting progress.
 
-![Compost in the making](./images/compost-in-progress.jpg)
-
-_Credits: image taken from Charles Dowding's vlog_
+![Compost in the making](./images/compost-in-progress.jpg "Credits: image taken from Charles Dowding's vlog")
 
 We can see:
 
 - (1) : that the compost of lacking some water as the edges are quite dry.
 - (2) : but some good compost of already available (in the vlog, Charles mentions it is 3-4 months old).
 
-  ![Compost is ready](./images/ready-compost.jpg)
-
-  _Credits: image taken from Charles Dowding's vlog_
+  ![Compost is ready](./images/ready-compost.jpg "Credits: image taken from Charles Dowding's vlog")
 
 ## What is the heap by volume
 
