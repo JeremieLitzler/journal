@@ -1,4 +1,4 @@
-const titleFr = 'Un journal partagé de Jérémie Litzler';
+const titleFr = 'Un journal partagé par Jérémie Litzler';
 const descriptionFr =
   'Je partage ici mes notes et experiences que je suis sûr seront utiles pour au moins une personne.';
 export const frHeadConfig = {
