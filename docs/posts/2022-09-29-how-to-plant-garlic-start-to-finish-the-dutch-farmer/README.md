@@ -63,7 +63,7 @@ _Credits: image taken from The Dutch Farmer's vlog._
 
 Around the beginning of the summer (end of June in the northern atmosphere), the garlic should be ready to harvest.
 
-See [how to judge the readiness of garlic](../2022-09-22-is-it-ready-yet-how-to-judge-the-readiness-of-garlic-charles-dowding).
+See [how to judge the readiness of garlic](../2022-09-22-how-to-judge-the-readiness-of-garlic-charles-dowding/README.md).
 
 ![Harvesting garlic](./june-27-harvest.jpg)
 

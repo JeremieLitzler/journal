@@ -103,7 +103,7 @@ The steps are simple:
 3. Fill the trays with some more compost
 4. Water the tray on the ground if it’s quite dry
 5. Create some holes where you will sow the seeds in each module
-6. Sow enough seeds. See [this article from a vlog of Charles Dowding](../2022-11-14-early-summer-at-homeacres-%E2%80%93-harvests-and-speedy-replant--intersow--weed--water-and-make-compost-charles-dowding/README.md##what-can-you-sow-in-the-beginning-of-june-in-the-uk) for a few examples.
+6. Sow enough seeds. See [this article from a vlog of Charles Dowding](../2022-11-14-early-summer-2018-at-homeacres-charles-dowding/README.md##what-can-you-sow-in-the-beginning-of-june-in-the-uk) for a few examples.
 7. Gently fill the holes with some more compost
 
 :::tip Why before sowing

@@ -165,4 +165,4 @@ Pour obtenir des champignons, il faut :
 - utiliser beaucoup de matières comme le broyat, bois et autres matières ligneuses
 - ne pas traiter ses cultures
 
-Voir le vlog de Damien pour savoir [comment cultiver en sol vivant](../2022-10-12-comment-jardiner-avec-un-sol-vivant-permaculture--agroecologie--etc/README.md).
+Voir le vlog de Damien pour savoir [comment cultiver en sol vivant](../2022-10-12-comment-jardiner-avec-un-sol-vivant-damien-dekarz/README.md).

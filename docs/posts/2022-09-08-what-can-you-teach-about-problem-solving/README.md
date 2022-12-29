@@ -7,9 +7,9 @@ heroImage: '/images/2022-09-08-what-can-you-teach-about-problem-solving.jpg'
 heroAlt: 'Keep things simple scrabble letters'
 category:
   - Teaching
-tag:
-  - Development
-  - Problem-solving
+#tag:
+#  - Development
+#  - Problem-solving
 ---
 
 ![Keep things simple scrabble letters](./keep-things-simple.jpg)

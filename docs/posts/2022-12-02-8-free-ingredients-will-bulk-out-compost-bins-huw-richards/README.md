@@ -78,7 +78,7 @@ Regarding the salt impact on the compost created, you can lay out the seaweed on
 
 ![Yellow grass](./images/grass-clippings.jpg 'This is a well know ingredient that can bring a lot of heat to your compost heap. Credits: image taken from Huw Richard’s vlog')
 
-I took notes about another vlog from Huw on the topic. [Check it out using this link.](../2022-11-25-grass---the-most-valuable-free-resource-for-growing-food-huw-richards/README.md)
+I took notes about another vlog from Huw on the topic. [Check it out using this link.](../2022-11-25-grass-the-most-valuable-free-resource--huw-richards/README.md)
 
 In the compost bin, you need to make sure you collect pesticide-free grass.
 

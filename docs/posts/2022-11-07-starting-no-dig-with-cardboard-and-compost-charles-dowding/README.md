@@ -187,7 +187,7 @@ Keep thinking ahead, have seedlings ready for the months to come, even if it’s
 
 You want to keep eating from your garden all year long ultimately.
 
-You will need to start small, though. I took notes on the topic in a vlog by Huw Richards. He explains [the simple way to becoming self-sufficient in food](../2022-10-02-the-simple-way-to-becoming-self-sufficient-in-food-huw-richards/README.md). Have a read.
+You will need to start small, though. I took notes on the topic in a vlog by Huw Richards. He explains [the simple way to becoming self-sufficient in food](../2022-10-02-the-simple-way-to-food-self-sufficiency-huw-richards/README.md). Have a read.
 
 Think about the storage of your vegetables. Garlic and onions harvested in the summer will stay indoors.
 

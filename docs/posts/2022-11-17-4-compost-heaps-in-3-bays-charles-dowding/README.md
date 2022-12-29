@@ -182,7 +182,7 @@ Well, it’s something you need to assess from your personal circumstances: weat
 
 In the early stage, you decide based on how it looks and feels.
 
-Later, when the material has degraded enough, use the _squeeze technique_ described in [this article](../2022-11-16-production-of-compost-from-clippings-and-other-waste-the-principles-and-some-results-charles-dowding/README.md#consistency-of-the-compost).
+Later, when the material has degraded enough, use the _squeeze technique_ described in [this article](../2022-11-16-compost-from-clippings-and-other-waste-charles-dowding/README.md#consistency-of-the-compost).
 :::
 
 ## Conclusion

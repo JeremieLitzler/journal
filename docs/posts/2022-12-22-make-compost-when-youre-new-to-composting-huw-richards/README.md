@@ -53,7 +53,7 @@ Finally, set your bin high up so you don’t have to climb _a hill_ to your gard
 
 There are many designs, but to my opinion, use pallets.
 
-If you’re a family and don’t run a farm, don’t buy anything else other than screw or nails and a bit of wire. Look at [this article detailing the process](../2022-12-14-how-to-make-a-compost-bin-the-easy-way-from-pallets-feat-jack-monroe-huw-richards/README.md).
+If you’re a family and don’t run a farm, don’t buy anything else other than screw or nails and a bit of wire. Look at [this article detailing the process](../2022-12-14-how-to-make-a-compost-bin-from-pallets-huw-richards/README.md).
 
 If you’re running a farm, then this article won’t explain how to build compost bins optimized for large-scale operations. However, have a read of [the notes I took so far on the compost topic by Charles Dowding](../../tag/charles-dowding/). He runs a little business and he has a large 6-heap structure.
 

@@ -19,7 +19,6 @@ prev:
 #      },
 #    ]
 category:
-  -
   - Gardening
 tag:
   - Huw Richards

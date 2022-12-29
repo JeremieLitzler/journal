@@ -140,7 +140,7 @@ You can make some from:
 
 To make it, check his details vlogs on the topic:
 
-- [EASY Low-Cost Plant Feed to Boost Crop Yields & Health](../2022-11-24-easy-low-cost-plant-feed-to-boost-crop-yields--health-huw-richards/README.md)
+- [EASY Low-Cost Plant Feed to Boost Crop Yields & Health](../2022-11-24-easy-low-cost-plant-feed-to-boost-vegetables-huw-richards/README.md)
 - [GRASS - The Most Valuable FREE Resource for Growing Food](https://www.youtube.com/watch?v=FcmR8KbJzH8)
 
 ![Leaf mold on top of some green leaves soaked in water](./images/trick-7-starting-point.jpg 'Leaf mold gathered locally will contain microbes that suits best in your garden. Credits: image taken from Huw Richard’s vlog')
