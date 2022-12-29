@@ -3,6 +3,8 @@ containerClass: participate
 title: Soutenez mon travail pour partager davantage de notes et d'expériences
 description: La prise de notes des très nombreuses et utiles vidéos à regarder prendre du temps. Je le fais, car je souhaite accroitre ma connaissance sur les domaines des technologies web, de la santé, de la permaculture et bien d'autres. Si vous souhaitez me remercier par une participation, je vous en remercie beaucoup et cela m'aidera à publier plus de contenu, pour vous, chers lecteurs.
 date: 2021-08-10
+head:
+  - [meta, { rel: canonical, href: https://iamjeremie.me/fr/soutenez-moi/ }]
 article: false
 ---
 

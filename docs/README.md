@@ -8,7 +8,8 @@ description: 'This journal of notes and experiences of Jérémie Litzler (availa
 heroText: Hello,
 heroImage: /images/profilepic-400w.jpg
 tagline: and welcome to my blog. I hope you will find here what you are looking for!
-
+head:
+  - [meta, { rel: canonical, href: https://iamjeremie.me/ }]
 actions:
   - text: Who am I
     link: /about

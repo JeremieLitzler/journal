@@ -5,6 +5,8 @@ description: "Ce journal rassemble les notes et les expériences de Jérémie Li
 heroText: 'Bonjour,'
 tagline: "et bienvenue sur mon blog. J'espère que vous y trouverez ce que vous cherchez !"
 heroImage: /images/profilepic-400w.jpg
+head:
+  - [meta, { rel: canonical, href: https://iamjeremie.me/fr/ }]
 actions:
   - text: Qui suis-je ?
     link: /fr/a-propos/

@@ -2,6 +2,9 @@
 title: Who am I?
 description: A brief presentation of Jérémie Litzler and the goal of this website.
 date: 2021-08-10
+head:
+  - [meta, { rel: canonical, href: https://iamjeremie.me/about/ }]
+
 article: false
 ---
 
