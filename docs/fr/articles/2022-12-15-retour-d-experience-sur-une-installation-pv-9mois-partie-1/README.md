@@ -64,7 +64,7 @@ Fin août 2022, j’ai enfin trouvé la configuration la plus pratique pour gér
 
 Ce qui a changé :
 
-- je n’utilise plus le contacteur avec le signal HC/HP d’EDF. Il n’est utile et j’explique pourquoi dans les lignes suivantes.
+- je n’utilise plus le contacteur avec le signal HC/HP d’EDF. Il n’est plus utile et j’explique pourquoi dans les lignes suivantes.
 - j’ai conservé les disjoncteurs 15A-1 et 15A-2 pour avoir un contrôle indépendant sur les sorties du routeur solaire.
 - j’ai supprimé les compteurs mécaniques pour compter l’énergie utilisée sur les prises connectées aux sorties du routeur solaire. Voir [plus bas pourquoi](#branchement-du-cumulus).
 
@@ -89,7 +89,8 @@ Après plus de réflexion et de l’aide d’un ami, j’ai réussi à brancher 
 
 Sur la sortie routeur, j’ai enlevé les compteurs mécaniques d’énergie, car le comptage était faux.
 
-: ::tip Note personnelle
+:::tip Note personnelle
+
 Je pense que cela est causé par le routeur et la façon dont il laisse passer le courant par impulsion.
 
 Robin Emley m’a dit que cela dépend de [la calibration de la pince ampèremétrique](https://mk2pvrouter.co.uk/improved-calibration.html). Pour le moment, cela ne me dérange pas.
@@ -97,7 +98,8 @@ Robin Emley m’a dit que cela dépend de [la calibration de la pince ampèremé
 Avec le compteur d’énergie numérique sur le tableau de la sortie solaire, cela m’importait peu de ne pas avoir l’information précise du surplus traversé par le routeur.
 
 Le routeur indique le comptage journalier et celui-ci est réinitialisé chaque jour. Je me satisfais de ce que je peux noter chaque jour, même si en notre absence, on ne peut pas connaitre la quantité de surplus redirigée par le routeur.
-: : :
+
+:::
 
 Au lien d’aller directement du tableau général au cumulus, j’ai installé :
 
@@ -218,12 +220,14 @@ L’idée :
 
 Quand l’eau chaude, le radiateur se sert dans le surplus solaire.
 
-: ::note Pour rappel
+:::note Pour rappel
+
 Le routeur n’alimente pas les 2 sorties en même temps.
 
 Si la sortie 1 ne consomme pas, le surplus solaire alimente la sortie 2.
 
 Cela se révèle très pratique dans le scénario ci-dessus !
+
 :::
 
 ## Et l’optimisation de la puissance maximum
