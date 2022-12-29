@@ -14,7 +14,6 @@ next:
 #head:
 #  - [meta, { rel: canonical, href: url }]
 category:
-  - Gardening
   - Food
 tag:
   - Huw Richards

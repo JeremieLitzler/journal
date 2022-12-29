@@ -17,7 +17,6 @@ next:
 #      },
 #    ]
 category:
-  - Permaculture
   - Gardening
 tag:
   - Huw Richards

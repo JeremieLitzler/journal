@@ -20,7 +20,6 @@ next:
 #      },
 #    ]
 category:
-  - Permaculture
   - Gardening
 tag:
   - Charles Dowding
