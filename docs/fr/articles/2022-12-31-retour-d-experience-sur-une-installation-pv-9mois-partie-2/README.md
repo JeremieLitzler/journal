@@ -16,7 +16,6 @@ tag:
   - Energie solaire
   - Autoconsommation
   - Eau chaude sanitaire
-article: false
 ---
 
 ![Vue des champs Sud et Sud-Ouest](./images/vue-des-champs-sud-et-sud-ouest.jpg 'Les champs Sud et Sud-Ouest en position Printemps-Automne')
