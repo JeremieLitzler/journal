@@ -18,7 +18,7 @@ tag:
   - Eau chaude sanitaire
 ---
 
-![Vue des champs Sud et Sud-Ouest](./images/vue-des-champs-sud-et-sud-ouest.jpg 'Les champs Sud et Sud-Ouest en position Printemps-Automne')
+![Vue des champs Sud et Sud-Est](2022-12-31-vue-des-champs-sud-et-sud-est.jpg 'Les champs Sud et Sud-Est en position Printemps-Automne')
 
 En cet hiver 2022-2023, il devait de plus en plus intéressant de produire sa propre électricité. Mais quand est-il vraiment. Dans ce article, je présente les chiffres de 9 mois de fonctionnement de notre installation photovoltaïque.
 
