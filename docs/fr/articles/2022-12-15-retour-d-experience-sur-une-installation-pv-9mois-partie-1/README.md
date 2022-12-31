@@ -289,7 +289,9 @@ Encore 2 semaines de relevés et vous pourrez découvrir :
 
 En attendant, ==merci pour votre soutien !==
 
+:::center
 ⏬⏬⏬
+:::
 
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
