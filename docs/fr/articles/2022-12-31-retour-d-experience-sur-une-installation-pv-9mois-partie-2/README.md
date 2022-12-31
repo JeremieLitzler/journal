@@ -315,49 +315,53 @@ Je peux déjà vous annoncer que je suis constamment 15 à 25 % en dessous de la
 
 ### Mon calcul
 
-Je ne sais pas quel calcul sera le plus juste.
+Je ne sais pas quel calcul sera le plus juste. Je pars donc sur les données réelles d'avril à décembre et sur une estimation pour janvier à mars [^fourth] pour calculer :
 
-Je pars donc des données réelles d'avril à décembre et je pars sur une estimation pour janvier à mars.
+- La production mensuel
+- Le taux d'autoconsommation
+- Le taux de production
 
-Cela donne :
-
-| Mois | Taux d'autoconsommation | Taux de production | Production (kWh) | Production autoconsommée |
-| ---- | ----------------------- | ------------------ | ---------------- | ------------------------ |
-| 1    | 98,00% [^second]        | 60,00% [^second]   | 50,02 [^second]  | 49,02 [^second]          |
-| 2    | 98,00% [^second]        | 70,00% [^second]   | 85,11 [^second]  | 83,40 [^second]          |
-| 3    | 98,00% [^second]        | 80,00% [^second]   | 144,66 [^second] | 141,76 [^second]         |
-| 4    | 91,91%                  | 84,92%             | 160,60           | 147,60                   |
-| 5    | 88,59%                  | 95,43%             | 210,40           | 186,40                   |
-| 6    | 89,72%                  | 87,29%             | 204,30           | 183,30                   |
-| 7    | 90,68%                  | 92,91%             | 225,40           | 204,40                   |
-| 8    | 80,28%                  | 84,55%             | 192,70           | 154,70                   |
-| 9    | 98,01%                  | 77,82%             | 150,90           | 147,90                   |
-| 10   | 99,09%                  | 74,08%             | 109,30           | 108,30                   |
-| 11   | 98,40%                  | 67,89%             | 62,60            | 61,60                    |
-| 12   | 97,25%                  | 52,28%             | 36,30            | 35,30                    |
-| -    | -                       | -                  | Total            | 1503,69 [^second]        |
-
-:::note Définitions
+:::tip Définitions
 
 - Taux d'autoconsommation : correspond à la production consommée moins le rejet sur le réseau.
 - Taux de production : correspond à la Production réelle divisée par la Production théorique.
 
 :::
 
+Cela donne :
+
+| Mois | Taux d'autoconsommation | Taux de production | Production (kWh)   | Production autoconsommée |
+| ---- | ----------------------- | ------------------ | ------------------ | ------------------------ |
+| 1    | 98,00% [^second]        | 60,00% [^second]   | 50,02 [^second]    | 49,02 [^second]          |
+| 2    | 98,00% [^second]        | 70,00% [^second]   | 85,11 [^second]    | 83,40 [^second]          |
+| 3    | 98,00% [^second]        | 80,00% [^second]   | 144,66 [^second]   | 141,76 [^second]         |
+| 4    | 91,91%                  | 84,92%             | 160,60             | 147,60                   |
+| 5    | 88,59%                  | 95,43%             | 210,40             | 186,40                   |
+| 6    | 89,72%                  | 87,29%             | 204,30             | 183,30                   |
+| 7    | 90,68%                  | 92,91%             | 225,40             | 204,40                   |
+| 8    | 80,28%                  | 84,55%             | 192,70             | 154,70                   |
+| 9    | 98,01%                  | 77,82%             | 150,90             | 147,90                   |
+| 10   | 99,09%                  | 74,08%             | 109,30             | 108,30                   |
+| 11   | 98,40%                  | 67,89%             | 62,60              | 61,60                    |
+| 12   | 97,25%                  | 52,28%             | 36,30              | 35,30                    |
+| -    | -                       | -                  | Soit un total de : | 1503,69 [^second]        |
+
 [^second]: Les valeurs sont estimées
 
-Avec une augmentation annuelle, relativement optimiste vu la situation début 2023, du prix du kWh acheté à EDF à 8 % [^third], l'installation devient rentable au bout 5 ans et 2 mois environ.
+Soit un total de 1503.69 kWh annuel autoconsommée.
+
+Avec une augmentation annuelle du prix du kWh acheté à EDF à 8 % [^third], ce qui me semble relativement optimiste vu la situation début 2023, l'installation devient rentable au bout de **===5 ans et 2 mois environ===**.
 
 [^third]: 8 % correspond au taux d'augmentation _moyen_ du prix du kWh chaque année en 2014 et 2022, 4 à 20 % en réalité.
 
-| Année | Production annuelle | Prix du kWh | Economie annuelle | Cumul     |
-| ----- | ------------------- | ----------- | ----------------- | --------- |
-| 1     | 1503,69             | 0,23 €      | 345,85 €          | 345,85 €  |
-| 2     | 1503,69             | 0,25 €      | 373,52 €          | 719,36 €  |
-| 3     | 1503,69             | 0,27 €      | 403,40 €          | 1122,76 € |
-| 4     | 1503,69             | 0,29 €      | 435,67 €          | 1558,43 € |
-| 5     | 1503,69             | 0,31 €      | 470,52 €          | 2028,95 € |
-| 6     | 100,00              | 0,34 €      | 33,79 €           | 2062,75 € |
+| Année | Production annuelle | Prix du kWh | Economie annuelle | Cumul         |
+| ----- | ------------------- | ----------- | ----------------- | ------------- |
+| 1     | 1503,69             | 0,23 €      | 345,85 €          | 345,85 €      |
+| 2     | 1503,69             | 0,25 €      | 373,52 €          | 719,36 €      |
+| 3     | 1503,69             | 0,27 €      | 403,40 €          | 1122,76 €     |
+| 4     | 1503,69             | 0,29 €      | 435,67 €          | 1558,43 €     |
+| 5     | 1503,69             | 0,31 €      | 470,52 €          | 2028,95 €     |
+| 6     | 100,00              | 0,34 €      | 33,79 €           | **2062,75 €** |
 
 ## Quelle est la suite
 
