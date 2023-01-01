@@ -13,7 +13,7 @@ head:
 category:
   - Energie
 tag:
-  - Energie solaire
+  - Photovoltaïque
   - Autoconsommation
   - Eau chaude sanitaire
 ---
@@ -132,7 +132,7 @@ La sortie est branchée comme avant au cumulus.
 
 En octobre, j’ai réactivé l’alimentation du cumulus par le réseau.
 
-A ce moment-là, 1.5 h de suffisait largement pour les 5 jours où cela fut nécessaire.
+A ce moment-là, 1.5 h suffisaient largement pour les 5 jours où cela fut nécessaire.
 
 En novembre, on a laissé le réseau presque tous les jours dû à la très mauvaise météo… J’ai augmenté à 2.5 h de chauffe la première semaine de décembre. J’ai diminué à 2h une semaine après, car cela suffisait pour les douches chaudes de mesdames 🚿
 
@@ -182,7 +182,7 @@ Par contre, nous avons profité du soleil et des jours ensoleillés pour laver l
 
 ![Graphique de relevé Linky du 11 août 2022](./images/exemple-de-cycle-cotton-eco-40-en-aout-2022.jpg 'Le pic de 12h et la consommation continuant jusqu’à 15h correspondent au cycle « Cotton Eco » à 40 °C')
 
-Historiquement, nous lavions notre linge au cycle _Synthétique à 40°_. Toutefois, après avoir essayer le cycle _Cotton eco à 40°_, la consommation était réduite.
+Historiquement, nous lavions notre linge au cycle _Synthétique à 40°_. Toutefois, après avoir essayé le cycle _Cotton eco à 40°_, la consommation était réduite.
 
 ![Graphique de relevé Linky du 12 décembre 2022](./images/exemple-de-cycle-synthetique-40-en-decembre-2022.jpg 'Le pic de 12h correspond au cycle « Synthétique » à 40 °C')
 
