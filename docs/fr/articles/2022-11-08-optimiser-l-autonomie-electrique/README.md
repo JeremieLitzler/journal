@@ -8,11 +8,11 @@ category:
   - Energie
 tag:
   - Stockage
-  - Energie solaire
+  - Photovoltaïque
   - Optimisation
 ---
 
-![Un câble débranchée devant une prise murale](./images/hero.jpg "Etape 1 - Rendre autonome mon poêle à granulés, les LED et la VMI pour l'hiver 2022-2023")
+![Un câble débranché devant une prise murale](./images/hero.jpg "Etape 1 - Améliorer l'autonomie d'un poêle à granulés pour l'hiver 2022-2023")
 
 ## Objectif
 
@@ -20,7 +20,7 @@ Obtenir tous les éléments et conseils d’un professionnel pour me permettre l
 
 Je ne savais pas si j’avais les moyens pour un onduleur Victron Multi plus II (le modèle 24V 3000VA). De plus, il semblait qu’il nécessite d’avoir un chargeur séparé.
 
-Je n’ai clairement pas les moyens pour des batteries Ni-Fe (vu les prix que Perma-batteries m’a donnés), mais je ne souhaite pas utiliser la techno Gel ou OPZS,
+Je n’ai clairement pas les moyens pour des batteries Ni-Fe (vu les prix que Perma-batteries m’a donnés), mais je ne souhaite pas non plus utiliser la techno Gel ou OPZS,
 
 Donc ça laisse uniquement les LiFePO4.
 
@@ -28,10 +28,11 @@ Donc ça laisse uniquement les LiFePO4.
 
 Alimenter au minimum un poêle à granuler Ravelli HR70 de fin septembre à début mai qui consomme :
 
-- 480-520W de puissance au démarrage (12 premières minutes)
-- puis 25-120W en fonctionnement nominal (pendant environ 17 h, au plus froid de l’hiver,
-  - la visse « sans fin » crée un pic de consommation à 120W pendant 5 sec toutes les 30-40secs,
-  - puis la puissance instantanée retombe à 25W),
+-234 à 260W de puissance au démarrage (12 premières minutes),
+
+- puis 25W minimum en fonctionnement nominal,
+  - la visse « sans fin » crée un pic de consommation à 25W pendant 5 secondes toutes les 5 secondes,
+  - le circulateur maintient une puissance de 33W supplémentaires à interval régulier pour la circulation de l'eau chaude.
 
 Cela équivaut à environ 750 Wh par jour.
 
@@ -47,7 +48,7 @@ Je n’exclus pas d’alimenter d’autres appareils, comme :
 - les lumières (23 LED de max. 4W) où on en utilise 10 de 4W plus que les 13 autres, soit :
   - 4 Wh x 10 x 6 h = 240 Wh par jour
   - 4 Wh x 13 x 2 h = 104 Wh par jour
-- et une [VMI ou ventilation mécanique insulflée](https://heero.fr/guide-travaux/ventilation/vmi/qu-est-ce-que-la-vmi/) avec filtre (600 Wh sur 24 h mesurés).
+- et une [VMI ou ventilation mécanique insufflée](https://heero.fr/guide-travaux/ventilation/vmi/qu-est-ce-que-la-vmi/) avec filtre (600 Wh sur 24 h mesurés).
 
 Mais ce n’est pas une priorité.
 
@@ -110,7 +111,7 @@ Toutefois, mon budget était bien au-dessous de ce qui est nécessaire pour alle
 
 L’investissement pour l’onduleur uniquement varie de 1200 à 1800 euros minimums, cela dépendant bien sûr de la puissance à couvrir dans la maison.
 
-![Schema du Victron Multiplus2 GX en couplage AC](./images/schema-victron-multiplus2-gx-ac-coupling.jpg 'Comment se présente une installation avec le Victron Multiplus2 GX en couplage AC')
+![Schéma du Victron Multiplus2 GX en couplage AC](./images/schema-victron-multiplus2-gx-ac-coupling.jpg 'Comment se présente une installation avec le Victron Multiplus II GX en couplage AC')
 
 Allez lire sur le principe du _Couplage AC_ sur [le site Victron](https://www.victronenergy.com/live/ac_coupling:start).
 
@@ -141,7 +142,7 @@ Pour donner des conseils aux gens sur le sujet, il faut au moins réaliser sa pr
 
 Ensuite, il faut se former sur les solutions de sites autonomes et lire sur le sujet de la résilience qui ne doit pas se limiter au point de vue énergétique.
 
-J’ai acheté [le livre co-écris par Rémi](https://amzn.to/3fwo1iS) où l’on apprend sur tous les domaines pour créer son foyer résilient. Je vous le recommande. Je réaliserai dans le futur un avis sur le livre, mais pour le moment, j’adore !
+J’ai acheté [le livre co-écris par Rémi](https://amzn.to/3fwo1iS) où l’on apprend sur tous les domaines pour créer son foyer résilient. Je vous le recommande. Je réaliserai dans le futur un avis sur le livre, mais pour le moment, je l'aime beaucoup !
 
 :::
 

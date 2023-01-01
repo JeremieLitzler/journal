@@ -16,7 +16,7 @@ category:
   - Energie
 tag:
   - L'Archipelle
-  - Energie solaire
+  - Photovoltaïque
   - Autoconsommation
   - Résilience
 ---

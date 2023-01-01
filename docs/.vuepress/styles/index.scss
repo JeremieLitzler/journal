@@ -39,6 +39,22 @@ img {
   border-radius: 8px;
 }
 
+.article-item .title {
+  text-decoration: underline;
+  transform: scale(1.0);
+}
+
+.article-item .title:focus{
+  text-decoration: none;
+  scale: 1.05;
+}
+
+.article-item .title:hover {
+  color: var(--theme-color-dark);
+  text-decoration: none;
+  scale: 1.05;
+}
+
 .home.project .hero .description {
   color: var(--theme-color-dark);
 }
