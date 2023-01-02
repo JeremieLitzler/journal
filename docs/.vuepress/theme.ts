@@ -39,7 +39,7 @@ export default hopeTheme({
         //See https://vuepress-theme-hope.github.io/v2/guide/markdown/attrs.html
         attrs: true,
         //See https://vuepress-theme-hope.github.io/v2/guide/markdown/chart.html
-        chart: true,
+        //chart: true,
         //See https://vuepress-theme-hope.github.io/v2/guide/markdown/container.html
         container: true,
         //See https://vuepress-theme-hope.github.io/v2/guide/markdown/echarts.html
@@ -62,9 +62,6 @@ export default hopeTheme({
         //stylize: []
         //See https://vuepress-theme-hope.github.io/v2/guide/markdown/tabs.html
         tabs: true,
-        //See https://vuepress-theme-hope.github.io/v2/guide/markdown/tasklist.html#config
-        //For checklists
-        tasklist: true,
       },
       pwa: {
         cacheHTML: true,
