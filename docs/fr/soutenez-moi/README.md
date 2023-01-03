@@ -33,58 +33,22 @@ Chaque lien vous amènera sur une page de Stripe, le fournisseur de solutions de
 
 Si vous avez besoin d’une autre monnaie, [dites-le-moi](../contactez-moi/README.md). Cela me prendra quelques minutes si Stripe permet d'ajouter votre monnaie.
 
-### Participer annuellement
+A partir de 5 euros (ou les monnaies disponible), vous pouvez aussi aider mensuellement ou annuellement.
+
+Faites votre choix:
 
 <!-- markdownlint-disable MD033 -->
-<article class="participate-options participate-yearly">
-    <p>
-    <a href="https://buy.stripe.com/3cs9C73dX74J5sQ14k" target="_blank" class="nav-link action-button secondary" aria-label="Aider chaque année">20 par an</a>
-    </p>
-    <p>
-    <a href="https://buy.stripe.com/6oEg0v3dXgFjbRefZd" target="_blank" class="nav-link action-button primary" aria-label="Aider chaque année">50 par an</a>
-    </p>
-    <p>
-    <a href="https://buy.stripe.com/6oE29FbKt4WB7AY28l" target="_blank" class="nav-link action-button secondary" aria-label="Aider chaque année">100 par an</a>
-    </p>
-    <p>
-    <a href="https://buy.stripe.com/bIY3dJ4i160FcVi3cq" target="_blank" class="nav-link action-button secondary" aria-label="Aider chaque année">200 par an</a>
-    </p>
-</article>
 
-### Participer mensuellement
-
-<!-- markdownlint-disable MD033 -->
-<article class="participate-options participate-monthly">
-    <p>
-    <a href="https://buy.stripe.com/5kA8y39Cl60Ff3q9AI" target="_blank" class="nav-link action-button primary" aria-label="Aider chaque mois">5 par mois</a>
-    </p>
-    <p>
-    <a href="https://buy.stripe.com/eVa3dJdSBdt7aNaaEN" target="_blank" class="nav-link action-button secondary" aria-label="Aider chaque mois">10 par mois</a>
-    </p>
-    <p>
-    <a href="https://buy.stripe.com/28o29F9Cl3Sxg7u5ku" target="_blank" class="nav-link action-button secondary" aria-label="Aider chaque mois">20 par mois</a>
-    </p>
-    <p>
-    <a href="https://buy.stripe.com/9AQ6pV5m5exbf3q8wH" target="_blank" class="nav-link action-button secondary" aria-label="Aider chaque mois">50 par mois</a>
-    </p>
-</article>
-
-### Participer une fois
-
-<!-- markdownlint-disable MD033 -->
-<article class="participate-options participate-once">
-    <p>
-    <a href="https://participate.stripe.com/9AQg0vaGpdt72gE7su" target="_blank" class="nav-link action-button secondary" aria-label="Aider une fois">5 une fois</a>
-    </p>
-    <p>
-    <a href="https://participate.stripe.com/aEUeWr9Cl3Sx8F2dQT" target="_blank" class="nav-link action-button secondary" aria-label="Aider une fois">10 une fois</a>
-    </p>
-    <p>
-    <a href="https://participate.stripe.com/4gw5lRg0J3Sx08w004" target="_blank" class="nav-link action-button primary" aria-label="Aider une fois">20 une fois</a>
-    </p>
-    <p>
-    <a href="https://participate.stripe.com/14k29Fg0J9cR8F24gl" target="_blank" class="nav-link action-button secondary">50 une fois</a>
-    </p>
+<article class="participate participate-options">
+  <p>
+    <a href="https://buy.stripe.com/9AQ01H3Fzcgd1eE3cc" target="_blank" class="nav-link action-button primary" aria-label="Help me each year">Annuellement</a>
+  </p>
+  <p>
+    <a href="https://buy.stripe.com/eVadSx6RLa85cXm9AB" target="_blank" class="nav-link action-button secondary" aria-label="Help me each year">Mensuellement</a>
+  </p>
+  <p>
+    <a href="https://buy.stripe.com/9AQ01H3Fzcgd1eE3cc" target="_blank" class="nav-link action-button secondary" aria-label="One time tip">Une fois</a>
+  </p>
 </article>
 
 ## Inscrivez-vous la lettre d’information

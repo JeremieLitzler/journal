@@ -144,7 +144,7 @@ iframe.newsletter-embed html {
 .participate .action-button {
   display: inline-block;
   overflow: hidden;
-  margin: 0.6rem 0.8rem;
+  margin: 0;
   padding: 0.75rem 1.5rem;
   border: 2px solid var(--theme-color);
   border-radius: 0.5rem;
@@ -160,8 +160,16 @@ iframe.newsletter-embed html {
 
 .participate .participate-options {
   display: flex;
+  flex-direction: column;
   text-align: center;
   justify-content: space-around;
+}
+
+@media (min-width: 30em) {
+  .participate .participate-options {
+    display: flex;
+    flex-direction: row;
+  }
 }
 
 .participate article {
