@@ -53,7 +53,7 @@ Next, it isn’t a good idea to compost pet manure, from cats and dogs, for exam
 
 However, mostly vegetarian pets like guinea pigs and chicken can work fine.
 
-The interesting fact is that the tip about to keep the compost bin warm. It makes me think of the tip from [Charles Dowding. ](../../charles-downding/)He builds his compost bin fully closed on the side.
+The interesting fact is that the tip about to keep the compost bin warm. It makes me think of the tip from [Charles Dowding](../../../tag/charles-dowding). He builds his compost bin fully closed on the side.
 
 :::tip Personal note
 I have made 2 compost bins lately and I did make them fully closed, making sure to layer well the green and the brown to always oxygen to stay present.
