@@ -1,15 +1,15 @@
 {
-  "FM Template Huw Richards": {
+  "FM Template Permaculture-agroecologie-etc": {
     "scope": "markdown",
-    "prefix": "set frontmatter huw r",
+    "prefix": "set frontmatter damien",
     "body": [
       "---",
-      "title: $1, by Huw Richards",
+      "title: $1, par Damien Dekarz",
       "description: \"$7\"",
       "date: $2",
       "prev:",
       "  text: \"See all my notes from Huw Richards' vlogs\"",
-      "  link: ../../tag/huw-richards/",
+      "  link: ../../tag/damien-dekarz/",
       "#next:",
       "#  text: ''",
       "#  link: ..//README.md",
@@ -22,22 +22,24 @@
       "#      },",
       "#    ]",
       "category:",
-      "  - Gardening",
+      "  - Jardin",
+      "  - Biodiversité",
+      "  - Agroécologie",
       "tag:",
-      "  - Huw Richards",
+      "  - Damien Dekarz",
       "  - $5",
       "---",
       "",
-      "![$4](/images/$2-$3.jpg \"Credits: image taken from Huw Richards's vlog\")",
+      "![$4](/images/$2-$3.jpg \"Crédits: image extraite du vlog de Damien Dekarz\")",
       "",
       "$7",
       "",
-      "Thanks to Huw Richards for sharing his wisdom and knowledge!",
-      "I wrote the following notes watching the video published on Huw Richards's channel.",
+      "Merci à Damien pour le partage de son savoir !",
+      "Cet article résume mes notes du vlog réalisé par Damien sur sa chaîne _Permaculture, agroecologie, etc_.",
       "",
       "<!-- more -->",
       "",
-      "You can watch it using [this YouTube link]($6)."
+      "Vous pouvez retrouver [la vidéo sur YouTube]($6)."
     ],
     "description": "Set fronmatter to the new post"
   }
