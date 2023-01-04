@@ -20,7 +20,7 @@ tag:
 
 ![Vue des champs Sud et Sud-Est](/images/2022-12-31-vue-des-champs-sud-et-sud-est.jpg 'Les champs Sud et Sud-Est en position Printemps-Automne')
 
-En cet hiver 2022-2023, il devait de plus en plus intéressant de produire sa propre électricité. Mais quand est-il vraiment. Dans cet article, je présente les chiffres de 9 mois de fonctionnement de notre installation photovoltaïque.
+En cet hiver 2022-2023, il devient de plus en plus intéressant de produire sa propre électricité. Mais quand est-il vraiment ?Dans cet article, je présente les chiffres de 9 mois de fonctionnement de notre installation photovoltaïque.
 
 <!-- more -->
 
