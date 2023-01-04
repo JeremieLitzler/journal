@@ -236,7 +236,7 @@ My goal for the 2022–2023 year is:
 - Getting more saw dust from the local sawmill that is only 5 min from my house.
 - Growing more comfrey because it gives out huge leaves!
 
-See the progress is [this journaling article](../2023/09/gardening-in-2022-2023/README.md).
+See the progress is [this journaling article](../../2023/09/gardening-in-2022-2023/README.md).
 :::
 
 <!-- markdownlint-disable MD033 -->

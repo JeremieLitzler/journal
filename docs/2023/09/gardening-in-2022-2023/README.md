@@ -31,7 +31,7 @@ I made a second kitchen and garden wastes heap because the first one was full
 
 I took 2h30 to build it from recycled pallets.
 
-See how I made them [in this article](../2022-12-14-how-to-make-a-compost-bin-from-pallets-huw-richards/README.md)
+See how I made them [in this article](../../../posts/2022-12-14-how-to-make-a-compost-bin-from-pallets-huw-richards/README.md)
 
 ## Autumn leaf harvest
 
