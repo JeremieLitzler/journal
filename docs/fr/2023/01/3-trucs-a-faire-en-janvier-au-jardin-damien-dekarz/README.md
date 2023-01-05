@@ -3,7 +3,7 @@ title: Que faire au jardin en Janvier, par Damien Dekarz
 description: "En janvier, le jardin est au repos. Toutefois, il reste toujours pas mal de choses à réaliser. Damien nous explique ce qu'il en retourne."
 date: 2023-01-04
 prev:
-  text: "See all my notes from Huw Richards' vlogs"
+  text: 'Toutes mes notes des vlogs de Damien Dekarz'
   link: ../../tag/damien-dekarz/
 #next:
 #  text: ''
