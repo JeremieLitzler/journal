@@ -36,7 +36,7 @@ I wrote the following notes watching the video published on Huw Richards's chann
 You can watch it using [this YouTube link](https://www.youtube.com/watch?v=8Z1RVwa8_a4).
 
 <!-- markdownlint-disable MD033 -->
-<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
+<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
 
 ## Making good leaf mold
 

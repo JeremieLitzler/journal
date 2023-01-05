@@ -29,14 +29,26 @@
     "body": ["**My notes:** [read them here]($1)"],
     "description": "Add a link to notes EN"
   },
-  "Snippet 'The Tooltip subscription": {
+  "Snippet newsletter no arrow": {
     "scope": "markdown",
-    "prefix": "add substack newsletter block",
+    "prefix": "newsletter",
     "body": [
       "<!-- markdownlint-disable MD033 -->",
-      "<p class=\"newsletter-wrapper\"><iframe class=\"newsletter-embed\" src=\"https://thetooltip.substack.com/embed\" frameborder=\"0\" scrolling=\"no\"></iframe></p>"
+      "<p class=\"newsletter-wrapper\"><iframe class=\"newsletter-embed\" src=\"https://iamjeremie.substack.com/embed\" frameborder=\"0\" scrolling=\"no\"></iframe></p>"
     ],
-    "description": "Add substack newsletter block"
+    "description": "Add substack newsletter block with no arrow"
+  },
+  "Snippet newsletter arrow": {
+    "scope": "markdown",
+    "prefix": "arrow newsletter",
+    "body": [
+      ":::center",
+      "⏬⏬⏬",
+      ":::",
+      "<!-- markdownlint-disable MD033 -->",
+      "<p class=\"newsletter-wrapper\"><iframe class=\"newsletter-embed\" src=\"https://iamjeremie.substack.com/embed\" frameborder=\"0\" scrolling=\"no\"></iframe></p>"
+    ],
+    "description": "Add substack newsletter block with arrow"
   },
   "Note generic EN": {
     "scope": "markdown",

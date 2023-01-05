@@ -15,7 +15,7 @@ head:
       meta,
       {
         rel: canonical,
-        href: https://thetooltip.substack.com/p/these-8-free-ingredients-will-bulk,
+        href: https://iamjeremie.substack.com/p/these-8-free-ingredients-will-bulk,
       },
     ]
 category:
@@ -34,7 +34,7 @@ I wrote the following notes watching the vlog published on Huw Richards’s chan
 You can watch it using [this YouTube link](https://www.youtube.com/watch?v=BO8wWBjnsXU).
 
 <!-- markdownlint-disable MD033 -->
-<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
+<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
 
 ## Base layer
 
@@ -145,4 +145,4 @@ It helps you grow better and stronger vegetables that will help you reach more s
 Start now! Start today!
 
 <!-- markdownlint-disable MD033 -->
-<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
+<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>

@@ -33,7 +33,7 @@ I wrote the following notes watching the video published on Charles Dowding’s 
 You can watch it using [this YouTube link](https://www.youtube.com/watch?v=s71f18ila1c).
 
 <!-- markdownlint-disable MD033 -->
-<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
+<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
 
 We will look into the misunderstandings and questions about compost and spreading it.
 
@@ -117,4 +117,4 @@ Indeed, the living organisms in the soil won’t have to perform the heavy work 
 Checkout Charles’s book (use the link according to your location: [in France](https://amzn.to/3ELjByW), [in the US](https://amzn.to/3SROzJm) or [in the UK](https://amzn.to/3Nlrpd1)) for more details about compost.
 
 <!-- markdownlint-disable MD033 -->
-<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
+<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>

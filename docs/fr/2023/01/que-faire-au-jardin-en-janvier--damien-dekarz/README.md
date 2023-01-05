@@ -157,7 +157,9 @@ Utilisez le temps disponible en janvier pour préparer, anticiper, car dans quel
 
 Et comme, toujours si vous trouvez mon travail utile, pensez à vous abonner pour ne rien manquer. Merci.
 
+:::center
 ⏬⏬⏬
+:::
 
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>

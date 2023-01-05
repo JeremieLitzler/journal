@@ -34,7 +34,7 @@ I wrote the following notes watching the video published on Huw Richards’s cha
 You can watch it using [this YouTube link](https://www.youtube.com/watch?v=HzonE2AmGmw).
 
 <!-- markdownlint-disable MD033 -->
-<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
+<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
 
 ## Trick 1: Consider a _break year_
 
@@ -146,4 +146,4 @@ To make it, check his details vlogs on the topic:
 ![Leaf mold on top of some green leaves soaked in water](./images/trick-7-starting-point.jpg 'Leaf mold gathered locally will contain microbes that suits best in your garden. Credits: image taken from Huw Richard’s vlog')
 
 <!-- markdownlint-disable MD033 -->
-<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
+<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>

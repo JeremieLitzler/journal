@@ -9,7 +9,7 @@ head:
       meta,
       {
         rel: canonical,
-        href: https://thetooltip.substack.com/p/notes-sur-les-bases-dune-installation,
+        href: https://iamjeremie.substack.com/p/notes-sur-les-bases-dune-installation,
       },
     ]
 category:

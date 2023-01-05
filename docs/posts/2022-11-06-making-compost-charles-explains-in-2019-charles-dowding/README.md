@@ -35,7 +35,7 @@ I wrote the following notes watching the video published on Charles Dowding's ch
 You can watch it using [this YouTube link](https://www.youtube.com/watch?v=TeBUX9iEFwg).
 
 <!-- markdownlint-disable MD033 -->
-<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
+<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
 
 It's worth spending time making some decent compost because it has a multiplier effect all the way along down the line.
 
@@ -73,4 +73,4 @@ Then you can go ahead.
 Also, it will depend on how much heat you were able to have. The more you heat the compost (staying under 70 °C for the fungal activity), the fastest the compost will be ready to use.
 
 <!-- markdownlint-disable MD033 -->
-<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
+<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>

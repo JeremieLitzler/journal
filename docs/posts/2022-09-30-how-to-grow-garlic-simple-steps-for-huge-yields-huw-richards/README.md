@@ -158,4 +158,4 @@ Simply, remove the worst affected leaves. Then when it comes to harvest, remove 
 As long as you take care of the soil, rust goes away. You can also apply lactic acid bacteria using a spray.
 
 <!-- markdownlint-disable MD033 -->
-<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
+<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>

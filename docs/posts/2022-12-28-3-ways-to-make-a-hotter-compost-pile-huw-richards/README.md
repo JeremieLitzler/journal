@@ -35,7 +35,7 @@ I wrote the following notes watching the video published on Huw Richards's chann
 You can watch it using [this YouTube link](https://www.youtube.com/watch?v=9HkfLBgS7mY).
 
 <!-- markdownlint-disable MD033 -->
-<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
+<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
 
 Compost represents a good soil amendment. You want to create your own to feed your garden.
 
@@ -103,6 +103,6 @@ For that, I invite you to [read more on the topic of composting](../../tag/compo
 As always, don't forget to subscribe! I published one article every week and you support means everything to me.
 
 <!-- markdownlint-disable MD033 -->
-<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
+<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
 
 Thanks.

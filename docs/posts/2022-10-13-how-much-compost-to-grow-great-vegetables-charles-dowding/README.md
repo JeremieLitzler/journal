@@ -15,7 +15,7 @@ head:
       meta,
       {
         rel: canonical,
-        href: https://thetooltip.substack.com/p/how-much-how-little-compost-do-you,
+        href: https://iamjeremie.substack.com/p/how-much-how-little-compost-do-you,
       },
     ]
 category:
@@ -160,9 +160,9 @@ See the beds of Charles from an aerial view:
 
 If you want a big resource on the No Dig method, Checkout Charles’s book (use the link according to your location: [in France](https://amzn.to/3ELjByW), [in the US](https://amzn.to/3SROzJm) or [in the UK](https://amzn.to/3Nlrpd1)) for more details.
 
-Any comments? [Leave them on Substack!](https://thetooltip.substack.com/p/how-much-how-little-compost-do-you)
+Any comments? [Leave them on Substack!](https://iamjeremie.substack.com/p/how-much-how-little-compost-do-you)
 
 And to support my work, consider signing up to my newsletter.
 
 <!-- markdownlint-disable MD033 -->
-<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
+<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>

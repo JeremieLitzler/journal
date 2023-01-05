@@ -60,4 +60,4 @@ If you can’t give me a monetary thank, that's alright. Signing up to my newsle
 Through Substack, I publish my articles, so yo will know when a new one is available.
 
 <!-- markdownlint-disable MD033 -->
-<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
+<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>

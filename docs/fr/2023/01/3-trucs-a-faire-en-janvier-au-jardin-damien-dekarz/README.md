@@ -35,7 +35,7 @@ Cet article résume mes notes du vlog réalisé par Damien sur sa chaîne _Perma
 Vous pouvez retrouver le vlog sur YouTube [3 Trucs à faire en janvier au Jardin](https://www.youtube.com/watch?v=5ShdlruxnwI)
 
 <!-- markdownlint-disable MD033 -->
-<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
+<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
 
 ## Bonus : cendre dans le jardin
 

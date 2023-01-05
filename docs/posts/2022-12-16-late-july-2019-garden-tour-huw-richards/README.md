@@ -35,7 +35,7 @@ I wrote the following notes watching the video published on Huw Richards’s cha
 You can watch it using [this YouTube link](https://www.youtube.com/watch?v=_6CovELQUi0).
 
 <!-- markdownlint-disable MD033 -->
-<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
+<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
 
 ## Onions
 
@@ -164,4 +164,4 @@ I have tomatoes in the same bed for eight years.
 I have planted potatoes randomly (basically, where I had space) and I have very likely planted in the same place again. This year, we even had volunteered potato plants from an area where we had some last year.
 
 <!-- markdownlint-disable MD033 -->
-<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
+<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>

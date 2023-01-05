@@ -9,7 +9,7 @@ head:
       meta,
       {
         rel: canonical,
-        href: https://thetooltip.substack.com/p/installation-pv-retour-dexperience,
+        href: https://iamjeremie.substack.com/p/installation-pv-retour-dexperience,
       },
     ]
 category:

@@ -34,7 +34,7 @@ I wrote the following notes watching the video published on Huw Richards’s cha
 You can watch it using [this YouTube link](https://www.youtube.com/watch?v=s7iu4xgSu1Y).
 
 <!-- markdownlint-disable MD033 -->
-<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
+<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
 
 It’s important to prioritize making your own compost the following tips are short-term adjustments.
 
@@ -148,4 +148,4 @@ You can maybe purchase it as a group, hence lowering the cost.
 In my case, I can have it delivered but I will need a rather big storage area because they only deliver a minimum of 10 tons!
 
 <!-- markdownlint-disable MD033 -->
-<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
+<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>

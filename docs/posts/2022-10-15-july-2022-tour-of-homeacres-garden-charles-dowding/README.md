@@ -37,7 +37,7 @@ You can watch it using [this YouTube link](https://www.youtube.com/watch?v=tzjdc
 _Credits: image taken from Charles Dowding's vlog_
 
 <!-- markdownlint-disable MD033 -->
-<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
+<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
 
 ## Introduction
 
@@ -235,4 +235,4 @@ Picking your tomatoes not fully rip take some stress off the plant, which can fo
 And you don't lose flavor from the tomatoes by harvesting them this way.
 
 <!-- markdownlint-disable MD033 -->
-<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
+<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>

@@ -35,7 +35,7 @@ I wrote the following notes watching the video published on Huw Richards’s cha
 You can watch it using [this YouTube link](https://www.youtube.com/watch?v=xbwVlBzAGZU).
 
 <!-- markdownlint-disable MD033 -->
-<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
+<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
 
 ## Starting disclaimer
 
@@ -240,4 +240,4 @@ See the progress is [this journaling article](../../2023/09/gardening-in-2022-20
 :::
 
 <!-- markdownlint-disable MD033 -->
-<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://thetooltip.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
+<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
