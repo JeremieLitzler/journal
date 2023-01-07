@@ -296,7 +296,7 @@ Ce qui donne cette courbe :
 
 Je peux déjà vous annoncer que je suis constamment 15 à 25 % en dessous de la théorie, voire même 33 % et 48 % en novembre et en décembre respectivement.
 
-### Mon calcul
+### Calcul de la production annuelle estimée
 
 Je ne sais pas quel calcul sera le plus juste. Je pars donc sur les données réelles d’avril à décembre et sur une estimation pour janvier à mars [^fourth] pour calculer :
 
@@ -333,18 +333,24 @@ Cela donne :
 
 Soit un total de 1503,69 kWh annuels consommés.
 
+### Calcul de la date de rentabilité de l'installation
+
+:::danger Calculé erroné
+Voir [cet article](../../2023/01/calculer-le-retour-sur-investissement-pv/README.md) pour un calcule plus juste.
+:::
+
 Avec une augmentation annuelle du prix du kWh acheté à EDF à 8 %[^third], ce qui me semble relativement optimiste vu la situation début 2023, l’installation devient rentable au bout de **==5 ans et 2 mois environ, soit mai 2027==**.
 
 [^third]: 8 % correspondent au taux d’augmentation _moyen_ du prix du kWh chaque année en 2014 et 2022, 4 à 20 % en réalité.
 
 | Année | Production annuelle | Prix du kWh | Économie annuelle | Cumul         |
 | ----- | ------------------- | ----------- | ----------------- | ------------- |
-| 1     | 1503,69             | 0,23 €      | 345,85 €          | 345,85 €      |
-| 2     | 1503,69             | 0,25 €      | 373,52 €          | 719,36 €      |
-| 3     | 1503,69             | 0,27 €      | 403,40 €          | 1122,76 €     |
-| 4     | 1503,69             | 0,29 €      | 435,67 €          | 1558,43 €     |
-| 5     | 1503,69             | 0,31 €      | 470,52 €          | 2028,95 €     |
-| 6     | 100,00              | 0,34 €      | 33,79 €           | **2062,75 €** |
+| 2023  | 1503,69             | 0,23 €      | 345,85 €          | 345,85 €      |
+| 2024  | 1503,69             | 0,25 €      | 373,52 €          | 719,36 €      |
+| 2024  | 1503,69             | 0,27 €      | 403,40 €          | 1122,76 €     |
+| 2025  | 1503,69             | 0,29 €      | 435,67 €          | 1558,43 €     |
+| 2026  | 1503,69             | 0,31 €      | 470,52 €          | 2028,95 €     |
+| 2027  | 100,00              | 0,34 €      | 33,79 €           | **2062,75 €** |
 
 ## Quelle est la suite
 
