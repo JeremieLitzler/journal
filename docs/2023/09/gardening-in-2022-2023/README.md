@@ -71,6 +71,13 @@ See how I made them [in this article](../../../posts/2022-12-14-how-to-make-a-co
 
 ==January 1st, 2023==
 
+- I picked another trailer-full of dead leaves. It'll probably be the last round next week.
+
+==January 8th, 2023==
+
+- Today was the last pickup of those abundant dead leaves, which in total I gathered 12 trailer-full, equivalent to 12 meters cube of leaves.
+- We will see how I use it apart from covering the beds for winter, adding brown material in the compost and composting toilet wastes.
+
 ## Fragmented wood and woodchips
 
 Two years ago, I applied woodchips in the alleys of the garden.
@@ -91,6 +98,51 @@ Still I managed to recover a good 15 bags of the remaining scraps (the bags were
 So, I'd say it was about half a trailer worth of fragmented wood.
 
 I will need to complete the alley covering when I find time to go buy woodchips at the local sawmill.
+
+## Organisation and design
+
+==January 8th, 2023==
+
+I have purchased a subscription from Terra Potager](), a french web application that helps you organize and track your sowing planning and design your garden beds.
+
+Given the setup of my garden, it will take some time to get started.
+
+It contains what other gardeners do in France. So maybe, I'll use their suggestions on when and what to plan in my garden.
+
+## Shelter for the winter
+
+==January 8th, 2023==
+
+As I describe in the garlic and broad bean section, I planted them early novembre, but with the mild winter we are having, they sprouted easily.
+
+As I am sure how they will handle frost, I've build some kind of tunnel to deploy and fold whenever I need so the frost doesn't kill the plan if it comes in the next months.
+
+I made it so it can fold and deploy easily.
+
+I use [this winter garden cover](https://amzn.to/3Cwfuoo) which I bought already 2 years ago.
+It is a goood quality product and it doesn't tare easily, even after 2 years. I recommend.
+
+I need a good amount so the 48 m² of this option leaves me with some left for the kiwai and the beds I haven't work on today.
+
+Here are a few pictures of the build:
+
+::: tabs
+
+@tab active title View of garlic and broad beans beds
+
+![View of the bed from south to north with unfolded cover](./images/unfolded-view-south-to-north.jpg 'I use pallet planks to ensure the cover drops naturally. It should be sufficient against the wind.')
+
+![View of the bed from north to south with folded cover](./images/folded-view-north-to-south.jpg 'To keep the cover folder, I use a string.')
+
+![View of the bed from south to north with folded cover](./images/folded-view-folded-view-south-to-north.jpg)
+
+@tab title View of another bed with echinacea and garlic
+
+![Another bed with the winter cover setup partially unfolded](./images/other-bed-partially-unfolded.jpg)
+
+![Another bed with the winter cover setup folded](./images/other-bed-folded.jpg)
+
+:::
 
 ## Garlic
 
@@ -130,12 +182,6 @@ We'll see how it goes.
 
 And BTW, the same goes for the broad beans.
 
-## Strawberries
-
-==November 6th, 2022
-
-- We planted them in the well-nurished compost under the oak tree.
-
 ## Broad beans
 
 ==November 13th, 2022==
@@ -160,6 +206,12 @@ Here is the picture of the growing broad beans.
 ![Garlic in leafy garden bed](./images/broad-beans-already-up.jpg)
 
 See the comment [in the garlic's section](#garlic) about the early rising of the plants.
+
+## Strawberries
+
+==November 6th, 2022
+
+- We planted them in the well-nurished compost under the oak tree.
 
 ## Nettles
 
