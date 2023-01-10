@@ -134,7 +134,7 @@ Here are a few pictures of the build:
 
 ![View of the bed from north to south with folded cover](./images/folded-view-north-to-south.jpg 'To keep the cover folder, I use a string.')
 
-![View of the bed from south to north with folded cover](./images/folded-view-folded-view-south-to-north.jpg)
+![View of the bed from south to north with folded cover](./images/folded-view-south-to-north.jpg)
 
 @tab title View of another bed with echinacea and garlic
 

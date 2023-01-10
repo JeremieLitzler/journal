@@ -50,7 +50,7 @@ export default hopeTheme({
         //use the figure, figureCaption to wrap an image
         figure: true,
         //load image lazily with native method
-        imageLazyload: true,
+        imgLazyload: true,
         //Syntax: ==this text is marked==
         //See https://vuepress-theme-hope.github.io/v2/guide/markdown/mark.html
         mark: true,
