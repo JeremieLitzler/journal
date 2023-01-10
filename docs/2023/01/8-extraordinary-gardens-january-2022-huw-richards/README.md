@@ -8,19 +8,19 @@ prev:
 #next:
 #  text: ''
 #  link: ..//README.md
-#head:
-#  - [
-#      meta,
-#      {
-#        rel: canonical,
-#        href: url,
-#      },
-#    ]
+head:
+  - [
+      meta,
+      {
+        rel: canonical,
+        href: https://iamjeremie.me/2023/01/8-extraordinary-gardens-january-2022-huw-richards,
+      },
+    ]
 category:
   - Gardening
 tag:
   - Huw Richards
-  - January
+  - Nature of Gardening
 ---
 
 ![Fennel and other vegetables in a garden](/images/2023-01-11-fennel-and-other-vegetables-in-a-garden.jpg "Credits: image taken from Huw Richards' vlog")
@@ -38,7 +38,7 @@ You can watch it using [this YouTube link](https://www.youtube.com/watch?v=eEzSh
 
 See [here](https://www.youtube.com/watch?v=R0U4XtBSnGo&list=PLPGyuloevt5ylrTHyRjlzHy_FBzKcCUxY) the playlist of Huw's series.
 
-I will take notes of these vlogs shot and produced by Huw Richards
+I will take notes of these vlogs shot and produced by Huw Richards under the tag [Nature of Gardening](../../../tag/nature-of-gardening).
 
 Stay tuned...
 
