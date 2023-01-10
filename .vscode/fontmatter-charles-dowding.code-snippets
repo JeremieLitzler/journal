@@ -5,12 +5,10 @@
     "body": [
       "---",
       "title: $1, by Charles Dowding",
-      "description: \"I wrote the following notes watching the video published on Charles Dowding's channel\"",
+      "description: \"$7\"",
       "date: $2",
-      "heroImage: \"/images/$2-$3.jpg\"",
-      "heroAlt: $4",
       "prev:",
-      "  text: \"See all my notes from Charles Dowding's vlogs\"",
+      "  text: \"See all my notes from Charles Dowding’s vlogs\"",
       "  link: ../../tag/charles-dowding/",
       "#next:",
       "#  text: ''",
@@ -33,8 +31,13 @@
       "",
       "![$4](./images/$2-$3.jpg 'Credits: image taken from Charles Dowding’s vlog')",
       "",
+      "$7",
+      "",
       "Thanks to Charles Dowding for sharing his wisdom and knowledge!",
       "I wrote the following notes watching the video published on Charles Dowding's channel.",
+      "",
+      "<!-- more -->",
+      "",
       "You can watch it using [this YouTube link]($6)."
     ],
     "description": "Set fronmatter to the new post"
