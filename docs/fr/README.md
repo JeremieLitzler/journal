@@ -1,5 +1,7 @@
 ---
 home: true
+containerClass: home-page
+heroFullScreen: true
 title: Accueil
 description: "Ce journal rassemble les notes et les expériences de Jérémie Litzler (disponible hors connexion après  installation) sur un large éventail de sujets pour un mode de vie respectueux de l'environnement"
 heroText: 'Bonjour,'

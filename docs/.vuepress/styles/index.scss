@@ -55,8 +55,13 @@ img {
   scale: 1.05;
 }
 
-.home.project .hero .description {
+.home-page .hero-info .description {
   color: var(--theme-color-dark);
+}
+
+.home-page .hero-info-wrapper img,
+.hero-image {
+  border-radius: 20em;
 }
 /* LAYOUT */
 @media (max-width: 50em) {
@@ -76,11 +81,6 @@ img {
   display: flex;
   flex-direction: column;
   justify-content: center;
-}
-
-.home .hero img,
-.hero-image {
-  border-radius: 20em;
 }
 
 .theme-hope-content .author-image { 
