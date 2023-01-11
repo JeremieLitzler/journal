@@ -7,7 +7,7 @@ heroImage: '/images/2022-09-29-how-to-plant-garlic-from-start-to-finish-the-dutc
 heroAlt: 'A garlic and some cloves, picture by Skitterphoto: https://www.pexels.com/fr-fr/photo/ail-aliments-brouiller-concentrer-630766/'
 prev:
   text: "See all my notes from The Dutch Farmer's vlogs"
-  link: ../2022-09-12-all-my-notes-on-the-videos-of-The-Dutch-Farmer/README.md
+  link: ../../tag/the-dutch-farmer/
 next:
   text: 'Grow garlic, an easy crop with no dig, hard or softneck, and tips for harvest'
   link: ../2022-09-28-grow-garlic-an-easy-crop-with-no-dig-hard-or-softneck-and-tips-for-harvest-charles-dowding/README.md
@@ -16,7 +16,7 @@ next:
 category:
   - Gardening
 tag:
-  - Charles Dowding
+  - The Dutch Farmer
   - No Dig
   - Garlic
 ---
