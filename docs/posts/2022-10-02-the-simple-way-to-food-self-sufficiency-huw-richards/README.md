@@ -144,7 +144,7 @@ At the end, it will be very quick to identity how much you need from a given cro
 
 You will need to adjust the values in the "Constants" tab as you go.
 
-After a while, it will be easy to input your purchase if you buy by the season and if you are regular. [Contact me if you have questions](../../contact-me/README.md) on how to use the sheet or if you want me to demo it in a video.
+After a while, it will be easy to input your purchase if you buy by the season and if you are regular. [Contact me if you have questions](../../page/contact-me/README.md) on how to use the sheet or if you want me to demo it in a video.
 :::
 
 ### Conclusion

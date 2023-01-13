@@ -3,11 +3,11 @@ title: Terms and Conditions
 description: This is the terms and conditions page
 date: 2021-08-10
 head:
-  - [meta, { rel: canonical, href: https://iamjeremie.me/terms/ }]
+  - [meta, { rel: canonical, href: https://iamjeremie.me/page/terms/ }]
 article: false
 ---
 
-<i>Vous êtes français ? <a href="../fr/mentions-legales/" title="Lire les mentions légales du site">Les mentions légales se trouvent ici !</a></i>
+<i>Vous êtes français ? <a href="../../fr/page/mentions-legales/" title="Lire les mentions légales du site">Les mentions légales se trouvent ici !</a></i>
 
 <h2><strong>Welcome to A shared journal by Jeremie Litzler!</strong></h2>
 

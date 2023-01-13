@@ -3,7 +3,10 @@ title: Contactez-moi
 description: Je réponds à tous les emails, donnez-moi un peu de temps pour vous répondre au mieux.
 date: 2021-08-10
 head:
-  - [meta, { rel: canonical, href: https://iamjeremie.me/fr/contactez-moi/ }]
+  - [
+      meta,
+      { rel: canonical, href: https://iamjeremie.me/fr/page/contactez-moi/ },
+    ]
 article: false
 ---
 
@@ -28,4 +31,4 @@ iframe.newsletter-embed {
 
 ## Ou prenez rendez-vous pour se parler directement
 
-En utilisant [ce lien](https://calendly.com/iamjeremie/30min), vous trouverez mes disponibilités.
+En utilisant [ce lien](https://calendly.com/iamjeremie/), vous trouverez mes disponibilités.

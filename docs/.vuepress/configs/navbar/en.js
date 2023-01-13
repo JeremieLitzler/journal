@@ -2,7 +2,7 @@ import { navbar } from 'vuepress-theme-hope';
 
 export const enNavBarConfig = navbar([
   '/',
-  '/about/',
+  '/page/about/',
   {
     text: 'Read',
     children: [
@@ -20,6 +20,6 @@ export const enNavBarConfig = navbar([
       },
     ],
   },
-  { text: 'Sponsor', link: '/sponsor-me/' },
-  { text: 'Contact', link: '/contact-me/' },
+  { text: 'Sponsor', link: '/page/sponsor-me/' },
+  { text: 'Contact', link: '/page/contact-me/' },
 ]);

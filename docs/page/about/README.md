@@ -3,7 +3,7 @@ title: Who am I?
 description: A brief presentation of Jérémie Litzler and the goal of this website.
 date: 2021-08-10
 head:
-  - [meta, { rel: canonical, href: https://iamjeremie.me/about/ }]
+  - [meta, { rel: canonical, href: https://iamjeremie.me/page/about/ }]
 
 article: false
 ---
@@ -11,7 +11,7 @@ article: false
 ![Jeremie climbing the Kandersteg's viaferrata](/images/profilepic-400w.jpg) {.author-image}
 
 ::: center
-[Read in french](../fr/a-propos/README.md)
+[Read in french](../../fr/page/a-propos/README.md)
 :::
 
 Everyone has a story. This is mine. So far.

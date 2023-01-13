@@ -150,7 +150,7 @@ Oui, l’eau était bien chaude le printemps, l’été et l’automne. Toutefoi
 
 Je l’ai remarqué principalement en août et septembre.
 
-Est-ce que cela va faire vieillir la résistance ? Si vous avez la réponse, [partagez-la moi](../../contactez-moi/README.md) :)
+Est-ce que cela va faire vieillir la résistance ? Si vous avez la réponse, [partagez-la moi](../../page/contactez-moi/README.md) :)
 
 ### Avec le déshydrateur
 

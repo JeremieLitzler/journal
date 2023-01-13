@@ -4,7 +4,7 @@ title: Support my work sharing more notes and experiences
 description: Taking notes from the large amount of worthwhile vlogs to watch needs time. I’m doing it because I want to learn more about the topics of web technologies, health, permaculture & more. If you want to thank me through a participation, it will be highly appreciated and it will help provide more content to you, dear reader.
 date: 2021-08-10
 head:
-  - [meta, { rel: canonical, href: https://iamjeremie.me/sponsor-me/ }]
+  - [meta, { rel: canonical, href: https://iamjeremie.me/page/sponsor-me/ }]
 article: false
 ---
 

@@ -3,7 +3,10 @@ title: Mentions légales
 description: Cette page contient les mentions légales du site "Un journal partagé par Jérémie Litzler"
 date: 2021-08-10
 head:
-  - [meta, { rel: canonical, href: https://iamjeremie.me/fr/mentions-legales/ }]
+  - [
+      meta,
+      { rel: canonical, href: https://iamjeremie.me/fr/page/mentions-legales/ },
+    ]
 article: false
 ---
 

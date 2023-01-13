@@ -2,13 +2,15 @@
 title: Qui suis-je ?
 description: Une présentation de Jérémie Litzler et du but du site.
 date: 2021-08-10
+head:
+  - [meta, { rel: canonical, href: https://iamjeremie.me/fr/page/a-propos/ }]
 article: false
 ---
 
 ![Jérémie gravissant la viaferrata à Kandersteg, Suisse](/images/profilepic-400w.jpg) {.author-image}
 
 ::: center
-[Lire la version anglaise](../../about/README.md)
+[Lire la version anglaise](../../../page/about/README.md)
 :::
 
 Tout a une histoire. Voici la mienne, jusqu'à présent.

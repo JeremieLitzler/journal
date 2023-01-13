@@ -29,5 +29,5 @@ features:
   - title: Notes about Web fundamentals
     details: While I had written a lot on gardening here, I'm still a full-time software engineer and I share a few review and experiences on the topic.
     link: /category/web-fundamentals/
-footer: 'GPLv3 Licensed | <a href="terms/" title="Read termes and conditions of this website">Terms</a>'
+footer: 'GPLv3 Licensed | <a href="page/terms/" title="Read termes and conditions of this website">Terms</a>'
 ---

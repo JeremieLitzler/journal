@@ -3,7 +3,7 @@ title: Want to contact me?
 description: I read all my emails and, if you give a moment, I shall promptly reply to you. Talk to you soon!
 date: 2021-08-10
 head:
-  - [meta, { rel: canonical, href: https://iamjeremie.me/contact-me/ }]
+  - [meta, { rel: canonical, href: https://iamjeremie.me/page/contact-me/ }]
 article: false
 ---
 
@@ -18,4 +18,4 @@ article: false
 
 ## Or booking a 30 minutes call
 
-Use [this link](https://calendly.com/iamjeremie/30min) to check my availability.
+Use [this link](https://calendly.com/iamjeremie) to check my availability.

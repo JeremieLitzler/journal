@@ -5,7 +5,10 @@ date: 2023-01-01
 head:
   - [
       meta,
-      { rel: canonical, href: https://iamjeremie.me/thank-you/for-a-month/ },
+      {
+        rel: canonical,
+        href: https://iamjeremie.me/page/thank-you/for-a-month/,
+      },
     ]
 article: false
 ---
@@ -16,4 +19,4 @@ You chose to support me every month. Thanks a lot!
 
 💖💖💖
 
-[Continue reading!](../article)
+[Continue reading!](../../article)
