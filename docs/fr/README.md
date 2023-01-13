@@ -23,5 +23,5 @@ actions:
 #     details: Tile 2 description
 #   - title: Tile 3
 #     details: Tile 3 description
-footer: 'GPLv3 Licensed | <a href="mentions-legales/" title="Lire les mentions légales du site">Mentions légales</a>'
+footer: 'GPLv3 Licensed | <a href="page/mentions-legales/" title="Lire les mentions légales du site">Mentions légales</a>'
 ---
