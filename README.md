@@ -13,7 +13,7 @@
 Using yarn makes the installation **much quicker**.
 
 ```sh
-npm i -G yarn #(or use the .msi => https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable)
+npm install --global yarn #(or use the .msi => https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable)
 yarn
 ```
 
