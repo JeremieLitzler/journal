@@ -56,7 +56,7 @@ export default hopeTheme({
         mark: true,
         //Supports RevealJS
         //See https://vuepress-theme-hope.github.io/v2/guide/markdown/presentation.html
-        presentation: true,
+        //presentation: true,
         //See https://vuepress-theme-hope.github.io/v2/guide/markdown/stylize.html
         //I'm not sure I need it for now
         //stylize: []
@@ -65,7 +65,7 @@ export default hopeTheme({
       },
       pwa: {
         cacheHTML: true,
-        //cahcing pictures is quite heavy...
+        //caching pictures is quite heavy...
         //cachePic: true
       }
     }
