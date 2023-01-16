@@ -11,7 +11,7 @@ head:
   - [meta, { rel: canonical, href: https://iamjeremie.me/ }]
 actions:
   - text: Who am I
-    link: /about
+    link: /page/about
     type: secondary
   - text: Read
     link: /article

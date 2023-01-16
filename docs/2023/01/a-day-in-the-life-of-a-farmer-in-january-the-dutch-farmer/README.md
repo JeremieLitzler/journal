@@ -4,7 +4,7 @@ description: 'What does a day in January look like? The Dutch Farmer will detail
 date: 2023-01-13
 prev:
   text: 'See all my notes from The Dutch Farmer’s vlogs'
-  link: ../../tag/the-dutch-farmer/
+  link: ../../../tag/the-dutch-farmer/
 #next:
 #  text: ''
 #  link: ..//README.md
@@ -13,7 +13,7 @@ head:
       meta,
       {
         rel: canonical,
-        href: https://iamjeremie.me/2023/01/a-day-in-the-life-of-a-farmer-in-january-the-dutch-farmer/,
+        href: https://iamjeremie.substack.com/p/life-of-a-farmer-in-january-the-dutch-farmer,
       },
     ]
 category:
