@@ -32,6 +32,14 @@ export default hopeTheme({
     footer: 'GPLv3 Licensed | <a href="https://iamjeremie.me/page/terms" title="Read terms and conditions of this website">Terms</a>',
     plugins: {
       blog: true,
+      comment: {
+        provider: 'Giscus',
+        repo: "JeremieLitzler/journal",
+        repoId: "MDEwOlJlcG9zaXRvcnkzOTQ1MzE2NTg=",
+        category: "Comments",
+        categoryId: "DIC_kwDOF4QTSs4CTng3",
+        mapping: "title",
+      },
       mdEnhance: {
         linkCheck: 'always',
         //See https://vuepress-theme-hope.github.io/v2/guide/markdown/align.html
