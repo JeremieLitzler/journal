@@ -24,7 +24,6 @@ tag:
   - No Dig
   - Woodchips
   - Compost
-article: false
 ---
 
 ![Woodchips](/images/2023-01-18-woodchips.jpg 'Credits: image taken from Charles Dowding’s vlog')
