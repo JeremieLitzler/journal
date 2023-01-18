@@ -1,7 +1,7 @@
 ---
 title: Way to Break Down and Use Wood Chips, by Charles Dowding
 description: 'Woodchips can be useful for the garden but breaking them down take ages. With a few tips, Charles explains us how to speed up the process to obtain a rich compost material.'
-date: 2022-03-17
+date: 2023-01-18
 heroImage: '/images/2023-01-18-woodchips.jpg'
 heroAlt:
 prev:
