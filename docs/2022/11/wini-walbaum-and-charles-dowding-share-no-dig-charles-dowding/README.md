@@ -10,14 +10,14 @@ prev:
 #next:
 #  text: ''
 #  link: ..//README.md
-#head:
-#  - [
-#      meta,
-#      {
-#        rel: canonical,
-#        href: url,
-#      },
-#    ]
+head:
+  - [
+      meta,
+      {
+        rel: canonical,
+        href: https://iamjeremie.substack.com/p/wini-walbaum-and-charles-dowding-share-no-dig,
+      },
+    ]
 category:
   - Gardening
 tag:
