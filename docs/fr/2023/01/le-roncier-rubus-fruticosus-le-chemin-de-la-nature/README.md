@@ -1,9 +1,9 @@
 ---
 title: Le roncier (Rubus fruticosus), par Le chemin de la nature
-description: "La ronce, vous connaissez ? On en a peur, car elle pique et nous enviahit. Mais, la connaissez-vous vraiment ? Christophe nous partage dans son vlog qui est vraiment cette plante.
+description: 'La ronce, vous connaissez ? On en a peur, car elle pique et nous enviahit. Mais, la connaissez-vous vraiment ? Christophe nous partage dans son vlog qui est vraiment cette plante.'
 date: 2023-01-24
 prev:
-  text: "Toutes mes notes des vlogs du Chemin de la Nature"
+  text: 'Toutes mes notes des vlogs du Chemin de la Nature'
   link: ../../tag/chemin-de-la-nature/
 #next:
 #  text: ''
