@@ -14,7 +14,7 @@ category:
   - Plantes
 tag:
   - Chemin de la Nature
-  - cynorrhodon
+  - Cynorhodon
 ---
 
 ![cynorhodons matures prêts à cueillir](/images/2023-01-25-cynorhodons-matures.jpg 'Crédits: image extraite du vlog du Chemin de la Nature')
