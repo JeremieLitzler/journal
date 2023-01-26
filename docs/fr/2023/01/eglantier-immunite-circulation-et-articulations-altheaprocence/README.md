@@ -18,11 +18,11 @@ tag:
   - Cynorhodon
 ---
 
-![Faux fruit de cynorrhodon ouvert](/images/2023-01-26-faux-fruit-de-cynorrhodon-ouvert.jpg 'Crédits: image extraite du site cuisinesauvage.org')
+![Faux fruit de cynorhodon ouvert](/images/2023-01-26-faux-fruit-de-cynorrhodon-ouvert.jpg 'Crédits: image extraite du site cuisinesauvage.org')
 
 Le rosier est l'ancêtre des rosiers cultivés et il n'existe pas un seul rosier sauvage. Cette plante est douce et utile dans beaucoup de domaines. Christophe d'Altheaprovence nous explique.
 
-Merci à lui pour le partage de son savoir !
+Merci à lui pour le partage de son savoir !
 Cet article résume mes notes du vlog réalisé Par Christophe sur sa chaîne Altheaprovence.
 
 <!-- more -->
@@ -49,9 +49,9 @@ Il s'agit d'une espèce rare et protégée en France.
 
 On peut récolter les pétales aux environs du mois de mai ou juin.
 
-On les fera sècher avant de les stocker dans un sac en papier.
+On les fera sécher avant de les stocker dans un sac en papier.
 
-C'est une gros travail de récolte, surtout quand on respecte la plante pour ne pas lui prendre toutes les fleurs.
+C'est un gros travail de récolte, surtout quand on respecte la plante pour ne pas lui prendre toutes les fleurs.
 
 Il faut respecter la flore sauvage.
 
@@ -61,13 +61,13 @@ Les pétales contiennent une combinaison de flavonoïdes et de tanins qui donnen
 - protectrices de la peau et des muqueuses
 - astringentes
 
-La propriété tonifiante des tissus (par les tanins) et adoucissante (par les flavonoïdes) nous confère une action 2 en 1 intéressante.
+La propriété tonifiante des tissus (par les tanins) et adoucissante (par les flavonoïdes) nous confère une action 2 en 1 intéressante.
 
-Autrement dit, les pétales ont une effet assèchant et rafraichissant.
+Autrement dit, les pétales ont un effet asséchant et rafraichissant.
 
 Pour toute inflammation, les pétales seront utiles : par exemple, pour la gorge, les gencives, les ulcères.
 
-Le problème de cette utilisation est la quantité de pétales nécessaire : 20g par litre.
+Le problème de cette utilisation est la quantité de pétales nécessaire : 20 g par litre.
 
 Christophe suggère plutôt l'utilisation plus simple pour les mêmes actions :
 
@@ -75,26 +75,26 @@ Christophe suggère plutôt l'utilisation plus simple pour les mêmes actions :
 - avec des feuilles de noisetier avec des fleurs de mauve.
 
 :::tip Utilisation cutanée
-En macérat huileux, Christophe trouve l'utilisation des pétales plus adaptée car cela ne demande que peu de pétales.
+En macérat huileux, Christophe trouve l'utilisation des pétales plus adaptée, car cela ne demande que peu de pétales.
 
-On utilisera une huile végétale bio et on laissera macérer 4 à 6 semaines avant de filtrer.
+On utilisera une huile végétale bio et on laissera macérer 4 à 6 semaines avant de filtrer.
 :::
 
 :::tip Utilisation pour l'émotionnel
-En combinaison avec les somités fleuries d'aubépine, les pétales infusées se révèlent efficace dans des moments difficiles émotionnellement.
+En combinaison avec les sommités fleuries d'aubépine, les pétales infusés se révèlent efficaces dans des moments difficiles émotionnellement.
 :::
 
 Enfin, l'eau de rose, hydrolat des pétales, s'utilise plus pour la tonification de la peau.
 
-Et on mentionnera l'huile essentielle de rose qui est très chère, car cela requiert 5 tonnes de pétales pour un kilogramme d'huile...
+Et on mentionnera l'huile essentielle de rose qui est très chère, car cela requiert 5 tonnes de pétales pour un kilogramme d'huile...
 
 ## Utilisation du bédégar
 
 ![Bédégar de l'églantier](./images/galle-eglantier.jpg 'Credits : image extraite du site orchidee-poitou-charentes.org')
 
-On la nomme aussi la _barbe de Saint Pierre_ et il se développe à cause de la présence d'un parasite dans la plante.
+On la nomme aussi la _barbe de Saint-Pierre_ et il se développe à cause de la présence d'un parasite dans la plante.
 
-Ils sont très riches en tanins et les anciens l'utilisaient pas les saignements fortes.
+Ils sont très riches en tanins et les anciens l'utilisaient pour les saignements forts.
 
 ## Utilisation des bourgeons
 
@@ -104,7 +104,7 @@ Pour plus de détails, je vous invite à [lire l'article que j'ai réalisé sur 
 
 ## Utilisation du cynorhodon
 
-Il s'agit du faux-fruit, ou le réceptacle de la fleur.
+Il s'agit du faux fruit, ou le réceptacle de la fleur.
 
 Les vrais fruits se trouvent sous cette peau rouge et se nomment les akènes.
 
@@ -116,74 +116,74 @@ Le cynorhodon est riche en :
 - vitamine C
 - caroténoïdes
 
-Tous ces substances vont contribuer à l'amélioration immunitaire et on utilise le cynorhodon en prévention pour les personnes avec une immunité un peu faible.
+Toutes ces substances vont contribuer à l'amélioration immunitaire et on utilise le cynorhodon en prévention pour les personnes avec une immunité un peu faible.
 
 ### Préparations
 
 Sous forme de confiture ou de gelée, les propriétés des cynorhodons se conservent d'après des études réalisées sur le sujet.
 
-Autrement, on peut faire sècher les cynorhodons entre 30° et 40° au four ou sur un déshydrateur.
+Autrement, on peut faire sécher les cynorhodons entre 30° et 40° au four ou sur un déshydrateur.
 
 Pour préparer le cynorhodon, il faut privilégier les méthodes qui permettent de conserver au maximum la vitamine C, sans en faire une obsession.
 
 :::tip Méthode de Bernard
-Avec 50g de faux fruits séchées, il réalise les étapes suivantes :
+Avec 50 g de faux fruits séchés, il réalise les étapes suivantes :
 
-- mettre les cynorhodons dans 1 litre d'eau froid à macérer une nuit
+- mettre les cynorhodons dans 1 litre d'eau froid à macérer une nuit
 - le lendemain, séparer l'eau et les cynorhodons
 - écraser les cynorhodons
 - remettre les cynorhodons et l'eau ensemble
 - faire chauffer à 80° max.
-- dès les 80° atteints, laisser infuser 15 min à couvert
-- passer le mélange à travers un filtre à café non blanchi ou un tissu en cotton fin
-- consommer ce liquide pendant les 2 jours qui suivent.
+- dès les 80° atteints, laisser infuser 15 min à couvert
+- passer le mélange à travers un filtre à café non blanchi ou un tissu en coton fin
+- consommer ce liquide pendant les 2 jours qui suivent.
   :::
 
 ### Consommation des faux fruits frais
 
 Il faut simplement couper le cynorhodon en deux, éliminer les akènes et les poils avant de mâcher longuement la chaire rouge.
 
-On peut aussi tout consommé, akènes et poils inclus.
+On peut aussi tout consommer, akènes et poils inclus.
 
-Les poils possèdent un effet antiparataires contre les oxyures.
+Les poils possèdent un effet antiparasitaire contre les oxyures.
 
 Les poils démangent sur la peau, toutefois ils ne démangent pas dans le système digestif.
 
 :::tip Astuce des anciens
-On disait aux enfants de manger 5 ou 6 cynorhodons crus et entiers pour plusieurs jours d'affilé pour supprimer les vers.
+On disait aux enfants de manger 5 ou 6 cynorhodons crus et entiers pour plusieurs jours d'affilé pour supprimer les vers.
 :::
 
-### Renforcement et adoussissant
+### Renforcement et adoucissant
 
 Comme les cynorhodons contiennent des tanins condensés, ils viennent agir sur les veines.
 
-La pectine contenue dans les cynorhodons viennent adoucir les conditions diahréiques.
+La pectine contenue dans les cynorhodons vient adoucir les conditions diarrhéiques.
 
-De même, les inflammations urinaires peuvent être traiter par le cynorhodons, avec des combinaisons avec d'autres plantes pour ajouter des effets antibactériens.
+De même, les inflammations urinaires peuvent être traitées par le cynorhodon, avec des combinaisons avec d'autres plantes pour ajouter des effets antibactériens.
 
 ### Actions sur les inflammations articulaires
 
-En combinaison avec la feuille de frêne ou feuille de cassis ou les somités fleuries de reine des prés, le cynorhodon vient aider les articulations douloureuses.
+En combinaison avec la feuille de frêne ou feuille de cassis ou les sommités fleuries de reine des prés, le cynorhodon vient aider les articulations douloureuses.
 
 ### Huile de rose musquée
 
 En pressant les akènes, on obtient la fameuse huile.
 
-Elle est très cher dans le commerce en provenance du Chili.
+Elle est très chère dans le commerce en provenance du Chili.
 
-Bien sûr, il faudrait une petit pressoir pour la réaliser chez vous.
+Bien sûr, il faudrait un petit pressoir pour la réaliser chez vous.
 
 ## Précautions
 
-Il n'y en a aucunes donc allez-y.
+Il n'y en a aucune donc allez-y.
 
 :::warning Ah si, quand même...
-Les rameaux sont équippés d'épines, mais personnelement, c'est moins compliqué avec l'églantier qu'avec la ronce 😅
+Les rameaux sont équipés d'épines, mais personnellement, c'est moins compliqué avec l'églantier qu'avec la ronce 😅
 :::
 
 ## Conclusion
 
-Voilà, cela conclut mes notes sur l'églantier ou rosier sauvage.
+Voilà, cela conclut mes notes sur l'églantier ou le rosier sauvage.
 
 Encore une fois, [l'article](../le-rosier-sauvage-bourgeons-et-cynorhodons-le-chemin-de-la-nature/README.md#gemmothérapie), que j'ai réalisé sur le cynorhodon sur les bases des vlogs d'un autre Christophe, auteur du Chemin de la Nature, complétera bien celui-ci.
 
