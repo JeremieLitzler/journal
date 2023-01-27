@@ -16,7 +16,7 @@ export const frNavBarConfig = navbar([
       },
       {
         text: 'Par tag',
-        link: '/fr/tag/energie-solaire',
+        link: '/fr/tag/photovoltaïque/',
       },
     ],
   },
