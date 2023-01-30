@@ -2,7 +2,7 @@
 title: The Art of Lazy Composting or how to Make High-Quality Compost the Simple Way, by Huw Richards
 description: 'Sometimes, we think of making compost as a complex process, but, in reality, it is easy to produce high-quality compost simply.'
 date: 2022-12-06
-heroImage: '/images/2022-12-05-the-art-of-lazy-composting-how-to-make-high-quality-compost-the-simple-way-huw-richards.jpg'
+heroImage: '/images/2022-12-06-the-art-of-lazy-title-overlaying-someone-handling-fennel.jpg'
 heroAlt: Someone cutting vegetables in a garden
 prev:
   text: "See all my notes from Huw Richards' vlogs"
