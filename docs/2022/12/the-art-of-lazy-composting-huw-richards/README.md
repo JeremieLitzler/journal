@@ -26,7 +26,7 @@ tag:
   - Compost
 ---
 
-Sometimes, we think of making compost as a complex process, but, in reality, it’s easy to produce high-quality compost simply.
+Sometimes, we think of making compost as a complex process, but, in reality, it’s easy to produce high-quality compost.
 
 ![Someone cutting vegetables in a garden](/images/2022-12-06-the-art-of-lazy-title-overlaying-someone-handling-fennel.jpg ' Often the compost comes from the waste of the vegetable garden. Credits: image taken from Huw Richards’s vlog')
 
