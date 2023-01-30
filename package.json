@@ -1,6 +1,6 @@
 {
   "name": "journal",
-  "version": "1.0.490",
+  "version": "1.0.491",
   "description": "Saves Jeremie Litzler's notes, experiences and thought publicly",
   "main": "index.js",
   "repository": "https://github.com/JeremieLitzler/journal",
