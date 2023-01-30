@@ -15,7 +15,7 @@ head:
       meta,
       {
         rel: canonical,
-        href: https://iamjeremie.me/2022/12/the-art-of-lazy-composting-huw-richards,
+        href: https://iamjeremie.substack.com/p/the-art-of-lazy-composting-huw-richards,
       },
     ]
 category:
