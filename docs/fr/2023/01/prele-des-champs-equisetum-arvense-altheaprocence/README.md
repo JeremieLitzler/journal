@@ -14,7 +14,6 @@ category:
   - Santé
 tag:
   - Christophe Bernard
-  - Plantes
   - Prêle
 ---
 
