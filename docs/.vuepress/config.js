@@ -1,4 +1,4 @@
-const version = '1.0.499';
+const version = '1.0.500';
 
 import { defineUserConfig } from '@vuepress/cli';
 import { viteBundler } from '@vuepress/bundler-vite';
@@ -16,63 +16,8 @@ export default defineUserConfig({
   },
   theme,
   shouldPrefetch: false,
-  bundler: viteBundler({
-    //https://vitejs.dev/config/build-options.html
-    build: {
-      chunkSizeWarningLimit: 1500,
-      rollupOptions: {
-        external: ['docs/.vuepress/helpers/MarkdownFilesIndexBuilder.js'],
-        output: {
-          //https://rollupjs.org/guide/en/#outputmanualchunks
-          /*manualChunks: (id, { getModuleInfo }) => {
-            if (/\/node_modules\//.test(id)) {
-              console.log('%d : "%s" goes into VENDOR', nr, id);
-              return 'VENDOR';
-            }
-
-            const entryPoints = [];
-
-            // We use a Set here so we handle each module at most once. This
-            // prevents infinite loops in case of circular dependencies
-            const idsToHandle = new Set(getModuleInfo(id).importers);
-
-            for (const moduleId of idsToHandle) {
-              const { isEntry, importers } = getModuleInfo(moduleId);
-              if (isEntry) {
-                entryPoints.push(moduleId);
-              }
-
-              // The Set iterator is intelligent enough to iterate over elements that
-              // are added during iteration
-              for (const importerId of importers) idsToHandle.add(importerId);
-            }
-
-            // This is an entry (root level)
-            if (entryPoints.length === 0) {
-              let entryName = `${id.split('/').slice(-1)[0].split('.')[0]}`;
-              console.log('%d : "%s" is the ENTRY %s', nr, id, entryName);
-              return entryName;
-            }
-
-            // If there is a unique entry, we bundle the code with that entry
-            if (entryPoints.length === 1) {
-              let entryName = `${
-                entryPoints[0].split('/').slice(-1)[0].split('.')[0]
-              }`;
-              console.log('"%s" goes into UNIQUE ENTRY %s', id, entryName);
-              return entryName;
-            }
-
-            // For multiple entries, we put it into a "shared code" bundle
-            if (entryPoints.length > 1) {
-              console.log('"%s" goes into COMMONS (non-vendor) chunk', id);
-              return 'common';
-            }
-          },*/
-        },
-      },
-    },
-  }),
+  //https://vitejs.dev/config/build-options.html
+  bundler: viteBundler(),
   plugins: [
     docsearchPlugin({
       appId: 'OEWJGZ6584',
