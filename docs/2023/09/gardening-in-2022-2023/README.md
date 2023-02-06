@@ -182,6 +182,14 @@ We'll see how it goes.
 
 And BTW, the same goes for the broad beans.
 
+==January 22th, 2023==
+
+- With the girls, we planted about a few garlic cloves where we usually have the tomatoes
+
+==January 29th, 2023==
+
+- With the girls, we planted about 50-60 garlic cloves a little bit everywhere I could think of.
+
 ## Broad beans
 
 ==November 13th, 2022==
@@ -207,9 +215,17 @@ Here is the picture of the growing broad beans.
 
 See the comment [in the garlic's section](#garlic) about the early rising of the plants.
 
+==January 22th, 2023==
+
+- With the girls, we planted about two rows of broad beans where we usually have the tomatoes
+
+==January 29th, 2023==
+
+- With the girls, we planted a couple of seeds in a new bed I made on this day.
+
 ## Strawberries
 
-==November 6th, 2022
+==November 6th, 2022==
 
 - We planted them in the well-nurished compost under the oak tree.
 
