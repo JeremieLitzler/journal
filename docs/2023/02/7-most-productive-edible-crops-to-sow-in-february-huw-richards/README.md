@@ -13,7 +13,7 @@ head:
       meta,
       {
         rel: canonical,
-        href: https://iamjeremie.me/2023/02/7-most-productive-edible-crops-to-sow-in-february-huw-richards,
+        href: https://iamjeremie.substack.com/p/7-most-productive-edible-crops-to-sow-in-februar,
       },
     ]
 category:
@@ -56,7 +56,7 @@ They do spread and unless you have got limited space, it won't become an issue.
 ![Jerusalem artichoke stem with large leaves](./images/jerusalem-artichoke-stem-with-large-leaves.jpg "Credits: image taken from Huw Richard's vlog")
 
 :::tip Personal note
-Even I hate the taste, when I look at the outer plant, I see 2 purposes this crop can serve:
+Even I hate the taste, when I look at the outer plant, I see 2 purposes this crop can:
 
 - produce green material for composting
 - provide food for pollinators as its big yellow is filled with juicy nectar.
