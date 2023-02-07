@@ -5,9 +5,9 @@ date: 2023-01-13
 prev:
   text: 'See all my notes from The Dutch Farmer’s vlogs'
   link: ../../../tag/the-dutch-farmer/
-#next:
-#  text: ''
-#  link: ..//README.md
+next:
+  text: 'A Day in The Life of a Farmer in February, by The Dutch Farmer'
+  link: ../../02/a-day-in-the-life-of-a-farmer-in-february-the-dutch-farmer/README.md
 head:
   - [
       meta,
@@ -20,6 +20,7 @@ category:
   - Gardening
 tag:
   - The Dutch Farmer
+  - Market Gardening
   - January
 ---
 
