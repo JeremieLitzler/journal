@@ -26,7 +26,7 @@ tag:
 
 ![Kale in February](/images/2023-02-07-kale-in-february.jpg 'Credits: image taken from The Dutch Farmer’s vlog')
 
-What was true in January is still applicable in February. However, during the month of February, we are seen at the end of the winter's tunnel. Moreno will go into more depth about Market Gardening for this month.
+What was true in January is still applicable in February. However, during the month of February, we’re seen at the end of the winter's tunnel. Moreno will go into more depth about Market Gardening for this month.
 
 Thanks to Moreno for sharing his wisdom and knowledge!
 I wrote the following notes watching the video published on The Dutch Farmer’s channel.
@@ -52,7 +52,7 @@ Now is the time to complete the plan for the year.
 
 You will need to organize the seeds, the tools to be ready when the sowing and planting will start.
 
-That includes finishing the last cleaning of garden space so they are all ready to receive the crops.
+That includes finishing the last cleaning of garden space so they’re all ready to receive the crops.
 
 ## Harvest of winter crops
 
@@ -61,7 +61,7 @@ If you did plant winter crops, you will continue getting the crops, weather-perm
 For example, what you planted in August and September last year could still be available for sale.
 
 ![Kale in February](/images/2023-02-07-kale-in-february.jpg "Credits: image taken from The Dutch Farmer's vlog")
-Let's take kale: in February, it is still producing and it is a hardy (meaning resistant) and it is the most profitable crop at this time of the year.
+Let's take kale: in February, it’s still producing and it’s a hardy (meaning resistant) and it’s the most profitable crop at this time of the year.
 
 Unless you live in a cold climate, where you will need a greenhouse or a polytunnel, then you go for kale next season.
 
@@ -79,11 +79,11 @@ In the vlog, Moreno harvests carrots sowed during the previous summer.
 
 As a farmer, you work to extract the most nutrient out of the soil to grow annual crops.
 
-In nature, the ecosystem would look like what you see in a forest, with trees and perennials. It is self-sustaining.
+In nature, the ecosystem would look like what you see in a forest, with trees and perennials. It’s self-sustaining.
 
 ![Mushrooms](./images/mushrooms.jpg "Mushrooms play an important role into the birth and death or decay cycle. Credits: image taken from The Dutch Farmer's vlog")
 
-One of our jobs as annual vegetables grower is to bring fertility to our land so we are as close as possible to the natural cycle. This is a key way to continue getting predictable and quality yields year after year.
+One of our jobs as annual vegetables grower is to bring fertility to our land so we’re as close as possible to the natural cycle. This is a key way to continue getting predictable and quality yields year after year.
 
 ### How does work
 
@@ -94,12 +94,12 @@ Moreno showcases a non-mature compost in the vlog.
 
 It contains quite a lot of wood.
 
-It is not a problem **as long as it is not tilled into the soil**.
+It isn’t a problem **as long as it isn’t tilled into the soil**.
 
 If you apply it on the surface, the roots will go down below that compost while it finishes breaking-down.
 :::
 
-![A young calf](./images/a-young-calf.jpg "Credits: image taken from The Dutch Farmer's vlog")
+![A calf](./images/a-young-calf.jpg "Credits: image taken from The Dutch Farmer's vlog")
 
 Using a one-year-old cow manure compost would be much better.
 
@@ -107,7 +107,7 @@ For Moreno, he made a deal with a local farmer owing cows. The farmer sets aside
 
 After you applied the compost, you can also firm up the layer with a nice little tool called _a bed roller_.
 
-![a roller-like tool to firm used to firm up the compost](./images/a-roller-like-tool-to-firm-used-to-firm-up-the-compost.jpg "Credits: image taken from The Dutch Farmer's vlog")
+![a roller-like tool to firm up the compost](./images/a-roller-like-tool-to-firm-used-to-firm-up-the-compost.jpg "Credits: image taken from The Dutch Farmer's vlog")
 
 For more details about low-cost tools for market gardening, check out [this vlog from Moreno](https://www.youtube.com/watch?v=yUFr0C1FJjE) which I will cover someday.
 
@@ -120,15 +120,15 @@ Woodchip serves 2 roles:
 - creating clean and tidy pathways
 - feeding the soil as it starts to break down.
 
-It is an amazing added element to the garden.
+It’s an amazing added element to the garden.
 
 It acts as a sponge for an excess of water and it brings fungi that are an important ingredient to good soil life.
 
-In a way, it is like adding a blanket to the soil, protecting the soil underneath from the weather.
+In a way, it’s like adding a blanket to the soil, protecting the soil underneath from the weather.
 
 Finally, you barely get dirty boots with a woodchip-covered pathway 🌟.
 
-It is not a must to apply woodchips, but you have them available for free or a small cost, definitely use them.
+It isn’t a must to apply woodchips, but you have them available for free or a small cost, definitely use them.
 
 ## Direct sowing in February
 
@@ -137,7 +137,7 @@ It will depend on where you live, but in a 7B climate, you can still get frost u
 
 It would be a shame to lose early-sowed crops in one cold night.
 
-Checkout the gardening climate using [this link from Gardenia.net](https://www.gardenia.net/guide/european-hardiness-zones).
+Check out the gardening climate using [this link from Gardenia.net](https://www.gardenia.net/guide/european-hardiness-zones).
 :::
 
 So what can you plant?
@@ -177,7 +177,7 @@ You need to follow a couple of important steps:
 ![Seeding plates of jang seeder](./images/seeding-plates-of-jang-seeder.jpg "Credits: image taken from The Dutch Farmer's vlog")
 
 - install the plate into the hopper, which is the case that holds the seeds.
-- weight the seeds you use to plant the beds to calculate the cost of production of the bed.
+- weight the seeds you use to plant the beds to calculate the production cost of the bed and the crop.
   - keeping a spreadsheet to record what you use and produce is important for a sustainable market garden. See [the previous post for details](../../01/a-day-in-the-life-of-a-farmer-in-january-the-dutch-farmer/README.md#work-on-projects-and-planning).
 
 To choose the density of sowing for arugula, you will need to choose your goal:
@@ -189,7 +189,7 @@ After sowing, place a fleece into the top of small steel wire hoofs
 
 ![Steel-wire hoofs](./images/steel-wire-hoofs.jpg "Credits: image taken from The Dutch Farmer's vlog")
 
-![Fleece on the steel hoofs](./images/fleece-on-the-steel-hoofs.jpg "Using simple pegs, you will secure the fleece into the ground. It is really important to do so to make sure the crops survive. Credits: image taken from The Dutch Farmer's vlog")
+![Fleece on the steel hoofs](./images/fleece-on-the-steel-hoofs.jpg "Using simple pegs, you will secure the fleece into the ground. It’s really important to do so to make sure the crops survive. Credits: image taken from The Dutch Farmer's vlog")
 
 :::warning Hard Frost
 A very hard frost can kill the seeds even with the fleece. You take a risk by seeding now.
