@@ -25,7 +25,7 @@ tag:
 
 ![Planting seeds into modules](/images/2023-02-06-plant-seeds-in-modules.jpg 'Credits: image taken from Huw Richards’ vlog')
 
-Even if you know it might be a little to early, it’s hard to resist starting sowing seeds. Huw shares with us what we can sow in February.
+Even if you know it might be a little too early, it’s hard to resist starting sowing seeds. Huw shares with us what we can sow in February.
 
 Thanks to Huw Richards for sharing his wisdom and knowledge!
 I wrote the following notes watching the video published on Huw Richards’ channel.
