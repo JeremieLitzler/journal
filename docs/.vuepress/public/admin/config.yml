@@ -6,9 +6,93 @@ publish_mode: editorial_workflow
 media_folder: 'docs/.vuepress/public/images'
 public_folder: 'docs/.vuepress/dist/'
 collections:
-  - name: 'doc' # Used in routes, e.g., /admin/collections/blog
-    label: 'Doc' # Used in the UI
+  - name: 'root' # Used in routes, e.g., /admin/collections/blog
+    label: 'Root folder' # Used in the UI
     folder: 'docs' # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: '{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Hero Image', name: 'heroImage', widget: 'image' }
+      - { label: 'Hero Image Alt', name: 'heroAtl', widget: 'string' }
+      - { label: 'Publishing Date', name: 'date', widget: 'datetime' }
+      - { label: 'Head meta tags', name: 'head', widget: 'list' }
+      - { label: 'Category', name: 'category', widget: 'list' }
+      - { label: 'Tag', name: 'tag', widget: 'list' }
+      - {
+          label: 'Published',
+          name: 'article',
+          widget: 'boolean',
+          default: 'false',
+        }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'pages-en' # Used in routes, e.g., /admin/collections/blog
+    label: 'Pages (english)' # Used in the UI
+    folder: 'docs/page' # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: '{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Hero Image', name: 'heroImage', widget: 'image' }
+      - { label: 'Hero Image Alt', name: 'heroAtl', widget: 'string' }
+      - { label: 'Publishing Date', name: 'date', widget: 'datetime' }
+      - { label: 'Head meta tags', name: 'head', widget: 'list' }
+      - { label: 'Category', name: 'category', widget: 'list' }
+      - { label: 'Tag', name: 'tag', widget: 'list' }
+      - {
+          label: 'Published',
+          name: 'article',
+          widget: 'boolean',
+          default: 'false',
+        }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'articles-en' # Used in routes, e.g., /admin/collections/blog
+    label: 'Articles (english)' # Used in the UI
+    folder: 'docs/posts' # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: '{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Hero Image', name: 'heroImage', widget: 'image' }
+      - { label: 'Hero Image Alt', name: 'heroAtl', widget: 'string' }
+      - { label: 'Publishing Date', name: 'date', widget: 'datetime' }
+      - { label: 'Head meta tags', name: 'head', widget: 'list' }
+      - { label: 'Category', name: 'category', widget: 'list' }
+      - { label: 'Tag', name: 'tag', widget: 'list' }
+      - {
+          label: 'Published',
+          name: 'article',
+          widget: 'boolean',
+          default: 'false',
+        }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'pages-fr' # Used in routes, e.g., /admin/collections/blog
+    label: 'Pages (French)' # Used in the UI
+    folder: 'docs/fr/page' # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: '{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Hero Image', name: 'heroImage', widget: 'image' }
+      - { label: 'Hero Image Alt', name: 'heroAtl', widget: 'string' }
+      - { label: 'Publishing Date', name: 'date', widget: 'datetime' }
+      - { label: 'Head meta tags', name: 'head', widget: 'list' }
+      - { label: 'Category', name: 'category', widget: 'list' }
+      - { label: 'Tag', name: 'tag', widget: 'list' }
+      - {
+          label: 'Published',
+          name: 'article',
+          widget: 'boolean',
+          default: 'false',
+        }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'articles-fr' # Used in routes, e.g., /admin/collections/blog
+    label: 'Articles (French)' # Used in the UI
+    folder: 'docs/fr/articles' # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: '{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
