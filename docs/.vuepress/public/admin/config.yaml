@@ -19,4 +19,10 @@ collections:
       - { label: 'Head meta tags', name: 'head', widget: 'list' }
       - { label: 'Category', name: 'category', widget: 'list' }
       - { label: 'Tag', name: 'tag', widget: 'list' }
+      - {
+          label: 'Published',
+          name: 'article',
+          widget: 'boolean',
+          default: 'false',
+        }
       - { label: 'Body', name: 'body', widget: 'markdown' }
