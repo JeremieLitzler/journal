@@ -30,7 +30,9 @@ collections:
   - name: 'pages-en' # Used in routes, e.g., /admin/collections/blog
     label: 'Pages (english)' # Used in the UI
     folder: 'page' # The path to the folder where the documents are stored
-    nested: 5,
+    nested: 
+      depth: 5 # max depth to show in the collection tree = 100
+      summary: '{{title}}' # optional summary for a tree node, defaults to the inferred title field
     create: true # Allow users to create new documents in this collection
     slug: '{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
@@ -52,7 +54,9 @@ collections:
   - name: 'articles-en' # Used in routes, e.g., /admin/collections/blog
     label: 'Articles (english)' # Used in the UI
     folder: 'posts' # The path to the folder where the documents are stored
-    nested: 5,
+    nested: 
+      depth: 5 # max depth to show in the collection tree = 100
+      summary: '{{title}}' # optional summary for a tree node, defaults to the inferred title field
     create: true # Allow users to create new documents in this collection
     slug: '{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
@@ -74,7 +78,9 @@ collections:
   - name: 'pages-fr' # Used in routes, e.g., /admin/collections/blog
     label: 'Pages (French)' # Used in the UI
     folder: 'fr/page' # The path to the folder where the documents are stored
-    nested: 5,
+    nested: 
+      depth: 5 # max depth to show in the collection tree = 100
+      summary: '{{title}}' # optional summary for a tree node, defaults to the inferred title field
     create: true # Allow users to create new documents in this collection
     slug: '{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
@@ -96,7 +102,9 @@ collections:
   - name: 'articles-fr' # Used in routes, e.g., /admin/collections/blog
     label: 'Articles (French)' # Used in the UI
     folder: 'fr/articles' # The path to the folder where the documents are stored
-    nested: 5,
+    nested: 
+      depth: 5 # max depth to show in the collection tree = 100
+      summary: '{{title}}' # optional summary for a tree node, defaults to the inferred title field
     create: true # Allow users to create new documents in this collection
     slug: '{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
