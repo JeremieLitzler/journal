@@ -95,6 +95,11 @@ img {
   width: 10vw;
 }
 
+.blog-info-list .category-wrapper .category-list-wrapper, .blog-info-list .tag-wrapper .tag-list-wrapper {
+    max-height: 30em;
+    overflow-y: scroll;
+}
+
 iframe.contact-form {
   height: 50em;
 }
