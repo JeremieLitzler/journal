@@ -15,7 +15,7 @@ head:
       meta,
       {
         rel: canonical,
-        href: https://iamjeremie.me/fr/articles/2022-07-20-5-sauvages-1-damien-dekarz,
+        href: https://iamjeremie.me/fr/2022/07/5-sauvages-1-damien-dekarz,
       },
     ]
 category:
