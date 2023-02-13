@@ -6,6 +6,8 @@
       "---",
       "title: $1, by The Dutch Farmer",
       "description: \"$7\"",
+      "heroImage: /images/$2-$3.jpg",
+      "heroAlt: $4",
       "date: $2",
       "prev:",
       "  text: \"See all my notes from The Dutch Farmer’s vlogs\"",

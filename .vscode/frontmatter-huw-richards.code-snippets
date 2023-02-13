@@ -6,6 +6,8 @@
       "---",
       "title: $1, by Huw Richards",
       "description: \"$7\"",
+      "heroImage: /images/$2-$3.jpg",
+      "heroAlt: $4",
       "date: $2",
       "prev:",
       "  text: \"See all my notes from Huw Richards’ vlogs\"",

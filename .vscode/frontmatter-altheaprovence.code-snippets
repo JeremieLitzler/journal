@@ -6,6 +6,8 @@
       "---",
       "title: $1, par Christophe Bernard",
       "description: \"$7\"",
+      "heroImage: /images/$2-$3.jpg",
+      "heroAlt: $4",
       "date: $2",
       "prev:",
       "  text: \"Toutes mes notes des vlogs de Christophe Bernard\"",
