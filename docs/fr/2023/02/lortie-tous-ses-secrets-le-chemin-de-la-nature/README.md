@@ -126,7 +126,7 @@ Quand la fleuraison se termine, on se trouve au moment où il est optimal pour r
 
 L'ortie s'étend grâce à ses rhizomes, ou tiges souterraines.
 
-Pourquoi ? Pendant la fleuraison, l'énergie de la plante est concentrée dans les fleurs et les tiges aériennes.
+Pourquoi ? Pendant la fleuraison, l'énergie de la plante est concentrée dans les fleurs et les tiges aériennes pendant la fleuraison et les racines deviennent plus concentrées en molécules actives après.
 
 Ensuite, tout va se concentrer dans les racines.
 
