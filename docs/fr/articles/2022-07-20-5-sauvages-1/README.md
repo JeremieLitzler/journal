@@ -24,6 +24,7 @@ tag:
   - Damien Dekarz
   - Plantes sauvages
   - Alimentation
+article: false
 ---
 
 ![Une prairie garnie de fleurs variées](/images/2022-07-20-5-sauvages-1.jpg)
