@@ -2,7 +2,7 @@
 title: Recette aux orties et au lierre terrestre, par Le chemin de la nature
 description: "Avec l'ortie, je connais des recettes, en particulier la soupe aux orties. Mais avec le lierre terrestre, je ne connaissais pour cette recette."
 heroImage: /images/2023-02-13-message-sur-une-ardoise-posee-sur-un-plan-de-travail.jpg
-heroAlt: Message sur une ardoise posee sur un plan de travail
+heroAlt: Message sur une ardoise posée sur un plan de travail
 date: 2023-02-13
 prev:
   text: 'Toutes mes notes des vlogs du Chemin de la Nature'
@@ -23,9 +23,10 @@ category:
 tag:
   - Chemin de la Nature
   - Recettes
+  - Ortie
 ---
 
-![Message sur une ardoise posee sur un plan de travail](/images/2023-02-13-message-sur-une-ardoise-posee-sur-un-plan-de-travail.jpg 'Crédits: image extraite du vlog du Chemin de la Nature')
+![Message sur une ardoise posée sur un plan de travail](/images/2023-02-13-message-sur-une-ardoise-posee-sur-un-plan-de-travail.jpg 'Crédits: image extraite du vlog du Chemin de la Nature')
 
 Avec l'ortie, je connais des recettes, en particulier la soupe aux orties. Mais avec le lierre terrestre, je ne connaissais pour cette recette.
 
