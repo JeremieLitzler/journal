@@ -150,7 +150,7 @@ Boire plusieurs tasses dans la journée sans dépasser 4 à 6 h de racines par 
 
 ou
 
-: : : tip Alcoolature de racines fraîches
+:::tip Alcoolature de racines fraîches
 Laisser pendant 3 semaines 100 g de racines fraîches avec 200 ml d'alcool à 55 % mini à macérer.
 
 Consommer 20 à 30 gouttes, trois fois par jour, diluées dans un peu d'eau.
@@ -158,7 +158,7 @@ Consommer 20 à 30 gouttes, trois fois par jour, diluées dans un peu d'eau.
 
 ou
 
-: : : tip Teinture officinale de racines sèches
+:::tip Teinture officinale de racines sèches
 Laisser pendant 3 semaines 100 g de racines fraîches avec 500 ml d'alcool à 45 % mini à macérer.
 
 Consommer 20 à 30 gouttes, trois fois par jour, diluées dans un peu d'eau.
