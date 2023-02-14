@@ -190,6 +190,11 @@ And BTW, the same goes for the broad beans.
 
 - With the girls, we planted about 50-60 garlic cloves a little bit everywhere I could think of.
 
+
+==February 12th, 2023==
+
+- The last few days were quite cold (down to -4 °C) and the garlic, even the ones not covered, are doing well.
+
 ## Broad beans
 
 ==November 13th, 2022==
@@ -223,6 +228,12 @@ See the comment [in the garlic's section](#garlic) about the early rising of the
 
 - With the girls, we planted a couple of seeds in a new bed I made on this day.
 
+==February 12th, 2023==
+
+- The last few days were quite cold (down to -4 °C) and this sunday morning, the beans are not doing great despite the fleece.
+- However, with the warmth of the afternoon, they regained some strength.
+- Fingers crossed, they will survive.
+
 ## Strawberries
 
 ==November 6th, 2022==
@@ -243,3 +254,19 @@ See the comment [in the garlic's section](#garlic) about the early rising of the
 ==January 1st, 2023==
 
 It is clearly over until the spring. Can't wait to pick those tender nettle for drying and soups.
+
+## Berries and trees
+
+==Sometimes before the end of the end of 2022==
+
+- I planted one apple tree, grown from a seed, with the raspberries.
+- It is a strong one and it will provide some shape in the future
+- The soil is rich there, so, with proper watering this summer, it should survive. It will be important to water it well because it's a young one.
+
+==February 12th, 2023==
+
+- We planted a cherry tree, grown from seed also, where we used to have a raised bed. 
+  - I dug deep, so, like the apple tree, with proper watering this summer, it should survive.
+- We planted a kiwi vine (_Issai_) where we tried to grow a female kiwi vine in 2018. 
+  - This one is self-reproducing so maybe, we will have fruits soon.
+- Finally, we planted a thornfree blackberry vine near the almond tree. The girls are excited!
