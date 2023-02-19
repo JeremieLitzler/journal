@@ -99,11 +99,15 @@ So, I'd say it was about half a trailer worth of fragmented wood.
 
 I will need to complete the alley covering when I find time to go buy woodchips at the local sawmill.
 
+==February 19th, 2023==
+
+- Awesome! Tons (I mean at least 3 trailers full) of fragmented wood is available at Saint-Jean-de-Muzols's park. I already picked up 1 trailer. Tomorrow, I'll pick as much as available and we will complete the alleys 😊
+
 ## Organisation and design
 
 ==January 8th, 2023==
 
-I have purchased a subscription from Terra Potager](), a french web application that helps you organize and track your sowing planning and design your garden beds.
+I have purchased a subscription from [Terra Potager](#), a french web application that helps you organize and track your sowing planning and design your garden beds.
 
 Given the setup of my garden, it will take some time to get started.
 
@@ -190,10 +194,13 @@ And BTW, the same goes for the broad beans.
 
 - With the girls, we planted about 50-60 garlic cloves a little bit everywhere I could think of.
 
-
 ==February 12th, 2023==
 
 - The last few days were quite cold (down to -4 °C) and the garlic, even the ones not covered, are doing well.
+
+==February 19th, 2023==
+
+- Garlic is coming out where we usually plant the tomatoes. Great news!
 
 ## Broad beans
 
@@ -265,8 +272,8 @@ It is clearly over until the spring. Can't wait to pick those tender nettle for 
 
 ==February 12th, 2023==
 
-- We planted a cherry tree, grown from seed also, where we used to have a raised bed. 
+- We planted a cherry tree, grown from seed also, where we used to have a raised bed.
   - I dug deep, so, like the apple tree, with proper watering this summer, it should survive.
-- We planted a kiwi vine (_Issai_) where we tried to grow a female kiwi vine in 2018. 
+- We planted a kiwi vine (_Issai_) where we tried to grow a female kiwi vine in 2018.
   - This one is self-reproducing so maybe, we will have fruits soon.
 - Finally, we planted a thornfree blackberry vine near the almond tree. The girls are excited!
