@@ -24,6 +24,7 @@ tag:
   - Charles Dowding
   - No Dig
   - Compost
+article: false
 ---
 
 ![A garden with a lot of vegetables, like cabbages](/images/2022-10-13-how-much--how-little-compost-do-you-need-to-grow-great-vegetables-charles-dowding-hero.jpg "Credits: image taken from Charles Dowding's vlog")
