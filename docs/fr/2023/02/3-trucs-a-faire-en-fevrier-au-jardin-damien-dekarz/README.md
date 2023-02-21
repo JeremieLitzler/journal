@@ -38,6 +38,9 @@ Cet article résume mes notes du vlog réalisé par Damien sur sa chaîne _Perma
 
 Vous pouvez retrouver [la vidéo sur YouTube](https://www.youtube.com/watch?v=VDvyGwyhFWc).
 
+<!-- markdownlint-disable MD033 -->
+<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
+
 ## Trois autres choses non décrites en détail dans le vlog
 
 ### Récupérer les graines de courges
@@ -47,7 +50,7 @@ Si vous avez encore des courges, récoltées l’automne dernier, récupérez le
 
 Les courges comme la _Jack O’Lantern_ (ou _Cucurbita pepo_), la _courge de Siam_ (ou _cucurbita ficifolia_) ou encore le _potimarron vert_ (ou _cucurbita maxima_) ne peuvent pas s’hybrider.
 
-## Planter les semis de laitue
+### Planter les semis de laitue
 
 ![Laitues qui bronzent au soleil de février](./images/semis-de-laitue-qui-bronzent-au-soleil-de-fevrier.jpg 'Crédits : image extraite du vlog de Damien')
 
