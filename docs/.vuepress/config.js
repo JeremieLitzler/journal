@@ -1,4 +1,4 @@
-const version = '1.0.529';
+const version = '1.0.530';
 
 import { defineUserConfig } from '@vuepress/cli';
 import { viteBundler } from '@vuepress/bundler-vite';
