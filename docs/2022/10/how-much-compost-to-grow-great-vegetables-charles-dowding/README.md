@@ -1,6 +1,6 @@
 ---
 title: How much and how little compost do you need to grow great vegetables, by Charles Dowding
-description: "I wrote the following notes watching the video published on Charles Dowding's channel"
+description: 'Compost is a key element to grow great vegetables. But how much or how little is a question that Charles Dowding will answer for us. The following article represents my notes from his vlog.'
 date: 2022-10-13
 heroImage: '/images/2022-10-13-how-much--how-little-compost-do-you-need-to-grow-great-vegetables-charles-dowding-hero.jpg'
 heroAlt: A garden with a lot of vegetables, like cabbages
@@ -28,7 +28,9 @@ tag:
 
 ![A garden with a lot of vegetables, like cabbages](/images/2022-10-13-how-much--how-little-compost-do-you-need-to-grow-great-vegetables-charles-dowding-hero.jpg "Credits: image taken from Charles Dowding's vlog")
 
-Charles Dowding explains all about the quantity of compost you need on your beds.
+Compost is a key element to grow great vegetables. But how much or how little is a question that Charles Dowding will answer for us.
+
+This article represents my notes from his vlog.
 
 Thanks to Charles Dowding for sharing his wisdom and knowledge!
 I wrote the following notes watching the video published on Charles Dowding's channel.
