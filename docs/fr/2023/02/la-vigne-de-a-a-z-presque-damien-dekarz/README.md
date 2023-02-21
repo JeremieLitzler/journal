@@ -105,7 +105,7 @@ Voici la liste des vignes interdites, e.g. les vignes résistantes :
 
 Il y a aussi les vigne sans pépins, pratique pour faire des raisins secs :
 
-![Liste des vignes aux résins sans pépins](./images/liste-des-vignes-aux-résins-sans-pépins.png)
+![Liste des vignes aux résins sans pépins](./images/vignes-aux-raisins-sans-pepins.png)
 
 ## Comment cultiver la vigne
 
