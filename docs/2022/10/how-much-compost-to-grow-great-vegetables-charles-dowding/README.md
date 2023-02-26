@@ -17,6 +17,32 @@ head:
         rel: canonical,
         href: https://iamjeremie.me/2022/10/how-much-compost-to-grow-great-vegetables-charles-dowding,
       },
+      { property: 'og:type', content: article },
+      {
+        property: 'og:title',
+        content: 'How much and how little compost do you need to grow great vegetables, by Charles Dowding (test)',
+      },
+      {
+        property: 'og:description',
+        content: 'Compost is a key element to grow great vegetables. But how much or how little is a question that Charles Dowding will answer for us. The following article represents my notes from his vlog.',
+      },
+      {
+        property: 'og:image',
+        content: '/images/2022-10-13-how-much--how-little-compost-do-you-need-to-grow-great-vegetables-charles-dowding-hero.jpg',
+      },
+      { property: 'twitter:card', content: 'summary_large_image' },
+      {
+        property: 'twitter:title',
+        content: 'How much and how little compost do you need to grow great vegetables, by Charles Dowding',
+      },
+      {
+        property: 'twitter:description',
+        content: 'Compost is a key element to grow great vegetables. But how much or how little is a question that Charles Dowding will answer for us. The following article represents my notes from his vlog.',
+      },
+      {
+        property: 'twitter:image',
+        content: '/images/2022-10-13-how-much--how-little-compost-do-you-need-to-grow-great-vegetables-charles-dowding-hero.jpg',
+      },
     ]
 category:
   - Gardening
