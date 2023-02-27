@@ -20,7 +20,7 @@ head:
       { property: 'og:type', content: article },
       {
         property: 'og:title',
-        content: 'How much and how little compost do you need to grow great vegetables, by Charles Dowding (test)',
+        content: 'How much and how little compost do you need to grow great vegetables, by Charles Dowding',
       },
       {
         property: 'og:description',
