@@ -3,7 +3,7 @@ isDraft: false
 title: Supermarket Garlic For Seed, by Charles Dowding
 description: A full harvest of a wide range of a different quality garlic gives the gardener a sense of accomplishment. Plus, you will enjoy deliciously-spiced meals.
 date: 2022-09-22
-heroImage: '/images/2022-09-22-supermarket-garlic-for-seed-charles-Dowding-hero.webp'
+heroImage: '/images/2022-09-22-supermarket-garlic-for-seed-charles-dowding-hero.webp'
 heroAlt: A full harvest of a wide range of quality of the various heads
 prev:
   text: "See all my notes from Charles Dowding's vlogs"
@@ -25,7 +25,7 @@ tag:
   - Seeds
 ---
 
-![A full harvest of a wide range of quality of the various heads](/images/2022-09-22-supermarket-garlic-for-seed-charles-Dowding-hero.webp 'Credits: from Charles Dowding’s vlog.')
+![A full harvest of a wide range of quality of the various heads](/images/2022-09-22-supermarket-garlic-for-seed-charles-dowding-hero.webp 'Credits: from Charles Dowding’s vlog.')
 
 A full harvest of a wide range of a different quality garlic gives the gardener a sense of accomplishment. Plus, you will enjoy deliciously-spiced meals.
 
