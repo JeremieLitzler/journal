@@ -1,5 +1,5 @@
 ---
-title: Les bienfaits de l’ortie : détox, inflammations chroniques, allergies, par Christophe Bernard
+title: "Les bienfaits de l’ortie : détox, inflammations chroniques, allergies, par Christophe Bernard"
 description: "Il y a tellement de choses à dire sur l'ortie ! Ces notes seront un concentré d'informations sur cette plante incroyable."
 heroImage: /images/2023-02-28-ortie-femelle-et-ses-pistils.jpg
 heroAlt: Ortie femelle et ses pistils
