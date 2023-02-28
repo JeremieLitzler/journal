@@ -6,7 +6,7 @@ heroAlt: Une vigne et ses grappes de raisin blanc
 date: 2023-02-22
 prev:
   text: 'Toutes mes notes des vlogs de Damien Dekarz'
-  link: ../../tag/damien-dekarz/
+  link: ../../../tag/damien-dekarz/
 #next:
 #  text: ''
 #  link: ..//README.md

@@ -4,7 +4,7 @@ description: 'Damien nous parle ici de la prêle dans son application au jardin.
 date: 2023-02-03
 prev:
   text: 'Toutes mes notes des vlogs de Damien Dekarz'
-  link: ../../tag/damien-dekarz/
+  link: ../../../tag/damien-dekarz/
 #next:
 #  text: ''
 #  link: ..//README.md

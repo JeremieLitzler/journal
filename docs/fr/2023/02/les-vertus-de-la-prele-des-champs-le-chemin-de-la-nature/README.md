@@ -4,7 +4,7 @@ description: 'Avec Christophe De Hody, comprenons comment reconnaitre la prêle,
 date: 2023-02-02
 prev:
   text: 'Toutes mes notes des vlogs du Chemin de la Nature'
-  link: ../../tag/chemin-de-la-nature/
+  link: ../../../tag/chemin-de-la-nature/
 #next:
 #  text: ''
 #  link: ..//README.md

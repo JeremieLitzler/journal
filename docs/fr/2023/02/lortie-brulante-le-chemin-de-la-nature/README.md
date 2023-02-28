@@ -6,7 +6,7 @@ heroAlt: Feuille d'ortie brûlante
 date: 2023-02-14
 prev:
   text: 'Toutes mes notes des vlogs du Chemin de la Nature'
-  link: ../../tag/chemin-de-la-nature/
+  link: ../../../tag/chemin-de-la-nature/
 #next:
 #  text: ''
 #  link: ..//README.md
