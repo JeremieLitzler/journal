@@ -15,8 +15,8 @@ head:
       meta,
       {
         rel: canonical,
-        href: href: https://iamjeremie.substack.com/p/4-compost-heaps-in-3-bays-charles-dowding,
-     },
+        href: https://iamjeremie.substack.com/p/4-compost-heaps-in-3-bays-charles-dowding,
+      },
     ]
 category:
   - Gardening
