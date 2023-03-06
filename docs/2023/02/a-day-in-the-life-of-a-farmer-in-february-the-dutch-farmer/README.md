@@ -20,7 +20,6 @@ category:
   - Gardening
 tag:
   - The Dutch Farmer
-  - Market Gardening
   - February
 ---
 
