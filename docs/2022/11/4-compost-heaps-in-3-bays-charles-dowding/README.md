@@ -37,7 +37,7 @@ You can watch it using [this YouTube link](https://www.youtube.com/watch?v=3gAwf
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
 
-This system is applying to more people than Charles’s huge compost heap I have taken not about. See my other notes on the matter using the [_Compost_ tag](../../tag/compost/).
+This system is applying to more people than Charles’s huge compost heap I have taken not about. See my other notes on the matter using the [_Compost_ tag](../../../tag/compost/).
 
 ## A brief explanation of the system
 
@@ -182,7 +182,7 @@ Well, it’s something you need to assess from your personal circumstances: weat
 
 In the early stage, you decide based on how it looks and feels.
 
-Later, when the material has degraded enough, use the _squeeze technique_ described in [this article](../2022-11-16-compost-from-clippings-and-other-waste-charles-dowding/README.md#consistency-of-the-compost).
+Later, when the material has degraded enough, use the _squeeze technique_ described in [this article](../../../posts//2022-11-16-compost-from-clippings-and-other-waste-charles-dowding/README.md#consistency-of-the-compost).
 :::
 
 ## Conclusion
