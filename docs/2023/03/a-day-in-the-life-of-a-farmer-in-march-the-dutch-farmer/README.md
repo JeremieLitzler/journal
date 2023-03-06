@@ -27,7 +27,7 @@ tag:
 
 ![A man in a garden sowing seed on a garden bed](/images/2023-03-06-a-man-in-a-garden-sowing-seed-on-a-garden-bed.jpg 'Credits: image taken from The Dutch Farmer’s vlog')
 
-Spring is here and a lot is happening in the garden: bees are at work, sowing new crops is the main job and overwinter crops are still producing.
+Spring is here and a lot is happening in the garden: bees are at work, sowing new crops is the main job and overwinters crops are still producing.
 
 Thanks to Moreno for sharing his wisdom and knowledge!
 I wrote the following notes watching the video published on The Dutch Farmer’s channel.
@@ -38,109 +38,111 @@ You can watch it using [this YouTube link](https://www.youtube.com/watch?v=xILmY
 
 ## Overwinter crops
 
-Moreno planted spinach in september and they are really taking off at this time of the year.
+Moreno planted spinach in September and they’re really taking off at this time of the year.
 
-![Moreno is explaining how spinach is a great crop for the end of winter and beginning of spring](./images/moreno-is-explaining-how-spinach-is-a-great-crop-for-the-end-of-winter-and-beginning-of-spring.jpg 'Crédits: image extraite du vlog de The Dutch Farmer')
+![Moreno is explaining how spinach is a great crop for the end of winter and the beginning of spring](./images/moreno-is-explaining-how-spinach-is-a-great-crop-for-the-end-of-winter-and-beginning-of-spring.jpg 'Crédits: image extraite du vlog de The Dutch Farmer')
 
-Another crop that could work if it survives the winter is green onions. It is planted at the same of spinach.
+Another crop that could work if it survives the winter is green onions. It’s planted at the same time of spinach.
 
-Also, winter carrots are ready for harvest and, in market gardening, it is a great thing to have organically grown carrots in March.
+Also, winter carrots are ready for harvest and, in market gardening, it’s a great thing to have organically grown carrots in March.
 
 ## What can we plant now, in March
 
 ### Aspargus and strawberries
 
-They are crops that you can plant now.
+They’re crops that you can plant now.
 
-Moreno is planting them between a _fence_ of garlic: the strawberries between every 2 garlic and the Aspargus in the middle of the row, as shown below.
+Moreno is planting them between a _fence_ of garlic: the strawberries between every 2 garlic and the asparagus in the middle of the row, as shown below.
 
-![A bed for perrenial crops in between 2 rows of garlic](./images/a-bed-for-perrenial-crops-in-between-2-rows-of-garlic.jpg 'Crédits: image extraite du vlog de The Dutch Farmer')
+![A bed for perennial crops in between 2 rows of garlic](./images/a-bed-for-perrenial-crops-in-between-2-rows-of-garlic.jpg 'Crédits: image extraite du vlog de The Dutch Farmer')
 
 :::tip Personal note
-What I have found about the Alium family is that it is a great repellant for slugs.
+What I have found about the Alium family is that it’s a great repellant for slugs.
 
-I planted my strawberries in the Fall this year, at the same time as the garlic _protecting_ them.
+I planted my strawberries in the fall of this year, at the same time as the garlic _protecting_ them.
 :::
 
 ### Peas
 
-They can withstand up to -6°C so they are a great crop to plant now.
+They can withstand up to -6 °C so they’re a great crop to plant now.
 
-It is a crop on the low end of the profitability scale. However, it can offer diversity to the farmer's customer.
+It’s a crop on the low end of the profitability scale. However, it can offer diversity to the farmer’s customer.
 
-To create the peas' fence, Moreno uses:
+To create the peas’ fence, Moreno uses:
 
-- wooden polls spaced by 1.8 m
+- wooden poles spaced by 1.8 m
 - a simple net with a large-sized mesh
 
-Then he applies the same amount of compost (2-3cm thick) in a narrow row and sowes the seeds about 3-4 cm apart.
+Then he applies the same amount of compost (2–3 cm thick) in a narrow row and sows the seeds about 3–4 cm apart.
 
 ![Grown up peas](./images/grown-up-peas.jpg 'Crédits: image extraite du vlog de The Dutch Farmer')
 
 Peas grow vertically: this is a very good thing when you have limited garden space.
 
-Because of that we easily add lettuces, arugulas, beets or carrots at the base of the peas. In fact, the crops won't compete for sunlight and you will get more out of the small area.
+Because of that we easily add lettuces, arugulas, beets or carrots at the base of the peas. In fact, the crops won’t compete for sunlight and you will get more out of the small area.
 
 ## Overstory trees
 
-Trees are is a vital participant in a farmer's garden.
+![A tree blooming in March](./images/a-tree-blooming-in-march.jpg 'Crédits: image extraite du vlog de The Dutch Farmer')
+
+Trees are a vital participant in a farmer’s garden.
 
 How is that?
 
-They consumme the carbon dixoyde of the air through the photosynthesis and transform it into a carbon that will feed the soil and its life. They attrack a wide variety of fungi and bacteria that feed on the elements given by the tree.
+They consume the carbon dioxide of the air through the photosynthesis and transform it into a carbon that will feed the soil and its life. They attract a wide variety of fungi and bacteria. They in turn feed on the elements given by the tree.
 
-In return, they give away nutrients that the soil life will consumme. Finally, the soil life produces the food for the crops that produce our food.
+In return, they give away nutrients that the soil life will consume. Finally, the soil life produces the food for the crops that produce our food.
 
-Tree and their root system can hold 10 times more water than soil with no organic mater.
-It is really something to take care of because water is a really precious ressource.
+Tree and their root system can hold 10 times more water than soil with no organic matter.
+It’s really something to take care of because water is a really precious resource.
 
-Working with the soil lifecycle, introducing perrenial plants anad trees is a key way to make sure we can survive on the Earth and take care of it.
+Working with the soil lifecycle, introducing perennial plants and trees is a key way to make sure we can survive on the Earth and take care of it.
 
-Another factor in favor of this is the diversity it brings to the garden. Compared to a single crop field, grown on bear soil, do we see the difference?
+Another factor in favor of this is the diversity it brings to the garden. Compared to a single crop field, grown on bare soil, do we see the difference?
 
-:::tip Personal note
+::: tip Personal note
 How do I plan for a sustainable garden?
 
-I have added about 10 to 15 cm of autumn leaves on all the beds in November and December.
+I have added about 10 cm to 15 cm of autumn leaves on all the beds in November and December.
 
-Yesterday, while planting the potatoes well under that blanket of leaves, I could see the moisture is really nice, despite the month of January when we add the driest month in a long time (no rain in more than 30 days).
+Yesterday, while planting the potatoes under that blanket of leaves, I could see the moisture about 5 cm down. That is really nice when you know we had a month of January that is the the driest in a long time (no rain in more than 30 days).
 
-In early 2023, we are already seen warning of a serious drought. Covering the beds adds resilience to the soil.
+In early 2023, we’re already seen warning of a serious drought. Covering the beds adds resilience to the soil.
 
-Maybe, we may grow more on highly industrialized farms, what about the quality and the sustainability of such methods?
+Maybe we may grow more on highly industrialized farms, what about the quality and the sustainability of such methods?
 
-Are not more respectful gardening techniques more profitable in the long term even if we can't get huge yields?
+Aren't respectful gardening techniques more profitable in the long term even if yields are lower?
 
-==Thinking about it before buying your next carrots from your supermarket or the tomatoes that shouldn't be available at this time.==
+==Thinking about it before buying your next carrots from your supermarket or the tomatoes that shouldn’t be available at this time.==
 :::
 
-See the detailed explaination and point of view from Moreno at [8:10 to 11:00](https://youtu.be/xILmYuRdjUM?t=490)
+See the detailed explanation and point of view from Moreno at [8:10 to 11:00](https://youtu.be/xILmYuRdjUM?t=490)
 
 ## Experimentations
 
 It allows creative thinking is a key to success.
 
-Moreno is trying out tumerick and ginger!
+Moreno is trying out turmeric and ginger!
 
-:::tip Personal note
-I've been wanting to try this also! Let's see how Moreno goes about it.
+::: tip Personal note
+I’ve been wanting to try this also! Let’s see how Moreno goes about it.
 :::
 
 First, start small when experimenting.
 
 Then,
 
-- buy clean and mold-free rizhomes from a local organic shop
-- cut them in 4 to 5 cm long pieces
+- buy clean and mold-free rhizomes from a local organic shop
+- cut them in 4 cm to 5 cm long pieces
 - let the piece to _heal_ from the cut for 2 to 3 days.
 - soak the pieces in water to speed up the germination.
-- plant pieces of tumerick or ginger in compost.
+- plant pieces of turmeric or ginger in compost.
 
 ![Ginger root is a tray filled with compost](./images/ginger-root-is-a-tray-filled-with-compost.jpg 'Crédits: image extraite du vlog de The Dutch Farmer')
 
 The germination can take a few weeks up to a few months.
 
-It is important to keep those tropical plants at 20°C minimum so they can grow.
+It’s important to keep those tropical plants at 20 °C minimum so they can grow.
 
 Indoor is usually a good place to start growing them.
 
@@ -160,32 +162,32 @@ For other crops requiring more root space, he uses the regular sized pots as sho
 
 ### Prepare the potting mix
 
-Water it so it is moist but not wet. See Moreno showing the squeeze technique [from 16:31](https://youtu.be/xILmYuRdjUM?t=991).
+Water it so it’s moist but not wet. See Moreno showing the squeeze technique [from minute 16:31](https://youtu.be/xILmYuRdjUM?t=991).
 
 ### Filling the tray
 
 ![Large tray of 2 cm hole filled with potting mix](./images/large-tray-of-2-cm-hole-filled-with-potting-mix.jpg 'Crédits: image extraite du vlog de The Dutch Farmer')
 
-:::warning Make to double check the filling the side and corner hole.
+:::warning Make to double-check the filling of the side and corner hole.
 :::
 
-Once filled, lift and drop from a 25cm height the tray to compact slightly the medium.
+Once filled, lift and drop from a 25 cm height the tray to compact slightly the medium.
 
 Complete the filling of the holes where necessary.
 
 ### Seeding the seeds
 
-Use your fingers or a little pointy tool to create small depression on the compost mix.
+Use your fingers or a little pointy tool to create a small depression on the compost mix.
 
-The depth depends on the crops, but usually, for lettuce, 1 or 2 cm will suffice.
+The depth depends on the crops, but usually, for lettuce, 1 cm or 2 cm will suffice.
 
 Then, sow individually the seeds, add another layer of compost mix to cover the seeds and water a little again.
 
-:::warning Label it and date it
+::: warning Label it and date it
 :::
 
-:::tip Personal note
-I use a GLORIA Hobby 100 Pressure Sprayer (available [in France](https://amzn.to/3HDhcaX), [in the UK](https://amzn.to/3PtT1xK); [in the US](https://amzn.to/3HGzSH5), this brand doesn’t seem to be available.).
+::: tip Personal note
+I use a GLORIA Hobby 100 Pressure Sprayer (available [in France](https://amzn.to/3HDhcaX), [in the UK](https://amzn.to/3PtT1xK); [in the US](https://amzn.to/3HGzSH5), this brand doesn’t seem to be available.).
 
 It’s quite handy as you can adjust the spray finely. Also, it’s sturdier than a bigger version sprayer (not the same brand) of 5 liters capacity. It broke twice after a year :( So I recommend a 1 liter like this Gloria model.
 :::
@@ -194,7 +196,7 @@ It’s quite handy as you can adjust the spray finely. Also, it’s sturdier tha
 
 ![Rooster and hens eating fresh compost](./images/rooster-and-hens-eating-fresh-compost.jpg 'Crédits: image extraite du vlog de The Dutch Farmer')
 
-Laying the fresh compost directly on the beds in France is not a good idea because it can become a perfect slug habitat.
+Laying the fresh compost directly on the beds in France isn’t a good idea because it can become a perfect slug habitat.
 
 So, instead, if you can have chicken, feed them with your compost.
 
@@ -202,39 +204,39 @@ It will provide fertilizing matter and eggs.
 
 ![5 eggs ready to pick](./images/5-eggs-ready-to-pick.jpg 'Crédits: image extraite du vlog de The Dutch Farmer')
 
-Moreno uses a 3-section compost pile to use the chicken's work to enrich the compost and produce an aerobic compost.
+Moreno uses a 3-section compost pile to use the chicken’s work to enrich the compost and produce an aerobic compost.
 
 - He sets the fresher material in section 1 and let the chicken work.
 - Then he moves the pile to the section 2 when the pile shows advanced decomposition
   - In the section 2, the chicken will continue their job and the bacteria and fungi will multiply
-- Finally he moves to the section 3 to let the compost finish.
+- Finally, he moves to the section 3 to let the compost finish.
 
-![3-sections chicken compost pile](./images/3-sections-chicken-compost-pile.jpg 'Crédits: image extraite du vlog de The Dutch Farmer')
+![3-section chicken compost pile](./images/3-sections-chicken-compost-pile.jpg 'Crédits: image extraite du vlog de The Dutch Farmer')
 
-It is a great to go from:
+It’s a great to go from:
 
 - waste to crop production
 - waste to egg production
 
-:::tip Personal note
+::: tip Personal note
 You can make all your own compost yourself? Yes, but it will require time and a lot of energy.
 
-The compost need of garden is pretty important and even if you are quite fit, don't you need to keep some energy for more important tasks when you could get cheap compost locally?
+The compost need of garden is pretty important and even if you’re quite fit, don’t you need to keep some energy for more important tasks when you could get cheap compost locally?
 
-Look at the place around, ask small businnesses selling plants and trees. They may know where to find good compost.
+Look at the place around, ask small businesses selling plants and trees. They may know where to find good compost.
 
-Moreno buys his high-quality compost at 10 euros a cubic meter. To produce himself a cube meter of finished compost, it would require 12 hours of work (3 turning of 4h for a pile of 5 cube meters at the start).
+Moreno buys his high-quality compost at 10 euros a cubic meter. To produce himself a cube meter of finished compost, it would require 12 hours of work [3 turning of 4h for a pile of 5 cube meters at the start].
 
 Even at a 15 euros per hour labor cost, you can see that the sustainability of producing compost yourself is simply not profitable.
 
-Companies specialize in producing good compost. Perform a cost-analysis before diving into making your own compost.
+Companies specialize in producing good compost. Perform a cost analysis before diving into making your own compost.
 
 You may be surprised.
 
-However, that doesn't mean you shouldn't make your own compost. Simply find the best balance between making it and buying it.
+However, you should make some of your own compost. Simply find the best balance between making it and buying it.
 :::
 
-:::center
+::: center
 ⏬⏬⏬
 :::
 
