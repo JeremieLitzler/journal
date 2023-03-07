@@ -11,7 +11,7 @@
       "date: $2",
       "prev:",
       "  text: \"See all my notes from Huw Richards’ vlogs\"",
-      "  link: ../../tag/huw-richards/",
+      "  link: ../../../tag/huw-richards/",
       "#next:",
       "#  text: ''",
       "#  link: ..//README.md",

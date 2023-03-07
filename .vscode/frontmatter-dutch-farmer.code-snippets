@@ -11,7 +11,7 @@
       "date: $2",
       "prev:",
       "  text: \"See all my notes from The Dutch Farmer’s vlogs\"",
-      "  link: ../../tag/the-dutch-farmer/",
+      "  link: ../../../tag/the-dutch-farmer/",
       "#next:",
       "#  text: ''",
       "#  link: ..//README.md",

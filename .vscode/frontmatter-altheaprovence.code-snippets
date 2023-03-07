@@ -11,7 +11,7 @@
       "date: $2",
       "prev:",
       "  text: \"Toutes mes notes des vlogs de Christophe Bernard\"",
-      "  link: ../../tag/christophe-bernard/",
+      "  link: ../../../tag/christophe-bernard/",
       "#next:",
       "#  text: ''",
       "#  link: ..//README.md",
