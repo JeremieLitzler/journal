@@ -237,6 +237,9 @@ And BTW, the same goes for the broad beans.
   - some to pick as green garlic to eat in the spring
   - and some mature garlic to dry and eat during the year.
 
+:::warning Add pic for march 5th
+:::
+
 ### Broad beans
 
 ==November 13th, 2022==
@@ -321,6 +324,9 @@ See the comment [in the garlic's section](#garlic) about the early rising of the
 - We used the little greenhouses I bought in 2021.
 - They are installed under the old windows to offer double protection.
 
+:::warning Add pic
+:::
+
 ## Berries and trees
 
 ==Sometimes before the end of the end of 2022==
@@ -345,6 +351,11 @@ See the comment [in the garlic's section](#garlic) about the early rising of the
 
 - The kiwai vines have a lot of bugs, even the newly planted one.
 - It will be critical to water them enough to preserve them.
+- The cherry tree shows beautiful buds :) Watering is critical, especially because it is located where the sun will hit hard.
+  - Maybe, I'll build a pergola structure to provide some shade.
+
+:::warning Add pic for march 5th
+:::
 
 ## Wild plants
 
@@ -372,3 +383,6 @@ It is clearly over until the spring. Can't wait to pick those tender nettle for 
 ==March 5th, 2023==
 
 - The same bed is showing the new dandelions growing. Within a month, we'll lharvest the first leaves to eat in salads.
+
+:::warning Add pic for march 5th
+:::
