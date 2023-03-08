@@ -18,7 +18,27 @@ category:
 article: false
 ---
 
-## Compost heaps
+## Organisation and design
+
+==January 8th, 2023==
+
+I have purchased a subscription from [Terra Potager](#), a french web application that helps you organize and track your sowing planning and design your garden beds.
+
+Given the setup of my garden, it will take some time to get started.
+
+It contains what other gardeners do in France. So maybe, I'll use their suggestions on when and what to plan in my garden.
+
+==March 5th, 2023==
+
+I haven't use _Terra Potager_ much so far, because I need to mesure the garden beds.
+
+However, I've built a new bed small bed under the oak tree which welcomes some garlic.
+
+I also installed today some of the old windows to build some kind of greenhouse for the radishes and sweet peas.
+
+## Helping the garden
+
+### Compost heaps
 
 I made 2 heaps:
 
@@ -33,7 +53,13 @@ I took 2h30 to build it from recycled pallets.
 
 See how I made them [in this article](../../../posts/2022-12-14-how-to-make-a-compost-bin-from-pallets-huw-richards/README.md)
 
-## Autumn leaf harvest
+==March 5th, 2023==
+
+The bins are pretty full, but it is lacking some rain!
+
+Also I have came to discover a place 10 min from home where they sale ready-to-use bulk compost for 45 euros a ton. It is twice as expensive as the one in Lavilledieu, but it is much closer and I won't need to rent a truck. Or at least, I won't need to rent it as long.
+
+### Autumn leaf harvest
 
 ==October 30th and 31st, 2022==
 
@@ -78,7 +104,7 @@ See how I made them [in this article](../../../posts/2022-12-14-how-to-make-a-co
 - Today was the last pickup of those abundant dead leaves, which in total I gathered 12 trailer-full, equivalent to 12 meters cube of leaves.
 - We will see how I use it apart from covering the beds for winter, adding brown material in the compost and composting toilet wastes.
 
-## Fragmented wood and woodchips
+### Fragmented wood and woodchips
 
 Two years ago, I applied woodchips in the alleys of the garden.
 
@@ -101,19 +127,15 @@ I will need to complete the alley covering when I find time to go buy woodchips 
 
 ==February 19th, 2023==
 
-- Awesome! Tons (I mean at least 3 trailers full) of fragmented wood is available at Saint-Jean-de-Muzols's park. I already picked up 1 trailer. Tomorrow, I'll pick as much as available and we will complete the alleys 😊
+Awesome! Tons (I mean at least 3 trailers full) of fragmented wood is available at Saint-Jean-de-Muzols's park. I already picked up 1 trailer. Tomorrow, I'll pick as much as available and we will complete the alleys 😊
 
-## Organisation and design
+==February 20th, 2023==
 
-==January 8th, 2023==
+Finally, I picked up 4 trailer full of this fragmented wood, which helped me finish covering the alleys I needed.
 
-I have purchased a subscription from [Terra Potager](#), a french web application that helps you organize and track your sowing planning and design your garden beds.
+I have got the equivalent of 2 trailers left to use. I'm sure I'll find a use for them.
 
-Given the setup of my garden, it will take some time to get started.
-
-It contains what other gardeners do in France. So maybe, I'll use their suggestions on when and what to plan in my garden.
-
-## Shelter for the winter
+### Shelter for the winter
 
 ==January 8th, 2023==
 
@@ -148,7 +170,13 @@ Here are a few pictures of the build:
 
 :::
 
-## Garlic
+It has worked well so far, especially for the broad beans when the temperatures went down to -4°C.
+
+It is easy fold and unfold. Aurélie would love it to disappear when folded, but it stapped to the wood structure. And it is much easier to have it I need it...
+
+## Vegetable gardening
+
+### Garlic
 
 ==October 31st, 2022==
 
@@ -202,7 +230,14 @@ And BTW, the same goes for the broad beans.
 
 - Garlic is coming out where we usually plant the tomatoes. Great news!
 
-## Broad beans
+==March 5th, 2023==
+
+- All the garlic has come out or is coming out and it looks good and healthy.
+- The fact we planted some in November and some in January means we will have a spread harvest,
+  - some to pick as green garlic to eat in the spring
+  - and some mature garlic to dry and eat during the year.
+
+### Broad beans
 
 ==November 13th, 2022==
 
@@ -241,13 +276,79 @@ See the comment [in the garlic's section](#garlic) about the early rising of the
 - However, with the warmth of the afternoon, they regained some strength.
 - Fingers crossed, they will survive.
 
-## Strawberries
+==March 5th, 2023==
+
+- So far so good: the plants are getting taller by the day and I see flowers appearing.
+
+:::warning Add pictures
+:::
+
+### Strawberries
 
 ==November 6th, 2022==
 
 - We planted them in the well-nurished compost under the oak tree.
 
-## Nettles
+==March 5th, 2023==
+
+- Nothing major to say, the plants are still there. They probably need some warmth to grow more.
+
+### Sweet peas
+
+==March 5th, 2023==
+
+- We sowed 48 modules with 1 seed in potting compost
+- The kind is **to replace** and is a crop that produce a lot.
+- We tried in 2021, but the badgers challenged us and we didn't get a lot as we had to replant 3 times the peas!
+- They are installed under the old windows to offer double protection until that are tall enought to transplant.
+
+### Radishes
+
+- I used 4 15-slot egg box to sow very old radish seeds.
+- I'm not sure it will work since the seed are over 8 year old!
+
+### Swiss chards
+
+==March 7th, 2023==
+
+- Aurélie and the girls sowed 2 seed of a colored swiss chard in medium module (about 10)
+
+### Lettuces
+
+==March 6th, 2023==
+
+- Aurélie and the girls sowed 48 modules with 1 seed in potting compost
+- We used the little greenhouses I bought in 2021.
+- They are installed under the old windows to offer double protection.
+
+## Berries and trees
+
+==Sometimes before the end of the end of 2022==
+
+- I planted one apple tree, grown from a seed, with the raspberries.
+- It is a strong one and it will provide some shape in the future
+- The soil is rich there, so, with proper watering this summer, it should survive. It will be important to water it well because it's a young one.
+
+==February 12th, 2023==
+
+- We planted a cherry tree, grown from seed also, where we used to have a raised bed.
+  - I dug deep, so, like the apple tree, with proper watering this summer, it should survive.
+
+:::warning Add picture from March 5th
+:::
+
+- We planted a kiwi vine (_Issai_) where we tried to grow a female kiwi vine in 2018.
+  - This one is self-reproducing so maybe, we will have fruits soon.
+- Finally, we planted a thornfree blackberry vine near the almond tree. The girls are excited!
+
+==March 5th, 2023==
+
+- The kiwai vines have a lot of bugs, even the newly planted one.
+- It will be critical to water them enough to preserve them.
+
+## Wild plants
+
+### Nettles
 
 ==October 3rd==
 
@@ -262,18 +363,12 @@ See the comment [in the garlic's section](#garlic) about the early rising of the
 
 It is clearly over until the spring. Can't wait to pick those tender nettle for drying and soups.
 
-## Berries and trees
+==March 5th, 2023==
 
-==Sometimes before the end of the end of 2022==
+- New plants are appearing slowly. We can wait because of all I've written about the nettle in French from the vlogs of _Le Chemin de la Nature_, _Altheaprovence_ and more. If you read french, [see the article here](../../../fr/tag/ortie).
 
-- I planted one apple tree, grown from a seed, with the raspberries.
-- It is a strong one and it will provide some shape in the future
-- The soil is rich there, so, with proper watering this summer, it should survive. It will be important to water it well because it's a young one.
+### Dandelions
 
-==February 12th, 2023==
+==March 5th, 2023==
 
-- We planted a cherry tree, grown from seed also, where we used to have a raised bed.
-  - I dug deep, so, like the apple tree, with proper watering this summer, it should survive.
-- We planted a kiwi vine (_Issai_) where we tried to grow a female kiwi vine in 2018.
-  - This one is self-reproducing so maybe, we will have fruits soon.
-- Finally, we planted a thornfree blackberry vine near the almond tree. The girls are excited!
+- The same bed is showing the new dandelions growing. Within a month, we'll lharvest the first leaves to eat in salads.
