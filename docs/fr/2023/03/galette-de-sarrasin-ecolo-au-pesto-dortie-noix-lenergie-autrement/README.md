@@ -19,7 +19,7 @@ head:
       },
     ]
 category:
-  - Ernegie
+  - Energie
   - Alimentation
 tag:
   - Barnabé Chaillot
