@@ -16,7 +16,6 @@ tag:
   - Photovoltaïque
   - Autoconsommation
   - Eau chaude sanitaire
-article: false
 ---
 
 ## Présentation
