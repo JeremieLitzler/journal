@@ -9,6 +9,7 @@ category:
   - Avis de produits
 tag:
   - Alimentation
+article: false
 ---
 
 Je connais quelqu'un qui aime beaucoup le chocolat.

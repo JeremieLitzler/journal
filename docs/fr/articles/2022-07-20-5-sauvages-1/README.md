@@ -4,12 +4,6 @@ description: Autour de chez vous, ces plantes se trouvent sûrement et il serait
 heroImage: /images/2022-07-20-5-sauvages-1.jpg
 heroAlt: Une prairie garnie de fleurs variées
 date: 2022-07-20
-prev:
-  text: 'Toutes mes notes des vlogs de Damien Dekarz'
-  link: ../../tag/damien-dekarz/
-#next:
-#  text: ''
-#  link: ..//README.md
 head:
   - [
       meta,
