@@ -11,7 +11,7 @@ head:
   - [meta, { rel: canonical, href: https://iamjeremie.me/fr/ }]
 actions:
   - text: Qui suis-je ?
-    link: /fr/a-propos/
+    link: /fr/page/a-propos/
     type: secondary
   - text: Lire
     link: /fr/article/
