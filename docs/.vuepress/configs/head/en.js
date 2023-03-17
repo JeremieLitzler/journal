@@ -17,7 +17,13 @@ export const enHeadConfig = {
       },
     ],
     ['meta', { property: 'og:type', content: 'website' }],
-    ['meta', { property: 'og:image', content: 'image.png' }],
+    [
+      'meta',
+      {
+        property: 'og:image',
+        content: '/icons/android-chrome-512x512.png',
+      },
+    ],
     ['meta', { name: 'msapplication-TileColor', content: '#18a558' }],
     ['meta', { name: 'theme-color', content: '#18a558' }],
     [
@@ -39,14 +45,14 @@ export const enHeadConfig = {
       },
     ],
     ['link', { rel: 'icon', href: '/favicon.ico' }],
-    [
-      'link',
-      {
-        rel: 'mask-icon',
-        href: '/icons/safari-pinned-tab.svg',
-        color: '#18a558',
-      },
-    ],
+    // [
+    //   'link',
+    //   {
+    //     rel: 'mask-icon',
+    //     href: '/icons/safari-pinned-tab.svg',
+    //     color: '#18a558',
+    //   },
+    // ],
     [
       'link',
       {

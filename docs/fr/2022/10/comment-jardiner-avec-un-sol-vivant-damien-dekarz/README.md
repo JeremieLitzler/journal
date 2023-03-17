@@ -24,7 +24,7 @@ tag:
   - Plantes
   - Mycorhizes
   - Champignons
-  - Biodiversité
+  - Biodiversite
 ---
 
 ![Image diagramme décrivant le cycle d'échanges entre les plantes et les mycorhizes](./images/2022-10-12-comment-jardiner-avec-un-sol-vivant-permaculture--agroecologie--etc-hero.png)

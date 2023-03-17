@@ -13,7 +13,7 @@ head:
 category:
   - Energie
 tag:
-  - Photovoltaïque
+  - Photovoltaique
 ---
 
 ![Production théorique vs Production réelle vs Autoconsommation](/images/2023-01-08-production-reel-vs-theorique-vs-autoconsommation-2022.jpg)

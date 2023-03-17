@@ -13,7 +13,7 @@ date: 2022-12-31
 category:
   - Energie
 tag:
-  - Photovoltaïque
+  - Photovoltaique
   - Autoconsommation
   - Eau chaude sanitaire
 article: false

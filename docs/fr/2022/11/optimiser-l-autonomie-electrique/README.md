@@ -8,7 +8,7 @@ category:
   - Energie
 tag:
   - Stockage
-  - Photovoltaïque
+  - Photovoltaique
   - Optimisation
 ---
 

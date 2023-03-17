@@ -16,7 +16,7 @@ tag:
   - Plantes
   - Mycorhizes
   - Champignons
-  - Biodiversité
+  - Biodiversite
 article: false
 ---
 

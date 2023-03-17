@@ -23,15 +23,15 @@ features:
 
   - title: Energie et autonomie
     details: "Plus que jamais, l'énergie devient une ressource centrale dans notre vie. Venez lire mon expérience avec le photovoltaïque (mais pas que...) et je vous garantie que vous apprendrez quelque chose aujourd'hui."
-    link: /fr/tag/photovoltaïque/
+    link: /fr/category/energie/
 
   - title: Permaculture
     details: Je trouve très intéressant de comprendre comment produire sa nourriture. Je partage ce que j'ai appris sur le sujet jusque là.
-    link: /fr/tag/permaculture/
+    link: /fr/category/jardin/
 
   - title: Plantes et santé
     details: Sur les chaînes du Chemin de la Nature et d'Altheaprovence, vous trouverez beaucoup d'informations sur les plantes et leurs bénéfices pour la santé.
-    link: /fr/tag/plantes/
+    link: /fr/category/plantes/
 
 footer: 'GPLv3 Licensed | <a href="page/mentions-legales/" title="Lire les mentions légales du site">Mentions légales</a>'
 ---

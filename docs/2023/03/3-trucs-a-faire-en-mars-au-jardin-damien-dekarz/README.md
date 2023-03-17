@@ -14,7 +14,7 @@ head:
   - [meta, { rel: canonical, href: url }]
 category:
   - Jardin
-  - Biodiversité
+  - Biodiversite
   - Agroécologie
 tag:
   - Damien Dekarz

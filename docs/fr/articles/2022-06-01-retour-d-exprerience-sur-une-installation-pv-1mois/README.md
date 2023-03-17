@@ -15,7 +15,7 @@ head:
 category:
   - Energie
 tag:
-  - Photovoltaïque
+  - Photovoltaique
   - Autoconsommation
   - Eau chaude sanitaire
 article: false

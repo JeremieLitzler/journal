@@ -20,7 +20,7 @@ head:
     ]
 category:
   - Jardin
-  - Biodiversité
+  - Biodiversite
   - Agroécologie
 tag:
   - Damien Dekarz
