@@ -18,4 +18,4 @@ article: false
 
 ## Or booking a 30 minutes call
 
-Use [this link](https://calendly.com/iamjeremie) to check my availability.
+Use [this link](https://calendly.com/iamjeremie/first-call) to check my availability.
