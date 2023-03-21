@@ -1,7 +1,7 @@
 ---
 isDraft: true
 title: Comparing different composts for propagation, by Charles Dowding
-description: 'Experimenting a good idea to become surprised and find out how things work in nature. Charles has been practicing experimentations for decades and here, he shares with us how compost can make a difference.'
+description: 'Experimenting brings surprises. Charles has been practicing for decades and here, he shares with us how compost can make a difference.'
 date: 2022-10-21
 heroImage: '/images/2022-10-21-comparing-different-composts-for-propagation-charles-dowding-hero.jpg'
 heroAlt: Final harvest results
@@ -16,7 +16,7 @@ head:
       meta,
       {
         rel: canonical,
-        href: https://iamjeremie.me/2022/10/comparing-different-composts-for-propagation-charles-dowding,
+        href: https://iamjeremie.substack.com/p/comparing-composts-propagation-charles-dowding,
       },
     ]
 category:
@@ -30,7 +30,7 @@ tag:
 
 ![Final harvest results](/images/2022-10-21-comparing-different-composts-for-propagation-charles-dowding-hero.jpg 'Credits: image taken from Charles Dowding’s vlog')
 
-Experimenting a good idea to become surprised and find out how things work in nature. Charles has been practicing experimentations for decades and here, he shares with us how compost can make a difference.
+Experimenting brings surprises. Charles has been practicing for decades and here, he shares with us how compost can make a difference.
 
 Thanks to Charles Dowding for sharing his wisdom and knowledge!
 I wrote the following notes watching the video published on Charles Dowding’s channel.

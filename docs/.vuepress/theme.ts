@@ -21,11 +21,13 @@ export default hopeTheme({
     locales: {
       '/': {
         navbar: enNavBarConfig,
-        sidebar: false
+        sidebar: false, 
+        headerDepth: 3,
       },
       '/fr/': {
         navbar: frNavBarConfig,
-        sidebar: false
+        sidebar: false,
+        headerDepth: 3,
       } 
     },
     displayFooter: true,
