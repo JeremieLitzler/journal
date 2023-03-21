@@ -34,4 +34,4 @@ Thanks to Charles Dowding for sharing his wisdom and knowledge!
 I wrote the following notes watching the video published on Charles Dowding's channel.
 You can watch it using [this YouTube link](https://www.youtube.com/shorts/gVKmSO4LQ0Q).
 
-This article was moved [here](../../2022/10/you-you-can-compost-all-weeds-charles-dowding/README.md).
+This article was moved [here](../../2022/10/you-can-compost-all-weeds-charles-dowding/README.md).
