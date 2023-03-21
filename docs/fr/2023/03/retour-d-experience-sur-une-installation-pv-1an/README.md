@@ -15,7 +15,7 @@ head:
       meta,
       {
         rel: canonical,
-        href: https://iamjeremie.me/fr/2022/12/retour-d-experience-sur-une-installation-pv-1an/,
+        href: https://iamjeremie.me/fr/2023/03/retour-d-experience-sur-une-installation-pv-1an/,
       },
     ]
 category:
