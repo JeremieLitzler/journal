@@ -10,7 +10,7 @@ head:
       meta,
       {
         rel: canonical,
-        href: https://iamjeremie.me/2022/10/the-simple-way-to-food-self-sufficiency-huw-richards,
+        href: https://iamjeremie.substack.com/p/simple-way-to-food-self-sufficiency-huw-richards,
       },
     ]
 category:
