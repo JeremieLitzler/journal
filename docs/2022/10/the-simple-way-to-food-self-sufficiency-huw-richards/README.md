@@ -26,7 +26,7 @@ tag:
   - Self-sufficiency
 ---
 
-![A vegetable garden](/images/2022-10-02-the-simple-way-to-becoming-self-sufficient-in-food-huw-richards-hero.jpg 'Credits: Hero picture by [Jonathan Hanna](https://unsplash.com/ja/@funnelhead?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/vegetable-garden?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)')
+![A vegetable garden](/images/2022-10-02-the-simple-way-to-becoming-self-sufficient-in-food-huw-richards-hero.jpg 'Credits: Above picture by [Jonathan Hanna](https://unsplash.com/ja/@funnelhead?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/vegetable-garden?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)')
 
 Growing your own food is a great skill to learn. You can start on a small area to become familiar with the basics. Let's look at the first steps to become more self-sufficient.
 
