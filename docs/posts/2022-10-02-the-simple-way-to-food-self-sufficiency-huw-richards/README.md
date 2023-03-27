@@ -1,7 +1,7 @@
 ---
 isDraft: false
 title: The Simple Way to Becoming Self-Sufficient in Food, by Huw Richards
-description: "I wrote the following notes watching the video published on Huw Richards's channel"
+description: "Growing your own food is a great skill to learn. You can start on a small area to become familiar with the basics. Let's look at the first steps to become more self-sufficient."
 date: 2022-10-02
 heroImage: '/images/2022-10-02-the-simple-way-to-becoming-self-sufficient-in-food-huw-richards-hero.jpg'
 heroAlt: A vegetable garden
@@ -22,7 +22,7 @@ tag:
 
 ![A vegetable garden](./2022-10-02-the-simple-way-to-becoming-self-sufficient-in-food-huw-richards-hero.jpg 'Credits: Hero picture by [Jonathan Hanna](https://unsplash.com/ja/@funnelhead?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/vegetable-garden?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)')
 
-Growing your own food is a great skill to learn. It is possible to start with a small area to get familiar with the basics. Today, let's look the first steps to get started so you can become more self-sufficient.
+Growing your own food is a great skill to learn. You can start on a small area to become familiar with the basics. Let's look at the first steps to become more self-sufficient.
 
 Thanks to Huw Richards for sharing his wisdom and knowledge!
 I wrote the following notes watching the video published on Huw Richards's channel.
