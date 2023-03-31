@@ -1,5 +1,5 @@
 ---
-title: 'How is my digital business setup?'
+title: 'How is my digital presence setup?'
 description: 'In 2023, there are a lot of solutions to build your digital presence. In this article, I will share my current setup and why I use it.'
 date: 2023-03-30
 heroImage: /images/2023-03-30-a-laptop-and-notebook-on-a-desk.jpg
@@ -9,7 +9,7 @@ head:
       meta,
       {
         rel: canonical,
-        href: https://iamjeremie.me/2023/03/how-is-setup-my-digital-business-today/,
+        href: https://iamjeremie.me/2023/03/how-is-setup-my-digital-presence-today/,
       },
     ]
 category:
@@ -25,7 +25,7 @@ In 2023, there are a lot of solutions to build your digital presence. In this ar
 ## For websites
 
 :::note
-Pour la version française de cet article, [c'est par ici](../../../fr/2023/03/comment-j-organise-mon-activite-digital/README.md)
+Pour la version française de cet article, [c'est par ici](../../../fr/2023/03/comment-j-organise-mon-activite-digitale/README.md)
 :::
 
 I use three solutions, which I pick depending on the following criteria.

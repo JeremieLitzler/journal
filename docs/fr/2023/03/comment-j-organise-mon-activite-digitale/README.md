@@ -23,7 +23,7 @@ En 2023, il existe toute une myriade de solutions pour développer sa présence 
 <!-- more -->
 
 :::note
-For the english version of this article, [continue here](../../../../2023/03/how-is-setup-my-digital-business-today/README.md)
+For the english version of this article, [continue here](../../../../2023/03/how-is-setup-my-digital-presence-today/README.md)
 :::
 
 ## Pour les sites web
