@@ -118,7 +118,7 @@ I really like Cloudways because you have access to many features that are usuall
 
 Compared to Infomaniak's shared hosting, the different is that you own your server and nobody else works on it. At Infomaniak, a VPS cost 30 euros per month at minimum (and yes, it has more power than the 1 GB Digital Ocean droplet).
 
-[Contact me if you need help](../../../page/contact-me/README.md) if you’re interested about the deploy scripts or using Cloudways.
+[Contact me](../../../page/contact-me/README.md) if you’re interested about the deploy scripts or using Cloudways.
 
 ## For newsletters
 
