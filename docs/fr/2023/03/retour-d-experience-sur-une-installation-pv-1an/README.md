@@ -5,7 +5,7 @@ date: 2023-03-31
 # heroImage: /images/2023-03-31-production-par-mois-avril2022-mars2023.jpg
 heroAlt: "Production par mois d'avril 2022 à mars 2023"
 prev:
-  - text: "Optimiser l'autonomie électrique"
+  - text: "Installation PV - quel retour d'expérience après 9 mois"
   - link: ../../../2022/12/retour-d-experience-sur-une-installation-pv-9mois-partie-1/
 next:
   - text: "Optimiser l'autonomie électrique"
