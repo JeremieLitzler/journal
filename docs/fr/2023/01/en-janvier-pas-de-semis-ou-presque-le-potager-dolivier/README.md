@@ -19,7 +19,7 @@ prev:
 category:
   - Jardin
 tag:
-  - Potager d'Olivier
+  - Potager d Olivier
   - Janvier
 ---
 

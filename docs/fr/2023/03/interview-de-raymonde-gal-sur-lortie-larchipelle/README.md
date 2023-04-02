@@ -19,7 +19,7 @@ head:
       },
     ]
 category:
-  - Rencontres d'autonomistes
+  - Rencontres d autonomistes
 tag:
   - Brian Ejarque
   - Ortie
