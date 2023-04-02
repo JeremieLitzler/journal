@@ -15,7 +15,7 @@ head:
       meta,
       {
         rel: canonical,
-        href: https://iamjeremie.me/fr/2023/03/retour-d-experience-sur-une-installation-pv-1an/,
+        href: https://iamjeremie.substack.com/p/retour-d-experience-sur-une-installation-pv-1an,
       },
     ]
 category:
@@ -110,7 +110,7 @@ Ainsi, on verra dans 8 ans pour augmenter la production photovoltaïque et donc
 
 ## Production annuelle
 
-La production annuelle s’élève à ==16xx kWh== et elle repartit ainsi :
+La production annuelle s’élève à ==1646 kWh== et elle repartit ainsi :
 
 | Mois           | Production | Taux d’autoconsommation |
 | -------------- | ---------- | ----------------------- |
