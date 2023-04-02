@@ -7,7 +7,7 @@ prev:
   link: ../../../tag/the-dutch-farmer/
 next:
   text: 'A Day in The Life of a Farmer in February, by The Dutch Farmer'
-  link: ../../02/a-day-in-the-life-of-a-farmer-in-february-the-dutch-farmer/README.md
+  link: ../../02/a-day-in-the-life-of-a-farmer-in-february-the-dutch-farmer/
 head:
   - [
       meta,

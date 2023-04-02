@@ -4,7 +4,7 @@ description: 'Composting is an art that has simple rules. Follow them and you wi
 date: 2023-01-03
 prev:
   text: "See all my notes from Huw Richards' vlogs"
-  link: ../../tag/huw-richards/
+  link: ../../../tag/huw-richards/
 #next:
 #  text: ''
 #  link: ..//README.md

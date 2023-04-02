@@ -6,7 +6,7 @@ heroImage: '/images/2022-12-06-the-art-of-lazy-title-overlaying-someone-handling
 heroAlt: Someone cutting vegetables in a garden
 prev:
   text: "See all my notes from Huw Richards' vlogs"
-  link: ../../tag/huw-richards/
+  link: ../../../tag/huw-richards/
 #next:
 #  text: ''
 #  link: ..//README.md

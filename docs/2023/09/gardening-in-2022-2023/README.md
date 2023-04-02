@@ -358,31 +358,3 @@ See the comment [in the garlic's section](#garlic) about the early rising of the
 :::
 
 ## Wild plants
-
-### Nettles
-
-==October 3rd==
-
-- I used some leaves and roots to prepare a tincture.
-
-==November 13th, 2022==
-
-- I had to clean up the nettles as they were very numerous.
-- I tooks some of the roots out and put it on the compost heap.
-
-==January 1st, 2023==
-
-It is clearly over until the spring. Can't wait to pick those tender nettle for drying and soups.
-
-==March 5th, 2023==
-
-- New plants are appearing slowly. We can wait because of all I've written about the nettle in French from the vlogs of _Le Chemin de la Nature_, _Altheaprovence_ and more. If you read french, [see the article here](../../../fr/tag/ortie).
-
-### Dandelions
-
-==March 5th, 2023==
-
-- The same bed is showing the new dandelions growing. Within a month, we'll lharvest the first leaves to eat in salads.
-
-:::warning Add pic for march 5th
-:::

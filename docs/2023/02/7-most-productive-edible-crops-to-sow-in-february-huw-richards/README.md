@@ -4,7 +4,7 @@ description: 'Even if you know it might be a little to early, it is hard to resi
 date: 2023-02-06
 prev:
   text: 'See all my notes from Huw Richards’ vlogs'
-  link: ../../tag/huw-richards/
+  link: ../../../tag/huw-richards/
 #next:
 #  text: ''
 #  link: ..//README.md

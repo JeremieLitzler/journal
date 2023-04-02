@@ -4,7 +4,7 @@ description: "In january, we don't like going outside because it is cosy inside.
 date: 2023-01-12
 prev:
   text: 'See all my notes from Huw Richards’ vlogs'
-  link: ../../tag/huw-richards/
+  link: ../../../tag/huw-richards/
 #next:
 #  text: ''
 #  link: ..//README.md

@@ -13,7 +13,7 @@ head:
       meta,
       {
         rel: canonical,
-        href: https://iamjeremie.me/2023/02/a-day-in-the-life-of-a-farmer-in-february-the-dutch-farmer,
+        href: https://iamjeremie.me/2023/02/a-day-in-the-life-of-a-farmer-in-february-the-dutch-farmer/,
       },
     ]
 category:

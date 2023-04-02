@@ -7,7 +7,7 @@ heroImage: '/images/2022-10-21-comparing-different-composts-for-propagation-char
 heroAlt: Final harvest results
 prev:
   text: 'See all my notes from Charles Dowding’s vlogs'
-  link: ../../tag/charles-dowding/
+  link: ../../../tag/charles-dowding/
 #next:
 #  text: ''
 #  link: ..//README.md

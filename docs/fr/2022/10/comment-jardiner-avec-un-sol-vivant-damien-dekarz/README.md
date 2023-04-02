@@ -15,7 +15,7 @@ head:
     ]
 next:
   text: 'Que faire au jardin en octobre, par Permaculture, agroécologie, etc'
-  link: ../que-faire-au-jardin-en-octobre--permaculture--agroécologie--etc/README.md
+  link: ../que-faire-au-jardin-en-octobre-damien-dekarz/
 category:
   - Jardin
   - Vie du sol
@@ -33,9 +33,8 @@ _Credits : image extraite de l'article Wikipedia ["Réseau mycorhizien"](https:/
 
 Merci à Damien pour le partage de son savoir !
 Cet article résume mes notes du vlog réalisé par Permaculture, agroécologie, etc.
-Vous pouvez retrouver [la vidéo sur YouTube](https://www.youtube.com/watch?v=WApK6d1ucz4).
 
-Retrouvez [la liste de mes notes sur les autres vidéos de Damien](../2022-09-12-toutes-mes-notes-sur-les-videos-de-Permaculture-agroecologie-etc) pour apprendre davantage.
+Vous pouvez retrouver [la vidéo sur YouTube](https://www.youtube.com/watch?v=WApK6d1ucz4).
 
 ## Pourquoi de la vie dans le sol
 

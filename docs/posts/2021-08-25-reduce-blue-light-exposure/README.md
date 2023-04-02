@@ -9,7 +9,7 @@ tag:
   - Screens
 ---
 
-[Read the french version](../fr/articles/2021-08-25-reduire-son-exposition-a-la-lumiere-bleue)
+[Read the french version](../../fr/articles/2021-08-25-reduire-son-exposition-a-la-lumiere-bleue/README.md)
 
 ## Do you know about the _blue light_
 
@@ -17,7 +17,7 @@ Nowadays, it’s everywhere: personal computers, smartphones, tablets…
 
 It isn’t healthy for your health, because it affects your vision first and then your mind and concentration and much more.
 
-You can [read this US government document](https://ap.lbl.gov/ehs/safety/nir/assets/docs/Blue%20Light%20Hazard%20Safety%20Tips.pdf) to know more.
+You can [read this Haward School article](https://www.health.harvard.edu/staying-healthy/blue-light-has-a-dark-side) to know more.
 
 ## How to adjust blue light on Windows 10
 

@@ -6,7 +6,7 @@ heroImage: '/images/2022-11-01-wini-walbaum-charles-dowding--no-dig--straw-hay-f
 heroAlt: A garden in Chile with a lot of sunflowers
 prev:
   text: "See all my notes from Charles Dowding's vlogs"
-  link: ../../tag/charles-dowding/
+  link: ../../../tag/charles-dowding/
 #next:
 #  text: ''
 #  link: ..//README.md

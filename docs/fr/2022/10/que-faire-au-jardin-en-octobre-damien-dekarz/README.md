@@ -15,7 +15,7 @@ heroAlt: Une courge verte raillée sur du paillage
 #    ]
 next:
   text: 'Comment jardiner avec un sol vivant, par Permaculture, agroecologie, etc'
-  link: ../2022-10-12-comment-jardiner-avec-un-sol-vivant-permaculture--agroecologie--etc/README.md
+  link: ../../../posts/2022-10-12-comment-jardiner-avec-un-sol-vivant-permaculture--agroecologie--etc/
 
 category:
   - Jardin
@@ -30,9 +30,8 @@ _Credits : image extraite du vlog de Damien_
 
 Merci à Damien pour le partage de son savoir !
 Cet article résume mes notes du vlog réalisé par Permaculture, agroécologie, etc.
-Vous pouvez retrouver [la vidéo sur YouTube](https://www.youtube.com/watch?v=GswUGxztnpU).
 
-Retrouvez [la liste de mes notes sur les autres vidéos de Damien](../2022-09-12-toutes-mes-notes-sur-les-videos-de-Permaculture-agroecologie-etc) pour apprendre davantage.
+Vous pouvez retrouver [la vidéo sur YouTube](https://www.youtube.com/watch?v=GswUGxztnpU).
 
 ## Rappel du mois de septembre
 

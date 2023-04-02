@@ -14,7 +14,7 @@ De nos jours, elle est partout : nos ordinateurs personnels, nos smartphones, n
 
 Elle est mauvaise pour la santé, car elle impacte votre vision aux premiers abords puis votre capacité de concentration et plus encore.
 
-Vous pouvez [lire cet article](https://www.aoqnet.qc.ca/votre-vision-et-vos-yeux/protection-des-yeux/lumiere-bleue/) pour en savoir plus.
+Vous pouvez [lire les articles sur le sujet](https://www.google.com/search?q=lumi%C3%A8re+bleue) pour en savoir plus.
 
 ## Ajuster sur Windows 10
 

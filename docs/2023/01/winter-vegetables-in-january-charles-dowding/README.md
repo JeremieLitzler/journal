@@ -4,7 +4,7 @@ description: 'In Janury, Charles explains what he does and what grows in his gar
 date: 2023-01-10
 prev:
   text: 'See all my notes from Charles Dowding’s vlogs'
-  link: ../../tag/charles-dowding/
+  link: ../../../tag/charles-dowding/
 #next:
 #  text: ''
 #  link: ..//README.md

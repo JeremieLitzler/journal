@@ -154,11 +154,11 @@ Cette culture est adaptée à toutes les régions.
 
 C'est le moment idéal en ce mois d'octobre de planter les fraisiers, soit issus de plants de jardineries, soit issus des stolons de plants existants.
 
-![Jeunes stolons](./images/jeunes-stolons-de-fraisiers.jpg)
-versus
-![Stolons matures avec des racines](./images/stolons-de-fraisiers.jpg)
+![Jeunes stolons](./images/jeunes-stolons-de-fraisiers.jpg 'Crédits : image issue du [Magasin Aveve](https://magasinsaveve.be)')
 
-_Crédits des 2 images : [Le Magasin Aveve](https://magasinsaveve.be/Conseils/Detail/jardin/fruitiers/amenager-des-fruitiers/supprimer-les-stolons-des-fraisiers/7bf09)_
+versus
+
+![Stolons matures avec des racines](./images/stolons-de-fraisiers.jpg 'Crédits : image issue du [Le Magasin Aveve](https://magasinsaveve.be)')
 
 Les stolons sont à planter dans des godets si l'on veut les implanter dans une zone différente des plants parents.
 

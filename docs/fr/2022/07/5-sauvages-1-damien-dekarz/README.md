@@ -114,7 +114,7 @@ Attention, il existe plusieurs sortes de renoncules et toutes n'indique pas tout
 
 ### Le plantain lancéolé ou le plantain majeur
 
-![Le plantain lancéolé](./images/plantain-lanceole.jpg) "Crédits de l'image : [Santé et nature](https://www.sante-et-nature.fr/pages/des-plantes-utiles/le-plantain-plante-comestible-et-medicinale.html)")
+![Le plantain lancéolé](./images/plantain-lanceole.jpg) "Crédits de l'image : Issue du site Santé et nature \"https://www.sante-et-nature.fr\"")
 
 ![Le plantain majeur](./images/plantago-major.jpg "Crédits de l'image : [AquaPortail](https://www.aquaportail.com/fiche-plante-3741-plantago-major.html)")
 
