@@ -12,10 +12,11 @@ export default hopeTheme({
       url: "https://iamjeremie.me"
     },
     repo: 'JeremieLitzler/journal',
-    // docsRepo: 'https://github.com/JeremieLitzler/journal',
-    // docsBranch: 'main',
-    // docsDir: 'docs',
-    // editLinkPattern: ':repo/edit/:branch/:path',
+    docsRepo: 'https://github.com/JeremieLitzler/journal',
+    docsBranch: 'main',
+    docsDir: 'docs',
+    editLinkPattern: ':repo/edit/:branch/:path',
+    editLink: false,
     logo: '/icons/favicon-32x32.png',
     logoDark: '/icons/dark-favicon-32x32.png',
     locales: {
