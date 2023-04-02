@@ -4,12 +4,18 @@ description: "Le rosier est l'ancêtre des rosiers cultivés et il n'existe pas 
 date: 2023-01-26
 prev:
   text: 'Toutes mes notes des vlogs de Christophe Bernard'
-  link: ../../tag/christophe-bernard/
+  link: ../../../tag/christophe-bernard/
 #next:
 #  text: ''
 #  link: ..//README.md
 head:
-  - [meta, { rel: canonical, href: url }]
+  - [
+      meta,
+      {
+        rel: canonical,
+        href: https://iamjeremie.me/fr/2023/01/eglantier-immunite-circulation-et-articulations-altheaprocence/,
+      },
+    ]
 category:
   - Santé
 tag:

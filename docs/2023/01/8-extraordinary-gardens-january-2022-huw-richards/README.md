@@ -4,17 +4,14 @@ description: 'Growing vegetables and eating them in January and even all year lo
 date: 2023-01-11
 prev:
   text: "See all my notes from Huw Richards' vlogs"
-  link: ../../tag/huw-richards/
+  link: ../../../tag/huw-richards/
 #next:
 #  text: ''
 #  link: ..//README.md
 head:
   - [
       meta,
-      {
-        rel: canonical,
-        href: https://iamjeremie.me/2023/01/8-extraordinary-gardens-january-2022-huw-richards,
-      },
+      { rel: canonical, href: https://iamjeremie.me/2023/01/../-huw-richards },
     ]
 category:
   - Gardening

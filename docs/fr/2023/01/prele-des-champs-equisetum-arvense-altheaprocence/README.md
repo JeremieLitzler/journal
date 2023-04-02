@@ -4,12 +4,18 @@ description: "La prêle se trouve dans les zones humides et j'ai le bonheur d'en
 date: 2023-01-31
 prev:
   text: 'Toutes mes notes des vlogs de Christophe Bernard'
-  link: ../../tag/christophe-bernard/
+  link: ../../../tag/christophe-bernard/
 #next:
 #  text: ''
 #  link: ..//README.md
 head:
-  - [meta, { rel: canonical, href: url }]
+  - [
+      meta,
+      {
+        rel: canonical,
+        href: https://iamjeremie.me/fr/2023/01/prele-des-champs-equisetum-arvense-altheaprocence/,
+      },
+    ]
 category:
   - Santé
 tag:

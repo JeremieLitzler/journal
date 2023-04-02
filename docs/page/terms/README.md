@@ -21,7 +21,7 @@ article: false
 
 <h3><strong>Cookies</strong></h3>
 
-<p>I employ no cookies on this website. You can use <a href="https://chrome.google.com/webstore/search/edit%20this%20cookie?hl=fr" title="Link to the Chrome extension">EditThisCookie</a> for Google Chrome or any similar extension of your favorite browser.
+<p>I employ no cookies on this website. You can use "EditThisCookie" available on Google Chrome Store for Google Chrome or any similar extension of your favorite browser.
 <!-- However, by accessing A shared journal by Jeremie Litzler, you agreed to use cookies in agreement with the A shared journal by Jeremie Litzler's Privacy Policy.-->
  </p>
 

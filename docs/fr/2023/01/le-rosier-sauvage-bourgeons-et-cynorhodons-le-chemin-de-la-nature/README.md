@@ -4,7 +4,7 @@ description: "Le rosier sauvage : on le trouve facilement en France. C'est lui q
 date: 2023-01-25
 prev:
   text: 'Toutes mes notes des vlogs du Chemin de la Nature'
-  link: ../../tag/chemin-de-la-nature/
+  link: ../../../tag/chemin-de-la-nature/
 #next:
 #  text: ''
 #  link: ..//README.md

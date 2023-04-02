@@ -4,7 +4,7 @@ description: "Vous en avez sûrement chez vous si vous vivez à la campagne, pro
 date: 2023-01-20
 prev:
   text: 'Toutes mes notes des vlogs de Christophe Bernard'
-  link: ../../tag/christophe-bernard/
+  link: ../../../tag/christophe-bernard/
 #next:
 #  text: ''
 #  link: ..//README.md

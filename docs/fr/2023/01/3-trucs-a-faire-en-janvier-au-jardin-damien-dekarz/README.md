@@ -4,7 +4,7 @@ description: "En janvier, le jardin est au repos. Toutefois, il reste toujours p
 date: 2023-01-04
 prev:
   text: 'Toutes mes notes des vlogs de Damien Dekarz'
-  link: ../../tag/damien-dekarz/
+  link: ../../../tag/damien-dekarz/
 #next:
 #  text: ''
 #  link: ..//README.md

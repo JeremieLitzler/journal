@@ -181,7 +181,7 @@ Sauf si vous décidez de désactiver les cookies, vous acceptez que le site puis
  <p>
 Un « cookie » est un petit fichier d’information envoyé sur le navigateur de l’Utilisateur et enregistré au sein du terminal de l’Utilisateur (ex : ordinateur, smartphone), (ci-après « Cookies »). Ce fichier comprend des informations telles que le nom de domaine de l’Utilisateur, le fournisseur d’accès Internet de l’Utilisateur, le système d’exploitation de l’Utilisateur, ainsi que la date et l’heure d’accès. Les Cookies ne risquent en aucun cas d’endommager le terminal de l’Utilisateur.</p>
 
-<p> <strong>A ce jour, <a href="https://iamjeremie.me/fr">https://iamjeremie.me/fr</a> n'utilise aucun cookie. L'utilisateur peut le vérifier en utilisant une extension comme <a href="https://chrome.google.com/webstore/category/extensions" title="Link to the Chrome extension">EditThisCookie</a> disponible sur Google Chrome ou tout autre extension de son choix sur son navigateur Internet préféré.</strong> </p>
+<p> <strong>A ce jour, <a href="https://iamjeremie.me/fr">https://iamjeremie.me/fr</a> n'utilise aucun cookie. L'utilisateur peut le vérifier en utilisant une extension comme "EditThisCookie" disponible sur Chrome Web Store pour Google Chrome ou tout autre extension de son choix sur son navigateur Internet préféré.</strong> </p>
  <p>
 <!--<a href="https://iamjeremie.me/fr">https://iamjeremie.me/fr</a> est susceptible de traiter les informations de l’Utilisateur concernant sa visite du Site, telles que les pages consultées, les recherches effectuées. Ces informations permettent à <a href="https://iamjeremie.me/fr">https://iamjeremie.me/fr</a> d’améliorer le contenu du Site, de la navigation de l’Utilisateur.</p>
  <p>-->

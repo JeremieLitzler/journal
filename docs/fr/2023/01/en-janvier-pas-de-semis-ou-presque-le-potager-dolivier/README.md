@@ -4,7 +4,7 @@ description: 'En janvier, la température est trop basse pour planter quoi que c
 date: 2023-01-06
 prev:
   text: "Toutes mes notes des vlogs d'Olivier"
-  link: ../../tag/potager-d-olivier/
+  link: ../../../tag/potager-d-olivier/
 #next:
 #  text: ''
 #  link: ..//README.md
