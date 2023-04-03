@@ -7,17 +7,17 @@ date: 2023-03-06
 prev:
   text: 'See all my notes from The Dutch Farmer’s vlogs'
   link: ../../tag/the-dutch-farmer/
-#next:
-#  text: ''
-#  link: ..//README.md
-#head:
-#  - [
-#      meta,
-#      {
-#        rel: canonical,
-#        href: url,
-#      },
-#    ]
+next:
+  text: 'A Day in The Life of a Farmer in April, by The Dutch Farmer'
+  link: ../../02/a-day-in-the-life-of-a-farmer-in-april-the-dutch-farmer/
+head:
+  - [
+      meta,
+      {
+        rel: canonical,
+        href: https://iamjeremie.me/fr/2023/04/a-day-in-the-life-of-a-farmer-in-march-the-dutch-farmer,
+      },
+    ]
 category:
   - Gardening
 tag:
