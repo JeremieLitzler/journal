@@ -32,9 +32,7 @@ Thanks to Charles Dowding for sharing his wisdom and knowledge!
 I wrote the following notes watching the video published on Charles Dowding's channel.
 You can watch it using [this YouTube link](https://www.youtube.com/watch?v=tzjdcDQ7A8E).
 
-![A pea pod with large seeds in the hands of Charles](./images/2022-10-15-july-tour-of-new-no-dig--harvests--pest-covers--compost--watering-charles-dowding-hero.jpg)
-
-_Credits: image taken from Charles Dowding's vlog_
+![A pea pod with large seeds in the hands of Charles](./images/2022-10-15-july-tour-of-new-no-dig--harvests--pest-covers--compost--watering-charles-dowding-hero.jpg "Credits: image taken from Charles Dowding's vlog")
 
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
@@ -72,9 +70,7 @@ Butternut plants need warm to grow well.
 
 That is why the plants below are smaller than the Crow prince above:
 
-![Butternut squash plants](./images/butternut-squash.jpg)
-
-_Credits: image taken from Charles Dowding's vlog_
+![Butternut squash plants](./images/butternut-squash.jpg "Credits: image taken from Charles Dowding's vlog")
 :::
 
 ## Potatoes close to the point of harvest
@@ -94,9 +90,7 @@ Amazingly, Charles doesn't have to water as of July. But he would need to water 
 
 Yes, the climate in Summerset is probably much more humid than the South of France where I live, but that'll need to be tested, because Damien Dekarz said the same thing while cultivating more South of my location the Tarn area.
 
-![Beans climbing some poles in a garden](./images/dry-beans.jpg)
-
-_Credits: image taken from Charles Dowding's vlog_
+![Beans climbing some poles in a garden](./images/dry-beans.jpg "Credits: image taken from Charles Dowding's vlog")
 
 ## Onions
 
@@ -105,24 +99,18 @@ Charles didn't water the onions by the month of July.
 Why are onions not watered?
 Charles waits at the point where it is close to harvest to water them, then getting a nice swell-up of the bulbs.
 
-![A strip of onions](./images/oinons.jpg)
-
-_Credits: image taken from Charles Dowding's vlog_
+![A strip of onions](./images/oinons.jpg "Credits: image taken from Charles Dowding's vlog")
 
 When do we know that onions are ready?
 
-![Clusters of onions](./images/onions-ready.jpg)
-
-_Credits: image taken from Charles Dowding's vlog_
+![Clusters of onions](./images/onions-ready.jpg "Credits: image taken from Charles Dowding's vlog")
 
 When the stems looks like the picture above, it is a sign the onions are ready.
 
 The bending of the neck is to help the onions to start drying. It will help for storage later on.
 You can just pull the onions off the soil and let them dry for a few days.
 
-![Drying onions on a pallet-like wood structure to keep onions off the ground after harvesting.](./images/drying-onions.jpg)
-
-_Credits: image taken from Charles Dowding's vlog_
+![Drying onions on a pallet-like wood structure to keep onions off the ground after harvesting.](./images/drying-onions.jpg "Credits: image taken from Charles Dowding's vlog")
 
 The onions above are drying on a pallet-like wood structure after harvesting to keep onions off the ground.
 
@@ -130,9 +118,7 @@ Charles showed an onion with a flower and he suggested eating those first, but w
 
 ## Beetroot and deer damage to leaves
 
-![Beetroots with damaged leaves cause by deer](./images/beetroots.jpg)
-
-_Credits: image taken from Charles Dowding's vlog_
+![Beetroots with damaged leaves cause by deer](./images/beetroots.jpg "Credits: image taken from Charles Dowding's vlog")
 
 The deer haven't really damaged much of the strip of beetroots. And anyways, the beets are massive!
 
@@ -152,23 +138,17 @@ I have taken notes on this in [this article](../2022-04-20-three-types-of-heap-s
 
 ## Salads in July
 
-![Two strips of lettuces with a net over them](./images/lettuce-strips.jpg)
-
-_Credits: image taken from Charles Dowding's vlog_
+![Two strips of lettuces with a net over them](./images/lettuce-strips.jpg "Credits: image taken from Charles Dowding's vlog")
 
 The above left strip is 3 weeks old and the salads look quite big!
 
 The right strip has been planted about 10 days before the video shooting.
 
-![Another strip of lettuce just over three weeks old](./images/a-third-strip-of-lettuce.jpg)
-
-_Credits: image taken from Charles Dowding's vlog_
+![Another strip of lettuce just over three weeks old](./images/a-third-strip-of-lettuce.jpg "Credits: image taken from Charles Dowding's vlog")
 
 ## Peas are ending
 
-![A pea pod with large seeds](./images/pea-pod-opened.jpg)
-
-_Credits: image taken from Charles Dowding's vlog_
+![A pea pod with large seeds](./images/pea-pod-opened.jpg "Credits: image taken from Charles Dowding's vlog")
 
 The peas will turn yellow when they are finishing producing.
 
@@ -176,9 +156,7 @@ The above image is a pea that you can eat the whole pod and seeds.
 
 But usually, you harvest them when they are dried like the example below.
 
-![A dried pod of peas](./images/dried-pea-pod-opened.jpg)
-
-_Credits: image taken from Charles Dowding's vlog_
+![A dried pod of peas](./images/dried-pea-pod-opened.jpg "Credits: image taken from Charles Dowding's vlog")
 
 ## French beans and watering
 
@@ -188,9 +166,7 @@ He puts on a good dose of water every 3 days, in his area. Of course, this will 
 
 ## Cucumbers in the polytunnel
 
-![Cucumbers and orange flower beds together](./images/cucumbers-and-flowers.jpg)
-
-_Credits: image taken from Charles Dowding's vlog_
+![Cucumbers and orange flower beds together](./images/cucumbers-and-flowers.jpg "Credits: image taken from Charles Dowding's vlog")
 
 You can see how the stems of the cucumber plants are well trimmed from the ground to about 2 feet up.
 
@@ -206,27 +182,19 @@ But it does get hot (Charles had up to 38°C...).
 
 Cucumbers like the warmth, but one needs to be careful with the seedlings.
 
-![Emir melon](./images/emir-melon.jpg)
-
-_Credits: image taken from Charles Dowding's vlog_
+![Emir melon](./images/emir-melon.jpg "Credits: image taken from Charles Dowding's vlog")
 
 In regards to melons, if you grow different varieties close to each other, keeping the seeds of the fruits may not produce the same plant the next because hybridization.
 
-![Minnesota midget melon](./images/minnesota-midget-melon.jpg)
-
-_Credits: image taken from Charles Dowding's vlog_
+![Minnesota midget melon](./images/minnesota-midget-melon.jpg "Credits: image taken from Charles Dowding's vlog")
 
 ## Tomatoes and harvesting time
 
-![Sergeant Pepper tomatoes](./images/sgt.-pepper-tomatoes.jpg)
-
-_Credits: image taken from Charles Dowding's vlog_
+![Sergeant Pepper tomatoes](./images/sgt.-pepper-tomatoes.jpg "Credits: image taken from Charles Dowding's vlog")
 
 Tomatoes can be harvested when the color is changing, like the ones below.
 
-![A tomato changing color, even after being harvested](./images/color-changing-tomatoe.jpg)
-
-_Credits: image taken from Charles Dowding's vlog_
+![A tomato changing color, even after being harvested](./images/color-changing-tomatoe.jpg "Credits: image taken from Charles Dowding's vlog")
 
 Charles suggests watching [Joe Lampl's channel](https://www.youtube.com/user/joegardenerTV?app=desktop) to know more about tomatoes.
 

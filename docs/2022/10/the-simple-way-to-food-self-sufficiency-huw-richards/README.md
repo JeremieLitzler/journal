@@ -74,14 +74,14 @@ They are easy to grow and versatile in the kitchen.
 
 The _cut and come again_ salads are the best (take what you need in leaves while leaving the plant produce).
 
-![Salads with Alliums crops to help with the slugs](./salads-with-alliums.jpg "Credits: image taken from The Huw Richard's vlog")
+![Salads with Alliums crops to help with the slugs](./salads-with-alliums.jpg "Credits: image taken from Huw Richard's vlog")
 
 For a couple, you can easily be self-sufficient in salads with a 4 x 4 feet raised bed (equivalent to 1.3 m x 1.3 m, so less than 2 m²) during the growing season.
 
 To go further to reach self-sufficiency throughout the year, you can use:
 
 - some clothes and fleeces to extend the season
-  ![A fleece tunnel](./fleece-tunnel.jpg "Credits: image taken from The Huw Richard's vlog")
+  ![A fleece tunnel](./fleece-tunnel.jpg "Credits: image taken from Huw Richard's vlog")
 - a small greenhouse
 - or a polytunnel
 
@@ -105,7 +105,7 @@ And even in the next year, in March, April and May, you will get a lot of flower
 
 There are a lot of varieties to choose from, so if you are not keen with the curly kale, you can try others, like the red Russian kale.
 
-![A patch of a red Russian kale](./red-russian-kale.jpg "Credits: image taken from The Huw Richard's vlog")
+![A patch of a red Russian kale](./red-russian-kale.jpg "Credits: image taken from Huw Richard's vlog")
 
 ### Annual herbs
 

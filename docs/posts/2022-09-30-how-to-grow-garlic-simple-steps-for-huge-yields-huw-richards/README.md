@@ -37,8 +37,7 @@ It is considered as a perennial crop.
 
 There are massive, compared to the regular soft or hardneck garlic.
 
-![Compare regular garlic versus elephant garlic](./elephant-vs-regular-garlic.jpg)
-_Credits: image taken from The Huw Richard's vlog_
+![Compare regular garlic versus elephant garlic](./elephant-vs-regular-garlic.jpg "Credits: image taken from Huw Richard's vlog")
 
 ### Hardneck garlic
 
@@ -76,8 +75,7 @@ You can plant each clove quite close to each other, between 7 cm to 10 cm.
 
 Also, to increase the amount of garlic planted, you can use the diagonal method:
 
-![View from above of a diagonal planting pattern](./diagonal-planting.jpg)
-_Credits: image taken from The Huw Richard's vlog_
+![View from above of a diagonal planting pattern](./diagonal-planting.jpg "Credits: image taken from Huw Richard's vlog")
 
 ### How
 
@@ -104,8 +102,7 @@ The most important thing is the plant focuses its energy on the bulb, not the fl
 
 But, mostly, you can forget about garlic for almost 8 months.
 
-![Garlic in early spring](./garlic-early-spring.jpg)
-_Credits: image taken from The Huw Richard's vlog_
+![Garlic in early spring](./garlic-early-spring.jpg "Credits: image taken from Huw Richard's vlog")
 
 If there is a period in spring and early summer with no rain, give garlic a heavy soaking.
 
@@ -150,8 +147,7 @@ If you do get this, to avoid it, just don't grow garlic in that same place for 3
 
 This disease is far less of a problem.
 
-![Rust disease on a leak](./rust-disease.jpg)
-_Credits: image taken from The Huw Richard's vlog_
+![Rust disease on a leak](./rust-disease.jpg "Credits: image taken from Huw Richard's vlog")
 
 Simply, remove the worst affected leaves. Then when it comes to harvest, remove the outer layer and the garlic will be fine.
 

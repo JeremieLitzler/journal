@@ -3,7 +3,7 @@ title: 'Gardening 2022-2023: Wild plants'
 description: ''
 # heroImage: /images/-.jpg
 # heroAlt:
-date:
+date: 2023-09-30
 head:
   - [meta, { rel: canonical, href: https://iamjeremie.me/ }]
 category:
