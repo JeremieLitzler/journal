@@ -1,0 +1,60 @@
+---
+title: 'Gardening in April 2023'
+description: 'What happened in April 2023?'
+date: 2023-09-01
+heroImage: '/images/default.jpg'
+heroAlt:
+#head:
+#  - [
+#      meta,
+#      {
+#        rel: canonical,
+#        href: url,
+#      },
+#    ]
+category:
+  - Gardening
+#tag:
+article: false
+---
+
+## April 2nd
+
+The lettuces are not looking great, but the sweet peas are growing by the day.
+
+I am not sure the lettuce will survive the transplantation.
+But it is OK, sweet peas will produce well.
+
+Garlic is getting larger and larger.
+
+## April 9th
+
+I transplanted the red mesclun which sprouted very quickly (ready in 2 weeks). It was a lot easier to get the seedlings out compared to the the 4 seasons lettuce and the sweet peas.
+
+I set them in the bed where I had planted the sweet peas. I also finished transplating the 4 seasons lettuces in the leftover space.
+
+Since the garden was running low, I added a 5 cm of the dark compost, I bought 2 weeks earlier, to cover the bed and provide a good protection from the sun heating more and more each passing day.
+
+I suspect that the mesclun was **planted in a thicker and more densed compost**. Therefore, when I pushed each module, they all popped out easily. That's one lesson learnt for the first year I use those tiny greenhouses
+
+Today, I also harvested 110 g of garlic (I couldn't resiste). The 4 four garlics I harvested were as thick as my index finger and it tastes so good. I ate it raw in a salad with gratted carrots, an avocado and some wild smoked fish.
+
+I watered well the new transplant and the existing ones, as well as the potatoes beds.
+
+Speaking of potatoes, I am going to try growing some in 200 liters blue barels. I used Damien Dekarz's technique (I have got a french article on the topic under [Damien Dekarz's tag](../../../fr/tag/damien-dekarz/).
+
+I have made a single 16mm hole at the bottom, 20 cm up the base to keep the water in.
+
+Then I applied stones around it to prevent the hole to be sealed from the dirt.
+
+I applied a 40 cm layer of hay, added 10 cm of dirt mixed with the dark compost.
+
+I set the potatoes whole or halves (5 per barrel) and added 15 cm of the dirt and compost mix.
+
+Finally, I added 10cm of hay and 20 liters of water.
+
+Another experimentation: yesterday, I prepared some roasted potatoes and I purposefully cutting the sproutings from the potatoes I cooked to see if they would grow in the one year and a half old compost at the north of the garden.
+
+The compost is cool and moist and very soft. Plus, we still have plenty of autumn leaves on top, making it is a perfect place to grow vegetables.
+
+We'll see how it turns out.
