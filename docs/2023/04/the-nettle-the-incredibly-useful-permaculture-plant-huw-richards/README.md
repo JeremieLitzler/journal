@@ -10,14 +10,14 @@ prev:
 #next:
 #  text: ''
 #  link: ..//README.md
-#head:
-#  - [
-#      meta,
-#      {
-#        rel: canonical,
-#        href: url,
-#      },
-#    ]
+head:
+  - [
+      meta,
+      {
+        rel: canonical,
+        href: https://iamjeremie.me/2023/04/the-nettle-the-incredibly-useful-permaculture-plant-huw-richards,
+      },
+    ]
 category:
   - Gardening
 tag:
