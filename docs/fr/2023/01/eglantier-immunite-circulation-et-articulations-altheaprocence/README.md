@@ -13,7 +13,7 @@ head:
       meta,
       {
         rel: canonical,
-        href: https://iamjeremie.me/fr/2023/01/eglantier-immunite-circulation-et-articulations-altheaprocence/,
+        href: https://iamjeremie.substack.com/p/eglantier-immunite-circulation-et-articulations-,
       },
     ]
 category:
