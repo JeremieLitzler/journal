@@ -11,7 +11,7 @@
       "date: $2",
       "head:",
       "  - [",
-      "      meta,",
+      "      link,",
       "      {",
       "        rel: canonical,",
       "        href: https://iamjeremie.me/???,",

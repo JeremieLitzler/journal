@@ -17,7 +17,7 @@
       "#  link: ..//README.md",
       "head:",
       "  - [",
-      "      meta,",
+      "      link,",
       "      {",
       "        rel: canonical,",
       "        href: https://iamjeremie.me/???,",

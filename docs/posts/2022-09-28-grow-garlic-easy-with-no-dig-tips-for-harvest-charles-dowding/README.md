@@ -12,7 +12,7 @@ next:
   text: 'Supermarket Garlic For Seed'
   link: ../2022-09-22-supermarket-garlic-for-seed-charles-dowding/
 #head:
-#  - [meta, { rel: canonical, href: url }]
+#  - [link, { rel: canonical, href: url }]
 category:
   - Gardening
 tag:

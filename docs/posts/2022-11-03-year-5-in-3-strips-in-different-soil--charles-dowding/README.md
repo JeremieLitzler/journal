@@ -9,7 +9,7 @@ prev:
   link: ../../tag/charles-dowding/
 next:
   text: 'How much, how little compost do you need to grow great vegetables'
-  link: ../2022-10-13-how-much-compost-to-grow-great-vegetables-charles-dowding/
+  link: ../2022/10/how-much-compost-to-grow-great-vegetables-charles-dowding/
 #head:
 #  - [
 #      meta,

@@ -3,7 +3,7 @@ title: Want to contact me?
 description: I read all my emails and, if you give a moment, I shall promptly reply to you. Talk to you soon!
 date: 2021-08-10
 head:
-  - [meta, { rel: canonical, href: https://iamjeremie.me/page/contact-me/ }]
+  - [link, { rel: canonical, href: https://iamjeremie.me/page/contact-me/ }]
 article: false
 ---
 

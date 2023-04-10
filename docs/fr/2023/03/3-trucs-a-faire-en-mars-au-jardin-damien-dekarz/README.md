@@ -11,7 +11,7 @@ prev:
 #  text: ''
 #  link: ..//README.md
 head:
-  - [meta, { rel: canonical, href: url }]
+  - [link, { rel: canonical, href: url }]
 category:
   - Jardin
   - Biodiversite
