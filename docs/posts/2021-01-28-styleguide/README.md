@@ -29,11 +29,11 @@ Quisque pharetra consectetur nulla, vel iaculis eros ultricies vitae. Nullam non
 
 ## A link
 
-[A markdown link](https://iamjeremie.me/posts/styleguide).
+[A markdown link](https://iamjeremie.me/).
 
 ## An image
 
-![An image](https://picsum.photos/200/300)
+![An image](/images/default.jpg)
 
 ## A bullet list
 

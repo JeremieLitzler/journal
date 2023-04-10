@@ -10,7 +10,7 @@ prev:
   link: ../../tag/huw-richards/
 next:
   text: 'The Simple Way to Becoming Self-Sufficient in Food'
-  link: ../../2022/10/the-simple-way-to-becoming-self-sufficient-in-food-huw-richards/
+  link: ../../2022/10/the-simple-way-to-food-self-sufficiency-huw-richards/
 head:
   - [
       meta,

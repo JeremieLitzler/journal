@@ -74,7 +74,7 @@ The male and female flowers occur on separate plants. Both flower sexes are gree
 @tab Example of female nettle
 ![Female nettles green ripe seeds](./images/female-nettles-green-ripe-seeds.jpg 'Credits: image from [wallpaperflare.com](https://www.wallpaperflare.com/nettles-ripe-seeds-plants-green-leaf-branch-foliage-wallpaper-wvxom)')
 @tab Example of male nettle
-![Male nettle seeds](./images/male-nettle-seeds.jpg 'Credits: image from [Harry Rose on Flickr.com](https://www.flickr.com/photos/macleaygrassman/19363250773)')
+![Male nettle seeds](./images/male-nettle-seeds.jpg 'Credits: image from [Harry Rose on Flickr.com](https://www.flickr.com/) (Original picture found at "https://www.flickr.com/photos/macleaygrassman/19363250773")')
 :::
 
 Dig a shallow trench and set the roots just like that.

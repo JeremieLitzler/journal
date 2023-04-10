@@ -13,7 +13,7 @@ head:
 category:
   - Energie
 tag:
-  - L'Archipelle
+  - L Archipelle
   - Photovoltaique
   - Autoconsommation
   - Résilience

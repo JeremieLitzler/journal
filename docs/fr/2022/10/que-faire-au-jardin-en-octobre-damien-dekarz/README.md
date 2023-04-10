@@ -21,7 +21,7 @@ category:
   - Jardin
 tag:
   - Damien Dekarz
-  - Mois d'octobre
+  - Octobre
 ---
 
 ![Une courge verte raillée sur du paillage](./images/2022-10-11-que-faire-au-jardin-en-octobre--permaculture--agroecologie--etc-hero.jpg 'Crédits : image extraite du vlog de Damien')

@@ -9,7 +9,7 @@ prev:
   link: ../../../tag/charles-dowding/
 next:
   text: 'July 2022 tour of new no dig, harvests, pest covers, compost, watering, by Charles Dowding'
-  link: ../../../posts/2022-10-15-july-tour-of-new-no-dig--harvests--pest-covers--compost--watering-charles-dowding/README.md
+  link: ../../../posts/2022-10-15-july-2022-tour-of-homeacres-garden-charles-dowding/
 head:
   - [
       meta,

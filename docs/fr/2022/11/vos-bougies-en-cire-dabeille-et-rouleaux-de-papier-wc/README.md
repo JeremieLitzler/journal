@@ -14,7 +14,7 @@ category:
   - Astuces
 tag:
   - Bougies
-  - Cire d'abeilles
+  - Cire d abeilles
   - Recyclage
   - Fait maison
 ---

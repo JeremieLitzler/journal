@@ -109,6 +109,6 @@ He told him he thought it was manganese deficiency and that the company didn’t
 
 Charles thinks and hopes that growth will improve, but he suggests to wait another year to grow plants in the same area.
 
-Also, for UK citizens, you can report the problems in manure to [this website](www.manurematters.co.uk).
+Also, for UK citizens, you can report the problems in manure to [this website](https://www.corteva.co.uk/manure-matters.html).
 
 So, be careful!

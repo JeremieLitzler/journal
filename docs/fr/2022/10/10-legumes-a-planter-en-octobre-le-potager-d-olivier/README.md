@@ -16,7 +16,7 @@ heroAlt: Des semis de divers choux
 category:
   - Jardin
 tag:
-  - Mois d'octobre
+  - Octobre
   - Potager d Olivier
 ---
 
