@@ -9,7 +9,7 @@ prev:
   link: ../../../tag/charles-dowding/
 next:
   text: 'Supermarket Garlic For Seed, by Charles Dowding'
-  link: ../2022-09-22-supermarket-garlic-for-seed-charles-dowding/README.md
+  link: ../../09/supermarket-garlic-for-seed-charles-dowding/
 head:
   - [
       meta,

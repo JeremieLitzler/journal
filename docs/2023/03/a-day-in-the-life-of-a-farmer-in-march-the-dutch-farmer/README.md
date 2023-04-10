@@ -6,7 +6,7 @@ heroAlt: A man in a garden sowing seed on a garden bed
 date: 2023-03-06
 prev:
   text: 'See all my notes from The Dutch Farmer’s vlogs'
-  link: ../../tag/the-dutch-farmer/
+  link: ../../../tag/the-dutch-farmer/
 next:
   text: 'A Day in The Life of a Farmer in April, by The Dutch Farmer'
   link: ../../02/a-day-in-the-life-of-a-farmer-in-april-the-dutch-farmer/

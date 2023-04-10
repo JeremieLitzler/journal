@@ -57,7 +57,7 @@ No matter what, the community is there to help.
 
 Also, there are exercises and they are good but the course would be really great if the student could have a clear understanding of use cases to use such or such features.
 
-Maybe a small project with, for each stage, a focus on each feature studied would have been a great way to practice the feature. That’s what is done in the [Responsive Web Design Bootcamp course](https://iamjeremie.me/post/webresponsive-bootcamp-by-scrimba) over [at Scrimba](https://scrimba.com/).
+Maybe a small project with, for each stage, a focus on each feature studied would have been a great way to practice the feature. That’s what is done in the [Responsive Web Design Bootcamp course](https://iamjeremie.me/posts/webresponsive-bootcamp-by-scrimba) over [at Scrimba](https://scrimba.com/).
 
 ## Summary
 

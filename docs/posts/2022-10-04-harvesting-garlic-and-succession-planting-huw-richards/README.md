@@ -10,7 +10,7 @@ prev:
   link: ../../tag/huw-richards/
 next:
   text: 'How to Grow Garlic | Simple Steps for HUGE Yields'
-  link: ../2022-09-30-how-to-grow-garlic-simple-steps-for-huge-yields-huw-richards/README.md
+  link: ../2022-09-30-how-to-grow-garlic-simple-steps-for-huge-yields-huw-richards/
 #head:
 #  - [meta, { rel: canonical, href: url }]
 category:

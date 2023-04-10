@@ -10,7 +10,7 @@ prev:
   link: ../../tag/charles-dowding/
 next:
   text: 'Three Types of Heap, see how they work and the compost they make'
-  link: ../2022-04-20-three-types-of-heap-see-how-they-work-and-the-compost-they-make-charles-dowding
+  link: ../../2022/04/3-heap-types-how-they-work-and-what-they-give-charles-dowding/
 #head:
 #  - [
 #      meta,
@@ -38,7 +38,7 @@ You can watch it using [this YouTube link](https://www.youtube.com/watch?v=2scvQ
 
 Making compost is a really useful to do.
 
-See this article to read about Charles's [three types of heap, see how they work and the compost they make](../2022-04-20-three-types-of-heap-see-how-they-work-and-the-compost-they-make-charles-dowding).
+See this article to read about Charles's [three types of heap, see how they work and the compost they make](../../2022/04/3-heap-types-how-they-work-and-what-they-give-charles-dowding/README.md).
 
 In this vlog, we will review more detail about the plastic model.
 

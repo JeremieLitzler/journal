@@ -22,7 +22,7 @@ category:
   - Energie
   - Alimentation
 tag:
-  - Barnabé Chaillot
+  - Barnabe Chaillot
   - Ortie
   - Sarrasin
 ---

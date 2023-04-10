@@ -15,7 +15,7 @@ heroAlt: Une courge verte raillée sur du paillage
 #    ]
 next:
   text: 'Comment jardiner avec un sol vivant, par Permaculture, agroecologie, etc'
-  link: ../../../posts/2022-10-12-comment-jardiner-avec-un-sol-vivant-permaculture--agroecologie--etc/
+  link: ../../../posts/2022-10-12-comment-jardiner-avec-un-sol-vivant-damien-dekarz/
 
 category:
   - Jardin
@@ -24,9 +24,7 @@ tag:
   - Mois d'octobre
 ---
 
-![Une courge verte raillée sur du paillage](./images/2022-10-11-que-faire-au-jardin-en-octobre--permaculture--agroecologie--etc-hero.jpg)
-
-_Credits : image extraite du vlog de Damien_
+![Une courge verte raillée sur du paillage](./images/2022-10-11-que-faire-au-jardin-en-octobre--permaculture--agroecologie--etc-hero.jpg 'Crédits : image extraite du vlog de Damien')
 
 Merci à Damien pour le partage de son savoir !
 Cet article résume mes notes du vlog réalisé par Permaculture, agroécologie, etc.
@@ -92,9 +90,7 @@ Si les plants fleurissent encore, il peut être bien de supprimer les fleurs pou
 
 Par exemple :
 
-![Des fleurs de topinambours](./images/fleurs-de-topinambours.jpg)
-
-_Credits : image extraite du vlog de Damien_
+![Des fleurs de topinambours](./images/fleurs-de-topinambours.jpg 'Crédits : image extraite du vlog de Damien')
 
 ## L'automne, c'est sympa
 
@@ -104,15 +100,11 @@ Pour les abeilles, car certaines fleurs s'épanouissent à ce moment, ce qui don
 
 L'arbousier, ou arbre à fraises est très intéressant pour ces fruits remplis de vitamine C.
 
-![Un arbousier avec des fruits arrivant à maturité](./images/arbousier.jpg)
-
-_Credits : image extraite du vlog de Damien_
+![Un arbousier avec des fruits arrivant à maturité](./images/arbousier.jpg 'Crédits : image extraite du vlog de Damien')
 
 Aussi, s'il y a eu assez de pluie, on peut trouver des pissenlits pour les salades :
 
-![Un beau plant de pissenlit](./images/plant-de-pissenlit.jpg)
-
-_Credits : image extraite du vlog de Damien_
+![Un beau plant de pissenlit](./images/plant-de-pissenlit.jpg 'Crédits : image extraite du vlog de Damien')
 
 ## Le potager
 
@@ -129,17 +121,13 @@ Voici quelques techniques de Damien pour ne pas travailler le sol, et qui plus e
 
 L'avantage de cette technique est qu'en 6 mois, la zone sera complètement libérée des mauvaises herbes et cela, sans aucun effort.
 
-![Une zone paillée et cartonnée](./images/zone-cartonnee-et-paillee.jpg)
-
-_Credits : image extraite du vlog de Damien_
+![Une zone paillée et cartonnée](./images/zone-cartonnee-et-paillee.jpg 'Crédits : image extraite du vlog de Damien')
 
 ### Les bottes de paille
 
 Elles sont simplement posées sur les zones à cultiver le printemps prochain.
 
-![Quatre bottes de paille dans un champ enherbé](./images/bottes-de-paille.jpg)
-
-_Credits : image extraite du vlog de Damien_
+![Quatre bottes de paille dans un champ enherbé](./images/bottes-de-paille.jpg 'Crédits : image extraite du vlog de Damien')
 
 ### Les planches posées
 
@@ -150,9 +138,7 @@ Bien sûr, cela peut varier selon l'essence du bois de ces planches. On évitera
 :::tip Conseil de Damien
 Utiliser toujours les outils les plus modernes !
 
-![Une brouette rouillée avec une roue en bois](./images/brouette.jpg)
-
-_Credits : image extraite du vlog de Damien_
+![Une brouette rouillée avec une roue en bois](./images/brouette.jpg 'Crédits : image extraite du vlog de Damien')
 :::
 
 ## Les champignons

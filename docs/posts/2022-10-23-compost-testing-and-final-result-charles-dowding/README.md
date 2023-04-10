@@ -9,7 +9,7 @@ prev:
   link: ../../tag/charles-dowding/
 next:
   text: 'Growth differences in three strips of different soil treatment, year five'
-  link: ../2022-11-03-growth-differences-in-three-strips-of-different-soil-treatment--year-five-charles-dowding/README.md
+  link: ../2022-11-03-year-5-in-3-strips-in-different-soil--charles-dowding/
 #head:
 #  - [
 #      meta,

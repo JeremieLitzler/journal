@@ -8,9 +8,6 @@ heroAlt: A pea pod with large seeds in the hands of Charles
 prev:
   text: "See all my notes from Charles Dowding's vlogs"
   link: ../../tag/charles-dowding/
-#next:
-#  text: ''
-#  link: ../2022-04-20-three-types-of-heap-see-how-they-work-and-the-compost-they-make-charles-dowding
 #head:
 #  - [
 #      meta,
@@ -134,7 +131,7 @@ With no dig, the soil isn't cracking because of the structure of the soil, fille
 
 ## Compost heaps, the pallet three bay system
 
-I have taken notes on this in [this article](../2022-04-20-three-types-of-heap-see-how-they-work-and-the-compost-they-make-charles-dowding)
+I have taken notes on this in [this article](../../2022/04/3-heap-types-how-they-work-and-what-they-give-charles-dowding/README.md)
 
 ## Salads in July
 

@@ -10,14 +10,15 @@ prev:
   link: ../../tag/huw-richards/
 next:
   text: 'How to Grow Garlic | Simple Steps for HUGE Yields, by Huw Richards'
-  link: ../2022-09-30-how-to-grow-garlic-simple-steps-for-huge-yields-huw-richards/README.md
-#head:
-#  - [
-#      meta,
-#      {
-#        rel: canonical,
-#        href: url,
-#      },
+  link: ../2022-09-30-how-to-grow-garlic-simple-steps-for-huge-yields-huw-richards/
+head:
+  - [
+      meta,
+      {
+        rel: canonical,
+        href: https://iamjeremie.me/posts/2022-10-03-why-you-should-harvest-garlic-in-may-huw-richards/,
+      },
+    ]
 category:
   - Gardening
 tag:

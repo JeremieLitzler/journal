@@ -4,7 +4,7 @@ description: "What was true in January is still applicable in February. However,
 date: 2023-02-07
 prev:
   text: 'See all my notes from The Dutch Farmer’s vlogs'
-  link: ../../tag/the-dutch-farmer/
+  link: ../../../tag/the-dutch-farmer/
 next:
   text: 'A Day in The Life of a Farmer in March, by The Dutch Farmer'
   link: ../../03/a-day-in-the-life-of-a-farmer-in-march-the-dutch-farmer/

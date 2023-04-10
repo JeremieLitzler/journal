@@ -29,7 +29,7 @@ Quisque pharetra consectetur nulla, vel iaculis eros ultricies vitae. Nullam non
 
 ## A link
 
-[A markdown link](https://iamjeremie.me/post/styleguide).
+[A markdown link](https://iamjeremie.me/posts/styleguide).
 
 ## An image
 
@@ -99,6 +99,6 @@ export default uniquePropHOC(['time', 'seconds'])(Expire);
 | ----- | --------------- | ---------------------------------------------------- |
 | Value | Very long value | So long that it will scroll horizontally? I hope so! |
 
-Check out [the source on GitHub](https://github.com/JeremieLitzler/journal/blob/main/docs/en/blog/28-01-2021-styleguide.md).
+Check out [the source on GitHub](https://github.com/JeremieLitzler/journal/blob/main/docs/posts/2021-01-28-styleguide/README.md).
 
 Hero photo by [Jan Losert](https://unsplash.com/@janlosert?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash.

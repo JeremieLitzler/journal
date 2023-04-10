@@ -7,7 +7,7 @@ heroImage: '/images/2022-10-11-que-faire-au-jardin-en-octobre--permaculture--agr
 heroAlt: Une courge verte raillée sur du paillage
 next:
   text: 'Comment jardiner avec un sol vivant, par Permaculture, agroecologie, etc'
-  link: ../2022-10-12-comment-jardiner-avec-un-sol-vivant-permaculture--agroecologie--etc/README.md
+  link: ../2022-10-12-comment-jardiner-avec-un-sol-vivant-damien-dekarz/
 category:
   - Jardin
 tag:

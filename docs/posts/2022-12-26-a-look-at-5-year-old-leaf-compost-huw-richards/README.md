@@ -5,17 +5,14 @@ date: 2022-12-26
 prev:
   text: "See all my notes from Huw Richards' vlogs"
   link: ../../tag/huw-richards/
-next:
-  text: ''
-  link: ../../permaculture/
-#head:
-#  - [
-#      meta,
-#      {
-#        rel: canonical,
-#        href: url,
-#      },
-#    ]
+head:
+  - [
+      meta,
+      {
+        rel: canonical,
+        href: https://iamjeremie.me/posts/2022-12-26-a-look-at-5-year-old-leaf-compost-huw-richards/,
+      },
+    ]
 category:
   - Gardening
 tag:

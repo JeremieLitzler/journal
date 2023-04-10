@@ -10,7 +10,7 @@ prev:
   link: ../../../tag/charles-dowding/
 next:
   text: 'Easy earthing up on potatoes with compost'
-  link: ../../../posts/2022-10-19-easy-earthing-up-on-potatoes-with-compost-charles-dowding/README.md
+  link: ../../../posts/2022-10-19-easy-earthing-up-on-potatoes-with-compost-charles-dowding/
 #head:
 #  - [
 #      meta,

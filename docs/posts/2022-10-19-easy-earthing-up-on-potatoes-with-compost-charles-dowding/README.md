@@ -10,7 +10,7 @@ prev:
   link: ../../tag/charles-dowding/
 next:
   text: 'You can compost all weeds'
-  link: ../2022-10-20-you-can-compost-all-weeds-charles-dowding/README.md
+  link: ../../2022/10/you-can-compost-all-weeds-charles-dowding/
 #head:
 #  - [
 #      meta,

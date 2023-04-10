@@ -10,9 +10,15 @@ prev:
   link: ../../tag/huw-richards/
 next:
   text: 'The Simple Way to Becoming Self-Sufficient in Food'
-  link: ../the-simple-way-to-becoming-self-sufficient-in-food-huw-richards/README.md
-#head:
-#  - [meta, { rel: canonical, href: url }]
+  link: ../../2022/10/the-simple-way-to-becoming-self-sufficient-in-food-huw-richards/
+head:
+  - [
+      meta,
+      {
+        rel: canonical,
+        href: https://iamjeremie.me/posts/2022-09-30-how-to-grow-garlic-simple-steps-for-huge-yields-huw-richards/,
+      },
+    ]
 category:
   - Gardening
 tag:
@@ -64,7 +70,7 @@ It starts from mid-October and mid-December.
 Any earlier and you may lose your plants over a really cold winter if they have developed too much.
 
 :::tip Personal thought
-That probably means that planting from mid-September (like [Charles Dowding suggested](../2022-09-28-grow-garlic-an-easy-crop-with-no-dig-hard-or-softneck-and-tips-for-harvest-charles-dowding)) may be only possible under a polytunnel or greenhouse.
+That probably means that planting from mid-September (like [Charles Dowding suggested](../2022-09-28-grow-garlic-easy-with-no-dig-tips-for-harvest-charles-dowding/README.md)) may be only possible under a polytunnel or greenhouse.
 :::
 
 Any later, you risk your bulbs to be underdeveloped.
