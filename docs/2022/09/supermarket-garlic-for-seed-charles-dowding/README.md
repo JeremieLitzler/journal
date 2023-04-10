@@ -10,7 +10,7 @@ prev:
   link: ../../../tag/charles-dowding/
 head:
   - [
-      meta,
+      link,
       {
         rel: canonical,
         href: https://iamjeremie.substack.com/p/supermarket-garlic-for-seed-charles-dowding,

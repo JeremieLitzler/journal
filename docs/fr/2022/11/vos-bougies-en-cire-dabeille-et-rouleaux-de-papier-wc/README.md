@@ -4,7 +4,7 @@ description: La méthode est simple et fascinante pour les enfants. Elle leur ap
 date: 2022-11-26
 head:
   - [
-      meta,
+      link,
       {
         rel: canonical,
         href: https://iamjeremie.substack.com/p/comment-realiser-ses-propres-bougies,

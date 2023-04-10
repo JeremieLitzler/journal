@@ -6,7 +6,7 @@ date: 2022-06-01
 heroAlt: Image par défaut
 head:
   - [
-      meta,
+      link,
       {
         rel: canonical,
         href: https://iamjeremie.substack.com/p/installation-pv-retour-dexperience,

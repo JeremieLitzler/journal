@@ -4,7 +4,7 @@ description: "Le calcul du retour sur investissement n'était pas juste dans mon
 date: 2023-01-08
 head:
   - [
-      meta,
+      link,
       {
         rel: canonical,
         href: https://iamjeremie.me/fr/2023/01/calculer-le-retour-sur-investissement-pv/,

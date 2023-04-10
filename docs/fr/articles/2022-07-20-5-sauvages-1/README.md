@@ -6,7 +6,7 @@ heroAlt: Une prairie garnie de fleurs variées
 date: 2022-07-20
 head:
   - [
-      meta,
+      link,
       {
         rel: canonical,
         href: https://iamjeremie.me/fr/2022/07/5-sauvages-1-damien-dekarz,

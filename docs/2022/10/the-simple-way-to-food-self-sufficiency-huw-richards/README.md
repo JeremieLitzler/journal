@@ -13,7 +13,7 @@ next:
   link: ../../../posts/2022-10-03-why-you-should-harvest-garlic-in-may-huw-richards/
 head:
   - [
-      meta,
+      link,
       {
         rel: canonical,
         href: https://iamjeremie.substack.com/p/simple-way-to-food-self-sufficiency-huw-richards,

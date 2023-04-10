@@ -10,7 +10,7 @@ prev:
 #  link: ..//README.md
 head:
   - [
-      meta,
+      link,
       {
         rel: canonical,
         href: 2023-01-03-some-more-tips-from-huw-richards-about-compost-huw-richards,

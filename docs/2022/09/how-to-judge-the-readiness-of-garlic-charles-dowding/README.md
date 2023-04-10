@@ -7,7 +7,7 @@ heroImage: '/images/2022-09-22-how-to-judge-the-readiness-of-garlic-charles-dowd
 heroAlt: Sprouting garlic
 head:
   - [
-      meta,
+      link,
       {
         rel: canonical,
         href: https://iamjeremie.me/2022/09/how-to-judge-the-readiness-of-garlic-charles-dowding,

@@ -6,7 +6,7 @@ heroImage: /images/2023-03-30-a-laptop-and-notebook-on-a-desk.jpg
 heroAlt: A laptop and a notebook on a desk
 head:
   - [
-      meta,
+      link,
       {
         rel: canonical,
         href: https://iamjeremie.me/2023/03/how-is-setup-my-digital-presence-today/,

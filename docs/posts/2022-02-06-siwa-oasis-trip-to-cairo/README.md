@@ -6,7 +6,7 @@ heroImage: '/images/2022-02-06-siwa-oasis-trip-to-cairo-hero.jpg'
 heroAlt: A person walking near the Sphynx and the Pyramids of Egypt.
 head:
   - [
-      meta,
+      link,
       {
         rel: canonical,
         href: https://iamjeremie.substack.com/p/siwa-an-oasis-in-the-heart-of-the,

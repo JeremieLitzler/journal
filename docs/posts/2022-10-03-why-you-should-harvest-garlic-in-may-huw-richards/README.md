@@ -13,7 +13,7 @@ next:
   link: ../2022-09-30-how-to-grow-garlic-simple-steps-for-huge-yields-huw-richards/
 head:
   - [
-      meta,
+      link,
       {
         rel: canonical,
         href: https://iamjeremie.me/posts/2022-10-03-why-you-should-harvest-garlic-in-may-huw-richards/,

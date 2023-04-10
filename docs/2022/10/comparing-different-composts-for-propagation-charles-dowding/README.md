@@ -13,7 +13,7 @@ prev:
 #  link: ..//README.md
 head:
   - [
-      meta,
+      link,
       {
         rel: canonical,
         href: https://iamjeremie.substack.com/p/comparing-composts-propagation-charles-dowding,

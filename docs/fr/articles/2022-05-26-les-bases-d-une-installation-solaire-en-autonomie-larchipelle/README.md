@@ -4,7 +4,7 @@ description: "Mes notes du Vlog réalisé par L'Archipelle"
 date: 2022-05-26
 head:
   - [
-      meta,
+      link,
       {
         rel: canonical,
         href: https://iamjeremie.substack.com/p/notes-sur-les-bases-dune-installation,

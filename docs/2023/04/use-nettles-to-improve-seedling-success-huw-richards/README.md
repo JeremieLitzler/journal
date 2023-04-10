@@ -12,7 +12,7 @@ prev:
 #  link: ..//README.md
 head:
   - [
-      meta,
+      link,
       {
         rel: canonical,
         href: https://iamjeremie.me/2023/04/use-nettles-to-improve-seedling-success-huw-richards,

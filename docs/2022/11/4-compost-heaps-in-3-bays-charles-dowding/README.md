@@ -12,7 +12,7 @@ prev:
 #  link: ..//README.md
 head:
   - [
-      meta,
+      link,
       {
         rel: canonical,
         href: https://iamjeremie.substack.com/p/4-compost-heaps-in-3-bays-charles-dowding,

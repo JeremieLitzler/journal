@@ -12,7 +12,7 @@ next:
   - link: ../../../2022/11/optimiser-l-autonomie-electrique/
 head:
   - [
-      meta,
+      link,
       {
         rel: canonical,
         href: https://iamjeremie.substack.com/p/retour-d-experience-sur-une-installation-pv-1an,

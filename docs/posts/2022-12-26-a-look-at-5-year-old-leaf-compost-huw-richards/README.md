@@ -7,7 +7,7 @@ prev:
   link: ../../tag/huw-richards/
 head:
   - [
-      meta,
+      link,
       {
         rel: canonical,
         href: https://iamjeremie.me/posts/2022-12-26-a-look-at-5-year-old-leaf-compost-huw-richards/,

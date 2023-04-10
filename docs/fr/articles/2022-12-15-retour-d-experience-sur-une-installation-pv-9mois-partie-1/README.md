@@ -4,7 +4,7 @@ description: "Fin Mars 2022, nous avons mis en service notre installation photov
 date: 2022-12-15
 head:
   - [
-      meta,
+      link,
       {
         rel: canonical,
         href: https://iamjeremie.substack.com/p/rex-installation-pv-9mois-partie1,

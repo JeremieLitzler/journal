@@ -4,7 +4,7 @@ description: 'Fin Mars 2022, nous avons mis en service notre installation photov
 date: 2022-12-31
 head:
   - [
-      meta,
+      link,
       {
         rel: canonical,
         href: https://iamjeremie.me/fr/2022/12/retour-d-experience-sur-une-installation-pv-9mois-partie-2/,

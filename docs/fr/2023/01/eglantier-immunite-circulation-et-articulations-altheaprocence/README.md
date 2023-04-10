@@ -10,7 +10,7 @@ prev:
 #  link: ..//README.md
 head:
   - [
-      meta,
+      link,
       {
         rel: canonical,
         href: https://iamjeremie.substack.com/p/eglantier-immunite-circulation-et-articulations-,

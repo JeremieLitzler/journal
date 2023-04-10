@@ -4,7 +4,7 @@ description: Vous avez choisi de m'aider chaque mois. Merci !
 date: 2023-01-01
 head:
   - [
-      meta,
+      link,
       {
         rel: canonical,
         href: https://iamjeremie.me/fr/page/merci/pour-un-mois/,

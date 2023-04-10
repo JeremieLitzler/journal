@@ -6,7 +6,7 @@ heroImage: /images/2023-03-30-a-laptop-and-notebook-on-a-desk.jpg
 heroAlt: Un PC portable et un bloc-notes sur un bureau
 head:
   - [
-      meta,
+      link,
       {
         rel: canonical,
         href: https://iamjeremie.me/fr/2023/03/comment-j-organise-mon-activite-digitale/,

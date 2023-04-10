@@ -10,7 +10,7 @@ next:
   link: ../../03/a-day-in-the-life-of-a-farmer-in-march-the-dutch-farmer/
 head:
   - [
-      meta,
+      link,
       {
         rel: canonical,
         href: https://iamjeremie.me/2023/02/a-day-in-the-life-of-a-farmer-in-february-the-dutch-farmer/,

@@ -12,7 +12,7 @@ prev:
 #  link: ..//README.md
 head:
   - [
-      meta,
+      link,
       {
         rel: canonical,
         href: https://iamjeremie.me/posts/2022-11-01-wini-walbaum-and-charles-dowding-share-no-dig-charles-dowding,

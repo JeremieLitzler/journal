@@ -12,7 +12,7 @@ prev:
 #  link: ..//README.md
 head:
   - [
-      meta,
+      link,
       {
         rel: canonical,
         href: https://iamjeremie.me/fr/2023/02/recette-aux-orties-et-au-lierre-terrestre-le-chemin-de-la-nature,

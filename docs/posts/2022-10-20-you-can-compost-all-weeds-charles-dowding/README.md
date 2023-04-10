@@ -13,7 +13,7 @@ next:
   link: ../2022-10-19-easy-earthing-up-on-potatoes-with-compost-charles-dowding/
 head:
   - [
-      meta,
+      link,
       {
         rel: canonical,
         href: https://iamjeremie.me/2022/10/you-can-compost-all-weeds-charles-dowding,

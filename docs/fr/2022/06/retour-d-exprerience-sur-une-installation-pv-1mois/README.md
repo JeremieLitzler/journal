@@ -4,7 +4,7 @@ description: 'Fin Mars 2022, nous avons mis en service notre installation photov
 date: 2022-06-01
 head:
   - [
-      meta,
+      link,
       {
         rel: canonical,
         href: https://iamjeremie.substack.com/p/installation-pv-retour-dexperience,

@@ -10,7 +10,7 @@ prev:
 #  link: ..//README.md
 head:
   - [
-      meta,
+      link,
       {
         rel: canonical,
         href: https://iamjeremie.me/fr/2023/01/le-rosier-sauvage-bourgeons-et-cynorhodons-le-chemin-de-la-nature/,

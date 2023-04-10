@@ -7,7 +7,7 @@ heroImage: '/images/2022-10-02-a-vegetable-garden.jpg'
 heroAlt: A vegetable garden
 head:
   - [
-      meta,
+      link,
       {
         rel: canonical,
         href: https://iamjeremie.substack.com/p/simple-way-to-food-self-sufficiency-huw-richards,

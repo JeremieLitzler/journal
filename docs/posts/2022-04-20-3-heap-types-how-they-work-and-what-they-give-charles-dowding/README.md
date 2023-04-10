@@ -12,7 +12,7 @@ next:
   link: ../2022-10-15-july-tour-of-new-no-dig--harvests--pest-covers--compost--watering-charles-dowding/README.md
 head:
   - [
-      meta,
+      link,
       {
         rel: canonical,
         href: https://iamjeremie.substack.com/p/three-types-of-heap-charles-dowding,

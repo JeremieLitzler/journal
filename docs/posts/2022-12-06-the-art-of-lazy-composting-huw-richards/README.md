@@ -10,7 +10,7 @@ prev:
 #  link: ..//README.md
 head:
   - [
-      meta,
+      link,
       {
         rel: canonical,
         href: https://iamjeremie.substack.com/p/the-art-of-lazy-composting-huw-richards,

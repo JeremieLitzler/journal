@@ -6,7 +6,7 @@ heroImage: '/images/2022-10-24-inside-a-kiwai.jpg'
 heroAlt: A kiwai fruit cut in half
 head:
   - [
-      meta,
+      link,
       {
         rel: canonical,
         href: https://iamjeremie.me/posts/2022-10-24-gardening-2022/#raspberries,

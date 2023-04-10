@@ -6,7 +6,7 @@ heroImage: '/images/2022-09-08-what-can-you-teach-about-problem-solving.jpg'
 heroAlt: 'Keep things simple scrabble letters'
 head:
   - [
-      meta,
+      link,
       {
         rel: canonical,
         href: https://iamjeremie.me/2022/09/what-can-you-teach-about-problem-solving,

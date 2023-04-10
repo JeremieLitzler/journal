@@ -12,7 +12,7 @@ prev:
 #  link: ..//README.md
 head:
   - [
-      meta,
+      link,
       {
         rel: canonical,
         href: https://iamjeremie.me/fr/2023/03/galette-de-sarrasin-ecolo-au-pesto-dortie-noix-lenergie-autrement,

@@ -12,7 +12,7 @@ next:
   link: ../../../posts/2022-10-15-july-2022-tour-of-homeacres-garden-charles-dowding/
 head:
   - [
-      meta,
+      link,
       {
         rel: canonical,
         href: https://iamjeremie.substack.com/p/three-types-of-heap-charles-dowding,

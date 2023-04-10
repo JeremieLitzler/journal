@@ -10,7 +10,7 @@ prev:
 #  link: ..//README.md
 head:
   - [
-      meta,
+      link,
       {
         rel: canonical,
         href: https://iamjeremie.substack.com/p/7-most-productive-edible-crops-to-sow-in-februar,

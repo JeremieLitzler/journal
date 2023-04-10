@@ -7,7 +7,7 @@ heroImage: '/images/2022-10-12-comment-jardiner-avec-un-sol-vivant-permaculture-
 heroAlt: Image diagramme décrivant le cycle d'échanges entre les plantes et les mycorhizes
 head:
   - [
-      meta,
+      link,
       {
         rel: canonical,
         href: https://iamjeremie.me/fr/2022/10/comment-jardiner-avec-un-sol-vivant-damien-dekarz/,

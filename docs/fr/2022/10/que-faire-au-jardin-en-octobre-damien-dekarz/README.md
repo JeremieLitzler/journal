@@ -15,7 +15,7 @@ heroAlt: Une courge verte raillée sur du paillage
 #    ]
 next:
   text: 'Comment jardiner avec un sol vivant, par Permaculture, agroecologie, etc'
-  link: ../../../posts/2022-10-12-comment-jardiner-avec-un-sol-vivant-damien-dekarz/
+  link: ../comment-jardiner-avec-un-sol-vivant-damien-dekarz/
 
 category:
   - Jardin
