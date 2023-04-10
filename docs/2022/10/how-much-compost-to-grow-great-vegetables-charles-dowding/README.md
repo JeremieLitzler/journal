@@ -15,7 +15,7 @@ head:
       link,
       {
         rel: canonical,
-        href: https://iamjeremie.me/2022/10/how-much-compost-to-grow-great-vegetables-charles-dowding,
+        href: https://iamjeremie.me/2022/10/how-much-compost-to-grow-great-vegetables-charles-dowding/,
       },
       { property: 'og:type', content: article },
       {

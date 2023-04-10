@@ -15,7 +15,7 @@ head:
       link,
       {
         rel: canonical,
-        href: https://iamjeremie.me/fr/2023/03/a-day-in-the-life-of-a-farmer-in-march-the-dutch-farmer,
+        href: https://iamjeremie.me/2023/03/a-day-in-the-life-of-a-farmer-in-march-the-dutch-farmer/,
       },
     ]
 category:
