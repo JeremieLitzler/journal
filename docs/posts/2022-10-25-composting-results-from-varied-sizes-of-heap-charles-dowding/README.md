@@ -169,7 +169,7 @@ Worm compost is really good for potting.
 Go read the notes I took from the trials Charles did that showed how worm compost in the proper amount helped:
 
 - [Compost Testing and Final Result](../2022-10-23-compost-testing-and-final-result-charles-dowding/README.md)
-- [Comparing different composts for propagation](../2022-10-21-comparing-different-composts-for-propagation-charles-dowding/README.md)
+- [Comparing different composts for propagation](../../2022/10/comparing-different-composts-for-propagation-charles-dowding/README.md)
 
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
