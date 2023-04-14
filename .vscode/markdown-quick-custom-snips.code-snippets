@@ -79,5 +79,14 @@
     "prefix": "excerpt marker",
     "body": ["<!-- more -->"],
     "description": "add excerpt end marker"
+  },
+
+  "Large article nav helper": {
+    "scope": "markdown",
+    "prefix": "nav helper",
+    "body": [
+      "[< Back to the table of contents](./README.md) | [$1]($2) | [$3 >]($4)"
+    ],
+    "description": "add excerpt end marker"
   }
 }
