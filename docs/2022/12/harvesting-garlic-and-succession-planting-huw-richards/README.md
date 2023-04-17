@@ -4,13 +4,13 @@ description: 'Leaf mold is a brown gold that is easy to make, given you wait tha
 date: 2022-12-26
 prev:
   text: "See all my notes from Huw Richards' vlogs"
-  link: ../../tag/huw-richards/
+  link: ../../../tag/huw-richards/
 head:
   - [
       link,
       {
         rel: canonical,
-        href: https://iamjeremie.me/posts/2022-12-26-a-look-at-5-year-old-leaf-compost-huw-richards/,
+        href: https://iamjeremie.substack.com/p/a-look-at-5-year-old-leaf-compost-huw-richards,
       },
     ]
 category:
@@ -30,14 +30,13 @@ I wrote the following notes watching the video published on Huw Richards's chann
 
 <!-- more -->
 
-You can watch it using [this YouTube link](https://www.youtube.com/watch?v=8Z1RVwa8_a4).
-
-<!-- markdownlint-disable MD033 -->
-<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
+You can watch the vlog using [this YouTube link](https://www.youtube.com/watch?v=8Z1RVwa8_a4).
 
 ## Making good leaf mold
 
-It is easier to decompose leaves if they are shredded. It is only a matter of time: the finer the leaves are, the quicker they will decompose.
+It is easier to decompose leaves if they are shredded.
+
+It is only a matter of time: the finer the leaves are, the quicker they will decompose.
 
 ## What do you get after 5 years
 
@@ -49,4 +48,7 @@ It is a great example how nature work and how you work with it.
 
 If you understand the soil and you can enrich it, you will find the way to grow stronger and more producing vegetables.
 
-To continue ready, use the link about _Compost_ or about _Permaculture_ below.
+To continue reading, use this link about [_Compost_](../../../tag/compost/).
+
+<!-- markdownlint-disable MD033 -->
+<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
