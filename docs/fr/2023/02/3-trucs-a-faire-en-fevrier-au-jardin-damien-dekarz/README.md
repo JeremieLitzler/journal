@@ -24,7 +24,7 @@ category:
   - Agroécologie
 tag:
   - Damien Dekarz
-  - Février
+  - En fevrier
 ---
 
 ![Des graines de courges à planter pour la nouvelle année au jardin.](/images/2023-02-21-graines-de-courges-a-planter-pour-la-nouvelle-annee.jpg 'Crédits: image extraite du vlog de Damien Dekarz')

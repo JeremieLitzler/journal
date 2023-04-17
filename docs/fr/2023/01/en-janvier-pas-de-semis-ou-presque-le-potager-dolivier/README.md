@@ -20,7 +20,7 @@ category:
   - Jardin
 tag:
   - Potager d Olivier
-  - Janvier
+  - En janvier
 ---
 
 <!-- ![](/images/2023-01-06-.jpg 'Crédits: image extraite du vlog du Potager d'Olivier') -->

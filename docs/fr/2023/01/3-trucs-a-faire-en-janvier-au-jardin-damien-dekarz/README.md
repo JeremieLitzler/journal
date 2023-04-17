@@ -20,7 +20,7 @@ category:
   - Jardin
 tag:
   - Damien Dekarz
-  - Janvier
+  - En janvier
 ---
 
 ![Un chien des bottes de paille enneigées](/images/2023-01-04-un-chien-des-bottes-de-pailles-enneigees.jpg 'Crédits : image extraite du vlog de Damien Dekarz')

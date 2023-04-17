@@ -20,7 +20,7 @@ category:
   - Jardin
 tag:
   - Damien Dekarz
-  - Janvier
+  - En janvier
 ---
 
 ![Une myriade de boutures dans des pots](/images/2023-01-05-une-myriade-de-boutures.jpg 'Crédits: image extraite du vlog de Damien Dekarz')
