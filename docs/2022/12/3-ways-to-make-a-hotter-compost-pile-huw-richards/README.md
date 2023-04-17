@@ -4,7 +4,7 @@ description: 'A hot compost means compost ready quicker.'
 date: 2022-12-28
 prev:
   text: "See all my notes from Huw Richards' vlogs"
-  link: ../../tag/huw-richards/
+  link: ../../../tag/huw-richards/
 #next:
 #  text: ''
 #  link: ..//README.md
@@ -32,7 +32,7 @@ I wrote the following notes watching the video published on Huw Richards's chann
 
 <!-- more -->
 
-You can watch it using [this YouTube link](https://www.youtube.com/watch?v=9HkfLBgS7mY).
+You can watch the vlog using [this YouTube link](https://www.youtube.com/watch?v=9HkfLBgS7mY).
 
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
@@ -98,11 +98,13 @@ Nitrogen means more green material.
 
 Now, what isn't explained in the vlog is how do you get enough green material?
 
-For that, I invite you to [read more on the topic of composting](../../tag/compost/).
+For that, I invite you to [read more on the topic of composting](../../../tag/compost/).
 
-As always, don't forget to subscribe! I published one article every week and you support means everything to me.
+As always, don't forget to subscribe! I published one article every week and you support means everything to me. Thanks.
+
+:::center
+⏬⏬⏬
+:::
 
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
-
-Thanks.
