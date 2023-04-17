@@ -8,14 +8,14 @@ prev:
 #next:
 #  text: ''
 #  link: ..//README.md
-#head:
-#  - [
-#      meta,
-#      {
-#        rel: canonical,
-#        href: url,
-#      },
-#    ]
+head:
+  - [
+      meta,
+      {
+        rel: canonical,
+        href: https://iamjeremie.substack.com/p/3-ways-to-make-hotter-compost-pile-huw-richards,
+      },
+    ]
 category:
   - Gardening
 tag:
