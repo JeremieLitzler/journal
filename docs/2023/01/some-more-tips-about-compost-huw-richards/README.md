@@ -13,7 +13,7 @@ head:
       link,
       {
         rel: canonical,
-        href: 2023-01-03-some-more-tips-from-huw-richards-about-compost-huw-richards,
+        href: https://iamjeremie.substack.com/p/some-more-tips-about-compost-by-huw-richards,
       },
     ]
 category:
@@ -89,3 +89,12 @@ However, a soil that drains too much means a poorer water retention, which means
 So maybe, I’d suggest to use it on the first 10 cm max, but always mixed with soil.
 
 Huw didn’t put much anyways.
+
+Thanks for reading.
+
+:::center
+⏬⏬⏬
+:::
+
+<!-- markdownlint-disable MD033 -->
+<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
