@@ -10,7 +10,7 @@ head:
       link,
       {
         rel: canonical,
-        href: https://iamjeremie.me/fr/2022/10/comment-jardiner-avec-un-sol-vivant-damien-dekarz/,
+        href: https://jeremielitzler.fr/2022/10/comment-jardiner-avec-un-sol-vivant-damien-dekarz/,
       },
     ]
 next:

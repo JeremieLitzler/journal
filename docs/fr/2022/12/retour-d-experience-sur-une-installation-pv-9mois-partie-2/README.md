@@ -7,7 +7,7 @@ head:
       link,
       {
         rel: canonical,
-        href: https://iamjeremie.me/fr/2022/12/retour-d-experience-sur-une-installation-pv-9mois-partie-2/,
+        href: https://jeremielitzler.fr/2022/12/retour-d-experience-sur-une-installation-pv-9mois-partie-2/,
       },
     ]
 category:

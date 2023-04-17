@@ -13,7 +13,7 @@ head:
       link,
       {
         rel: canonical,
-        href: https://iamjeremie.me/fr/2023/01/ronce-murier-mure-bienfaits-et-usages-altheaprocence,
+        href: https://jeremielitzler.fr/2023/01/ronce-murier-mure-bienfaits-et-usages-altheaprocence,
       },
     ]
 category:

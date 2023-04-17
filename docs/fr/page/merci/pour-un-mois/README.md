@@ -7,7 +7,7 @@ head:
       link,
       {
         rel: canonical,
-        href: https://iamjeremie.me/fr/page/merci/pour-un-mois/,
+        href: https://jeremielitzler.fr/page/merci/pour-un-mois/,
       },
     ]
 article: false

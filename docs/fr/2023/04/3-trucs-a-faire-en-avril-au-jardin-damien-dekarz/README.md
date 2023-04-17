@@ -15,7 +15,7 @@ head:
       link,
       {
         rel: canonical,
-        href: https://iamjeremie.me/fr/2023/04/3-trucs-a-faire-en-avril-au-jardin-damien-dekarz,
+        href: https://jeremielitzler.fr/2023/04/3-trucs-a-faire-en-avril-au-jardin-damien-dekarz,
       },
     ]
 category:

@@ -15,7 +15,7 @@ head:
       link,
       {
         rel: canonical,
-        href: https://iamjeremie.me/fr/2023/03/la-guerre-de-lortie-avec-bernard-bertrand-damien-dekarz,
+        href: https://jeremielitzler.fr/2023/03/la-guerre-de-lortie-avec-bernard-bertrand-damien-dekarz,
       },
     ]
 category:

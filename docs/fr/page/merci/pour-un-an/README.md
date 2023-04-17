@@ -5,7 +5,10 @@ date: 2023-01-01
 head:
   - [
       meta,
-      { rel: canonical, href: https://iamjeremie.me/fr/page/merci/pour-un-an/ },
+      {
+        rel: canonical,
+        href: https://jeremielitzler.fr/page/merci/pour-un-an/,
+      },
     ]
 article: false
 ---

@@ -15,7 +15,7 @@ head:
       link,
       {
         rel: canonical,
-        href: https://iamjeremie.me/fr/2023/03/ortie-piqure-et-cookies-damien-dekarz,
+        href: https://jeremielitzler.fr/2023/03/ortie-piqure-et-cookies-damien-dekarz,
       },
     ]
 category:

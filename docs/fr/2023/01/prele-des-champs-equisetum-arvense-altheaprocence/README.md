@@ -13,7 +13,7 @@ head:
       link,
       {
         rel: canonical,
-        href: https://iamjeremie.me/fr/2023/01/prele-des-champs-equisetum-arvense-altheaprocence/,
+        href: https://jeremielitzler.fr/2023/01/prele-des-champs-equisetum-arvense-altheaprocence/,
       },
     ]
 category:

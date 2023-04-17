@@ -13,7 +13,7 @@ head:
       link,
       {
         rel: canonical,
-        href: https://iamjeremie.me/fr/2023/01/le-roncier-rubus-fruticosus-le-chemin-de-la-nature,
+        href: https://jeremielitzler.fr/2023/01/le-roncier-rubus-fruticosus-le-chemin-de-la-nature,
       },
     ]
 category:

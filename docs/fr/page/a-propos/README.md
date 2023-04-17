@@ -3,7 +3,7 @@ title: Qui suis-je ?
 description: Une présentation de Jérémie Litzler et du but du site.
 date: 2021-08-10
 head:
-  - [link, { rel: canonical, href: https://iamjeremie.me/fr/page/a-propos/ }]
+  - [link, { rel: canonical, href: https://jeremielitzler.fr/page/a-propos/ }]
 article: false
 ---
 

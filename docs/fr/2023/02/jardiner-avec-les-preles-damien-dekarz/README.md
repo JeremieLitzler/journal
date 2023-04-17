@@ -13,7 +13,7 @@ head:
       link,
       {
         rel: canonical,
-        href: https://iamjeremie.me/fr/2023/02/jardiner-avec-les-preles-damien-dekarz,
+        href: https://jeremielitzler.fr/2023/02/jardiner-avec-les-preles-damien-dekarz,
       },
     ]
 category:

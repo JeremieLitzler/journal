@@ -6,7 +6,7 @@ date: 2021-08-10
 head:
   - [
       meta,
-      { rel: canonical, href: https://iamjeremie.me/fr/page/soutenez-moi/ },
+      { rel: canonical, href: https://jeremielitzler.fr/page/soutenez-moi/ },
     ]
 article: false
 ---

@@ -7,7 +7,7 @@ head:
       link,
       {
         rel: canonical,
-        href: https://iamjeremie.me/fr/2023/01/calculer-le-retour-sur-investissement-pv/,
+        href: https://jeremielitzler.fr/2023/01/calculer-le-retour-sur-investissement-pv/,
       },
     ]
 category:

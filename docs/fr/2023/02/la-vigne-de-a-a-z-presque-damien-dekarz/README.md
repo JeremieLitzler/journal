@@ -15,7 +15,7 @@ head:
       link,
       {
         rel: canonical,
-        href: https://iamjeremie.me/fr/2023/02/la-vigne-de-a-a-z-presque-damien-dekarz/,
+        href: https://jeremielitzler.fr/2023/02/la-vigne-de-a-a-z-presque-damien-dekarz/,
       },
     ]
 category:

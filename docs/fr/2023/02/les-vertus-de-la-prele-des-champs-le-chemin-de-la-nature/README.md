@@ -13,7 +13,7 @@ head:
       link,
       {
         rel: canonical,
-        href: https://iamjeremie.me/fr/2023/02/les-vertus-de-la-prele-des-champs-le-chemin-de-la-nature,
+        href: https://jeremielitzler.fr/2023/02/les-vertus-de-la-prele-des-champs-le-chemin-de-la-nature,
       },
     ]
 category:

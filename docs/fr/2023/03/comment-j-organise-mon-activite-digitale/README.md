@@ -9,7 +9,7 @@ head:
       link,
       {
         rel: canonical,
-        href: https://iamjeremie.me/fr/2023/03/comment-j-organise-mon-activite-digitale/,
+        href: https://jeremielitzler.fr/2023/03/comment-j-organise-mon-activite-digitale/,
       },
     ]
 category:
