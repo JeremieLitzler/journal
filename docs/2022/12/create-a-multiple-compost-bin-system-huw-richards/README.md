@@ -4,18 +4,12 @@ description: "Building your own compost bay is actually simple. Let's see how Hu
 date: 2022-12-27
 prev:
   text: "See all my notes from Huw Richards' vlogs"
-  link: ../../tag/huw-richards/
+  link: ../../../tag/huw-richards/
 #next:
 #  text: ''
 #  link: ..//README.md
-#head:
-#  - [
-#      meta,
-#      {
-#        rel: canonical,
-#        href: url,
-#      },
-#    ]
+head:
+  - [meta, { rel: canonical, href: url }]
 category:
   - Gardening
 tag:
