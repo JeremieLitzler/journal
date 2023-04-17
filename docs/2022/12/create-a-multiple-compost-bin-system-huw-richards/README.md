@@ -13,7 +13,7 @@ head:
       meta,
       {
         rel: canonical,
-        href: https://iamjeremie.me/2022/12/create-a-multiple-compost-bin-system-huw-richards,
+        href: https://iamjeremie.substack.com/p/create-multiple-compost-bins-huw-richard,
       },
     ]
 category:
