@@ -9,7 +9,13 @@ prev:
 #  text: ''
 #  link: ..//README.md
 head:
-  - [meta, { rel: canonical, href: url }]
+  - [
+      meta,
+      {
+        rel: canonical,
+        href: https://iamjeremie.me/2022/12/create-a-multiple-compost-bin-system-huw-richards,
+      },
+    ]
 category:
   - Gardening
 tag:
@@ -26,7 +32,7 @@ I wrote the following notes watching the video published on Huw Richards’s cha
 
 <!-- more -->
 
-You can watch it using [this YouTube link](https://www.youtube.com/watch?v=TipeKCgyd9s).
+You can watch the vlog using [this YouTube link](https://www.youtube.com/watch?v=TipeKCgyd9s).
 
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
