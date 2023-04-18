@@ -8,7 +8,13 @@ export const frHeadConfig = {
   head: [
     ['meta', { property: 'og:title', content: titleFr }],
     ['meta', { property: 'og:type', content: 'website' }],
-    ['meta', { property: 'og:url', content: 'https://iamjeremie.me/' }],
+    [
+      'meta',
+      {
+        property: 'og:url',
+        content: 'https://jeremielitzler.fr/',
+      },
+    ],
     [
       'meta',
       {
