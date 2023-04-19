@@ -9,7 +9,7 @@ tag:
   - Screens
 ---
 
-[Read the french version](../../fr/2021/08/reduire-son-exposition-a-la-lumiere-bleue/README.md)
+[Read the french version](https://jeremielitzler.fr/2021/08/reduire-son-exposition-a-la-lumiere-bleue/)
 
 ## Do you know about the _blue light_
 

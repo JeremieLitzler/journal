@@ -25,7 +25,7 @@ In 2023, there are a lot of solutions to build your digital presence. In this ar
 ## For websites
 
 :::note
-Pour la version française de cet article, [c'est par ici](../../../fr/2023/03/comment-j-organise-mon-activite-digitale/README.md)
+Pour la version française de cet article, [c'est par ici](https://jeremielitzler.fr/2023/03/comment-j-organise-mon-activite-digitale/)
 :::
 
 I use three solutions, which I pick depending on the following criteria.
