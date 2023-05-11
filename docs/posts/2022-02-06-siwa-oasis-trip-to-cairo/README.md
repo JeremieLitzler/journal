@@ -9,7 +9,7 @@ head:
       link,
       {
         rel: canonical,
-        href: https://iamjeremie.substack.com/p/siwa-an-oasis-in-the-heart-of-the,
+        href: https://iamjeremie.substack.com/p/siwa-oasis-2022-day-1,
       },
     ]
 category:

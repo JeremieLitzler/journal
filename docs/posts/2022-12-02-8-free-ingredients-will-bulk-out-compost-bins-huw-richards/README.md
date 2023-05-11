@@ -15,7 +15,7 @@ head:
       link,
       {
         rel: canonical,
-        href: https://iamjeremie.substack.com/p/these-8-free-ingredients-will-bulk,
+        href: https://iamjeremie.substack.com/p/8-free-ingredients-to-bulk-compost-huw-richards,
       },
     ]
 category:
