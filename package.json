@@ -1,6 +1,6 @@
 {
   "name": "journal",
-  "version": "1.0.630",
+  "version": "1.0.631",
   "description": "Saves Jeremie Litzler's notes, experiences and thought publicly",
   "main": "index.js",
   "repository": "https://github.com/JeremieLitzler/journal",
@@ -15,9 +15,9 @@
   },
   "devDependencies": {
     "@vuepress/plugin-docsearch": "2.0.0-beta.61",
-    "vuepress-vite": "2.0.0-beta.61"
+    "vuepress-vite": "2.0.0-beta.62"
   },
   "dependencies": {
-    "vuepress-theme-hope": "2.0.0-beta.209"
+    "vuepress-theme-hope": "2.0.0-beta.210"
   }
 }
