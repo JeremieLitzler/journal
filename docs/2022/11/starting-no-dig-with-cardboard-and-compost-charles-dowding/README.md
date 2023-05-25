@@ -15,7 +15,7 @@ head:
       meta,
       {
         rel: canonical,
-        href: https://iamjeremie.me/2022/11/starting-no-dig-with-cardboard-and-compost-charles-dowding,
+        href: https://iamjeremie.substack.com/p/no-dig-a-method-with-cardboard-charles-dowding,
       },
     ]
 category:
@@ -153,7 +153,7 @@ Charles recommends not to sow directly in the ground because it’s vulnerable.
 
 Propagation means sowing the seed or multi-sown seeds in a module until the seedling is big enough to be transplanted.
 
-Charles has severable vlogs on the topics, check out the _propagation_ tag. [These notes are a good starting point](../../2022/10/comparing-different-composts-for-propagation-charles-dowding/README.md) from a more recent vlog.
+Charles has severable vlogs on the topics, check out the _propagation_ tag. [These notes are a good starting point](../../10/comparing-different-composts-for-propagation-charles-dowding/README.md) from a more recent vlog.
 
 ## Planting in a No Dig bed
 
@@ -187,7 +187,7 @@ Keep thinking ahead, have seedlings ready for the months to come, even if it’s
 
 You want to keep eating from your garden all year long ultimately.
 
-You will need to start small, though. I took notes on the topic in a vlog by Huw Richards. He explains [the simple way to becoming self-sufficient in food](../../2022/10/the-simple-way-to-food-self-sufficiency-huw-richards/README.md). Have a read.
+You will need to start small, though. I took notes on the topic in a vlog by Huw Richards. He explains [the simple way to becoming self-sufficient in food](../../10/the-simple-way-to-food-self-sufficiency-huw-richards/README.md). Have a read.
 
 Think about the storage of your vegetables. Garlic and onions harvested in the summer will stay indoors.
 
