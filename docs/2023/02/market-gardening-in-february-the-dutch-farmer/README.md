@@ -177,7 +177,7 @@ You need to follow a couple of important steps:
 
 - install the plate into the hopper, which is the case that holds the seeds.
 - weight the seeds you use to plant the beds to calculate the production cost of the bed and the crop.
-  - keeping a spreadsheet to record what you use and produce is important for a sustainable market garden. See [the previous post for details](../../01/a-day-in-the-life-of-a-farmer-in-january-the-dutch-farmer/README.md#work-on-projects-and-planning).
+  - keeping a spreadsheet to record what you use and produce is important for a sustainable market garden. See [the previous post for details](../../01/market-gardening-in-january-the-dutch-farmer/README.md#work-on-projects-and-planning).
 
 To choose the density of sowing for arugula, you will need to choose your goal:
 
