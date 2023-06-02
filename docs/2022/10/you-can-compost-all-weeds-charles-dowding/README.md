@@ -11,14 +11,14 @@ prev:
 next:
   text: 'Easy earthing up on potatoes with compost'
   link: ../../../posts/2022-10-19-easy-earthing-up-on-potatoes-with-compost-charles-dowding/
-#head:
-#  - [
-#      meta,
-#      {
-#        rel: canonical,
-#        href: url,
-#      },
-#    ]
+head:
+  - [
+      meta,
+      {
+        rel: canonical,
+        href: https://iamjeremie.substack.com/p/you-can-compost-all-weeds-charles-dowding,
+      },
+    ]
 category:
   - Gardening
 tag:

@@ -16,7 +16,7 @@ head:
       meta,
       {
         rel: canonical,
-        href: https://iamjeremie.me/2022/10/making-and-using-compost-in-a-dalek-charles-dowding,
+        href: https://iamjeremie.substack.com/p/making-compost-in-a-dalek-charles-dowding,
       },
     ]
 category:
