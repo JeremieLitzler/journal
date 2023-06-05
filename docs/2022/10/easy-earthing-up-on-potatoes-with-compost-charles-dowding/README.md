@@ -16,7 +16,7 @@ head:
       meta,
       {
         rel: canonical,
-        href: https://iamjeremie.me/2022/10/easy-earthing-up-on-potatoes-with-compost-charles-dowding,
+        href: https://iamjeremie.substack.com/p/easy-earthing-up-on-potatoes-charles-dowding,
       },
     ]
 category:
