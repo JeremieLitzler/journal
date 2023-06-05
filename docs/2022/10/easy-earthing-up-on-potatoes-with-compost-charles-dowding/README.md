@@ -1,24 +1,24 @@
 ---
 isDraft: false
-title: Easy earthing up on potatoes with compost, by Charles Dowding
-description: "I wrote the following notes watching the video published on Charles Dowding's channel"
+title: Easy earthing up on potatoes with compost, with Charles Dowding
+description: "Using compost, Charles shares a trick that makes it easy and quick earth potatoes. Try it!"
 date: 2022-10-19
 heroImage: '/images/2022-10-19-easy-earthing-up-on-potatoes-with-compost-charles-dowding-hero.webp'
 heroAlt: A shovel earthing up a plant of potatoes
 prev:
   text: "See all my notes from Charles Dowding's vlogs"
-  link: ../../tag/charles-dowding/
+  link: ../../../tag/charles-dowding/
 next:
   text: 'You can compost all weeds'
-  link: ../../2022/10/you-can-compost-all-weeds-charles-dowding/
-#head:
-#  - [
-#      meta,
-#      {
-#        rel: canonical,
-#        href: url,
-#      },
-#    ]
+  link: ../you-can-compost-all-weeds-charles-dowding/
+head:
+  - [
+      meta,
+      {
+        rel: canonical,
+        href: https://iamjeremie.me/2022/10/easy-earthing-up-on-potatoes-with-compost-charles-dowding,
+      },
+    ]
 category:
   - Gardening
 tag:
@@ -28,13 +28,18 @@ tag:
   - Potatoes
 ---
 
-![A shovel earthing up a plant of potatoes](./images/2022-10-19-easy-earthing-up-on-potatoes-with-compost-charles-dowding-hero.webp)
+![A shovel earthing up a plant of potatoes](/images/2022-10-19-easy-earthing-up-on-potatoes-with-compost-charles-dowding-hero.webp 'Credits: [GardenersWorld.com](https://www.gardenersworld.com/how-to/grow-plants/how-to-earth-up-potatoes/)')
 
-_Credits: [GardenersWorld.com](https://www.gardenersworld.com/how-to/grow-plants/how-to-earth-up-potatoes/)_
+Using compost, Charles shares a trick that makes it easy and quick earth potatoes. Try it!
 
 Thanks to Charles Dowding for sharing his wisdom and knowledge!
 I wrote the following notes watching the short video published on Charles Dowding's channel.
 You can watch it using [this YouTube link](https://www.youtube.com/shorts/8OqHLJ5PDmQ).
+
+<!-- more -->
+
+<!-- markdownlint-disable MD033 -->
+<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
 
 ## What is "earthing up potatoes"
 
@@ -44,9 +49,7 @@ It is the process of covering with soil the potatoes to protect them from the li
 
 He uses **dry compost** and pours it on top of the plant using a bucket.
 
-![Earthing up potatoes with compost](./images/earthing-up-potatoes.jpg)
-
-_Credits: image taken from Charles Dowding's vlog_
+![Earthing up potatoes with compost](./images/earthing-up-potatoes.jpg "Credits: image taken from Charles Dowding's vlog")
 
 The dry compost is key so it can fall to the bottom of the plan stem.
 
@@ -55,6 +58,3 @@ That means not doing it on a rainy day ;)
 :::
 
 To finish, follow up with a watering if no rain is due by the next day.
-
-<!-- markdownlint-disable MD033 -->
-<p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
