@@ -126,12 +126,6 @@ What is important here is the section you will add to explain the new subscriber
 
 In my case, I will need to write a special post to my current French subscribers to help them opt-in to the French newsletter only.
 
-## Setup the welcome email in both languages
-
-Now, it’s time to set up the welcome email.
-
-To do so, we needed to set up the Sections, because, in my case, I included the links of each section in the respective language block of the email.
-
 Here [my welcome email](./welcome-email.md).
 
 ## Setup the opt-out email in both languages
