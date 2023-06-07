@@ -24,4 +24,6 @@ If you subscribed before April 2023, you will find this useful.
 
 Following [this link](../how-to-setup-substack-publication-for-2-languages-in-2023/welcome-email.md#enable-the-newsletter-s-you-need), it will explain you how to opt-in to the newsletter you want.
 
+You have full control 😊
+
 [Contact me](../../../page/contact-me/README.md) if you need further assistance.
