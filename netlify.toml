@@ -7,6 +7,6 @@
 #[headers.values]
 #Content-Security-Policy = "default-src 'self';"
 
-# Thanks to https://answers.netlify.com/t/no-changes-detected-in-base-directory-returning-early-from-build/11970
+# Thanks to https://answers.netlify.com/t/support-guide-how-to-use-the-ignore-command/37517
 [build]
 ignore = "git diff --quiet $CACHED_COMMIT_REF $COMMIT_REF . "
