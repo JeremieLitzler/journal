@@ -1,6 +1,6 @@
 ---
-title: Compost Testing and Final Result, by Charles Dowding
-description: "Charles had come to an end with his compost comparaison. Let's look at the results and the conclusion to draw from it."
+title: Compost Testing and Final Result, with Charles Dowding
+description: "Charles has come to an end with his compost comparaison. Let's look at the results and the conclusion to draw from it."
 date: 2022-10-23
 heroImage: '/images/2022-10-23-compost-testing-and-final-result-charles-dowding-hero.jpg'
 heroAlt: A shovel in a heap of compost
@@ -10,14 +10,14 @@ prev:
 next:
   text: 'Growth differences in three strips of different soil treatment, year five'
   link: ../../../posts/2022-11-03-year-5-in-3-strips-in-different-soil--charles-dowding/
-#head:
-#  - [
-#      meta,
-#      {
-#        rel: canonical,
-#        href: url,
-#      },
-#    ]
+head:
+  - [
+      meta,
+      {
+        rel: canonical,
+        href: https://iamjeremie.substack.com/p/compost-testing-and-final-result-charles-dowding,
+      },
+    ]
 category:
   - Gardening
 tag:
@@ -28,7 +28,7 @@ tag:
 
 ![A shovel in a heap of compost](/images/2022-10-23-compost-testing-and-final-result-charles-dowding-hero.jpg 'Credits: image taken from Charles Dowding’s vlog')
 
-Charles had come to an end with his compost comparaison. Let's look at the results and the conclusion to draw from it.
+Charles has come to an end with his compost comparaison. Let's look at the results and the conclusion to draw from it.
 
 <!-- more -->
 
