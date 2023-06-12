@@ -1,3 +1,6 @@
+const version = '1.0.645';
+const publishDate = new Date(Date.now()).toDateString();
+
 //https://v2.vuepress.vuejs.org/reference/default-theme/extending.html
 
 import { hopeTheme } from 'vuepress-theme-hope'
@@ -32,7 +35,7 @@ export default hopeTheme({
       } 
     },
     displayFooter: true,
-    footer: 'GPLv3 Licensed | <a href="https://iamjeremie.me/page/terms" title="Read terms and conditions of this website">Terms</a>',
+    footer: `GPLv3 Licensed | <a href="https://iamjeremie.me/page/terms" title="Read terms and conditions of this website">Terms</a> | v${version} published on ${publishDate}`,
     plugins: {
       blog: true,
       comment: {

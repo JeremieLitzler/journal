@@ -1,15 +1,15 @@
 ---
 title: Compost Testing and Final Result, by Charles Dowding
-description: "I wrote the following notes watching the video published on Charles Dowding's channel"
+description: "Charles had come to an end with his compost comparaison. Let's look at the results and the conclusion to draw from it."
 date: 2022-10-23
 heroImage: '/images/2022-10-23-compost-testing-and-final-result-charles-dowding-hero.jpg'
 heroAlt: A shovel in a heap of compost
 prev:
   text: "See all my notes from Charles Dowding's vlogs"
-  link: ../../tag/charles-dowding/
+  link: ../../../tag/charles-dowding/
 next:
   text: 'Growth differences in three strips of different soil treatment, year five'
-  link: ../2022-11-03-year-5-in-3-strips-in-different-soil--charles-dowding/
+  link: ../../../posts/2022-11-03-year-5-in-3-strips-in-different-soil--charles-dowding/
 #head:
 #  - [
 #      meta,
@@ -27,6 +27,10 @@ tag:
 ---
 
 ![A shovel in a heap of compost](/images/2022-10-23-compost-testing-and-final-result-charles-dowding-hero.jpg 'Credits: image taken from Charles Dowding’s vlog')
+
+Charles had come to an end with his compost comparaison. Let's look at the results and the conclusion to draw from it.
+
+<!-- more -->
 
 Thanks to Charles Dowding for sharing his wisdom and knowledge!
 I wrote the following notes watching the video published on Charles Dowding’s channel.
