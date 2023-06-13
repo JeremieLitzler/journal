@@ -3,10 +3,10 @@ home: true
 containerClass: jli-home-page
 heroFullScreen: true
 title: Home
-heroText: Hello,
+heroText: Hello and welcome!
 description: 'This journal of notes and experiences of Jérémie Litzler (available offline after installation) will provide a wide range of topics about sustainable living'
 heroImage: /images/profilepic-400w.jpg
-tagline: and welcome to my blog. I hope you will find here what you are looking for!
+tagline: "I share here my notes from dozens of expert vlogs from many field of work where I experiment: gardening, plants, energy and many others. <br> <br>I hope you will find what you are looking for!"
 head:
   - [link, { rel: canonical, href: https://iamjeremie.me/ }]
 actions:
