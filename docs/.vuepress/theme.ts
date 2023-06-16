@@ -1,5 +1,11 @@
 const version = '1.0.645';
-const publishDate = new Date(Date.now()).toDateString();
+const publishDate = new Date(Date.now());
+//https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/DateTimeFormat
+const publishDateFormatted = new Intl.DateTimeFormat("fr-FR", {
+  dateStyle: "full",
+  timeStyle: "long",
+  timeZone: "Europe/Paris",
+}).format(publishDate);
 
 //https://v2.vuepress.vuejs.org/reference/default-theme/extending.html
 
@@ -35,7 +41,7 @@ export default hopeTheme({
       } 
     },
     displayFooter: true,
-    footer: `GPLv3 Licensed | <a href="https://iamjeremie.me/page/terms" title="Read terms and conditions of this website">Terms</a> | v${version} published on ${publishDate}`,
+    footer: `GPLv3 Licensed | <a href="https://iamjeremie.me/page/terms" title="Read terms and conditions of this website">Terms</a> | v${version} published on ${publishDateFormatted}`,
     plugins: {
       blog: true,
       comment: {
