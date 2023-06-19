@@ -10,14 +10,14 @@ prev:
 #next:
 #  text: ''
 #  link: ..//README.md
-#head:
-#  - [
-#      meta,
-#      {
-#        rel: canonical,
-#        href: url,
-#      },
-#    ]
+head:
+  - [
+      meta,
+      {
+        rel: canonical,
+        href: https://iamjeremie.substack.com/p/break-down-and-use-wood-chips-charles-dowding,
+      },
+    ]
 category:
   - Gardening
 tag:
@@ -41,8 +41,7 @@ You can watch it using [this YouTube link](https://www.youtube.com/watch?v=qhBvE
 
 ### Johnson-Su bioreactor
 
-![Aerial view of bioreactor](./images/aerial-view-bioreactor-landstewardshipproject.jpg)
-Credits: _[Land Stewardship Project](https://landstewardshipproject.org/getting-a-bio-reaction-from-soil/)_
+![Aerial view of bioreactor](./images/aerial-view-bioreactor-landstewardshipproject.jpg 'Credits: _[Land Stewardship Project](https://landstewardshipproject.org/getting-a-bio-reaction-from-soil/)_')
 
 It’s used to decompose the woodchips by using this system and making sure the woodchips are properly watered.
 
