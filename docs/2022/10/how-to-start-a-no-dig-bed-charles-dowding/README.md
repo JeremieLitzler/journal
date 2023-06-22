@@ -1,24 +1,24 @@
 ---
 isDraft: true
 title: How to Start a No Dig Bed and Compost Differences, by Charles Dowding
-description: "I wrote the following notes watching the video published on Charles Dowding's channel"
+description: "The steps are simple and I have validated the process and the efficacy of the technique to creating a living soil."
 date: 2022-10-26
-heroImage: '/images/2022-10-26-how-to-start-a-no-dig-bed-and-compost-differences-charles-dowding-hero.jpg'
-heroAlt:
+heroImage: '/images/2022-10-26-a-man-cleaning-a-lettuce.jpg'
+heroAlt: A man cleaning a lettuce
 prev:
   text: "See all my notes from Charles Dowding's vlogs"
   link: ../../tag/charles-dowding/
 #next:
 #  text: ''
 #  link: ..//README.md
-#head:
-#  - [
-#      meta,
-#      {
-#        rel: canonical,
-#        href: url,
-#      },
-#    ]
+head:
+  - [
+      meta,
+      {
+        rel: canonical,
+        href: https://iamjeremie.me/2022/10/how-to-start-a-no-dig-bed-charles-dowding,
+      },
+    ]
 category:
   - Gardening
 tag:
@@ -28,7 +28,9 @@ tag:
   - Garden beds
 ---
 
-![A cabbage being cleaned after harvest](./images/2022-10-26-how-to-start-a-no-dig-bed-and-compost-differences-charles-dowding-hero.jpg.jpg 'Credits: image taken from Charles Dowding’s vlog')
+![A cabbage being cleaned after harvest](/images/2022-10-26-a-man-cleaning-a-lettuce.jpg 'Credits: image taken from Charles Dowding’s vlog')
+
+The steps are simple and I have validated the process and the efficacy of the technique to creating a living soil.
 
 Thanks to Charles Dowding for sharing his wisdom and knowledge!
 I wrote the following notes watching the video published on Charles Dowding’s channel.
