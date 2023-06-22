@@ -16,7 +16,7 @@ head:
       meta,
       {
         rel: canonical,
-        href: https://iamjeremie.me/2022/10/how-to-start-a-no-dig-bed-charles-dowding,
+        href: https://iamjeremie.substack.com/p/how-to-start-a-no-dig-bed-charles-dowding,
       },
     ]
 category:
