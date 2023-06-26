@@ -16,7 +16,7 @@ head:
       meta,
       {
         rel: canonical,
-        href: https://iamjeremie.me/2022/10/composting-in-a-few-easy-steps-charles-dowding,
+        href: https://iamjeremie.substack.com/p/composting-in-a-few-easy-steps-charles-dowding,
       },
     ]
 category:
