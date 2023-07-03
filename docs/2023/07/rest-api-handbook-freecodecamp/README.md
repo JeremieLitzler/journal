@@ -75,7 +75,9 @@ In summary, REST APIs are a popular and widely used architectural style for buil
 
 While there are some limitations and concerns with REST APIs, they remain a popular and effective option for building APIs in many different industries and sectors.
 
-## Our tools
+## How to Build a REST API with Node and Express
+
+### Our tools
 
 **[Node.js](https://nodejs.org/)** is an open-source, cross-platform, back-end JavaScript runtime environment that allows developers to execute JavaScript code outside of a web browser. It was created by Ryan Dahl in 2009 and has since become a popular choice for building web applications, APIs, and servers.
 
@@ -100,9 +102,9 @@ The matter of how many layers should your project have, what names should each l
 
 Our application will have five different layers, which will be ordered in this way:
 
-![image-110](https://www.freecodecamp.org/news/content/images/2023/04/image-110.png)
-
 ### Application layers
+
+![image-110](https://www.freecodecamp.org/news/content/images/2023/04/image-110.png "Application layers")
 
 - The application layer will have the basic setup of our server and the connection to our routes (the next layer).
 - The routes layer will have the definition of all of our routes and the connection to the controllers (the next layer).
@@ -116,7 +118,7 @@ This means that a request first has to go through the first layer, then the seco
 
 > If you'd like to know some other API architecture options, I recommend [you this software architecture article](https://www.freecodecamp.org/news/an-introduction-to-software-architecture-patterns/) I wrote a while ago.
 
-## The code
+### The code for the API
 
 Before jumping to the code, let's mention what we'll actually build. We'll be building an API for a pet shelter business. This pet shelter needs to register the pets that are staying in the shelter, and for that we'll perform basic CRUD operations (create, read, update and delete).
 
@@ -160,9 +162,7 @@ Here we're basically setting up our server and declaring that any request that h
 
 Next, go ahead and create this folder structure in your project:
 
-![image-246](https://www.freecodecamp.org/news/content/images/2023/04/image-246.png)
-
-## Folder structure
+![image-246](https://www.freecodecamp.org/news/content/images/2023/04/image-246.png "Folder structure")
 
 ### Routes
 
@@ -372,7 +372,7 @@ Now that our server is up and running, let's implement a simple test suit to che
 
 If you're not familiar with automated testing, I recommend you read [this introductory article I wrote a while ago](https://www.freecodecamp.org/news/test-a-react-app-with-jest-testing-library-and-cypress/).
 
-### Our tools
+### Our tools to test
 
 [**SuperTest**](https://www.npmjs.com/package/supertest) is a JavaScript library that is used for testing HTTP servers or web applications that make HTTP requests. It provides a high-level abstraction for testing HTTP, allowing developers to send HTTP requests and make assertions about the responses received, making it easier to write automated tests for web applications.
 
