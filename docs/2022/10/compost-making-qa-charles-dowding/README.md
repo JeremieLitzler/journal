@@ -15,7 +15,7 @@ head:
       meta,
       {
         rel: canonical,
-        href: https://iamjeremie.me/2022/10/compost-making-qa-charles-dowding,
+        href: https://iamjeremie.substack.com/p/compost-making-qa-charles-dowding,
       },
     ]
 category:
