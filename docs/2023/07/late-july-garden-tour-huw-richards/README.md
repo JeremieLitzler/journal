@@ -1,21 +1,21 @@
 ---
-title: Late July Tour of our 100% Organic Kitchen Garden (Only Feed is Compost), by Huw Richards
+title: Late July Tour of a 100% Organic Kitchen Garden (Only Feed is Compost), by Huw Richards
 description: "The garden is very productive around mid-summer. Let's look at what Huw has to share."
 date: 2022-12-16
 prev:
   text: "See all my notes from Huw Richards' vlogs"
-  link: ../../tag/huw-richards/
+  link: ../../../tag/huw-richards/
 #next:
 #  text: ''
 #  link: ..//README.md
-#head:
-#  - [
-#      meta,
-#      {
-#        rel: canonical,
-#        href: url,
-#      },
-#    ]
+head:
+  - [
+      meta,
+      {
+        rel: canonical,
+        href: https://iamjeremie.me/2023/07/late-july-garden-tour-huw-richards,
+      },
+    ]
 category:
   - Gardening
 tag:
@@ -162,6 +162,10 @@ It might not be true to all the gardens. You will need to find what works best f
 I have tomatoes in the same bed for eight years.
 
 I have planted potatoes randomly (basically, where I had space) and I have very likely planted in the same place again. This year, we even had volunteered potato plants from an area where we had some last year.
+
+:::center
+⏬⏬⏬
+:::
 
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>

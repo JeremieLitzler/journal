@@ -48,15 +48,11 @@ Using a plastic cover, most of the former weeds are kept at bay and Charles is n
 
 - potatoes
 
-  ![Estima potato in compost soil under a plastic cover](./images/estima-potatoe-under-plastic-cover-and-in-compost.jpg)
-
-  _Credits: image taken from Charles Dowding's vlog_
+  ![Estima potato in compost soil under a plastic cover](./images/estima-potatoe-under-plastic-cover-and-in-compost.jpg "Credits: image taken from Charles Dowding's vlog")
 
 - and squash (Crown prince below).
 
-  ![A lot of squash plants covering the soil well](./images/patch-of-squashes.jpg)
-
-  _Credits: image taken from Charles Dowding's vlog_
+  ![A lot of squash plants covering the soil well](./images/patch-of-squashes.jpg "Credits: image taken from Charles Dowding's vlog")
 
 :::tip Using plastic
 Plastic has its place in gardening.
