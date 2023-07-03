@@ -1,21 +1,21 @@
 ---
 isDraft: false
-title: July 2022 tour of new no dig, harvests, pest covers, compost, watering, by Charles Dowding
-description: "I wrote the following notes watching the video published on Charles Dowding's channel"
+title: July tour of new no dig garden, by Charles Dowding
+description: "Charles Dowding walks through his new no dig garden, talking about harvests, pest covers, compost, watering."
 date: 2022-10-15
-heroImage: '/images/2022-10-15-july-tour-of-new-no-dig--harvests--pest-covers--compost--watering-charles-dowding-hero.jpg'
+heroImage: '/images/2022-10-15-a-pea-pod-with-large-seeds-in-the-hands-of-charles.jpg'
 heroAlt: A pea pod with large seeds in the hands of Charles
 prev:
   text: "See all my notes from Charles Dowding's vlogs"
   link: ../../tag/charles-dowding/
-#head:
-#  - [
-#      meta,
-#      {
-#        rel: canonical,
-#        href: url,
-#      },
-#    ]
+head:
+  - [
+      meta,
+      {
+        rel: canonical,
+        href: https://iamjeremie.me/2022/10/july-tour-of-homeacres-garden-charles-dowding,
+      },
+    ]
 category:
   - Gardening
 tag:
@@ -25,11 +25,15 @@ tag:
   - Compost
 ---
 
+![A pea pod with large seeds in the hands of Charles](/images/2022-10-15-a-pea-pod-with-large-seeds-in-the-hands-of-charles.jpg "Credits: image taken from Charles Dowding's vlog")
+
+Charles Dowding walks through his new no dig garden, talking about harvests, pest covers, compost, watering.
+
+<!-- more -->
+
 Thanks to Charles Dowding for sharing his wisdom and knowledge!
 I wrote the following notes watching the video published on Charles Dowding's channel.
 You can watch it using [this YouTube link](https://www.youtube.com/watch?v=tzjdcDQ7A8E).
-
-![A pea pod with large seeds in the hands of Charles](./images/2022-10-15-july-tour-of-new-no-dig--harvests--pest-covers--compost--watering-charles-dowding-hero.jpg "Credits: image taken from Charles Dowding's vlog")
 
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
@@ -131,7 +135,7 @@ With no dig, the soil isn't cracking because of the structure of the soil, fille
 
 ## Compost heaps, the pallet three bay system
 
-I have taken notes on this in [this article](../../2022/04/3-heap-types-how-they-work-and-what-they-give-charles-dowding/README.md)
+I have taken notes on this in [this article](../../04/3-heap-types-how-they-work-and-what-they-give-charles-dowding/README.md)
 
 ## Salads in July
 
@@ -198,6 +202,10 @@ Charles suggests watching [Joe Lampl's channel](https://www.youtube.com/user/joe
 Picking your tomatoes not fully rip take some stress off the plant, which can focus the other fruits, new fruits and the leaves.
 
 And you don't lose flavor from the tomatoes by harvesting them this way.
+
+:::center
+⏬⏬⏬
+:::
 
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
