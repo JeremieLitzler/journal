@@ -30,9 +30,7 @@ tag:
 
 Charles explains how to build a very cheap compost heap system that you can construct yourself in very little time.
 
-Thanks to Charles Dowding for sharing his wisdom and knowledge!
-I wrote the following notes watching the video published on Charles Dowding’s channel.
-You can watch it using [this YouTube link](https://www.youtube.com/watch?v=3gAwfzy0qLw).
+Thanks to Charles Dowding for sharing his wisdom and knowledge! I wrote the following notes watching the video published on Charles Dowding’s channel. You can watch it using [this YouTube link](https://www.youtube.com/watch?v=3gAwfzy0qLw).
 
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
@@ -61,11 +59,9 @@ For Charles, it takes two months with his large garden (one and a half acres).
 
 It might take less for you. Hence, you will need to adjust the size of the heap.
 
-:::tip Personal note
-For example, I don’t produce nor possess enough material to fill a heap made of full-sized pallets.
+:::tip Personal note For example, I don’t produce nor possess enough material to fill a heap made of full-sized pallets.
 
-So I made one from half of a pallet and I will see if I need bigger or not as I manage to gather more material.
-:::
+So I made one from half of a pallet and I will see if I need bigger or not as I manage to gather more material. :::
 
 ## Turning the compost
 
@@ -177,13 +173,11 @@ It isn’t always necessary, if it rains normally.
 
 But if the weather is really dry, you will need to add water.
 
-:::tip How do you know you need water and how much do you need
-Well, it’s something you need to assess from your personal circumstances: weather, material you put in.
+:::tip How do you know you need water and how much do you need Well, it’s something you need to assess from your personal circumstances: weather, material you put in.
 
 In the early stage, you decide based on how it looks and feels.
 
-Later, when the material has degraded enough, use the _squeeze technique_ described in [this article](../../../posts//2022-11-16-compost-from-clippings-and-other-waste-charles-dowding/README.md#consistency-of-the-compost).
-:::
+Later, when the material has degraded enough, use the _squeeze technique_ described in [this article](../compost-from-clippings-and-other-waste-charles-dowding/README.md#consistency-of-the-compost). :::
 
 ## Conclusion
 
@@ -191,9 +185,7 @@ Making compost is like taking care of a pet. Take care of it.
 
 And your vegetable beds will enjoy the great nourishment from it!
 
-:::center
-⏬⏬⏬
-:::
+:::center ⏬⏬⏬ :::
 
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>

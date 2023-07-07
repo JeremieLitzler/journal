@@ -26,13 +26,11 @@ tag:
   - Compost
 ---
 
-I took notes about the trial at a later stage in [an earlier article](../2022-10-23-compost-testing-and-final-result-charles-dowding/README.md) about the same three-strip trial, which started in 2014.
+I took notes about the trial at a later stage in [an earlier article](../../2022/10/compost-testing-and-final-result-charles-dowding/README.md) about the same three-strip trial, which started in 2014.
 
 ![Aerial view of Homeacre garden with the title of the vlog](./images/2022-11-03-aerial-view-of-homeacre-garden-with-the-title-of-the-vlog-hero.jpg 'Credits: image taken from Charles Dowding’s vlog')
 
-Thanks to Charles Dowding for sharing his wisdom and knowledge!
-I wrote the following notes watching the video published on Charles Dowding’s channel.
-You can watch it using [this YouTube link](https://www.youtube.com/watch?v=u0V-5qXQz9U).
+Thanks to Charles Dowding for sharing his wisdom and knowledge! I wrote the following notes watching the video published on Charles Dowding’s channel. You can watch it using [this YouTube link](https://www.youtube.com/watch?v=u0V-5qXQz9U).
 
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
