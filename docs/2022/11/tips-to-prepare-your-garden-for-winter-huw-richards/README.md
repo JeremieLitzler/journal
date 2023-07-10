@@ -64,7 +64,9 @@ Try to remove the weeds!
 
 ![Someone racking leaves](/images/2022-11-22-someone-collecting-leaves.jpg 'Leaves are free and abundant at the end of autumn. Gather as much as you can. Credits: image taken from Huw Richard’s vlog')
 
-:::tip Personal note I’m currently working on that, for the third year.
+:::tip Personal note
+
+I’m currently working on that, for the third year.
 
 I already covered some parts of my garden with a thick and yet light _duvet of dead leaves_ for the winter.
 
@@ -157,7 +159,9 @@ During winter, they will root and you will be able to transplant them where you 
 
 You can also do this in a pot to sell. This can be a source of money to buy seeds.
 
-:::tip Personal note I will do that with my gooseberry bush that has grown big and I want to get more of them next year.
+:::tip Personal note
+
+I will do that with my gooseberry bush that has grown big and I want to get more of them next year.
 
 :::
 

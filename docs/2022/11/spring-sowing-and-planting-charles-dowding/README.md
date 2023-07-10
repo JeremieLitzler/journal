@@ -43,7 +43,9 @@ Make them not too deep (about 3-4 cm).
 
 Sowing in compost is absolutely fine, unlike some may say.
 
-:::tip Radish tip If you sow your radishes with your carrots, you will know where the carrots are. The first sprout very quickly while the latter take more time to come up.
+:::tip Radish tip
+
+If you sow your radishes with your carrots, you will know where the carrots are. The first sprout very quickly while the latter take more time to come up.
 
 :::
 

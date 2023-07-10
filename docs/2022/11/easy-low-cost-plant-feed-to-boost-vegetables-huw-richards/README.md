@@ -73,7 +73,9 @@ The network water usually contains chlorine and we don’t want to have any micr
 
 You need more than a handful.
 
-:::tip For city people You can use a well-decomposed compost instead.
+:::tip For city people
+
+You can use a well-decomposed compost instead.
 
 :::
 
@@ -91,7 +93,9 @@ JADAM organic farming comes from Youngsang Cho who wrote a few books on the topi
 
 One of the teaching is that the plant is its own fertilizer. By creating a liquid feed, you have the optimum elements to grow strong crops.
 
-:::tip Personal note It’s game-changing in a world where many think we need industrial fertilizers.
+:::tip Personal note
+
+It’s game-changing in a world where many think we need industrial fertilizers.
 
 When you can make a liquid feed with so little effort and at a price that beats anything, why would one go for industrial fertilizers?
 
@@ -105,7 +109,9 @@ To make any liquid amendment, you need the plant fresh to make the liquid.
 
 You need to use the entire crop, not just the leaves or the roots.
 
-:::tip Personal note That means that you won’t be able to make this amendment until the crops are growing already.
+:::tip Personal note
+
+That means that you won’t be able to make this amendment until the crops are growing already.
 
 That might be tricky if your don’t have a lot of the particular plant.
 
@@ -129,7 +135,9 @@ Huw suggests to create a group or family of amendments. For example, make a Brac
 
 Disclaimer: he hasn’t tried and will tell us how this work out.
 
-:::tip Personal note This caveat came to my mind.
+:::tip Personal note
+
+This caveat came to my mind.
 
 I’m blessed to have a local free source of 5 liter containers. I get them from buying sauerkraut in them.
 

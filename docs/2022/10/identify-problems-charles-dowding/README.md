@@ -78,7 +78,9 @@ It’s absolutely not true.
 
 Maybe, if it tastes woody, it’s more to do with a poor soil?
 
-:::tip Interesting fact When you cut open a fresh beetroot, you should see some _rings_, one for every moon cycle.
+:::tip Interesting fact
+
+When you cut open a fresh beetroot, you should see some _rings_, one for every moon cycle.
 
 :::
 

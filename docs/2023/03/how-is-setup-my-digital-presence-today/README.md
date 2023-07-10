@@ -24,9 +24,7 @@ In 2023, there are a lot of solutions to build your digital presence. In this ar
 
 ## For websites
 
-:::note
-Pour la version française de cet article, [c'est par ici](https://jeremielitzler.fr/2023/03/comment-j-organise-mon-activite-digitale/)
-:::
+:::note Pour la version française de cet article, [c'est par ici](https://jeremielitzler.fr/2023/03/comment-j-organise-mon-activite-digitale/) :::
 
 I use three solutions, which I pick depending on the following criteria.
 
@@ -89,7 +87,9 @@ At the moment, I use this setup for:
 - [Gilles Fauriat's website](https://fauriat-ardeche.fr/) who is a stonecutter near Annonay, France.
 
 :::tip Plus Infomaniak is really working on their impact on the environment
+
 See about their environmental [on their website](https://www.infomaniak.com/en/ecology).
+
 :::
 
 [Contact me if you need help or advice](../../../page/contact-me/README.md) to get started.
@@ -149,9 +149,7 @@ Maybe this will change in 2023.
 
 If you want to follow my progress in the search of the best solution, consider subscribing.
 
-:::center
-⏬⏬⏬
-:::
+:::center ⏬⏬⏬ :::
 
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>

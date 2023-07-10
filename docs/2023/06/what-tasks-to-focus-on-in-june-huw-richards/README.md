@@ -68,7 +68,9 @@ You can still see at this time of the year.
 
 ### What can you sow?
 
-:::tip Personal note It will depend on your climate, your region. Even if you can find templates here and there, the real method is to use the guidelines of people around your area with experience and ask them.
+:::tip Personal note
+
+It will depend on your climate, your region. Even if you can find templates here and there, the real method is to use the guidelines of people around your area with experience and ask them.
 
 Then, because everyone has a unique garden, it’s through observation that you will know:
 

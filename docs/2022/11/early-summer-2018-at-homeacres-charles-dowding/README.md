@@ -67,7 +67,9 @@ Another example is replacing broad beans with cabbage in the beginning of summer
 
 ## What can you sow in the beginning of June in the UK
 
-:::tip Boltardy beetroot It’s a fast-growing variety and it can be used for early sowing.
+:::tip Boltardy beetroot
+
+It’s a fast-growing variety and it can be used for early sowing.
 
 Beetroots are sown in pockets of about 4 seeds, remembering that some seeds won’t germinate.
 
@@ -75,13 +77,17 @@ Charles thins the seedlings down to 4 beetroots per module.
 
 :::
 
-:::tip Spring onions They’re sown in pockets of about 8–10 seeds per module.
+:::tip Spring onions
+
+They’re sown in pockets of about 8–10 seeds per module.
 
 Spring onions are very versatile because you can eat them when they’re small, or let them grow into bulbs.
 
 :::
 
-:::tip Gowrie swede They’re sown in pockets of about 2–3 seeds per module.
+:::tip Gowrie swede
+
+They’re sown in pockets of about 2–3 seeds per module.
 
 Then, you will need to thin to one root.
 
@@ -116,7 +122,9 @@ A spring onion will turn a bit woody if left too long in the ground with the see
 
 Charles clears out some kohlrabi sown in February, planted early April with a net on to prevent cabbage root flies to attack them.
 
-:::tip About cabbage root flies Charles doesn’t have a solution against the cabbage root flies except for the net over it.
+:::tip About cabbage root flies
+
+Charles doesn’t have a solution against the cabbage root flies except for the net over it.
 
 He talked about another technique, but people have reported it doesn’t work.
 
@@ -126,13 +134,17 @@ Then, you will need to remove any weed.
 
 You can also walk on the bed, especially after harvesting kohlrabi or anything with big roots to firm the compost again.
 
-:::tip Remember Walking on your bed covered with compost, you can’t compact it. You’ll firm it.
+:::tip Remember
+
+Walking on your bed covered with compost, you can’t compact it. You’ll firm it.
 
 :::
 
 In summer, you will need to water the compost if dry.
 
-:::warning Why not make your bed too mounded When you pour water on it, even with a soil covered with compost, the water will run off to the sides.
+:::warning Why not make your bed too mounded
+
+When you pour water on it, even with a soil covered with compost, the water will run off to the sides.
 
 So you want the bed to be leveled. It’s easier to water and keep the moisture on the bed.
 
@@ -156,7 +168,9 @@ For example, Charles is sowing carrots between lettuce.
 
 You will need to water well on the inside of the trench only so it’s efficient in water usage.
 
-:::tip Tip Wait a little bit before sowing the seeds, just like for the leeks earlier.
+:::tip Tip
+
+Wait a little bit before sowing the seeds, just like for the leeks earlier.
 
 :::
 
@@ -206,7 +220,9 @@ Coriander, spinach, peas fall in that category as well. Always depending on your
 
 With compost, it slowly releases the water to the plants, as it acts as a sponge
 
-:::tip Personal note Where I live in Ardèche, I do also water every other day.
+:::tip Personal note
+
+Where I live in Ardèche, I do also water every other day.
 
 The most difficult time is when the sun literally burns everything like this past summer.
 

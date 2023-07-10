@@ -59,7 +59,9 @@ For Charles, it takes two months with his large garden (one and a half acres).
 
 It might take less for you. Hence, you will need to adjust the size of the heap.
 
-:::tip Personal note For example, I don’t produce nor possess enough material to fill a heap made of full-sized pallets.
+:::tip Personal note
+
+For example, I don’t produce nor possess enough material to fill a heap made of full-sized pallets.
 
 So I made one from half of a pallet and I will see if I need bigger or not as I manage to gather more material.
 
@@ -175,7 +177,9 @@ It isn’t always necessary, if it rains normally.
 
 But if the weather is really dry, you will need to add water.
 
-:::tip How do you know you need water and how much do you need Well, it’s something you need to assess from your personal circumstances: weather, material you put in.
+:::tip How do you know you need water and how much do you need?
+
+Well, it’s something you need to assess from your personal circumstances: weather, material you put in.
 
 In the early stage, you decide based on how it looks and feels.
 

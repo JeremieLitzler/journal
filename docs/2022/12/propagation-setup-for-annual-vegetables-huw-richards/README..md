@@ -45,7 +45,9 @@ The potting bench includes:
   - Module trays of various sizes (deep-rooted for peas and beans, or shallower trays for general-purpose seeds)
   - Labels made from recycled materials
 
-:::tip How to make your labels Huw mentioned yogurt pots
+:::tip How to make your labels
+
+Huw mentioned yogurt pots.
 
 I use the wood of an old crate.
 
@@ -104,7 +106,9 @@ The steps are simple:
 6. Sow enough seeds. See [this article from a vlog of Charles Dowding](../../11/early-summer-2018-at-homeacres-charles-dowding/README.md#what-can-you-sow-in-the-beginning-of-june-in-the-uk) for a few examples.
 7. Gently fill the holes with some more compost
 
-:::tip Why before sowing Huw likes to do this because once the seed is in the module, the water can displace it.
+:::tip Why before sowing
+
+Huw likes to do this because once the seed is in the module, the water can displace it.
 
 Also, you won’t need to water again after sowing if the weather is overcast.
 
