@@ -30,9 +30,7 @@ tag:
 
 A few questions and answers about making compost to use in the garden.
 
-Thanks to Charles Dowding for sharing his wisdom and knowledge!
-I wrote the following notes watching the video published on Charles Dowding’s channel.
-You can watch it using [this YouTube link](https://www.youtube.com/watch?v=BIV4lljN6Aw).
+Thanks to Charles Dowding for sharing his wisdom and knowledge! I wrote the following notes watching the video published on Charles Dowding’s channel. You can watch it using [this YouTube link](https://www.youtube.com/watch?v=BIV4lljN6Aw).
 
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
@@ -109,8 +107,8 @@ The presentation of Charles’s method is showing us that the goal is to impact 
 
 With the heap, we just accelerate the decomposition in balance with the nature around us.
 
-:::center
-⏬⏬⏬
+:::center ⏬⏬⏬
+
 :::
 
 <!-- markdownlint-disable MD033 -->

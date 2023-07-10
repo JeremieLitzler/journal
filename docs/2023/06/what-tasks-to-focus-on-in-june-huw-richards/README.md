@@ -29,8 +29,7 @@ tag:
 
 In June, it’s warm and everything is growing fast, vegetables and weeds. Let’s look at what Huw is recommending to do this month.
 
-Thanks to Huw Richards for sharing his wisdom and knowledge!
-I wrote the following notes watching the video published on Huw Richards’ channel.
+Thanks to Huw Richards for sharing his wisdom and knowledge! I wrote the following notes watching the video published on Huw Richards’ channel.
 
 <!-- more -->
 
@@ -43,8 +42,7 @@ You can watch it using [this YouTube link](https://www.youtube.com/watch?v=z18cz
 
 First, clean up the weeds at the bottom of the bottom of the plants
 
-Second, remove the _suckers_, which are those stems coming out which will make your plant huge, but that will draw energy out of producing tomatoes.
-It’s especially true in cooler climates.
+Second, remove the _suckers_, which are those stems coming out which will make your plant huge, but that will draw energy out of producing tomatoes. It’s especially true in cooler climates.
 
 Cutting everything (suckers and leaves) below the first _trust_ or the first flowers will go a long way to keep the plant healthy.
 
@@ -70,15 +68,15 @@ You can still see at this time of the year.
 
 ### What can you sow?
 
-:::tip Personal note
-It will depend on your climate, your region. Even if you can find templates here and there, the real method is to use the guidelines of people around your area with experience and ask them.
+:::tip Personal note It will depend on your climate, your region. Even if you can find templates here and there, the real method is to use the guidelines of people around your area with experience and ask them.
 
 Then, because everyone has a unique garden, it’s through observation that you will know:
 
 - based on the experience, year after year.
 - based on the understanding of the weather.
 - based on the nature of your soil.
-  :::
+
+:::
 
 ### When do you sow
 
@@ -93,11 +91,13 @@ For example, potatoes coming to flower are ready to harvest.
 Huw usually waits a couple of weeks when he sees the flower buds of the plants.
 
 :::tip Another tip
+
 When you water lettuce, wait it from the top like shown below.
 
 The water will then sink through the middle and it will give the full benefits to the lettuce.
 
 ![Watering a lettuce from the top](./images/watering-a-lettuce-from-the-top.jpg 'Credits: image from the vlog of Huw Richards')
+
 :::
 
 ## Less weeding
@@ -107,7 +107,9 @@ Why?
 The crops are growing and they leave little space to competing weeds.
 
 :::tip Personal note
+
 That isn’t the case for everything, of course. For example, bindweed can climb a crop and get its sunlight to continue to grow…
+
 :::
 
 ## Plan for the next planting
@@ -116,8 +118,8 @@ Some crops will soon stop producing and it’s a good idea to the prepare the se
 
 That’s it for this vlog.
 
-:::center
-⏬⏬⏬
+:::center ⏬⏬⏬
+
 :::
 
 <!-- markdownlint-disable MD033 -->

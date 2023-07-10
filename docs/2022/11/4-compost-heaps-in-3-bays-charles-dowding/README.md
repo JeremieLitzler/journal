@@ -61,7 +61,9 @@ It might take less for you. Hence, you will need to adjust the size of the heap.
 
 :::tip Personal note For example, I don’t produce nor possess enough material to fill a heap made of full-sized pallets.
 
-So I made one from half of a pallet and I will see if I need bigger or not as I manage to gather more material. :::
+So I made one from half of a pallet and I will see if I need bigger or not as I manage to gather more material.
+
+:::
 
 ## Turning the compost
 
@@ -177,7 +179,9 @@ But if the weather is really dry, you will need to add water.
 
 In the early stage, you decide based on how it looks and feels.
 
-Later, when the material has degraded enough, use the _squeeze technique_ described in [this article](../compost-from-clippings-and-other-waste-charles-dowding/README.md#consistency-of-the-compost). :::
+Later, when the material has degraded enough, use the _squeeze technique_ described in [this article](../compost-from-clippings-and-other-waste-charles-dowding/README.md#consistency-of-the-compost).
+
+:::
 
 ## Conclusion
 
@@ -185,7 +189,9 @@ Making compost is like taking care of a pet. Take care of it.
 
 And your vegetable beds will enjoy the great nourishment from it!
 
-:::center ⏬⏬⏬ :::
+:::center ⏬⏬⏬
+
+:::
 
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>

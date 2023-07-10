@@ -32,9 +32,7 @@ tag:
 
 Experimenting brings surprises. Charles has been practicing for decades and here, he shares with us how compost can make a difference.
 
-Thanks to Charles Dowding for sharing his wisdom and knowledge!
-I wrote the following notes watching the video published on Charles Dowding’s channel.
-You can watch it using [this YouTube link](https://www.youtube.com/watch?v=XnoZ4jvrY5g).
+Thanks to Charles Dowding for sharing his wisdom and knowledge! I wrote the following notes watching the video published on Charles Dowding’s channel. You can watch it using [this YouTube link](https://www.youtube.com/watch?v=XnoZ4jvrY5g).
 
 <!-- more -->
 
@@ -195,11 +193,9 @@ Here are the pictures of the harvest, compost by compost:
 
 2. Moorland Gold compost
 
-   For the seed compost:
-   ![Tray from Yorkshire’s compost](./images/week-8-yorkshire-seed-compost.jpg 'Credits: image taken from Charles Dowding’s vlog')
+   For the seed compost: ![Tray from Yorkshire’s compost](./images/week-8-yorkshire-seed-compost.jpg 'Credits: image taken from Charles Dowding’s vlog')
 
-   For the potting compost
-   ![Tray from Yorkshire’s compost](./images/week-8-yorkshire-potting-compost.jpg 'Credits: image taken from Charles Dowding’s vlog')
+   For the potting compost ![Tray from Yorkshire’s compost](./images/week-8-yorkshire-potting-compost.jpg 'Credits: image taken from Charles Dowding’s vlog')
 
 3. Digested compost
 
@@ -268,11 +264,10 @@ The usual difference between sowing compost and potting compost is that the seed
 
 ### Do you really need sowing compost for seedlings
 
-According to Charles’s experience, it doesn’t make a big difference, apart from the
-price...
+According to Charles’s experience, it doesn’t make a big difference, apart from the price...
 
-:::center
-⏬⏬⏬
+:::center ⏬⏬⏬
+
 :::
 
 <!-- markdownlint-disable MD033 -->

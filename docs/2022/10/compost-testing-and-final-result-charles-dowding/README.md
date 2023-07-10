@@ -32,9 +32,7 @@ Charles has come to an end with his compost comparaison. Let's look at the resul
 
 <!-- more -->
 
-Thanks to Charles Dowding for sharing his wisdom and knowledge!
-I wrote the following notes watching the video published on Charles Dowding’s channel.
-You can watch it using [this YouTube link](https://www.youtube.com/watch?v=jt4azBLuJrc).
+Thanks to Charles Dowding for sharing his wisdom and knowledge! I wrote the following notes watching the video published on Charles Dowding’s channel. You can watch it using [this YouTube link](https://www.youtube.com/watch?v=jt4azBLuJrc).
 
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
@@ -77,20 +75,17 @@ There are:
 
 ![Day 16: spinach in multiple pots](./images/day-16-hero.jpg 'Credits: image taken from Charles Dowding’s vlog')
 
-First, the pots are relatively small for the plants growing; therefore, the nutrients might run low at some stage.
-It will be interesting to see how the plants will handle it.
+First, the pots are relatively small for the plants growing; therefore, the nutrients might run low at some stage. It will be interesting to see how the plants will handle it.
 
 ### Pots 13 and 12: pure soil with worm compost
 
 ![Pot 12 showing good growth](./images/day-16-pot-12.jpg 'Credits: image taken from Charles Dowding’s vlog')
 
-The spring onion is looking better in the pot 13 compared to the pot 12, even though the latter has 25% worm compost…
-Still, the spinach has a darker color in the pot 12.
+The spring onion is looking better in the pot 13 compared to the pot 12, even though the latter has 25% worm compost… Still, the spinach has a darker color in the pot 12.
 
 ### Pots 4 to 6: woodchip compost and co
 
-Surprisingly, pot 4 (100% woodchip compost) is doing well, even if, historically, the wood usually takes out more out of the plant.
-It even has the best-looking onions.
+Surprisingly, pot 4 (100% woodchip compost) is doing well, even if, historically, the wood usually takes out more out of the plant. It even has the best-looking onions.
 
 Pots 5 and 6 show a difference in the size of the spinach (larger in pot 6 and the largest so far).
 
@@ -163,8 +158,7 @@ The root system of the soil pot is very good.
 
 ### With woodchip compost
 
-Woodchip alone is not enough, even if the pot 4 had roots.
-But pots 5 and 6 showed that having the nutrients of the worm compost made the plants healthier.
+Woodchip alone is not enough, even if the pot 4 had roots. But pots 5 and 6 showed that having the nutrients of the worm compost made the plants healthier.
 
 ![A pot with nice white roots](./images/roots-woodchip-and-worm-compost-pot.jpg 'Credits: image taken from Charles Dowding’s vlog')
 
@@ -192,11 +186,9 @@ The roots are the healthiest of all. It shows that the homemade compost brings a
 
 ## Conclusion
 
-Worm compost, in about 20–25% proportion, can boost your plants and give great results.
-Higher
+Worm compost, in about 20–25% proportion, can boost your plants and give great results. Higher
 
-Mushroom compost is showing that it would be good for potting, but let it age first.
-I wish I could say I can buy £50 per ton delivered for it! :O
+Mushroom compost is showing that it would be good for potting, but let it age first. I wish I could say I can buy £50 per ton delivered for it! :O
 
 Moorland Gold potting compost clearly shows it is not made to be used as it was in the trial. The plants must be transplanted in the ground.
 
@@ -218,8 +210,8 @@ Also, when the plant is big enough, having more drainage with wash away the nutr
 
 Compost is brilliant to retain nutrients.
 
-:::center
-⏬⏬⏬
+:::center ⏬⏬⏬
+
 :::
 
 <!-- markdownlint-disable MD033 -->

@@ -30,9 +30,7 @@ tag:
 
 When do you spread compost? How much do you spread? The guidelines explained by Charles in a No Dig approach.
 
-Thanks to Charles Dowding for sharing his wisdom and knowledge!
-I wrote the following notes watching the video published on Charles Dowding’s channel.
-You can watch it using [this YouTube link](https://www.youtube.com/watch?v=s71f18ila1c).
+Thanks to Charles Dowding for sharing his wisdom and knowledge! I wrote the following notes watching the video published on Charles Dowding’s channel. You can watch it using [this YouTube link](https://www.youtube.com/watch?v=s71f18ila1c).
 
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
@@ -51,8 +49,7 @@ Compost feeds soil life and helps build the mycelia threads beneficial for the s
 
 They make available the nutrients which sits there insoluble in water.
 
-You can spread the compost in autumn to please the soil the most.
-And you can apply the compost around existing crops.
+You can spread the compost in autumn to please the soil the most. And you can apply the compost around existing crops.
 
 ## How much compost
 
@@ -118,8 +115,8 @@ Indeed, the living organisms in the soil won’t have to perform the heavy work 
 
 Checkout Charles’s book (use the link according to your location: [in France](https://amzn.to/3ELjByW), [in the US](https://amzn.to/3SROzJm) or [in the UK](https://amzn.to/3Nlrpd1)) for more details about compost.
 
-:::center
-⏬⏬⏬
+:::center ⏬⏬⏬
+
 :::
 
 <!-- markdownlint-disable MD033 -->

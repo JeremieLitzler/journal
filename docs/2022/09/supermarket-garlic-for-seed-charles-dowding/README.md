@@ -29,9 +29,7 @@ tag:
 
 A full harvest of a wide range of a different quality garlic gives the gardener a sense of accomplishment. Plus, you will enjoy deliciously-spiced meals.
 
-Thanks to Charles Dowding for sharing his wisdom and knowledge!
-I wrote the following notes watching the video published on Charles Dowding’s channel.
-You can watch it using [this YouTube link](https://www.youtube.com/watch?v=vr3ZxWexS5c).
+Thanks to Charles Dowding for sharing his wisdom and knowledge! I wrote the following notes watching the video published on Charles Dowding’s channel. You can watch it using [this YouTube link](https://www.youtube.com/watch?v=vr3ZxWexS5c).
 
 <!-- more -->
 
@@ -51,7 +49,9 @@ Yes.
 But from Charles’s comments, it seems a hard discount garlic head may give a strange harvest.
 
 :::tip Personal note
+
 Using organic garlic heads may yield better results. I will try a non-organic head from a local farmer’s shop and an organic head from our local organic supermarket Satoriz.
+
 :::
 
 The top image is what you can get from a £1 garlic head.
@@ -73,8 +73,7 @@ Why?
 
 ![Overdue garlic](./images/garlic-rust.webp 'Credits: from Charles Dowding’s vlog.')
 
-It is a rampant fungal disease that infects the entire Allium family, including garlic and onions. If left unchecked, the disease can result in smaller-than-usual bulbs and limited growth of a plant.
-Garlic infected by rust is still edible and unless the infection was severe, you should get a decently sized bulb at harvest time. There’s no need to prematurely pick your garlic crop unless the entire plant is brown and dead. (Like “dead dead”, not “ready and ripe” dead.)
+It is a rampant fungal disease that infects the entire Allium family, including garlic and onions. If left unchecked, the disease can result in smaller-than-usual bulbs and limited growth of a plant. Garlic infected by rust is still edible and unless the infection was severe, you should get a decently sized bulb at harvest time. There’s no need to prematurely pick your garlic crop unless the entire plant is brown and dead. (Like “dead dead”, not “ready and ripe” dead.)
 
 Source: [article of gardenbetty.com](https://www.gardenbetty.com/grrr-garlic-rust-and-how-to-deal/)
 
@@ -85,11 +84,13 @@ You can plant them between lettuces or tomatoes.
 They don’t need any special space.
 
 :::tip Personal note
+
 Maybe it could help with slugs. In fact, when I grew strawberries a few years back, I planted shallots around a patch of strawberries and we almost had no slugs
+
 :::
 
-:::center
-⏬⏬⏬
+:::center ⏬⏬⏬
+
 :::
 
 <!-- markdownlint-disable MD033 -->
