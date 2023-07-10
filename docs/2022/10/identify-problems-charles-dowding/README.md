@@ -1,5 +1,5 @@
 ---
-title: Identify problems 3 includes squash, bolting, large roots, compost, by Charles Dowding
+title: Identify problems, with Charles Dowding
 description: "Gardening is full of conflicting advice. So who should you believe. You might see a problem in a garden, is it really? Let’s dive into it with Charles."
 date: 2022-10-31
 heroImage: '/images/2022-10-31-a-garden-bed-with-mostly-squashes.jpg'
@@ -12,7 +12,7 @@ head:
       meta,
       {
         rel: canonical,
-        href: https://iamjeremie.me/2022/10/identify-problems-charles-dowding,
+        href: https://iamjeremie.substack.com/p/identify-problems-with-charles-dowding,
       },
     ]
 category:
