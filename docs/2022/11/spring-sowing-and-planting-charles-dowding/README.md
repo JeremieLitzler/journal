@@ -20,7 +20,7 @@ category:
 tag:
   - Charles Dowding
   - No Dig
-  - Spring
+  - In Spring
 ---
 
 When spring comes, it’s time to sow and plant your new crops.

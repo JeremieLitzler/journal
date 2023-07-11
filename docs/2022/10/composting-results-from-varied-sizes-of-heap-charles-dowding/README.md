@@ -21,7 +21,7 @@ tag:
   - Charles Dowding
   - No Dig
   - Compost
-  - May
+  - In May
 ---
 
 ![Compost thermometer indicating 66 °C](/images/2022-10-25-compost-thermometer-measuring-temperature-in-a-heap.jpg 'Credits: image taken from Charles Dowding’s vlog')
@@ -30,9 +30,7 @@ Composting can be achieved in various heaps or compost bins. Charles explains to
 
 <!-- more -->
 
-Thanks to Charles Dowding for sharing his wisdom and knowledge!
-I wrote the following notes watching the video published on Charles Dowding’s channel.
-You can watch it using [this YouTube link](https://www.youtube.com/watch?v=VhHshAf2lpM).
+Thanks to Charles Dowding for sharing his wisdom and knowledge! I wrote the following notes watching the video published on Charles Dowding’s channel. You can watch it using [this YouTube link](https://www.youtube.com/watch?v=VhHshAf2lpM).
 
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
@@ -47,8 +45,7 @@ In Charles’s case, it is big because he has a big area and in May, time of the
 
 ![Very young compost in the making with a good mix of green materials (grass clippings and vegetables waste) and brown materials (soil, woodchips, leaves, etc.)](./images/very-young-compost.jpg)
 
-_Credits: image taken from Charles Dowding’s vlog_
-Like I wrote in other vlogs, the temperature you want is:
+_Credits: image taken from Charles Dowding’s vlog_ Like I wrote in other vlogs, the temperature you want is:
 
 - above 50 °C
 - around 60 °C to 70 °C to kill weed seeds

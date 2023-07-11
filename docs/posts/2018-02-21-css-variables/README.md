@@ -4,7 +4,7 @@ description: Enhance your CSS with variables without LESS or SASS
 date: 2018-02-22
 category:
   - Web Fundamentals
-  - Web development
+  - Web Development
 tag:
   - CSS
   - CSS Variables

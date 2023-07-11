@@ -22,15 +22,14 @@ category:
   - Gardening
 tag:
   - The Dutch Farmer
-  - May
+  - In May
 ---
 
 ![Gooseberry bush with fruits](/images/2023-05-01-gooseberry-bush-with-fruits.jpg 'Credits: image taken from The Dutch Farmer’s vlog')
 
 In May, it’s getting serious, with a lot of crops to plant and to start harvesting.
 
-Thanks to Moreno for sharing his wisdom and knowledge!
-I wrote the following notes watching the video published on The Dutch Farmer’s channel.
+Thanks to Moreno for sharing his wisdom and knowledge! I wrote the following notes watching the video published on The Dutch Farmer’s channel.
 
 <!-- more -->
 
@@ -138,9 +137,7 @@ Start your garden today!
 
 For more articles like this one, consider subscribing.
 
-:::center
-⏬⏬⏬
-:::
+:::center ⏬⏬⏬ :::
 
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>

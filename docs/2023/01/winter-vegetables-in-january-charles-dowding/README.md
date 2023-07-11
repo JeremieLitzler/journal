@@ -21,15 +21,14 @@ category:
 tag:
   - Charles Dowding
   - No Dig
-  - January
+  - In January
 ---
 
 ![Spinach under a tunnel](/images/2023-01-10-spinach-under-a-tunnel.jpg 'Credits: image taken from Charles Dowding’s vlog')
 
 In January, Charles explains what he does and what grows in his garden.
 
-Thanks to Charles Dowding for sharing his wisdom and knowledge!
-I wrote the following notes watching the video published on Charles Dowding's channel.
+Thanks to Charles Dowding for sharing his wisdom and knowledge! I wrote the following notes watching the video published on Charles Dowding's channel.
 
 <!-- more -->
 
@@ -134,9 +133,7 @@ Those plants don't need a highly nutritious soil.
 
 See how it looked back in June 2021 [in this vlog](https://www.youtube.com/watch?v=qrwy4U7kjtI&t=0s).
 
-:::center
-⏬⏬⏬
-:::
+:::center ⏬⏬⏬ :::
 
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>

@@ -20,15 +20,14 @@ category:
   - Gardening
 tag:
   - Huw Richards
-  - January
+  - In January
 ---
 
 ![Huw’s garden in January 2022](/images/2023-01-12-huw-garden-in-january-2022.jpg 'Credits: image taken from Huw Richards’ vlog')
 
 In January, we don’t like going outside because it’s cozy inside. But, maybe, you’re like Huw and, in reality, you need to do some work in the garden. Let’s what
 
-Thanks to Huw Richards for sharing his wisdom and knowledge!
-I wrote the following notes watching the video published on Huw Richards’ channel.
+Thanks to Huw Richards for sharing his wisdom and knowledge! I wrote the following notes watching the video published on Huw Richards’ channel.
 
 <!-- more -->
 
@@ -45,16 +44,13 @@ When you tidy your garden, you can reflect on the past year and find out what yo
 
 For example, you don’t want to change your raised beds in the spring but during those winter months.
 
-:::tip Using a tarmac rake
-Those rakes are heavier than the normal rake because of their end use.
+:::tip Using a tarmac rake Those rakes are heavier than the normal rake because of their end use.
 
-For spreading compost, they’re also great to help us spread up the compost.
-:::
+For spreading compost, they’re also great to help us spread up the compost. :::
 
 Huw thinks that you need to apply a 5 cm to 7 cm compost layer on the raised beds yearly to replenish the nutrient content of the soil.
 
-:::tip Personal note
-To put this in concrete numbers, a 5 cm layer of compost on a bed 100 m² garden (which is useable for the crops and excluding the alleys), you would need 5 metrics cube of compost or 5000 liters.
+:::tip Personal note To put this in concrete numbers, a 5 cm layer of compost on a bed 100 m² garden (which is useable for the crops and excluding the alleys), you would need 5 metrics cube of compost or 5000 liters.
 
 Where I live, to get that much compost would cost a fortune. At 10 euros a bag of 70 liters, it would cost 714 euros to cover the beds…
 
@@ -62,8 +58,7 @@ There are places where you can find compost in bulk for a lower price. In my cas
 
 I could go rent a truck to hold about one ton, equivalent to 2000 liters, for about 115 euros (of which the compost costs just 26…).
 
-Getting compost when you start feels like a challenge!
-:::
+Getting compost when you start feels like a challenge! :::
 
 The when to put the compost depends on what you will grow. In general you will apply compost between autumn and winter. However, you will apply it also in the summer for the Brassicaceae.
 
@@ -75,8 +70,7 @@ It’s a simple month but it’s a key one.
 
 - Use the past year’s experience to adjust what didn’t work to try out something else.
 
-:::tip Personal note
-I have a lot of ideas and I’m currently writing a journal of all I will do in the 2022–2023 year.
+:::tip Personal note I have a lot of ideas and I’m currently writing a journal of all I will do in the 2022–2023 year.
 
 For me a year begins with autumn harvest time is over until the next one. So it falls around October.
 
@@ -93,9 +87,7 @@ I planted another kiwaï vine (_Actinidia arguta_) because:
 
 Stay tuned!
 
-:::center
-⏬⏬⏬
-:::
+:::center ⏬⏬⏬ :::
 
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>

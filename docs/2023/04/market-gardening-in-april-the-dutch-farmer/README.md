@@ -22,15 +22,14 @@ category:
   - Gardening
 tag:
   - The Dutch Farmer
-  - April
+  - In April
 ---
 
 ![A tool that helps making holes in the soil to transplant the seedlings](/images/2023-04-03-a-tool-to-make-holes-in-the-soil-to-transplant.jpg 'Credits: image taken from The Dutch Farmer’s vlog')
 
 April is a month when you will transplant a lot and there are steps that you can follow to make it successful.
 
-Thanks to Moreno for sharing his wisdom and knowledge!
-I wrote the following notes watching the video published on The Dutch Farmer’s channel.
+Thanks to Moreno for sharing his wisdom and knowledge! I wrote the following notes watching the video published on The Dutch Farmer’s channel.
 
 <!-- more -->
 
@@ -62,15 +61,11 @@ Why is it an efficient approach?
 
 You can find a variety of tools to mark the beds:
 
-- a wide rake with rigid plastic tubes spaced to your needs
-  ![A man using a rake with 3 rigid plastic tube to mark the bed before transplanting plants](./images/moreno-uses-a-rake-with-3-rigid-plastic-tube-to-mark-the-bed-before-transplanting-plants.jpg 'Credits: image from the vlog of The Dutch Farmer')
-  ![Preparing the rake with the rigid plastic tubes](./images/preparing-the-rake-with-the-rigid-plastic-tubes.jpg 'Credits: image from the vlog of The Dutch Farmer')
+- a wide rake with rigid plastic tubes spaced to your needs ![A man using a rake with 3 rigid plastic tube to mark the bed before transplanting plants](./images/moreno-uses-a-rake-with-3-rigid-plastic-tube-to-mark-the-bed-before-transplanting-plants.jpg 'Credits: image from the vlog of The Dutch Farmer') ![Preparing the rake with the rigid plastic tubes](./images/preparing-the-rake-with-the-rigid-plastic-tubes.jpg 'Credits: image from the vlog of The Dutch Farmer')
 
-- a bed roller with pikes to make holes in the soil
-  ![A tool that helps making holes in the soil to transplant the seedlings](/images/2023-04-03-a-tool-to-make-holes-in-the-soil-to-transplant.jpg 'Credits: image taken from The Dutch Farmer’s vlog')
+- a bed roller with pikes to make holes in the soil ![A tool that helps making holes in the soil to transplant the seedlings](/images/2023-04-03-a-tool-to-make-holes-in-the-soil-to-transplant.jpg 'Credits: image taken from The Dutch Farmer’s vlog')
 
-- a grider
-  ![A man using a grider tool to mark the bed before transplanting plants](./images/moreno-using-a-grider-tool-to-mark-the-bed-before-transplanting-plants.jpg 'Credits: image from the vlog of The Dutch Farmer')
+- a grider ![A man using a grider tool to mark the bed before transplanting plants](./images/moreno-using-a-grider-tool-to-mark-the-bed-before-transplanting-plants.jpg 'Credits: image from the vlog of The Dutch Farmer')
 
 The rake is the cheaper and the grider is the most efficient tool.
 
@@ -84,8 +79,7 @@ Then, you will simply lay at each intersection of the grid you drew earlier one 
 
 ![A man lying down one transplant at each intersection of the grid](./images/moreno-lays-down-one-transplant-at-each-intersection-of-the-grid.jpg 'Credits: image from the vlog of The Dutch Farmer')
 
-:::tip To keep your strength and health
-Either:
+:::tip To keep your strength and health Either:
 
 - work on your knees
 - work with your legs bent
@@ -126,8 +120,6 @@ It makes the sale of turnips impossible when they are damaged.
 
 In early spring, this is when the adult flies lay eggs and the larvas go into the soil to develop and eat.
 
-:::tip What can you do without using chemicals?
-Using a netting, rotating the crops and keeping your soil healthy will help to keep the turnips healthy.
+:::tip What can you do without using chemicals? Using a netting, rotating the crops and keeping your soil healthy will help to keep the turnips healthy.
 
-And remember, even the organically approved chemicals are just as bad as conventionnal ones!
-:::
+And remember, even the organically approved chemicals are just as bad as conventionnal ones! :::

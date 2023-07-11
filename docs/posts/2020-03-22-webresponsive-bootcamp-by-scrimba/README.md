@@ -104,8 +104,7 @@ Going through the entire course took me :
 - 5.60 hours for module 5
 - and finally a good 14 hours for module 6.
 
-So I took me 43.25 hours to complete the course and really increase my skills. That's only 4 and a half weeks if you work 2 hours per weekday on it.
-On the final project, I did try my best not to watch Kevin's solution, hence the greater amount of time spent. When I got stuck (ex: the hero image, the main grid trick, the mobile menu), I was watching the videos to be inspired but then, [his solution](https://jeremiel-with-scrimba-rd.netlify.app/6.taking.it.to.the.next.level/1.final.project.instructor/index.html) is different than [my final render](https://jeremiel-with-scrimba-rd.netlify.app/6.taking.it.to.the.next.level/2.final.project.myself/).
+So I took me 43.25 hours to complete the course and really increase my skills. That's only 4 and a half weeks if you work 2 hours per weekday on it. On the final project, I did try my best not to watch Kevin's solution, hence the greater amount of time spent. When I got stuck (ex: the hero image, the main grid trick, the mobile menu), I was watching the videos to be inspired but then, [his solution](https://jeremiel-with-scrimba-rd.netlify.app/6.taking.it.to.the.next.level/1.final.project.instructor/index.html) is different than [my final render](https://jeremiel-with-scrimba-rd.netlify.app/6.taking.it.to.the.next.level/2.final.project.myself/).
 
 ![Final project](/images/webresponsive-bootcamp-by-scrimba-final-project.png)
 

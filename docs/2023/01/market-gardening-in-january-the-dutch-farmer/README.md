@@ -20,15 +20,14 @@ category:
   - Gardening
 tag:
   - The Dutch Farmer
-  - January
+  - In January
 ---
 
 ![Spinach plants close-up](/images/2023-01-13-spinach-close-up.jpg 'Credits: image taken from The Dutch Farmer’s vlog')
 
 What does a day in January look like? The Dutch Farmer will detail it to us.
 
-Thanks to Moreno for sharing his wisdom and knowledge!
-I wrote the following notes watching the video published on The Dutch Farmer’s channel.
+Thanks to Moreno for sharing his wisdom and knowledge! I wrote the following notes watching the video published on The Dutch Farmer’s channel.
 
 <!-- more -->
 
@@ -57,7 +56,7 @@ At this time of the year (and in the south of France as it’s where Moreno shot
 - kale
 - parsley
 - Swiss chard
-- winter carrots
+- In Winter carrots
 - beets
 
 ## Cleaning
@@ -156,9 +155,7 @@ Another multiplication that you can do is dividing a root into several pieces.
 
 For example, with rhubarb, you create 12 new plants with one mother root. You just need to make sure each piece contains a crown.
 
-:::tip Personal note
-I'm sure I will find a vlog that explains this in detail.
-:::
+:::tip Personal note I'm sure I will find a vlog that explains this in detail. :::
 
 ## Early sowing
 
@@ -178,9 +175,7 @@ How much do you need to earn to live your chosen lifestyle, pay the bills and sa
 
 As always, stay tuned as I take more notes about Moreno and his vlog on his Dutch Farmer channel.
 
-:::center
-⏬⏬⏬
-:::
+:::center ⏬⏬⏬ :::
 
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>

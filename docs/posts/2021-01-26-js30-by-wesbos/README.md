@@ -16,13 +16,11 @@ tag:
 
 ## What
 
-The course helps strengthen your skills with the new features available in JavaScript (ES6 or ECMAScript 2015 and beyond) as well as with the good old features in the span of 30 challenges (one per day if you can).
-Oh, by the way, it is free!
+The course helps strengthen your skills with the new features available in JavaScript (ES6 or ECMAScript 2015 and beyond) as well as with the good old features in the span of 30 challenges (one per day if you can). Oh, by the way, it is free!
 
 ## Where
 
-The course can be found on [https://javascript30.com/](https://javascript30.com/).
-You just need a good Visual Studio Code or your favorite code editor.
+The course can be found on [https://javascript30.com/](https://javascript30.com/). You just need a good Visual Studio Code or your favorite code editor.
 
 ## Who
 

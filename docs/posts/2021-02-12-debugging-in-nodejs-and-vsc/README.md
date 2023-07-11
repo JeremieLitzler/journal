@@ -5,8 +5,7 @@ date: 2021-02-12
 heroImage: '/images/2021-02-12-debugging-in-nodejs-and-vsc.jpg'
 heroAlt: A robot connected to a computer on a soccer field.
 category:
-  - Web development
-  - Guides
+  - Web Development
 tag:
   - NodeJS
   - Visual Studio Code

@@ -4,7 +4,7 @@ description: I will share a couple of resources teaching you to use CSS Grid
 date: 2018-02-23
 category:
   - Web Fundamentals
-  - Web development
+  - Web Development
 tag:
   - CSS Grid
   - Web layout

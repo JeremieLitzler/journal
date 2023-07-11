@@ -22,15 +22,14 @@ category:
   - Gardening
 tag:
   - The Dutch Farmer
-  - Month of July
+  - In July
 ---
 
 ![Bumblebees on Echinacea flowers](/images/2023-07-03-bumblebees-on-echinacea-flowers.jpg 'Credits: image taken from The Dutch Farmer’s vlog')
 
 What can you do in July? Moreno walks us through his garden to show us the different gardening tasks to perform this month.
 
-Thanks to Moreno for sharing his wisdom and knowledge!
-I wrote the following notes watching the video published on The Dutch Farmer’s channel.
+Thanks to Moreno for sharing his wisdom and knowledge! I wrote the following notes watching the video published on The Dutch Farmer’s channel.
 
 <!-- more -->
 
@@ -42,9 +41,7 @@ You can watch it using [this YouTube link](https://www.youtube.com/watch?v=Saujr
 
 It usually happens early on the month of July.
 
-:::tip Personal note
-This year 2023 was my first year to grow garlic and with over 100 cloves planted, we are happy with the green garlic we enjoy in May and June and the dry garlic we’ll enjoy the rest of the summer.
-:::
+:::tip Personal note This year 2023 was my first year to grow garlic and with over 100 cloves planted, we are happy with the green garlic we enjoy in May and June and the dry garlic we’ll enjoy the rest of the summer. :::
 
 Moreno is quite happy with the multi-crop beds. Remember, he talked about it in [his March episode](../../03/market-gardening-in-march-the-dutch-farmer/README.md).
 
@@ -88,9 +85,7 @@ July is the month when harvesting is the focus and it is when you will make most
 
 Still, soon, it will be time to prepare for the fall and winter crops.
 
-:::center
-⏬⏬⏬
-:::
+:::center ⏬⏬⏬ :::
 
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>

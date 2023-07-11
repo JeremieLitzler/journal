@@ -10,9 +10,7 @@ article: false
 
 ![Jeremie climbing the Kandersteg's viaferrata](/images/profilepic-400w.jpg) {.author-image}
 
-::: center
-[Read in french](https://jeremielitzler.fr/page/a-propos/)
-:::
+::: center [Read in french](https://jeremielitzler.fr/page/a-propos/) :::
 
 Everyone has a story. This is mine. So far.
 
@@ -20,8 +18,7 @@ I have created this website to record notes and experiences worth sharing becaus
 
 ## Career
 
-In 2009, I started my career.
-From Trust5 in Ireland to Conduent Business Solutions in France, I am passionate about improving the daily life of businesses, individuals and more through web-based applications and services.
+In 2009, I started my career. From Trust5 in Ireland to Conduent Business Solutions in France, I am passionate about improving the daily life of businesses, individuals and more through web-based applications and services.
 
 I have acquired a wide range of skills in software development for the Web and I thrive to learn new tricks every day.
 
@@ -31,10 +28,10 @@ For more details about my work experience and skill, come read [my resume here](
 
 Among those topics:
 
-- Web fundamentals
+- Web Fundamentals
 - Course review I have taken
 - Software product review I have used
-- Web development tips
+- Web Development tips
 - Work organisation
 <!-- - Team management -->
 

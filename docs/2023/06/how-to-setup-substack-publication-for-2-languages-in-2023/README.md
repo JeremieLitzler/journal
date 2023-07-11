@@ -13,7 +13,7 @@ head:
       },
     ]
 category:
-  - Digital business
+  - Digital Business
 tag:
   - Substack
 ---
@@ -144,9 +144,7 @@ Here is their answer:
 
 Let’s be patient and hope for a release to come soon!
 
-:::center
-⏬⏬⏬
-:::
+:::center ⏬⏬⏬ :::
 
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>

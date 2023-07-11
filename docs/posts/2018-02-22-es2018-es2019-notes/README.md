@@ -4,11 +4,11 @@ description: In an e-book, Dr. Axel Rauschmayer details the change in JavaScript
 date: 2018-02-22
 category:
   - Web Fundamentals
-  - Web development
+  - Web Development
 tag:
   - Javascript
-  - ES2018
-  - ES2019
+  - ECMASCRIPT
+  - ECMASCRIPT
 ---
 
 [Check the book out](https://exploringjs.com/es2018-es2019/toc.html).

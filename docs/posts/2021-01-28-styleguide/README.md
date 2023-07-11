@@ -5,7 +5,7 @@ date: 2021-01-28
 heroImage: '/images/2021-01-28-styleguide.jpg'
 heroAlt: A Macintosh computer on a desk
 category:
-  - Web fundamentals
+  - Web Fundamentals
 
 tag:
   - Markdown
@@ -95,8 +95,8 @@ export default uniquePropHOC(['time', 'seconds'])(Expire);
 
 ## Tables
 
-| Col 1 | Col 2           | Col 3                                                |
-| ----- | --------------- | ---------------------------------------------------- |
+| Col 1 | Col 2 | Col 3 |
+| --- | --- | --- |
 | Value | Very long value | So long that it will scroll horizontally? I hope so! |
 
 Check out [the source on GitHub](https://github.com/JeremieLitzler/journal/blob/main/docs/posts/2021-01-28-styleguide/README.md).

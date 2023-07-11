@@ -20,15 +20,14 @@ category:
   - Gardening
 tag:
   - Huw Richards
-  - February
+  - In February
 ---
 
 ![Planting seeds into modules](/images/2023-02-06-plant-seeds-in-modules.jpg 'Credits: image taken from Huw Richards’ vlog')
 
 Even if you know it might be a little too early, it’s hard to resist starting sowing seeds. Huw shares with us what we can sow in February.
 
-Thanks to Huw Richards for sharing his wisdom and knowledge!
-I wrote the following notes watching the video published on Huw Richards’ channel.
+Thanks to Huw Richards for sharing his wisdom and knowledge! I wrote the following notes watching the video published on Huw Richards’ channel.
 
 <!-- more -->
 
@@ -43,11 +42,9 @@ So what can we sow in February safely enough?
 
 ![Jerusalem artichoke sowed in a trench](./images/jerusalem-artichoke-in-a-trench.jpg "They look after themselves very well and they’re frost resistant. Credits: image taken from Huw Richard's vlog")
 
-:::tip Personal note
-Before I begin with Huw's notes, I have to say these are the only vegetables I hate because the smell and taste really put me out. Growing up, we had some (thankfully not too often) but every single time I had to eat some, I almost threw up.
+:::tip Personal note Before I begin with Huw's notes, I have to say these are the only vegetables I hate because the smell and taste really put me out. Growing up, we had some (thankfully not too often) but every single time I had to eat some, I almost threw up.
 
-I know it was what replaced regular potatoes during the last great war, but I'd prefer eating wild plants than this...
-:::
+I know it was what replaced regular potatoes during the last great war, but I'd prefer eating wild plants than this... :::
 
 They’re easy to grow and they grow in the same space year after year.
 
@@ -55,8 +52,7 @@ They do spread and unless you have got limited space, it won't become an issue.
 
 ![Jerusalem artichoke stem with large leaves](./images/jerusalem-artichoke-stem-with-large-leaves.jpg "Credits: image taken from Huw Richard's vlog")
 
-:::tip Personal note
-Even I hate the taste, when I look at the outer plant, I see 2 purposes this crop can:
+:::tip Personal note Even I hate the taste, when I look at the outer plant, I see 2 purposes this crop can:
 
 - produce green material for composting
 - provide food for pollinators as its big yellow is filled with juicy nectar.
@@ -103,17 +99,13 @@ You need to know that bread bean send out a deep root, so if you sow them in mod
 
 ![A broad bean ready to plant](./images/A-broad-bean-ready-to-plant.jpg "A broad bean ready to plant. Credits: image taken from Huw Richard's vlog")
 
-:::tip About field beans
-They’re like a smaller version of a broad bean.
+:::tip About field beans They’re like a smaller version of a broad bean.
 
-They’re also very productive and delicious.
-:::
+They’re also very productive and delicious. :::
 
-:::tip Personal note
-I’m not sure what is _Fèves_ in English. I’m currently growing some, sow last November and again a few weeks ago.
+:::tip Personal note I’m not sure what is _Fèves_ in English. I’m currently growing some, sow last November and again a few weeks ago.
 
-The November ones are out since the end of December and I covered them with a winter cover. See [my gardening journal 2022-2023](../../09/gardening-in-2022-2023/README.md#broad-beans)
-:::
+The November ones are out since the end of December and I covered them with a winter cover. See [my gardening journal 2022-2023](../../09/gardening-in-2022-2023/README.md#broad-beans) :::
 
 ## Alium family
 
@@ -133,9 +125,7 @@ Whatever method you use, pick the one you like and prefer and enjoy the process.
 
 ![Potatoes in the hands of a man](./images/potatoes-in-the-hands-of-a-man.jpg "Yes, it’s now that you can plant them. Credits: image taken from Huw Richard's vlog")
 
-:::warning Potatoes don't like frost
-So make sure you can quickly shelter them if needed.
-:::
+:::warning Potatoes don't like frost So make sure you can quickly shelter them if needed. :::
 
 Huw grows them in containers to start with. He uses a container of 50 liters so it’s more manageable.
 
@@ -145,11 +135,9 @@ After harvest, he reuses the compost for beans or squash
 
 ![Beans climbing a water tank from a container](./images/beans-climbing-a-water-tank-from-a-container.jpg "Credits: image taken from Huw Richard's vlog")
 
-:::tip Personal note
-I will plant some this month and since it’s still quite cool outside, I don't expect them to be out before April or May.
+:::tip Personal note I will plant some this month and since it’s still quite cool outside, I don't expect them to be out before April or May.
 
-Plus, I cover my beds with a 15-20 cm layer of a small dead leaves so they have got a blanket to keep warm.
-:::
+Plus, I cover my beds with a 15-20 cm layer of a small dead leaves so they have got a blanket to keep warm. :::
 
 ## Peppers
 
@@ -172,9 +160,7 @@ My next actions are:
 
 To finish, please consider signing up to my newsletter to receive all the new articles each week.
 
-:::center
-⏬⏬⏬
-:::
+:::center ⏬⏬⏬ :::
 
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>

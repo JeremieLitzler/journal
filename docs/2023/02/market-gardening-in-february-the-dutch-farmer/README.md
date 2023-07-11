@@ -20,15 +20,14 @@ category:
   - Gardening
 tag:
   - The Dutch Farmer
-  - February
+  - In February
 ---
 
 ![Kale in February](/images/2023-02-07-kale-in-february.jpg 'Credits: image taken from The Dutch Farmer’s vlog')
 
 What was true in January is still applicable in February. However, during the month of February, we’re seen at the end of the winter's tunnel. Moreno will go into more depth about Market Gardening for this month.
 
-Thanks to Moreno for sharing his wisdom and knowledge!
-I wrote the following notes watching the video published on The Dutch Farmer’s channel.
+Thanks to Moreno for sharing his wisdom and knowledge! I wrote the following notes watching the video published on The Dutch Farmer’s channel.
 
 <!-- more -->
 
@@ -59,18 +58,15 @@ If you did plant winter crops, you will continue getting the crops, weather-perm
 
 For example, what you planted in August and September last year could still be available for sale.
 
-![Kale in February](/images/2023-02-07-kale-in-february.jpg "Credits: image taken from The Dutch Farmer's vlog")
-Let's take kale: in February, it’s still producing and it’s a hardy (meaning resistant) and it’s the most profitable crop at this time of the year.
+![Kale in February](/images/2023-02-07-kale-in-february.jpg "Credits: image taken from The Dutch Farmer's vlog") Let's take kale: in February, it’s still producing and it’s a hardy (meaning resistant) and it’s the most profitable crop at this time of the year.
 
 Unless you live in a cold climate, where you will need a greenhouse or a polytunnel, then you go for kale next season.
 
 And even if you live in a colder climate, using fleeces (white cover sheet) you can add protection so the crops perform better.
 
-:::warning Be careful of damage to the fleeces
-In fact, if your beds are positioned under trees, the falling branches can damage the fleece that is actually no thicker than toilet paper.
+:::warning Be careful of damage to the fleeces In fact, if your beds are positioned under trees, the falling branches can damage the fleece that is actually no thicker than toilet paper.
 
-In my experience, I think it also depends on the quality of the fleece. I personally use [this fleece for Winter Garden cover](https://amzn.to/3Cwfuoo) which I bought already 2 years ago and this year. It holds very well over time.
-:::
+In my experience, I think it also depends on the quality of the fleece. I personally use [this fleece for Winter Garden cover](https://amzn.to/3Cwfuoo) which I bought already 2 years ago and this year. It holds very well over time. :::
 
 In the vlog, Moreno harvests carrots sowed during the previous summer.
 
@@ -88,15 +84,13 @@ One of our jobs as annual vegetables grower is to bring fertility to our land so
 
 After harvesting the remaining crops and tidying up the beds, you apply a 5 cm layer of compost evenly.
 
-:::warning About not enough broken-down compost
-Moreno showcases a non-mature compost in the vlog.
+:::warning About not enough broken-down compost Moreno showcases a non-mature compost in the vlog.
 
 It contains quite a lot of wood.
 
 It isn’t a problem **as long as it isn’t tilled into the soil**.
 
-If you apply it on the surface, the roots will go down below that compost while it finishes breaking-down.
-:::
+If you apply it on the surface, the roots will go down below that compost while it finishes breaking-down. :::
 
 ![A calf](./images/a-young-calf.jpg "Credits: image taken from The Dutch Farmer's vlog")
 
@@ -131,13 +125,11 @@ It isn’t a must to apply woodchips, but you have them available for free or a 
 
 ## Direct sowing in February
 
-:::warning Be careful: winter ain't over!
-It will depend on where you live, but in a 7B climate, you can still get frost up the first week of May.
+:::warning Be careful: winter ain't over! It will depend on where you live, but in a 7B climate, you can still get frost up the first week of May.
 
 It would be a shame to lose early-sowed crops in one cold night.
 
-Check out the gardening climate using [this link from Gardenia.net](https://www.gardenia.net/guide/european-hardiness-zones).
-:::
+Check out the gardening climate using [this link from Gardenia.net](https://www.gardenia.net/guide/european-hardiness-zones). :::
 
 So what can you plant?
 
@@ -190,13 +182,9 @@ After sowing, place a fleece into the top of small steel wire hoofs
 
 ![Fleece on the steel hoofs](./images/fleece-on-the-steel-hoofs.jpg "Using simple pegs, you will secure the fleece into the ground. It’s really important to do so to make sure the crops survive. Credits: image taken from The Dutch Farmer's vlog")
 
-:::warning Hard Frost
-A very hard frost can kill the seeds even with the fleece. You take a risk by seeding now.
-:::
+:::warning Hard Frost A very hard frost can kill the seeds even with the fleece. You take a risk by seeding now. :::
 
-:::center
-⏬⏬⏬
-:::
+:::center ⏬⏬⏬ :::
 
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>

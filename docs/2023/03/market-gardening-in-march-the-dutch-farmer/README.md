@@ -22,15 +22,14 @@ category:
   - Gardening
 tag:
   - The Dutch Farmer
-  - March
+  - In March
 ---
 
 ![A man in a garden sowing seed on a garden bed](/images/2023-03-06-a-man-in-a-garden-sowing-seed-on-a-garden-bed.jpg 'Credits: image taken from The Dutch Farmer’s vlog')
 
 Spring is here and a lot is happening in the garden: bees are at work, sowing new crops is the main job and overwinters crops are still producing.
 
-Thanks to Moreno for sharing his wisdom and knowledge!
-I wrote the following notes watching the video published on The Dutch Farmer’s channel.
+Thanks to Moreno for sharing his wisdom and knowledge! I wrote the following notes watching the video published on The Dutch Farmer’s channel.
 
 <!-- more -->
 
@@ -56,11 +55,9 @@ Moreno is planting them between a _fence_ of garlic: the strawberries between ev
 
 ![A bed for perennial crops in between 2 rows of garlic](./images/a-bed-for-perrenial-crops-in-between-2-rows-of-garlic.jpg 'Crédits: image extraite du vlog de The Dutch Farmer')
 
-:::tip Personal note
-What I have found about the Alium family is that it’s a great repellant for slugs.
+:::tip Personal note What I have found about the Alium family is that it’s a great repellant for slugs.
 
-I planted my strawberries in the fall of this year, at the same time as the garlic _protecting_ them.
-:::
+I planted my strawberries in the fall of this year, at the same time as the garlic _protecting_ them. :::
 
 ### Peas
 
@@ -93,15 +90,13 @@ They consume the carbon dioxide of the air through the photosynthesis and transf
 
 In return, they give away nutrients that the soil life will consume. Finally, the soil life produces the food for the crops that produce our food.
 
-Tree and their root system can hold 10 times more water than soil with no organic matter.
-It’s really something to take care of because water is a really precious resource.
+Tree and their root system can hold 10 times more water than soil with no organic matter. It’s really something to take care of because water is a really precious resource.
 
 Working with the soil lifecycle, introducing perennial plants and trees is a key way to make sure we can survive on the Earth and take care of it.
 
 Another factor in favor of this is the diversity it brings to the garden. Compared to a single crop field, grown on bare soil, do we see the difference?
 
-::: tip Personal note
-How do I plan for a sustainable garden?
+::: tip Personal note How do I plan for a sustainable garden?
 
 I have added about 10 cm to 15 cm of autumn leaves on all the beds in November and December.
 
@@ -113,8 +108,7 @@ Maybe we may grow more on highly industrialized farms, what about the quality an
 
 Aren't respectful gardening techniques more profitable in the long term even if yields are lower?
 
-==Thinking about it before buying your next carrots from your supermarket or the tomatoes that shouldn’t be available at this time.==
-:::
+==Thinking about it before buying your next carrots from your supermarket or the tomatoes that shouldn’t be available at this time.== :::
 
 See the detailed explanation and point of view from Moreno at [8:10 to 11:00](https://youtu.be/xILmYuRdjUM?t=490)
 
@@ -124,9 +118,7 @@ It allows creative thinking is a key to success.
 
 Moreno is trying out turmeric and ginger!
 
-::: tip Personal note
-I’ve been wanting to try this also! Let’s see how Moreno goes about it.
-:::
+::: tip Personal note I’ve been wanting to try this also! Let’s see how Moreno goes about it. :::
 
 First, start small when experimenting.
 
@@ -168,8 +160,7 @@ Water it so it’s moist but not wet. See Moreno showing the squeeze technique [
 
 ![Large tray of 2 cm hole filled with potting mix](./images/large-tray-of-2-cm-hole-filled-with-potting-mix.jpg 'Crédits: image extraite du vlog de The Dutch Farmer')
 
-:::warning Make to double-check the filling of the side and corner hole.
-:::
+:::warning Make to double-check the filling of the side and corner hole. :::
 
 Once filled, lift and drop from a 25 cm height the tray to compact slightly the medium.
 
@@ -183,14 +174,11 @@ The depth depends on the crops, but usually, for lettuce, 1 cm or 2 cm will suff
 
 Then, sow individually the seeds, add another layer of compost mix to cover the seeds and water a little again.
 
-::: warning Label it and date it
-:::
+::: warning Label it and date it :::
 
-::: tip Personal note
-I use a GLORIA Hobby 100 Pressure Sprayer (available [in France](https://amzn.to/3HDhcaX), [in the UK](https://amzn.to/3PtT1xK); [in the US](https://amzn.to/3HGzSH5), this brand doesn’t seem to be available.).
+::: tip Personal note I use a GLORIA Hobby 100 Pressure Sprayer (available [in France](https://amzn.to/3HDhcaX), [in the UK](https://amzn.to/3PtT1xK); [in the US](https://amzn.to/3HGzSH5), this brand doesn’t seem to be available.).
 
-It’s quite handy as you can adjust the spray finely. Also, it’s sturdier than a bigger version sprayer (not the same brand) of 5 liters capacity. It broke twice after a year :( So I recommend a 1 liter like this Gloria model.
-:::
+It’s quite handy as you can adjust the spray finely. Also, it’s sturdier than a bigger version sprayer (not the same brand) of 5 liters capacity. It broke twice after a year :( So I recommend a 1 liter like this Gloria model. :::
 
 ## Composting
 
@@ -218,8 +206,7 @@ It’s a great to go from:
 - waste to crop production
 - waste to egg production
 
-::: tip Personal note
-You can make all your own compost yourself? Yes, but it will require time and a lot of energy.
+::: tip Personal note You can make all your own compost yourself? Yes, but it will require time and a lot of energy.
 
 The compost need of garden is pretty important and even if you’re quite fit, don’t you need to keep some energy for more important tasks when you could get cheap compost locally?
 
@@ -233,12 +220,9 @@ Companies specialize in producing good compost. Perform a cost analysis before d
 
 You may be surprised.
 
-However, you should make some of your own compost. Simply find the best balance between making it and buying it.
-:::
+However, you should make some of your own compost. Simply find the best balance between making it and buying it. :::
 
-::: center
-⏬⏬⏬
-:::
+::: center ⏬⏬⏬ :::
 
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>

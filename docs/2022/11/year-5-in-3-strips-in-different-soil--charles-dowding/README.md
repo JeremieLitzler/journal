@@ -75,8 +75,8 @@ In the winter and spring months, the strips have:
 - Lettuce
 - Potatoes
 - Broad beans
-- Winter squash
-- Winter salad
+- In Winter squash
+- In Winter salad
 
 In the summer and autumn months, the strips have:
 

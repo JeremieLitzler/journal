@@ -3,8 +3,7 @@ title: A BEM Cheatsheet
 description: 'How does BEM work to structure CSS?'
 date: 2018-02-21
 category:
-  - Web development
-  - Guides
+  - Web Development
 tag:
   - BEM
   - CSS

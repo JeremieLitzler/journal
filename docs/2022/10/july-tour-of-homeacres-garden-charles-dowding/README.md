@@ -21,7 +21,7 @@ category:
 tag:
   - Charles Dowding
   - No Dig
-  - July
+  - In July
   - Compost
 ---
 
@@ -31,9 +31,7 @@ Charles Dowding walks through his new no dig garden, talking about harvests, pes
 
 <!-- more -->
 
-Thanks to Charles Dowding for sharing his wisdom and knowledge!
-I wrote the following notes watching the video published on Charles Dowding's channel.
-You can watch it using [this YouTube link](https://www.youtube.com/watch?v=tzjdcDQ7A8E).
+Thanks to Charles Dowding for sharing his wisdom and knowledge! I wrote the following notes watching the video published on Charles Dowding's channel. You can watch it using [this YouTube link](https://www.youtube.com/watch?v=tzjdcDQ7A8E).
 
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
@@ -54,21 +52,17 @@ Using a plastic cover, most of the former weeds are kept at bay and Charles is n
 
   ![A lot of squash plants covering the soil well](./images/patch-of-squashes.jpg "Credits: image taken from Charles Dowding's vlog")
 
-:::tip Using plastic
-Plastic has its place in gardening.
+:::tip Using plastic Plastic has its place in gardening.
 
 First, you can use it over several years.
 
-Second, it works great to cover a weedy patch.
-:::
+Second, it works great to cover a weedy patch. :::
 
-:::tip About butternut
-Butternut plants need warm to grow well.
+:::tip About butternut Butternut plants need warm to grow well.
 
 That is why the plants below are smaller than the Crow prince above:
 
-![Butternut squash plants](./images/butternut-squash.jpg "Credits: image taken from Charles Dowding's vlog")
-:::
+![Butternut squash plants](./images/butternut-squash.jpg "Credits: image taken from Charles Dowding's vlog") :::
 
 ## Potatoes close to the point of harvest
 
@@ -93,8 +87,7 @@ Yes, the climate in Summerset is probably much more humid than the South of Fran
 
 Charles didn't water the onions by the month of July.
 
-Why are onions not watered?
-Charles waits at the point where it is close to harvest to water them, then getting a nice swell-up of the bulbs.
+Why are onions not watered? Charles waits at the point where it is close to harvest to water them, then getting a nice swell-up of the bulbs.
 
 ![A strip of onions](./images/oinons.jpg "Credits: image taken from Charles Dowding's vlog")
 
@@ -104,8 +97,7 @@ When do we know that onions are ready?
 
 When the stems looks like the picture above, it is a sign the onions are ready.
 
-The bending of the neck is to help the onions to start drying. It will help for storage later on.
-You can just pull the onions off the soil and let them dry for a few days.
+The bending of the neck is to help the onions to start drying. It will help for storage later on. You can just pull the onions off the soil and let them dry for a few days.
 
 ![Drying onions on a pallet-like wood structure to keep onions off the ground after harvesting.](./images/drying-onions.jpg "Credits: image taken from Charles Dowding's vlog")
 
@@ -199,9 +191,7 @@ Picking your tomatoes not fully rip take some stress off the plant, which can fo
 
 And you don't lose flavor from the tomatoes by harvesting them this way.
 
-:::center
-⏬⏬⏬
-:::
+:::center ⏬⏬⏬ :::
 
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>

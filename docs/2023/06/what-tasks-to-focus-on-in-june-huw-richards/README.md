@@ -22,7 +22,7 @@ category:
   - Gardening
 tag:
   - Huw Richards
-  - Month of june
+  - In June
 ---
 
 ![Huw’s garden in June](/images/2023-06-22-huw-s-garden-in-june.jpg 'Credits: image taken from Huw Richards’ vlog')

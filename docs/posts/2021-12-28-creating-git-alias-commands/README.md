@@ -5,7 +5,7 @@ date: 2021-12-28
 ##heroImage: "/images/.jpg"
 ##heroAlt:
 category:
-  - Web development
+  - Web Development
 tag:
   - Git
   - CLI
@@ -13,8 +13,7 @@ tag:
 
 ## What are Git aliases
 
-Have you ever wondered if you could skip typing `git add /path/to/filename && git commit "my message" && git push`?
-That's what git aliases are for.
+Have you ever wondered if you could skip typing `git add /path/to/filename && git commit "my message" && git push`? That's what git aliases are for.
 
 ## How to create an alias
 

@@ -13,7 +13,7 @@ head:
       },
     ]
 category:
-  - Digital business
+  - Digital Business
 ---
 
 ![A laptop and a notebook on a desk](/images/2023-03-30-a-laptop-and-notebook-on-a-desk.jpg 'Photo by [Nick Morrison](https://unsplash.com/@nickmorrison?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/digital-business?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)')

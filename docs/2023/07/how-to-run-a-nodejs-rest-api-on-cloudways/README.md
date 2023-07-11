@@ -53,8 +53,7 @@ You can use the "_Deployment via GIT_" that allow you to pull the code from you 
 
 !["Deployment via GIT" screen](./images/deployment-via-git-screen.jpg)
 
-:::warning For updates
-You will need to use the `pull` button under the Cloudways application.
+:::warning For updates You will need to use the `pull` button under the Cloudways application.
 
 Doing a `git pull` in `applications/your_rest_api/public_html/` will not work.
 
@@ -100,8 +99,7 @@ That's it!
 
 I hope you enjoy this peace. I release a new article once to twice every week. Consider subscribing to my newsletter
 
-:::center ⏬⏬⏬
-:::
+:::center ⏬⏬⏬ :::
 
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>

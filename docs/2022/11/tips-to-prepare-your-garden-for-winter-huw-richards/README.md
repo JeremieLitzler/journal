@@ -19,7 +19,7 @@ category:
   - Gardening
 tag:
   - Huw Richards
-  - Winter
+  - In Winter
 ---
 
 ![Someone Collecting Leaves](/images/2022-11-22-someone-collecting-leaves.jpg 'Collecting leaves forms an important activity in the beginning of winter. Credits: image taken from Huw Richards’s vlog')

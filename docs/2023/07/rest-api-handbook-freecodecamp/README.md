@@ -11,7 +11,7 @@ head:
       },
     ]
 category:
-  - Web development
+  - Web Development
 tag:
   - REST API
   - NodeJS
@@ -25,9 +25,7 @@ I particularly like the folder structure and empahasis on the architecture.
 
 <!-- more -->
 
-:::note Why a copy?
-The original article doesn't provide a table of contents accessible on the side like my blog.
-:::
+:::note Why a copy? The original article doesn't provide a table of contents accessible on the side like my blog. :::
 
 Hi everyone! In this tutorial we're going to take a deep dive into REST APIs.
 
@@ -104,7 +102,7 @@ Our application will have five different layers, which will be ordered in this w
 
 ### Application layers
 
-![image-110](https://www.freecodecamp.org/news/content/images/2023/04/image-110.png "Application layers")
+![image-110](https://www.freecodecamp.org/news/content/images/2023/04/image-110.png 'Application layers')
 
 - The application layer will have the basic setup of our server and the connection to our routes (the next layer).
 - The routes layer will have the definition of all of our routes and the connection to the controllers (the next layer).
@@ -162,7 +160,7 @@ Here we're basically setting up our server and declaring that any request that h
 
 Next, go ahead and create this folder structure in your project:
 
-![image-246](https://www.freecodecamp.org/news/content/images/2023/04/image-246.png "Folder structure")
+![image-246](https://www.freecodecamp.org/news/content/images/2023/04/image-246.png 'Folder structure')
 
 ### Routes
 
@@ -692,7 +690,7 @@ Besides, we have a button to add a new pet and a state that will store the infor
 
 Next, create a `pages` directory with these files in it:
 
-![image-281](https://www.freecodecamp.org/news/content/images/2023/04/image-281.png "Folder structure")
+![image-281](https://www.freecodecamp.org/news/content/images/2023/04/image-281.png 'Folder structure')
 
 ### PetList.jsx
 
@@ -1166,7 +1164,7 @@ As you can see, we're importing the new dependencies, we're creating a `swaggerS
 
 By now, if you open your browser and go to [`http://localhost:3000/api-docs/`](http://localhost:3000/api-docs/) you should see this:
 
-![image-325](https://www.freecodecamp.org/news/content/images/2023/04/image-325.png "Documentation UI")
+![image-325](https://www.freecodecamp.org/news/content/images/2023/04/image-325.png 'Documentation UI')
 
 The cool thing about Swagger is it provides an out-of-the-box UI for our docs, and you can easily access it in the URL path declared in the config.
 
@@ -1341,15 +1339,15 @@ All comments are more or less the same except the first one. In that one we're d
 
 If you enter [`http://localhost:3000/api-docs/`](http://localhost:3000/api-docs/) again, you should now see this:
 
-![image-327](https://www.freecodecamp.org/news/content/images/2023/04/image-327.png "Documentation UI")
+![image-327](https://www.freecodecamp.org/news/content/images/2023/04/image-327.png 'Documentation UI')
 
 Each of the endpoints can be expanded, like this:
 
-![image-328](https://www.freecodecamp.org/news/content/images/2023/04/image-328.png "Documentation UI")
+![image-328](https://www.freecodecamp.org/news/content/images/2023/04/image-328.png 'Documentation UI')
 
 And if we click the "Try it out" button, we can execute an HTTP request and see what the response looks like:
 
-![image-329](https://www.freecodecamp.org/news/content/images/2023/04/image-329.png "Documentation UI")
+![image-329](https://www.freecodecamp.org/news/content/images/2023/04/image-329.png 'Documentation UI')
 
 This is really useful for developers in general and people who want to work with our API, and very easy to set up as you can see.
 
@@ -1361,6 +1359,4 @@ As always, I hope you enjoyed the handbook and learned something new. If you wan
 
 See you in the next one!
 
-:::tip Learn to code for free.
-freeCodeCamp's open source curriculum has helped more than 40,000 people get jobs as developers. [Get started](https://www.freecodecamp.org/learn/)
-:::
+:::tip Learn to code for free. freeCodeCamp's open source curriculum has helped more than 40,000 people get jobs as developers. [Get started](https://www.freecodecamp.org/learn/) :::
