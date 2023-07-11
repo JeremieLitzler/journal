@@ -1,5 +1,5 @@
 ---
-title: Growth differences in three strips of different soil treatment, year five, by Charles Dowding
+title: Growth differences in three strips of different soil treatment, year five, with Charles Dowding
 description: "I wrote the following notes watching the video published on Charles Dowding's channel"
 date: 2022-11-03
 heroImage: '/images/2022-11-03-aerial-view-of-homeacre-garden-with-the-title-of-the-vlog-hero.jpg'
@@ -15,7 +15,7 @@ head:
       meta,
       {
         rel: canonical,
-        href: https://iamjeremie.me/2022/11/year-5-in-3-strips-in-different-soil--charles-dowding,
+        href: https://iamjeremie.substack.com/p/year-5-in-3-strips-experiment-charles-dowding,
       },
     ]
 category:
