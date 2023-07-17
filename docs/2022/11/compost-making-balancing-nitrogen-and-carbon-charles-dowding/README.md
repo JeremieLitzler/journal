@@ -1,5 +1,5 @@
 ---
-title: Compost Making, balancing green & brown or nitrogen & carbon, by Charles Dowding
+title: Compost is balancing green & brown, with Charles Dowding
 description: "Successful compost can be summarized by a good a good balance of green or brown. Let's review the must-know with Charles."
 date: 2022-11-04
 heroImage: '/images/2022-11-04-aerial-view-of-charles-garden-as-he-walks-to-the-compost-heap.jpg'
@@ -12,7 +12,7 @@ head:
       meta,
       {
         rel: canonical,
-        href: https://iamjeremie.me/2022/11/compost-making-balancing-nitrogen-and-carbon-charles-dowding,
+        href: https://iamjeremie.substack.com/p/compost-is-balancing-green-brown-charles-dowding,
       },
     ]
 category:
