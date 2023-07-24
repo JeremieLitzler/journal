@@ -15,7 +15,7 @@ head:
       meta,
       {
         rel: canonical,
-        href: https://iamjeremie.me/2022/11/no-dig-less-compost-great-plants-clean-soil-charles-dowding,
+        href: https://iamjeremie.substack.com/p/no-dig-less-compost-great-plants-charles-dowding,
       },
     ]
 category:
@@ -30,9 +30,7 @@ tag:
 
 Starting "No Dig" doesn’t necessarily mean requiring loads of compost.
 
-Thanks to Charles Dowding for sharing his wisdom and knowledge!
-I wrote the following notes watching the video published on Charles Dowding’s channel.
-You can watch it using [this YouTube link](https://www.youtube.com/watch?v=IC6OBOyQ0mY).
+Thanks to Charles Dowding for sharing his wisdom and knowledge! I wrote the following notes watching the video published on Charles Dowding’s channel. You can watch it using [this YouTube link](https://www.youtube.com/watch?v=IC6OBOyQ0mY).
 
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
@@ -61,8 +59,7 @@ How? With all the dead weed roots left in the soil, you find out that air is pre
 
 In the scenario that Charles showcased in the vlog, I’d say he uses about 2 to 3 cm of compost on top of the usual cardboard.
 
-When it comes to grow a lot more vegetables, you will need more compost indeed.
-However, because you need less ground to grow your vegetables, you will need less compost.
+When it comes to grow a lot more vegetables, you will need more compost indeed. However, because you need less ground to grow your vegetables, you will need less compost.
 
 ## My plan
 
@@ -74,9 +71,7 @@ One ton of that compost will equal to 2000 liters. The equivalent surface area r
 
 Then remember that the vegetables you grow will produce waste that you can compost to make your own compost.
 
-:::center
-⏬⏬⏬
-:::
+:::center ⏬⏬⏬ :::
 
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>

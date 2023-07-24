@@ -1,21 +1,18 @@
 ---
 title: Making compost in 7 heaps in 2019, by Charles Dowding
-description: "No dig, is greatfor growing wonderful healthy plants, giving lots of growth and a high efficiency of output per time invested."
+description: "No dig, is great for growing wonderful healthy plants, giving lots of growth and a high efficiency of output per time invested."
 date: 2022-11-06
 heroImage: '/images/2022-11-06-making-compost-charles-explains-his-7-heaps-2019-charles-dowding-hero.jpg'
 heroAlt: View of the main heaps of Homeacre
 prev:
   text: "See all my notes from Charles Dowding's vlogs"
   link: ../../../tag/charles-dowding/
-#next:
-#  text: ''
-#  link: ..//README.md
 head:
   - [
       meta,
       {
         rel: canonical,
-        href: url,
+        href: https://iamjeremie.substack.com/p/making-compost-in-7-heaps-charles-dowding,
       },
     ]
 category:
@@ -28,11 +25,9 @@ tag:
 
 ![View of the main heaps of Homeacre](/images/2022-11-06-making-compost-charles-explains-his-7-heaps-2019-charles-dowding-hero.jpg 'Credits: image taken from Charles Dowding’s vlog')
 
-No dig, is greatfor growing wonderful healthy plants, giving lots of growth and a high efficiency of output per time invested.
+No dig, is great for growing wonderful healthy plants, giving lots of growth and a high efficiency of output per time invested.
 
-Thanks to Charles Dowding for sharing his wisdom and knowledge!
-I wrote the following notes watching the video published on Charles Dowding's channel.
-You can watch it using [this YouTube link](https://www.youtube.com/watch?v=TeBUX9iEFwg).
+Thanks to Charles Dowding for sharing his wisdom and knowledge! I wrote the following notes watching the video published on Charles Dowding's channel. You can watch it using [this YouTube link](https://www.youtube.com/watch?v=TeBUX9iEFwg).
 
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
