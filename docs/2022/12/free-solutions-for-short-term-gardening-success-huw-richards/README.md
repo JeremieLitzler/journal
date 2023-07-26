@@ -113,7 +113,7 @@ Using comfrey again, you make your own within 2 or 3 weeks.
 
 ![A patch of nettles](./images/a-patch-of-nettles.jpg 'Nettle make a good liquid feed. Credits: image taken from Huw Richard’s vlog')
 
-See [this article](../2022-11-24-easy-low-cost-plant-feed-to-boost-vegetables-huw-richards/README.md) for a detail explanation about liquid feed.
+See [this article](../../11/easy-low-cost-plant-feed-to-boost-vegetables-huw-richards/README.md) for a detail explanation about liquid feed.
 
 The result will stink, but it is fine. Your plant will thank you for it!
 

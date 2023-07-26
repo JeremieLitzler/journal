@@ -38,7 +38,7 @@ Thanks to The Dutch Farmer for sharing his wisdom and knowledge! I wrote the fol
 
 ![Breaking down last year's garlic heads](./images/september-preparing-many-cloves.jpg "Credits: image taken from The Dutch Farmer's vlog.")
 
-From your best garlic heads from last harvest (or **[from your organic store](../2022-09-22-supermarket-garlic-for-seed-charles-dowding/README.md)**), break down the garlic into individual cloves.
+From your best garlic heads from last harvest (or **[from your organic store](../supermarket-garlic-for-seed-charles-dowding/README.md)**), break down the garlic into individual cloves.
 
 ### October 25: planting
 
@@ -64,7 +64,7 @@ From your best garlic heads from last harvest (or **[from your organic store](..
 
 Around the beginning of the summer (end of June in the northern atmosphere), the garlic should be ready to harvest.
 
-See [how to judge the readiness of garlic](../../2022/09/how-to-judge-the-readiness-of-garlic-charles-dowding/README.md).
+See [how to judge the readiness of garlic](../how-to-judge-the-readiness-of-garlic-charles-dowding/README.md).
 
 ![Harvesting garlic](./images/june-27-harvest.jpg)
 

@@ -94,7 +94,7 @@ With grass clippings, it simply won’t. The grass captures the water and slows 
 
 ## JADAM liquid solution from grass clippings
 
-Read all about JADAM in [these notes I took from another vlog from Huw](../2022-11-24-easy-low-cost-plant-feed-to-boost-vegetables-huw-richards/README.md).
+Read all about JADAM in [these notes I took from another vlog from Huw](../easy-low-cost-plant-feed-to-boost-vegetables-huw-richards/README.md).
 
 ![JADAM book](./images/jadam-book.jpg 'The book of Youngsan Cho details the method of JADAM organic farming. Credits: image taken from Huw Richard’s vlog')
 
@@ -123,7 +123,7 @@ The procedure is simple:
 
 :::
 
-Two weeks after, you can use the JADAM liquid in a 1:30 ratio. As it ages, it gets better and therefore, you will need to adjust the ratio: see [the details here](../2022-11-24-easy-low-cost-plant-feed-to-boost-vegetables-huw-richards/README.md#dilution-ratio).
+Two weeks after, you can use the JADAM liquid in a 1:30 ratio. As it ages, it gets better and therefore, you will need to adjust the ratio: see [the details here](../easy-low-cost-plant-feed-to-boost-vegetables-huw-richards/README.md#dilution-ratio).
 
 The interesting thing is that you can top up with water the container for years while you keep the solids in. Adding additional organic matter of the same plant (in this case grass clippings) is also an option as the original matter has decomposed.
 

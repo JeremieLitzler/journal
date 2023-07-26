@@ -29,9 +29,7 @@ tag:
 
 Having enough compost can challenge any gardener. Let’s what Huw what it suggests to do.
 
-Thanks to Huw Richards for sharing his wisdom and knowledge!
-I wrote the following notes watching the video published on Huw Richards’s channel.
-You can watch it using [this YouTube link](https://www.youtube.com/watch?v=HzonE2AmGmw).
+Thanks to Huw Richards for sharing his wisdom and knowledge! I wrote the following notes watching the video published on Huw Richards’s channel. You can watch it using [this YouTube link](https://www.youtube.com/watch?v=HzonE2AmGmw).
 
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
@@ -54,8 +52,7 @@ But simply said, compost is old plants decomposed.
 
 This is what Huw calls _Chop, Move and Drop_.
 
-![Comfrey at the foot of a tomato plant](./images/trick-3-chop-take-drop.jpg 'Easy and simple. Credits: image taken from Huw Richard’s vlog')
-For example, if you grow comfrey (which is a great and easy green material you need in your garden), chop it down, take it and apply it over the beds.
+![Comfrey at the foot of a tomato plant](./images/trick-3-chop-take-drop.jpg 'Easy and simple. Credits: image taken from Huw Richard’s vlog') For example, if you grow comfrey (which is a great and easy green material you need in your garden), chop it down, take it and apply it over the beds.
 
 ## Trick 4: Use grass clippings before it turns to compost
 
@@ -63,8 +60,7 @@ For example, if you grow comfrey (which is a great and easy green material you n
 
 It’s like [trick 3](#trick-3-compost-directly-on-the-beds), but, in this case, you need to apply it in a thin layer (2 cm to 3 cm) to avoid rotting.
 
-:::warning About grass clippings
-Be careful to put on grass clipping to avoid:
+:::warning About grass clippings Be careful to put on grass clipping to avoid:
 
 > Sowing a lawn…
 >
@@ -74,9 +70,7 @@ Be careful to put on grass clipping to avoid:
 
 It helps retaining moisture to keep the plants and the soil life alive.
 
-:::warning About slugs
-If you have a lot of slugs, use 1 cm layer of grass clippings. Otherwise, they will hide under it and feast on your vegetables.
-:::
+:::warning About slugs If you have a lot of slugs, use 1 cm layer of grass clippings. Otherwise, they will hide under it and feast on your vegetables. :::
 
 ## Trick 5: JADAM microbial solution
 
@@ -140,14 +134,12 @@ You can make some from:
 
 To make it, check his details vlogs on the topic:
 
-- [EASY Low-Cost Plant Feed to Boost Crop Yields & Health](../../../posts/2022-11-24-easy-low-cost-plant-feed-to-boost-vegetables-huw-richards/README.md)
+- [EASY Low-Cost Plant Feed to Boost Crop Yields & Health](../easy-low-cost-plant-feed-to-boost-vegetables-huw-richards/README.md)
 - [GRASS - The Most Valuable FREE Resource for Growing Food](https://www.youtube.com/watch?v=FcmR8KbJzH8)
 
 ![Leaf mold on top of some green leaves soaked in water](./images/trick-7-starting-point.jpg 'Leaf mold gathered locally will contain microbes that suits best in your garden. Credits: image taken from Huw Richard’s vlog')
 
-:::center
-⏬⏬⏬
-:::
+:::center ⏬⏬⏬ :::
 
 <!-- markdownlint-disable MD033 -->
 <p class="newsletter-wrapper"><iframe class="newsletter-embed" src="https://iamjeremie.substack.com/embed" frameborder="0" scrolling="no"></iframe></p>
