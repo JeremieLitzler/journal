@@ -11,7 +11,7 @@ const publishDateFormatted = new Intl.DateTimeFormat("en-US", {
 
 import { hopeTheme } from 'vuepress-theme-hope'
 
-import { enNavBarConfig, frNavBarConfig } from "./configs/navbar";
+import { enNavBarConfig } from "./configs/navbar";
 
 export default hopeTheme({
     //path.resolve(__dirname, './theme'),
@@ -34,11 +34,6 @@ export default hopeTheme({
         sidebar: false, 
         headerDepth: 3,
       },
-      '/fr/': {
-        navbar: frNavBarConfig,
-        sidebar: false,
-        headerDepth: 3,
-      } 
     },
     displayFooter: true,
     footer: `GPLv3 Licensed | <a href="https://iamjeremie.me/page/terms" title="Read terms and conditions of this website">Terms</a> | v${version} published on ${publishDateFormatted}`,

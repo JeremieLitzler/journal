@@ -22,4 +22,5 @@ export const enNavBarConfig = navbar([
   },
   { text: 'Sponsor', link: '/page/sponsor-me/' },
   { text: 'Contact', link: '/page/contact-me/' },
+  { text: 'Mon blog en français', link: 'http://jeremielitzler.fr/' },
 ]);
