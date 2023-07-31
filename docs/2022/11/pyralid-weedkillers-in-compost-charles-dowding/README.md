@@ -7,15 +7,12 @@ heroAlt: Homeacre garden in July 2019
 prev:
   text: "See all my notes from Charles Dowding's vlogs"
   link: ../../../tag/charles-dowding/
-#next:
-#  text: ''
-#  link: ..//README.md
 head:
   - [
       meta,
       {
         rel: canonical,
-        href: https://iamjeremie.me/2022/11/pyralid-weedkillers-in-compost-charles-dowding,
+        href: https://iamjeremie.substack.com/p/pyralid-weedkillers-in-compost-charles-dowding,
       },
     ]
 category:
